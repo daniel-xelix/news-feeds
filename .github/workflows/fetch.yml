@@ -5,6 +5,9 @@ on:
     - cron: "7 5 * * *"    # 05:07 UTC, ahead of the 06:47 London daily briefing
     - cron: "7 15 * * *"   # 15:07 UTC, ahead of the Friday weekly briefing
   workflow_dispatch:
+  push:                    # re-fetch whenever code or sources change
+    branches: [main]
+    paths-ignore: ["feeds/**", "README.md"]
 
 permissions:
   contents: write
