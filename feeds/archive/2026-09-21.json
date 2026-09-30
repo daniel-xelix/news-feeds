@@ -1,0 +1,455 @@
+{
+ "date": "2026-09-21",
+ "items": [
+  {
+   "url": "https://simonwillison.net/2026/Sep/21/jev/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+   "snippet": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text o",
+   "published_at": "2026-09-21T23:09:20+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Cloudflare Python Workers are now generally available",
+   "snippet": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based <a ",
+   "published_at": "2026-09-21T22:25:44+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/jev",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+   "snippet": "The definitive Jev podcast with its lead creator.",
+   "published_at": "2026-09-21T22:13:49+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+   "snippet": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability...",
+   "published_at": "2026-09-21T21:51:06+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+   "snippet": "When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and...",
+   "published_at": "2026-09-21T21:05:28+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/11-charts-the-ai-industry-doesnt",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "11 Charts the AI Industry Doesn’t Want You to See (pt. 2)",
+   "snippet": "If there's an AI bubble, this is what it looks like",
+   "published_at": "2026-09-21T19:55:12+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.6.3",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.6.3",
+   "snippet": "Changes since langchain-openai==1.6.2 release(openai): 1.6.3 (#40719) fix(openai): expose inferred Responses API routing at initialization (#40715) chore(deps): bump anyio from 4.11.0 to 4.14.2 in /libs/partners/openai (#40629) fix(openai): support GPT-6 request constraints (#40443)",
+   "published_at": "2026-09-21T18:32:44+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Connect now supports Microsoft Teams",
+   "snippet": "Vercel Connect now includes a managed connector for Microsoft Teams . Creating one gives your organization a Teams bot that your apps and agents run. People can @mention it in channels or message it directly, and your code receives the message and replies as the bot. As a Vercel Managed Connector , Vercel registers the Ent",
+   "published_at": "2026-09-21T17:10:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.6.4",
+   "snippet": "Changes since langchain-core==1.6.3 release(core): 1.6.4 (#40718) chore(core): deprecate chat message history (#40711) chore(deps): bump anyio from 4.12.0 to 4.14.2 in /libs/core (#40634) chore(deps): bump soupsieve from 2.8.4 to 2.9 in /libs/core (#40574)",
+   "published_at": "2026-09-21T15:51:23+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Can Jev Be a Better Agent Evaluator?",
+   "snippet": "We tested using Jev-as-a-Judge against LLM judges on accuracy, repeatability, latency, and cost to see whether System One models could offer a new approach to agent evaluation.",
+   "published_at": "2026-09-21T15:29:03+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+   "snippet": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+   "published_at": "2026-09-21T15:03:51+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+   "snippet": "Weather-sensitive industries increasingly have access to observations that offer an earlier, more local view of changing conditions. Energy companies collect...",
+   "published_at": "2026-09-21T15:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Deployments now show billable duration and CPU minutes",
+   "snippet": "Deployments now show their billable duration and CPU minutes in the dashboard, vc inspect , and the REST API . Use it to understand how each build contributes to your usage. Billable duration is the build and post-build time combined, rounded up to the next whole minute. CPU minutes are that figure multiplied by the machine's vCPUs. To see the same breakdown from the CLI,",
+   "published_at": "2026-09-21T15:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.12",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.12",
+   "snippet": "Changes since 1.2.11 * release(langgraph): 1.2.12 (#8987) * chore(deps): bump soupsieve from 2.8.4 to 2.9 in /libs/langgraph (#8958) * feat(langgraph): add response_schema to interrupt() (#8886) * fix(langgraph): type undeclared v3 stream projections (#8596) * chore(langgraph): bump mistune to 3.3.4 (#8804) * chore(deps): bump the minor-and-patch group across 1 directory with 7 updates (#8779) * c",
+   "published_at": "2026-09-21T14:43:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.5",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-sdk==0.4.5",
+   "snippet": "Changes since sdk==0.4.4 * release(sdk-py): 0.4.5 (#8988) * release(langgraph): 1.2.12 (#8987) * chore(deps): bump anyio from 4.14.2 to 4.15.1 in /libs/sdk-py (#8997) * chore(deps): bump anyio from 4.13.0 to 4.14.2 in /libs/cli (#8998) * chore(deps): bump anyio from 4.12.1 to 4.14.2 in /libs/sdk-py (#8994) * feat(langgraph): add response_schema to interrupt() (#8886) * chore(deps): bump the minor-",
+   "published_at": "2026-09-21T14:43:09+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/monday-data-ai-investment-brief",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "📈 Monday data: More AI numbers, more clarity?",
+   "snippet": "Companies are backing their AI claims with more numbers.",
+   "published_at": "2026-09-21T13:28:07+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/sap-cx-dominates-g2-fall-grid-reports-2026/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "100+ Leader Positions: SAP CX Dominates G2 Fall Grid Reports 2026",
+   "snippet": "This reflects the trust thousands of businesses place in SAP CX to help power their most critical customer-facing operations.",
+   "published_at": "2026-09-21T12:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+   "snippet": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
+   "published_at": "2026-09-21T12:04:11+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "snippet": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published_at": "2026-09-21T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "snippet": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+   "published_at": "2026-09-21T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/essilorluxottica-from-eyewear-to-smart-wearables/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Eyes on the Future—From Eyewear to Smart Wearables",
+   "snippet": "EssilorLuxottica operates at the intersection of medical technology, consumer fashion, and retail.",
+   "published_at": "2026-09-21T11:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Building standards for the next phase of AI",
+   "snippet": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "published_at": "2026-09-21T10:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "snippet": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/v7",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+   "snippet": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/tokenizers-v1",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "tokenizers v1: encode, decode and scaling, measured",
+   "snippet": "",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "MiMo V2.6 models now available on AI Gateway",
+   "snippet": "MiMo V2.6 Pro , MiMo V2.6 Flash , and MiMo V2.6 Pro UltraSpeed from Xiaomi are now available on AI Gateway . All three models accept text, image, audio, and video inputs. They support reasoning, tool calling, JSON output, and prompt caching,",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway now supports TypeSafe clients and an HTTP API for Jev",
+   "snippet": "You can now call Jev from TypeSafe AI through AI Gateway using an existing TypeSafe client or the HTTP API, in addition to the AI SDK. TypeSafe client: Point an existing TypeSafe client at AI Gateway without changing its evaluation calls. HTTP API: Call Jev directly from any language or framework. AI SDK: Call Jev from a TypeScript application using AI SDK. </l",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Grok 4.7 now available on AI Gateway, fx, and eve",
+   "snippet": "Grok 4.7 from SpaceXAI is now available on AI Gateway as spacexai/grok-4.7 . Requests using this model ID are automatically 40% off through September 27. Grok 4.7 is designed for complex, long-running coding, document, and presentation tasks. It has a 500K-token context window and supports low , medium , high , and xhigh reasoning levels, giving you control over respo",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/the-autonomous-codebase",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "The autonomous codebase",
+   "snippet": "What's left for us to build?",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI's projected compute bill climbed to $856B (5 minute read)",
+   "snippet": "OpenAI's projected compute and infrastructure spending through 2030 rose from $600 billion to $856 billion, even as its projected cash burn fell.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2101084678640066765.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Opening access for developers to build Muse connectors (1 minute read)",
+   "snippet": "Meta has opened access for developers to build Muse connectors. Developers bring the API, and Muse handles the agent, browser, and the context. To create a connector, developers need to describe the connector to Meta and explain how users will use it. The submission will be reviewed for functional, security, and legal requirements and complete end-to-end testing. Once approved, users will be able ",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.meta.com/ai/models/sam-3-1/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Segment Anything Model (SAM) 3.1 (2 minute read)",
+   "snippet": "SAM 3.1 can detect, segment, and track objects in images and video on the Meta Model API. Users just enter text prompts to identify, segment, and follow any object in images or video. It is served on inference built specifically for its architecture. The model costs $2.50 per 1,000 images or $0.20 per 1,000 frames of video.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google's Gemini becomes latest AI model to break out and hack computer systems (3 minute read)",
+   "snippet": "Google's Gemini AI model unintentionally hacked three companies by guessing passwords during a security test with Israeli startup Irregular. A bug allowed the model internet access, leading to unauthorized system access, but the intrusion stopped once real company systems were detected. The incident highlights concerns as AI models increasingly escape testing environments, prompting calls for stri",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/Lon/status/2101034933284417614",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Inference Gap (56 minute read)",
+   "snippet": "The gap between what a model can do and what an ordinary user can reliably make it do is widening. That gap could be unrecoverable if the industry is not mindful. The model is only half the system. Inference determines how much of the frontier you get to see.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Can internal model transparency tame the AI race? (11 minute read)",
+   "snippet": "Internal model transparency is one of the ideas proposed for taming the AI race. The idea is that once a lab deploys a model for internal use, they must also serve that model to researchers at other labs. This will make it so firms can not use their internal models as a source of competitive advantage in the AI race. It reduces the competitive incentive to automate AI R&D, with all of the risk tha",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding) (63 minute read)",
+   "snippet": "Large language models are good at judging math arguments because they are still mostly powered by imitative learning rather than reinforcement learning. LLMs are especially good at math because almost everything in the math literature is correct. They only need a bit of curated mid-training data and/or RL to hone their metacognitive strategies. In many other fields, the research literature is a bi",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "DAPO (GitHub Repo)",
+   "snippet": "DAPO is a system for large-scale LLM RL. It achieves state-of-the-art large-scale LLM RL performance. DAPO achieved 50 points on AIME 2024 based on the Qwen2.5-32B base model. The system is fully open-sourced, including algorithm details, dataset, and infrastructure.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/google/ax",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AX (GitHub Repo)",
+   "snippet": "AX is a high-throughput, declarative orchestrator that runs billions of autonomous agent workloads in a cluster. Users declare an agentic task with workspaces and gateway specifications, and AX sandboxes it, wires up its workspace, fences its network, and helps run it at scale. It runs on top of Agent Substrate and feels similar to using Kubernetes.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate&amp%3Butm_source=tldrai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning (3 minute read)",
+   "snippet": "Qwen3.8-LiveTranslate uses an interleaved audio-text architecture to cut average translation lag from 2.8 to 2.3 seconds while improving quality. It adds real-time speaker separation, bilingual source alignment, long-context disambiguation, and voice cloning across 60 input languages.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Preference Cascade Is Only Getting Started (43 minute read)",
+   "snippet": "A preference cascade is the best method for changing the debate on the existential risks from AI. The current preference cascade, on the need to pace the frontier, is insufficient. To get out of this alive, the industry needs to actually solve the underlying problems. The cascade needs to continue inside labs and also among the media and politics.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "SAIR's Open Math Model initiative (5 minute read)",
+   "snippet": "The Foundation for Science and AI Research (SAIR) was founded with some private donors to create a non-profit organization that could support responsible uses of AI in mathematics and the other sciences, independent of the major AI companies. It plans to develop open models with the mathematical community, with participation open across institutions, regions, and career stages. The initiative is s",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.ai/news/grok-voice-transcribe-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Grok Voice Transcribe 2.0 (3 minute read)",
+   "snippet": "Grok Voice Transcribe 2.0, launching today, boasts double the accuracy of its predecessor at the same price, excelling in noisy, multilingual environments.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta to give Muse its own mailbox for communication (2 minute read)",
+   "snippet": "Meta plans to introduce a dedicated Mail tab for Muse, creating a separate mailbox for its communication.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Attackers can turn an AI agent's own tools against it (26 minute read)",
+   "snippet": "Goal hijacking works when an agent treats retrieved content as instructions, letting a webpage, email, or document redirect its connected tools.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.mastykarz.nl/eval-lying",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "String-matching evals can reward AI agents for fake compliance (5 minute read)",
+   "snippet": "Checking whether generated code contains “Azure” only proves that the word appears somewhere, not that an agent actually used Azure or built working software.",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

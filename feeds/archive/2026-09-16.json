@@ -1,0 +1,335 @@
+{
+ "date": "2026-09-16",
+ "items": [
+  {
+   "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+   "snippet": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in...",
+   "published_at": "2026-09-16T23:20:33+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.22",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.22",
+   "snippet": "## What's Changed ### Features - Support aliases as connection identifiers - Record reasons for deployment creation failures - Collect human feedback and pause events in tracing - Add `llm_overlay` context variable to route agent roles to models - Carry `task_prompt` and output in agent execution payloads - Validate platform integrations during crew setup - Add platform tools to JSON crew wizard -",
+   "published_at": "2026-09-16T22:09:58+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+   "snippet": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through...",
+   "published_at": "2026-09-16T20:37:07+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.19.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.19.0",
+   "snippet": "## 1.19.0 (2026-09-16) ## What's Changed ### Features * feat: scope an agent profile to specific MCP servers by @simonrosenberg in https://github.com/OpenHands/OpenHands/pull/17289 * feat: add GPT-6 Astra model support by @neubig in https://github.com/OpenHands/OpenHands/pull/17164 * feat: track authenticated Canvas arrivals by @neubig in https://github.com/OpenHands/OpenHands/pull/17083 * feat: s",
+   "published_at": "2026-09-16T19:24:24+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+   "source": "Krebs on Security",
+   "weight": 1.0,
+   "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+   "snippet": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement off",
+   "published_at": "2026-09-16T18:14:22+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/aiuc",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+   "snippet": "We sit down with AIUC’s CEO on their Series A!",
+   "published_at": "2026-09-16T18:07:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Hobby projects now retain fewer deployments to free up storage",
+   "snippet": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so dormant projects stop holding storage that your active project",
+   "published_at": "2026-09-16T18:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.29",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.29",
+   "snippet": "- Queued messages can now be sent into the running turn with Enter. While the agent is working, pressing Enter with an empty composer steers the first message in the queue, so it is picked up at the next turn boundary instead of waiting for the whole task to finish; the composer placeholder says so whenever the queue is non-empty. The queue head is claimed atomically, so a fast second Enter can't ",
+   "published_at": "2026-09-16T17:21:06+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.4.1",
+   "snippet": "Changes since langchain==1.4.0 release(langchain): 1.4.1 (#40498) fix(langchain): preserve open MCP object arguments (#40414) fix(langchain): correct `InterruptOnConfig` documentation (#40140)",
+   "published_at": "2026-09-16T17:07:03+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Our framework for reporting model misalignment",
+   "snippet": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "published_at": "2026-09-16T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Secure Compute and Static IP builds start 64% faster",
+   "snippet": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with your network configuration attached when the buil",
+   "published_at": "2026-09-16T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Mem0 joins the Vercel Marketplace",
+   "snippet": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separate account or key management. A scoped Mem0 project and",
+   "published_at": "2026-09-16T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+   "snippet": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to...",
+   "published_at": "2026-09-16T16:28:59+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Helping older adults use AI in everyday life",
+   "snippet": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+   "published_at": "2026-09-16T16:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/videoarticle/3594/how-iso-data-compliance-can-help-unlock-greater-revenue-growth",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How ISO Data Compliance Can Help Unlock Greater Revenue Growth",
+   "snippet": "Discussed in this virtual interview is the development of data within ISO20022, providing insights into how to generate revenue in the process of compliance.",
+   "published_at": "2026-09-16T16:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
+   "snippet": "Agent programs in healthcare and life sciences are being built under a different set of constraints than those in most industries. There’s plenty of upside if the constraints can be resolved. Success can mean hours of manual review compressed into minutes, data spread across a dozen systems finally queryable in one place, and clinicians getting time back from documentation. At the same time, the c",
+   "published_at": "2026-09-16T15:55:03+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Reimagining advertising with AI",
+   "snippet": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+   "published_at": "2026-09-16T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/daikin-people-centric-erp-transformation-disconnected-to-autonomous/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "From Disconnected to Autonomous: Daikin’s People-Centric ERP Transformation",
+   "snippet": "Daikin’s story is about more than just an overdue technology upgrade. The company’s end goal was anchored around the employees and end customers: How can...",
+   "published_at": "2026-09-16T12:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Muse review: The personal AI agent that gets consumer UX right",
+   "snippet": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
+   "published_at": "2026-09-16T12:02:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/hex-gpt-6-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+   "snippet": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+   "published_at": "2026-09-16T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How to connect AI usage to business value",
+   "snippet": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+   "published_at": "2026-09-16T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/sap-ariba-spend-analysis-and-insights-now-available/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "New SAP Ariba Spend Analysis and Insights Solution Now Available",
+   "snippet": "Procurement’s mandate has expanded. Its data foundation needs to expand with it.",
+   "published_at": "2026-09-16T11:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+   "snippet": "congrats to TypeSafe!",
+   "published_at": "2026-09-16T11:09:53+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.getdx.com/p/your-agent-doesnt-have-a-model-problem",
+   "source": "Engineering Enablement (DX)",
+   "weight": 1.1,
+   "title": "Your agent doesn't have a model problem",
+   "snippet": "The context problems humans have been quietly fixing for decades and what happens when agents inherit them.",
+   "published_at": "2026-09-16T10:03:38+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How workers are unlocking new ways of working",
+   "snippet": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+   "published_at": "2026-09-16T09:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+   "snippet": "Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is both token-inefficient and counterproductive—irrelevant context degrades generat",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+   "snippet": "Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data discovery, access control, and regulatory compliance. We present Glyph, a production system that frames two coupled problems, column description generation and column type annotation for",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+   "snippet": "Diffusion large language models are a compelling alternative to autoregressive models, yet existing RL methods for diffusion treat all denoising steps as equally important and rely on biased, high-variance likelihood estimates. We identify two fundamental weaknesses: the absence of temporal credit assignment across the denoising trajectory, and the systematic bias of mean-field likelihood estimate",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Migrating from closed to open source models, Together",
+   "snippet": "Moving from closed to open source models can take weeks, not years. A five-stage playbook: discover, evaluate, adapt, decide, and production.",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "TypeSafe AI's Jev now available on AI Gateway",
+   "snippet": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in parallel",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/is-agentic-report-categories",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Is Agentic now tailors its audit by site type",
+   "snippet": "Is Agentic reports now let you view your checks through one of four site types: Docs & content, Business, App, or Commerce. For example, the Commerce view highlights payment and checkout standards like x402, UCP, and ACP, while the App view highlights API discovery, authentication, error handling, and SDK support. Your score stays the same in every view, and you can change views on an existing rep",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/agentic-batch-changes-pricing",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Coding agents usually can't price on outcomes. Ours can.",
+   "snippet": "Agentic Batch Changes is now available, and we price it on outcomes: you only pay for changesets that merge.",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/sast-vs-llm-security-scanner/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "When to use SAST versus an LLM security scanner",
+   "snippet": "You're probably running some version of this experiment already: Point a frontier model at a merge request and ask it to double as a vulnerability scanner. On a single merge request, it often works well. The model reads the code, reasons about what it's supposed to do, and catches real issues, sometimes ones a pattern-based scanner misses entirely. So the next thought is reasonable: If a model rev",
+   "published_at": "2026-09-16T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

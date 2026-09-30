@@ -1,0 +1,175 @@
+{
+ "date": "2026-09-02",
+ "items": [
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.259",
+   "snippet": "## What's changed - Added `managedMcpServers` managed setting: organizations can provide HTTP/SSE MCP servers to every user (same entry shape as `.mcp.json`); entries that name a command to run are skipped - Added `--permission-prompts none` for unattended headless hosts: anything that would prompt is denied automatically while the active permission mode (including auto mode) keeps deciding - Adde",
+   "published_at": "2026-09-02T22:33:51+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.34",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.34",
+   "snippet": "New features: - `llm logs --usage` Markdown output now includes the response duration in milliseconds and as a human-readable duration. `llm logs --short` includes a new `duration_ms` field. [#1653](https://github.com/simonw/llm/issues/1653) Bug fixes: - Significantly improved the performance of `llm logs` for long conversations by caching repeated message and model lookups. [#1654](https://github",
+   "published_at": "2026-09-02T19:23:52+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+   "snippet": "NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...",
+   "published_at": "2026-09-02T17:15:57+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.understandingai.org/p/how-google-taught-llms-to-control",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "How Google taught LLMs to control robots and started a robotics boom",
+   "snippet": "Vision-language-action models, explained with a minimum of math and jargon.",
+   "published_at": "2026-09-02T16:24:29+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Proactive cyber defense for governments and enterprises",
+   "snippet": "",
+   "published_at": "2026-09-02T16:24:24+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "snippet": "",
+   "published_at": "2026-09-02T16:18:31+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+   "snippet": "This post is the third in a series on AI model co-design. It explores how to accelerate LLM inference while maintaining accuracy using speculative decoding and...",
+   "published_at": "2026-09-02T16:04:19+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-has-a-really-dark-70d",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "The AI Industry Has a Really Dark Secret You Should Know About",
+   "snippet": "Review of and thoughts on the Hugging Face incident",
+   "published_at": "2026-09-02T14:21:08+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/atv-big-air-tour",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+   "snippet": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+   "published_at": "2026-09-02T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.getdx.com/p/the-quality-paradox-of-ai-generated",
+   "source": "Engineering Enablement (DX)",
+   "weight": 1.1,
+   "title": "The quality paradox of AI-generated code",
+   "snippet": "What a five-part definition of quality from 2020 tells us about software development in the age of AI.",
+   "published_at": "2026-09-02T10:03:27+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Free domain with Pro offer now includes .app and .dev",
+   "snippet": "We recently announced that all Pro teams can claim a free domain for one year . That offer now includes .app and .dev , bringing the eligible TLDs to eight: .app .dev .online .site .space",
+   "published_at": "2026-09-02T07:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.0a4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.4.0a4",
+   "snippet": "Initial release release(langchain): 1.4.0a4 test(langchain): cover mixed-era ClientGroup and group elicitation Update libs/langchain_v1/langchain/mcp/adapter.py fix(langchain): drive MCP elicitation via member session for fastmcp 4.0.1 fix(sdk): use latest fastmcp and rm reentrant impl cr cr refactor(langchain): inline MCP client arming into `__init__` refactor(langchain): stamp an arm marker inst",
+   "published_at": "2026-09-02T05:35:20+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.33.3",
+   "snippet": "## What's Changed * gemma4 now supports images and audio on MLX engine * Report cached prompt tokens * Honor GGUF model defined default parameters * MLX, MLX-C, llama.cpp update ## New Contributors * @marcelpetrick made their first contribution in https://github.com/ollama/ollama/pull/17579 **Full Changelog**: https://github.com/ollama/ollama/compare/v0.33.2...v0.33.3",
+   "published_at": "2026-09-02T00:11:33+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cursor.com/changelog/self-hosted-machines",
+   "source": "Cursor changelog",
+   "weight": 1.3,
+   "title": "Sep 2, 2026",
+   "snippet": "Sep 2, 2026 · Changelog",
+   "published_at": "2026-09-02T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Muse Spark 1.3 now available on AI Gateway",
+   "snippet": "Muse Spark 1.3 from Meta is now available on AI Gateway, in both the standard and contributor pricing tiers. This model improves on prior Muse Spark models at agent work and coding, with a 1M token context window and text, image, and PDF input. On coding it takes fewer turns and writes less filler than the previous release. To use Muse Spark 1.3, set model to meta/muse-spark-1.3 : </",
+   "published_at": "2026-09-02T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
+   "snippet": "GLM-5.3 is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean. How to use the model during the offer period Using the promo name ( zai/glm-5.3-promo-50 ) gets the discounted rate. It routes only to DigitalOcean, with no fallback to another provider, and it stops serving when the offer ends. Using the standard name (i.e., zai/glm-5.3 ) with pr",
+   "published_at": "2026-09-02T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini 3.8 Flash now available on AI Gateway",
+   "snippet": "Gemini 3.8 Flash from Google is now available on AI Gateway. The model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video input, returns text, and supports tool calling and web search. Maximum output is 65,536 tokens. Gemini 3.8 Flash improves on prior Flash models at software engineering, agent work, and multi-step reasoning, at the same speed ",
+   "published_at": "2026-09-02T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "date": "2026-09-10",
+ "items": [
+  {
+   "url": "https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "OpenAI spent millions to solve this famous math problem — mathematicians are furious",
+   "snippet": "Mathematics relies on a community of experts openly sharing ideas.",
+   "published_at": "2026-09-10T22:40:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.268",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.268",
+   "snippet": "## What's changed - Added to the Claude apps gateway: with `pricing:` set in `gateway.yaml`, signed-in Claude Code clients receive the same rates through managed settings, so `/cost` and telemetry match the spend meter - Added a startup warning for gateways when `access_control.allow_cidrs` is empty, and a one-time warning the first time a request arrives from a public address - Added the `gateway",
+   "published_at": "2026-09-10T20:30:54+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.2",
+   "snippet": "Changes since langchain-anthropic==1.7.1 release(anthropic): 1.7.2 (#40387) fix(anthropic): preserve invalid tool use blocks (#40372)",
+   "published_at": "2026-09-10T19:13:10+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GitHub Copilot is now available in the AI SDK harness layer",
+   "snippet": "The AI SDK harness layer now supports GitHub Copilot through the official @ai-sdk/harness-github-copilot adapter. The harness layer lets your application run different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. Pass githubCopilot to HarnessAgent : Under the hood, the",
+   "published_at": "2026-09-10T17:39:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "The Pulse #191: a new trend of CPU shortages",
+   "snippet": "For compute-intensive services: it’s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
+   "published_at": "2026-09-10T17:13:44+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "FastAPI frontends and static files served from the CDN",
+   "snippet": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declare",
+   "published_at": "2026-09-10T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.100.1",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.100.1",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is",
+   "published_at": "2026-09-10T16:58:02+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+   "snippet": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as...",
+   "published_at": "2026-09-10T16:55:32+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "snippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "published_at": "2026-09-10T16:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "One resignation turned the embers of AI fear into a wildfire",
+   "snippet": "Some quick notes on a truly weird week.",
+   "published_at": "2026-09-10T15:28:52+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Now everyone can put data to work",
+   "snippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "published_at": "2026-09-10T15:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+   "snippet": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA...",
+   "published_at": "2026-09-10T15:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/sap-nyfw-collections-store-starts-thinking/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "When a Store Starts Thinking",
+   "snippet": "In the heart of SoHo, every storefront competes for attention. During New York Fashion Week (NYFW), SAP is helping bring a fashion retail store to...",
+   "published_at": "2026-09-10T13:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/everyone-needs-a-muse",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "Everyone needs a Muse",
+   "snippet": "ChatGPT images got better, again",
+   "published_at": "2026-09-10T13:03:34+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/an-ode-to-counter-positioning",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "An Ode to Counter-Positioning",
+   "snippet": "How to Buy Time",
+   "published_at": "2026-09-10T12:45:19+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/tangible-progress-sap-services-and-support-impact/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Beyond the Launch: Tangible Progress in SAP Services and Support for Real-World Impact",
+   "snippet": "Our unified service release model will continue to deliver expanded capabilities seamlessly.",
+   "published_at": "2026-09-10T11:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+   "snippet": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two...",
+   "published_at": "2026-09-10T09:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/the-singularity-paradox",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "The Singularity Paradox",
+   "snippet": "Or: why the singularity might not happen",
+   "published_at": "2026-09-10T08:48:10+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing ChatGPT for Financial Services",
+   "snippet": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "snippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.25",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.25",
+   "snippet": "- ChatGPT Subscription (Codex) now lists only the models your plan can actually use. Two separate paths filled the picker from the shared OpenAI catalog, so GPT-4o, GPT-4.1, and `chatgpt-image-latest` showed up alongside the Codex models, and the runtime lost the Codex context caps. The model rules also match what the backend now accepts: `gpt-5.4` and `gpt-5.4-mini` were retired for ChatGPT accou",
+   "published_at": "2026-09-10T04:57:15+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "snippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-the-agents-api",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing the Agents API",
+   "snippet": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "snippet": "",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "snippet": "",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing preemptible compute: the same compute, half the price",
+   "snippet": "Together GPU Clusters now supports preemptible compute: the same GPU capacity at a flat 50% of the on-demand rate, with a five-minute drain window.",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/to-infinity-and-beyond-thunderkittens-now-on-nvidia-vera-rubin-nvl72",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72!",
+   "snippet": "We ported ThunderKittens to NVIDIA's Vera Rubin NVL72 and rebuilt our NVFP4 GEMM around the new hardware, taking it from 42% of roofline to over 22 PFLOPS — competitive with cuBLAS and CuTe DSL. Here is what changed in the ISA and how we used it.",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cursor.com/changelog/projects",
+   "source": "Cursor changelog",
+   "weight": 1.3,
+   "title": "Sep 10, 2026",
+   "snippet": "Sep 10, 2026 · Changelog",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How we cut CDN metadata lookup latency by 91%",
+   "snippet": "Every request to Vercel passes through our CDN , which executes on average over 80 million routing instructions per second. Part of that work is looking up metadata to determine which paths exist and how to serve them. When that metadata isn’t cached, the CDN has to fetch it before it can serve the response. We used to fetch and cache metadata one path at a time, retrieving only what eac",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Build with OpenAI Agents API on Vercel",
+   "snippet": "You can now build and deploy long-running, tool-using agents with the OpenAI Agents API on Vercel. OpenAI manages the agent loop and session state, while Vercel hosts the application and connects each session to Vercel Sandbox for code execution and file access. With this integration, you get: An OpenAI-managed agent loop and session state <",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Tako Search is free on AI Gateway through September 30",
+   "snippet": "Tako Search is free exclusively on AI Gateway through September 30. It lets AI models search Tako's curated data and the live web, filter web results by domain or publication date, and use the results to answer questions with current information, citations, and visualizations. After September 30, searches are billed at standard rates. The same integration works with any m",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Sandbox is now available in all regions",
+   "snippet": "Vercel Sandbox can now run in all 20 Vercel compute regions , up from four. Running sandboxes closer to the databases, storage, and other services they access reduces latency. Teams can also keep sandbox workloads in approved regions to support data residency and regional processing requirements. iad1 remains the default region. Region selection is available on every plan. Pro and Enterprise tea",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/cyber-resilience-act-reporting-deadline/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Prepare for the Cyber Resilience Act's 24-hour reporting deadline",
+   "snippet": "Starting on September 11, 2026, many businesses that place software on the European Union (EU) market will have 24 hours to file a report once they learn that a vulnerability in one of their products is being actively exploited. This is a new requirement under the Cyber Resilience Act ( CRA ), the EU law that sets cybersecurity requirements for products with digital elements sold in Europe, put in",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/co-create-h1-2026/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Co-Create: Building GitLab with our users",
+   "snippet": "GitLab users bring firsthand experience of the workflows they want to improve. Through our Co-Create program, they collaborate directly with us to design, build, and deliver product improvements that benefit more teams. In the first half of 2026, our users helped us extend APIs, add CI/CD capabilities , expand language support for AI-powered code understanding, strengthen security controls, increa",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://evjang.com/2026/09/10/smooth-exponential.html",
+   "source": "Eric Jang",
+   "weight": 1.0,
+   "title": "Smooth Exponentials for Robotics",
+   "snippet": "I recently reread Dario Amodei’s essays \"Machines of Loving Grace\" and \"Adolescence of Technology.\" In these essays and his interviews, Dario speaks often of a \"smooth exponential\" of AI capabilities, as if machine intelligence \"emerge[s] spontaneously from the right combination of data and raw computation.\"",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

@@ -1,0 +1,707 @@
+{
+ "date": "2026-09-22",
+ "items": [
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "snippet": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "published_at": "2026-09-22T23:46:41+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+   "snippet": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
+   "published_at": "2026-09-22T23:12:49+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.6.4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.6.4",
+   "snippet": "Changes since langchain-openai==1.6.3 release(openai): 1.6.4 (#40775) chore(model-profiles): refresh openai model profile data (#40774)",
+   "published_at": "2026-09-22T22:37:09+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.3",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.3",
+   "snippet": "Changes since langchain-anthropic==1.7.2 release(anthropic): 1.7.3 (#40773) chore(model-profiles): refresh anthropic model profile data (#40772) fix(anthropic): auto-route `with_structured_output` to `method=\"json_schema\"` for fable and opus 5.5 (#40766) chore(anthropic): update docs for Opus 5.5 (#40765) feat(anthropic): send mid-conversation `SystemMessage`s in place (#40622) chore(deps): bump a",
+   "published_at": "2026-09-22T22:08:13+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.34",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.34",
+   "snippet": "- Composio connectors now load all their tools, not just the first 20. Google Calendar, for example, showed only 20 of its 47 tools, and the Installed view wrongly said \"20/20.\" The full list is now fetched and the tool cache refreshes instead of staying stale forever - You can now connect to a Mac as an SSH remote from a Mac. Picking a Mac host used to fail with \"Remote target darwin/arm64 is uns",
+   "published_at": "2026-09-22T21:10:28+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/john-platt",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+   "snippet": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+   "published_at": "2026-09-22T21:07:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Better prompt caching for GPT-6",
+   "snippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+   "published_at": "2026-09-22T21:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/v4.1.20",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline v4.1.20",
+   "snippet": "### Changed - Sub-agents spawned in the same step now run their tool calls at the same time rather than one after another. Tools that must run in order still do, and the parent still waits for every result before its next turn. - Models that advertise a large output limit now get a bigger default output budget — 30% of the limit rather than a flat 32,000 tokens, whichever is larger. Nothing change",
+   "published_at": "2026-09-22T20:45:17+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
+   "snippet": "See how LangSmith helps healthcare AI teams turn clinical review into reusable evaluators, datasets, and release gates for safer AI in production.",
+   "published_at": "2026-09-22T20:12:19+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "I left Claude for months. Opus 5.5 is why I'm back",
+   "snippet": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
+   "published_at": "2026-09-22T19:06:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.36",
+   "snippet": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversat",
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.36",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.36",
+   "snippet": "New features: - New OpenAI models: `gpt-6-sol` for [GPT-6 Sol](https://developers.openai.com/api/docs/models/gpt-6-sol) and `gpt-6-luna` for [GPT-6 Luna](https://developers.openai.com/api/docs/models/gpt-6-luna). [#1702](https://github.com/simonw/llm/issues/1702) - Model plugins can now declare `supports_conversation = False` for models that only accept single-turn prompts. LLM raises `llm.Convers",
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting @therealcornpop",
+   "snippet": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything . It's th",
+   "published_at": "2026-09-22T18:03:21+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing GPT-6 Sol and Luna",
+   "snippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+   "published_at": "2026-09-22T18:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.102.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.102.0",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is",
+   "published_at": "2026-09-22T17:56:26+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+   "snippet": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...",
+   "published_at": "2026-09-22T17:27:41+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "How will AI change operating systems? Part 2: Windows",
+   "snippet": "Deepdive into the Windows team’s efforts to make the OS “AI agent-friendly” and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
+   "published_at": "2026-09-22T17:17:31+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+   "snippet": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...",
+   "published_at": "2026-09-22T17:16:28+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-anthropic 0.29",
+   "snippet": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+   "published_at": "2026-09-22T17:14:55+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.280",
+   "snippet": "## What's changed - Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads - Added mouse support to more lists in fullscreen mode: the wheel scrolls the `/skills` list, and a skill's state options in `/plugin` can be clicked - Added `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` to change the 2,048-character cap on MCP tool descrip",
+   "published_at": "2026-09-22T16:38:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.22.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.22.0",
+   "snippet": "## 1.22.0 (2026-09-22) ## What's Changed ### Features * feat: test remote MCP servers on cloud backends via the app server by @hieptl in https://github.com/OpenHands/OpenHands/pull/17276 * feat: open Git Sync to org admins on cloud backends by @hieptl in https://github.com/OpenHands/OpenHands/pull/17216 * feat(i18n): translate recently added Turkish UI strings by @alkank in https://github.com/Open",
+   "published_at": "2026-09-22T16:28:11+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-typesafe 0.1a0",
+   "snippet": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pret",
+   "published_at": "2026-09-22T15:54:16+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+   "snippet": "Podcast #19",
+   "published_at": "2026-09-22T13:37:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "What can you build with Jev",
+   "snippet": "Muse is off to a good start",
+   "published_at": "2026-09-22T13:01:13+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+   "snippet": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...",
+   "published_at": "2026-09-22T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+   "snippet": "Why you should never skip error discovery",
+   "published_at": "2026-09-22T12:45:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/autonomous-enterprise-business-transformation-management-solutions-sap-ai-agents-work-at-scale/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "The Operational Backbone of the Autonomous Enterprise",
+   "snippet": "Business Transformation Management solutions from SAP help make AI agents work at scale.",
+   "published_at": "2026-09-22T12:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "snippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+   "snippet": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/when-ai-moves-from-answers-to-action/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "When AI Moves From Answers to Action",
+   "snippet": "An individual customer use case can become the foundation for future industry capabilities.",
+   "published_at": "2026-09-22T11:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/future-of-service-delivery-ai-driven-enterprise/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "The Future of Service Delivery in the AI-Driven Enterprise",
+   "snippet": "AI is fundamentally reshaping how enterprise software services are delivered and consumed.",
+   "published_at": "2026-09-22T10:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.33",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.33",
+   "snippet": "- Start a task in its own git worktree. The welcome screen's “Work in” switch (next to the folder and branch chips) now offers Local or Worktree; pick Worktree and the first prompt of a new thread cuts a fresh `cline/ ` branch off the current one, creates a worktree under `~/.cline/worktrees/`, and runs the task there, so the agent never touches your working tree. The conversation chip shows ` / c",
+   "published_at": "2026-09-22T09:07:30+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.64",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.64",
+   "snippet": "- Runs no longer die when a model turn hits its output-token limit before making a tool call. A reasoning-heavy or oversized response could spend the whole output allowance and end the run with an output-token-limit error; the turn is now retried up to three times with a reminder to be concise and split the work across tool calls, and only fails after that - Models with a large advertised output l",
+   "published_at": "2026-09-22T08:25:12+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.85",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.0.85",
+   "snippet": "- A turn that hits the model's output-token limit without producing a usable tool call is now retried instead of failing the run. Reasoning or a large response could consume the whole output allowance before the agent acted, and a single `max-tokens` finish ended the run with the output-token-limit error. The runtime now retries up to three consecutive times, appending a reminder to respond concis",
+   "published_at": "2026-09-22T08:13:58+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+   "snippet": "crowning a new Chinese frontier lab",
+   "published_at": "2026-09-22T06:30:56+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.30.0",
+   "snippet": "# v0.30.0 ## Highlights This release features 762 commits from 315 contributors (104 new)! * **New models**: DeepSeek-V4.1-Flash (#56214, #56228, #56208) with the whole KV stored in MXFP8 through the FlashMLA V4.1 record on SM100 (#56893), DeepGEMM Mega-mHC (#56962), and async Engram prefetch with Engram DP sharding (#56512); DeepSeek-V4-Flash-Vision-Exp (#54566), also on ROCm (#55107) and with Lo",
+   "published_at": "2026-09-22T05:20:54+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.6.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-fireworks==1.6.2",
+   "snippet": "Changes since langchain-fireworks==1.6.1 fix(fireworks): use current completions model in LLM tests (#40740) hotfix(fireworks): use available model in LLM tests (#40737) release(fireworks): 1.6.2 (#40735) chore(model-profiles): refresh model profile data (#40665) chore(deps): bump anyio from 4.11.0 to 4.14.2 in /libs/partners/fireworks (#40639) chore(deps): bump urllib3 from 2.7.0 to 2.8.0 in /lib",
+   "published_at": "2026-09-22T04:44:04+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-deepseek%3D%3D1.1.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-deepseek==1.1.1",
+   "snippet": "Changes since langchain-deepseek==1.1.0 fix(deepseek,infra): resolve compatible minimum OpenAI dependencies, bump min ver (#40738) release(deepseek): 1.1.1 (#40734) chore(deps): bump anyio from 4.11.0 to 4.14.2 in /libs/partners/deepseek (#40641) chore(model-profiles): refresh model profile data (#40399) fix(deepseek): route strict mode to the beta endpoint (#40249) chore(model-profiles): refresh ",
+   "published_at": "2026-09-22T04:30:11+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.2.9",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openrouter==0.2.9",
+   "snippet": "Changes since langchain-openrouter==0.2.8 release(openrouter): 0.2.9 (#40736) chore(model-profiles): refresh model profile data (#40705) chore(model-profiles): refresh model profile data (#40685) chore(model-profiles): refresh model profile data (#40665) chore(deps): bump anyio from 4.13.0 to 4.14.2 in /libs/partners/openrouter (#40627) chore(model-profiles): refresh model profile data (#40600) ch",
+   "published_at": "2026-09-22T04:16:11+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.63",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.63",
+   "snippet": "- Context compaction no longer silently degrades to truncation partway through a long session on OAuth providers. The summarizer kept the access token resolved when the session started while the main agent loop refreshed its own each turn, so once the token rotated the summarizer's request failed with 401 and the failure was swallowed by the truncation fallback — you got a chopped transcript inste",
+   "published_at": "2026-09-22T03:50:22+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.84",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.0.84",
+   "snippet": "- Concurrent feature-flag polls for the same account now share one in-flight request. The cache was marked fresh before its network request finished, so a caller that raced the initial poll returned immediately with the default value — a flag that was actually enabled read as disabled until something triggered a later refresh. Failures now propagate so a subsequent call can retry, and switching ac",
+   "published_at": "2026-09-22T03:26:20+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.21.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.21.0",
+   "snippet": "## 1.21.0 (2026-09-22) ## What's Changed ### Features * feat: request Docker execution workspaces from Docker servers by @neubig in https://github.com/OpenHands/OpenHands/pull/17177 ### Bug Fixes * fix: prevent stale conversation history merges by @adbcodes in https://github.com/OpenHands/OpenHands/pull/16913 * fix: query the Forgejo host for Forgejo PR and issue lists by @Harsh23Kashyap in https:",
+   "published_at": "2026-09-22T01:50:44+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Priorities and principles for effective third party assessments",
+   "snippet": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "snippet": "",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Transformers now runs llama.cpp quants",
+   "snippet": "",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "snippet": "",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/canary-rollouts-upgrade-models-in-production-without-downtime",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Canary rollouts: upgrade models in production without downtime",
+   "snippet": "A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The current balance of power in open models (17 minute read)",
+   "snippet": "The gap from open to closed models available to users has been decreasing over the last 3 years. Open model usage is exploding in high-value industries. Open-weight models have passed an inflection point in economic viability. Chinese labs are clearly maintaining their status as the leaders of the open-weight AI ecosystem.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": [
+    "Interconnects (Nathan Lambert)"
+   ]
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-6 Sol and Luna now available on AI Gateway",
+   "snippet": "GPT-6 Sol and GPT-6 Luna from OpenAI are now available on AI Gateway . Both models bring GPT-6 improvements to coding, computer use, and professional work at a lower price than GPT-6 Astra . GPT-6 Sol ( openai/gpt-6-sol",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Claude Opus 5.5 now available on AI Gateway",
+   "snippet": "Claude Opus 5.5 from Anthropic is now available on AI Gateway as anthropic/claude-opus-5.5 . Opus 5.5 is Anthropic’s strongest Opus model for agentic coding, long-running agent tasks, and professional knowledge work. It communicates progress, findings, and next steps clearly, making extended work easier to supervise. It has a 1M-token context window and suppor",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "How to design GitLab for enterprise scale",
+   "snippet": "At enterprise scale, even small architecture choices can have outsized consequences. A deployment that works for a handful of teams can become a constraint once thousands of developers, repositories, and pipelines depend on it. That makes each decision made before rollout especially consequential. For example, your: Deployment model defines what your team must operate Runner strategy shapes how CI",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "How GitLab reduced code-per-agentic-flow ratio by 45%",
+   "snippet": "GitLab Duo Agent Platform orchestrates and automates complex tasks through agentic flows. A key part of the platform is the Flow Registry, a declarative configuration framework, built from reusable components, that compiles YAML into fully functional LangGraph flows. By using Flow Registry, agent builders — both our GitLab engineers and our customers can use declarative YAML configurations in",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Xiaomi open-sources MiMo-V2.6 Pro and Flash models (2 minute read)",
+   "snippet": "Xiaomi MiMo-V2.6 Pro and Flash are omnimodal models that can coordinate agents to construct and visually test interactive 3D scenes. They can create Blender assets, control a robotic arm from camera feeds, produce frontends and presentations, assemble videos, and compose music as scores and MIDI. The models are now available in AI Studio, MiMo Code, MiMo Desktop, Xiaomi's MiMo API Platform, and Op",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.ai/news/grok-4-7",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Grok 4.7 (3 minute read)",
+   "snippet": "Grok 4.7 enhances coding and knowledge work capabilities with improved self-verification and safeguards, using a new, larger base model. It offers competitive pricing with $2 per million input tokens and $6 per million output tokens. Excelling in various benchmarks, it shows top-notch safety features, especially in cybersecurity tasks, limiting risky command execution.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic tests Fable 5.2 and Opus 5.5 ahead of the release (3 minute read)",
+   "snippet": "Anthropic is starting to test its upcoming frontier model in the wild. Several people have posted outputs that seem to come from a newer, more advanced model. Anthropic may be announcing Opus 5.5 this week. The model is rumored to be priced at $4 per million input tokens and $20 per million output tokens.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads (4 minute read)",
+   "snippet": "Meta's Muse AI app has surged to the top of the iOS App Store charts in the US, outpacing ChatGPT and other AI tools with 730,000 downloads shortly after its release. Powered by the Muse Spark AI models, the app allows users to manage digital assistants for tasks like filling forms and organizing emails. While Muse's popularity highlights growing consumer interest, privacy concerns persist, with A",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/JayaGup10/status/2101799427145183571",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Great Unbundling of Intelligence (8 minute read)",
+   "snippet": "Agent economics are pushing AI from frontier-by-default toward capability-level routing, where judgment, ranking, search, and verification use cheaper specialized systems. Frontier models may handle fewer but harder tasks as applications become intelligence compilers that recombine services efficiently.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.strangeloopcanon.com/p/the-business-of-building-god",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Business of Building God (13 minute read)",
+   "snippet": "AI labs like OpenAI and Anthropic lead with a small model advantage but face competition as costs rise and open-source models close the gap. To sustain profits, labs aim to expand into new sectors, ranging from ads to robotics, while also exploring automation through recursive self-improvement (RSI). However, the path is fraught with uncertainty as enormous financial and talent investments may onl",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.tobyord.com/writing/swarm-scaling",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Swarm Scaling (13 minute read)",
+   "snippet": "Scaling up the number of agents in a swarm by 10x doesn't get as much performance as using 10x as many tokens with one agent. This shortfall accumulates quickly for larger scale-ups, with the swarm falling further and further behind. However, swarms can theoretically achieve the same task in much less time as they are run in parallel. The speedup is substantial, so swarms are useful in situations ",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/QwenLM/RecreationWorld",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Qwen's RecreationWorld Trains Agents to Rebuild Apps (GitHub Repo)",
+   "snippet": "RecreationWorld is a five-platform framework for training hybrid computer-use agents to explore GUIs, implement software with coding tools, and visually verify their work.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://devin.ai/blog/devin-cloud-in-your-terminal",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Bringing Devin Cloud to your terminal (2 minute read)",
+   "snippet": "Developers can now create, steer, resume, and watch Devin Cloud sessions from their terminal. Devin CLI can now transfer any ask to Devin to continue iterating on with its own cloud VM. Users can continue to observe and steer progress directly from the terminal as if Devin were working locally. Cognition is offering free SWE-2 sessions until October 8 so developers can try Devin Cloud from the ter",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.alphaxiv.org/abs/2609.mimo-scaling-reinforcement-learning",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement (9 minute read)",
+   "snippet": "Reinforcement learning is the central training paradigm for advancing large foundation models towards self-improvement. The Mimo-V2.6 series is an omni-model family that pushes the frontier of model intelligence by scaling RL compute. Training was kept stable at scale by freezing the MoE router and establishing a multi-layer defense against reward hacking. The training dynamics, RL environments, a",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AI Comes for the If Statement (4 minute read)",
+   "snippet": "New AI models like Jev2 and SemIf streamline the if-then decision-making process, cutting costs by 99% and improving accuracy from 47% to over 80% in tests. These advancements optimize coding primitives, potentially transforming AI's economic model by using specialized systems for production. Specialization in these models promises significant cost savings while maintaining high accuracy.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Advisory Group on Mathematics and Artificial Intelligence (3 minute read)",
+   "snippet": "OpenAI has trained a new internal model that solved the Navier–Stokes Millennium Prize problem and over 100 open mathematical challenges. In response, OpenAI established an independent advisory group involving prominent mathematicians to guide the responsible development and dissemination of math-related AI capabilities. This group will independently assess, advise, and communicate these advances ",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/jaredpalmer/kev",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Kev (GitHub Repo)",
+   "snippet": "Kev is an open-source family of small Jev-like decision models that run locally and return calibrated probabilities for yes/no, multiple-choice, and rating questions.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thelettertwo.com/2026/09/21/aws-strands-harness",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AWS Launches Strands Harness, an Agent That Brings Its Own Everything but the Model (6 minute read)",
+   "snippet": "AWS' new Strands harness is a ready-to-run agent that can search the web, run commands, edit files, remember what it did yesterday, and hand off work to helper agents.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Aikido Altar: open-weight AI for sovereign security (9 minute read)",
+   "snippet": "Aikido Altar is an open-weight AI model that enhances Aikido Machine's pentesting capabilities while operating entirely within a customer's infrastructure.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2102213621963243704.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "StepFun's Step 5 Preview (4 minute read)",
+   "snippet": "Step 5 Preview has 600B total and 27B active parameters and matches Kimi K3 (max) at around 2.8 times lower cost per task.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-ai-chip-drive-022139864.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032 (2 minute read)",
+   "snippet": "Alibaba's new Zhenwu V900 accelerator triples the performance of its predecessor.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
+   "snippet": "We analyzed billions of transactions on Stripe from January 2022 to March 2026 to understand how card fraud patterns differ by region and country, what's driving those differences, and how businesses can respond.",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

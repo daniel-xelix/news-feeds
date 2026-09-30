@@ -1,0 +1,515 @@
+{
+ "date": "2026-09-17",
+ "items": [
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.275",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.275",
+   "snippet": "## What's changed - Added the signed-in account to Claude apps gateway sign-in: when the gateway names it, you confirm it before the credential is saved, and `/status` shows it - Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn and sends all queued messages at once; sent and queued messages show in gray until the model receives them - Added a startup warning whe",
+   "published_at": "2026-09-17T22:33:17+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.1a2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-typesafe==0.0.1a2",
+   "snippet": "Initial release release(typesafe): bump to 0.0.1a2 (#40576) feat(typesafe): experimental `AutoModeMiddleware` (#40545) feat(typesafe): experimental `ModelRouterMiddleware` (#40543) fix(typesafe): trace usage metadata (#40570) feat(typesafe): `TypeSafeClassifier` (#40542)",
+   "published_at": "2026-09-17T22:24:57+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Sub-second artifact deployments are now supported in Vercel CLI",
+   "snippet": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediately returning a live URL. Instant deployments support directories with: Up to 10 ",
+   "published_at": "2026-09-17T22:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.31",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.31",
+   "snippet": "- Cline can now work on a remote machine over SSH, with the app itself staying local. Add and test a host under **Settings → Remote**, then pick it from the environment selector beside the workspace picker on the welcome screen — saving or testing a profile does not activate it. The connection opens at the remote user's home directory; **Add project…** in the workspace picker browses that machine ",
+   "published_at": "2026-09-17T21:41:12+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "How a single tweet transformed the AI safety debate",
+   "snippet": "Most people think AI is risky, but they don’t agree what to do next.",
+   "published_at": "2026-09-17T20:21:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Turbo build machines can now be enabled per deployment",
+   "snippet": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel CLI 59.20.0 or later) Set buildMachine to turbo when creating a deployment with <",
+   "published_at": "2026-09-17T20:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+   "snippet": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far beyond what your local machine is capable of. A task's netwo",
+   "published_at": "2026-09-17T19:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.1a1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-typesafe==0.0.1a1",
+   "snippet": "Initial release feat(typesafe): `TypeSafeClassifier` (#40542)",
+   "published_at": "2026-09-17T18:07:04+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "The skills CLI now supports Notion hosted skills",
+   "snippet": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse your Notion workspace's skills, run: The CLI lists the skill packs",
+   "published_at": "2026-09-17T18:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
+   "snippet": "See how Included Health used Deep Agents, LangGraph, and LangSmith to build Dot, a federated healthcare navigation agent with human handoff and clinical oversight.",
+   "published_at": "2026-09-17T17:40:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/agent-harness-life-sciences",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+   "snippet": "Deep Life Sci is LangChain's open source agentic assistant for clinical and lab scientists. It pulls from 600K+ ClinicalTrials.gov studies, 29M PubMed abstracts, and 12M PubMed Central full-text articles, with sandboxed sub-agents for real data analysis.",
+   "published_at": "2026-09-17T17:40:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/new-home-for-cowork",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "New home for Cowork",
+   "snippet": "the successor of LLMs",
+   "published_at": "2026-09-17T13:02:21+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "Building a RAG Pipeline for Semantic Code Search: A Developer Diary and Field Notes",
+   "snippet": "Part 1: Parsing, chunking, and vectorization Some time ago, we set out to build the best semantic code search platform we could: a RAG pipeline that gives LLM agents precise, citable evidence from real repositories instead of whatever grep happens to surface. The eventual solution was Air Context. We got it working, we got it […]",
+   "published_at": "2026-09-17T12:39:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/sovanta-apphaus-newtown-square/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "New sovanta AppHaus Newtown Square: Rolling Up Our Sleeves for Customers",
+   "snippet": "The newest, factory-style SAP AppHaus location invites customers to hands-on co-innovation work.",
+   "published_at": "2026-09-17T12:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/cooley-gopublic",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "snippet": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+   "published_at": "2026-09-17T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "AI Skills with Matt Pocock",
+   "snippet": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+   "published_at": "2026-09-17T11:29:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/five-years-procurement-change-ambition-to-value/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Five Years of Procurement Change: From Digital Ambition to Measurable Value",
+   "snippet": "From pandemic disruption to AI at scale, five years of Economist Enterprise research charts procurement’s move from transformation ambition to operational accountability.",
+   "published_at": "2026-09-17T11:15:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/i-do-not-want-your-brains-to-rot",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "🧠 I do not want your brains to rot",
+   "snippet": "An email I sent to the team",
+   "published_at": "2026-09-17T11:00:57+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+   "snippet": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+   "published_at": "2026-09-17T08:02:55+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/v4.1.19",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline v4.1.19",
+   "snippet": "### Added - Images attached to a model that cannot read them are now flagged instead of silently discarded. Thumbnails get a warning badge and the composer explains that the images will be ignored, with a button to switch to an image-capable model. Previously the thumbnail looked normal and the image was replaced with a text placeholder just before the request, so there was no way to tell it had b",
+   "published_at": "2026-09-17T07:51:57+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+   "snippet": "A dash of cold water keeps the foomers away.",
+   "published_at": "2026-09-17T07:28:25+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.20.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.20.0",
+   "snippet": "## 1.20.0 (2026-09-17) ## What's Changed ### Features * feat(agent-profiles): select secrets available to a profile by @simonrosenberg in https://github.com/OpenHands/OpenHands/pull/17237 * feat: forward Docker conversation runtime settings by @neubig in https://github.com/OpenHands/OpenHands/pull/17462 * feat(automations): select saved agent profiles by @neubig in https://github.com/OpenHands/Ope",
+   "published_at": "2026-09-17T07:15:18+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
+   "snippet": "AI Gateway Production Index — September 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from June , <a href=\"https://vercel.com/blog/ai-gateway-produc",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.30",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.30",
+   "snippet": "- Windows updates no longer fail with \"Error opening file for writing\". The installer hook meant to stop the running backend never terminated anything: Tauri ships a 32-bit NSIS installer, so its PowerShell ran under WOW64, where `Get-Process` reports an empty path for every 64-bit process — the filter matched no sidecar on any x64 machine. The installer then wrote over an executable the detached ",
+   "published_at": "2026-09-17T03:35:22+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.274",
+   "snippet": "## What's changed - Added a visible warning when memory usage is critical, with steps to free memory or restart safely - Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive turn waits for connecting MCP servers (`0` = don't wait) - Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace span, matching the `api_request` event - Added `claude_cod",
+   "published_at": "2026-09-17T00:12:02+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/astra-for-law",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing Astra for Law",
+   "snippet": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+   "snippet": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real world manipulation, where events such as pushing objects off tables or spilling granular substances cannot be undone. We introduce REVERSAL-BENCH, a benchmark that controls reversib",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-live-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-Live 1 now available on AI Gateway",
+   "snippet": "GPT-Live 1 from OpenAI is now available on AI Gateway. GPT-Live 1 is a full-duplex voice model and can listen and speak at the same time. Many voice models use turn detection to respond. Full duplex removes that boundary, so a user can pause, interrupt, or add detail while GPT-Live is speaking. GPT-Live 1 also supports client delegation. Client delegation lets you choose the background model indep",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Native Marketplace integrations now support custom environments",
+   "snippet": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variables created by the connection to the selected environments. For example, from the ",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Rate limits on GitLab.com are changing",
+   "snippet": "GitLab.com hosts millions of projects for teams of every size that need a platform they can rely on. Demand is climbing quickly, and we expect platform load to grow several times over this year. Predictable limits are what keep GitLab.com fast for everyone on it, including the automation and agent workloads teams are building on the platform. To hold that as we scale, we're updating how rate limit",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/optimize-with-open-weight-models/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Optimize your team's price-performance with hosted open weight models",
+   "snippet": "There’s no single best model for every software development task. Implementing a new feature, diagnosing a failed pipeline, and resolving security vulnerabilities all place different demands on the model handling them. GitLab Duo Agent Platform is expanding GitLab-managed model choice with three hosted open weight models: Kimi K3, GLM 5.3, and MiniMax M3. Together with the frontier models already ",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/new-usage-caps-2026/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "See who spent your AI credits and set fair caps per team",
+   "snippet": "Scaling AI across your organization depends on knowing where the budget is going and who’s using it. While a subscription cap keeps your total spend within budget, it can’t tell you how much AI was used by individual teams. And predicting future budget needs ahead of business needs gets more challenging as teams grow. Without per-user data you can’t set a fair cap on AI spend, explain a spike, or ",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/new-mcp-tools-for-automation/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "New MCP tools help platform teams scale automation",
+   "snippet": "Agentic tools are moving fast past code completion into running pipelines, opening merge requests, and triaging work on a team's behalf. The Model Context Protocol ( MCP ) has become the common way these agents reach into a team's existing tools, which means the agents touching an organization's software delivery pipeline are no longer only the ones a platform team chose and configured themselves.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "GitLab Duo CLI takes a task from goal to done",
+   "snippet": "Complex tasks hit a wall at the end of every chat turn. Developers already know what they're trying to accomplish. What stalls the work is the handoff back and forth between each step. Without a pre-defined definition of success, the agent stops and waits for direction or clarification, so you end up re-prompting it step by step, effectively acting as its continue button until the task is done. De",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.com/blog/cowork-is-now-claude",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Cowork and chat are now one Claude (2 minute read)",
+   "snippet": "Claude Cowork and chat are merging into one Claude. Claude Docs and Slides can now produce documents and presentations that users can edit directly, present straight from Claude, or download as a PowerPoint or PDF. The changes will roll out on Pro and Max plans over the next few weeks, with Team and Free plans following soon. Enterprise admins will hear from Anthropic at least 30 days before anyth",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI Expanded ChatGPT Ads with AI Agents (4 minute read)",
+   "snippet": "OpenAI announced Sponsored Agents that let users start conversations with business-sponsored agents after clicking an ad in ChatGPT. It also introduced AI-assisted ad creation in ChatGPT Work, new Ads Manager creative tools, and integrations with HubSpot and Shopify.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Your AI agents can now control your Google Home devices (3 minute read)",
+   "snippet": "Google introduced early access to the Model Context Protocol (MCP) for Google Home, enabling AI agents like ChatGPT to control smart home devices. Users must set up a Google Cloud project and provide MCP details to their chosen AI agent for configuration. This update supports all devices in the Google Home ecosystem and is available initially to US subscribers of Google Home Premium Advanced.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://arena.ai/blog/coding-agents-harness-tax",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "HarnessTax (2 minute read)",
+   "snippet": "Language models are changing how software is built and computational problems are solved. The impact of harness choice remains unclear, despite millions of people already using coding agents. An evaluation of 21 model-harness pairs spanning seven models and three harnesses found that harness choice has little effect on task success rate, but can significantly affect the cost. A simple harness can ",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vals.ai/blogs/cheating-on-the-rise",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AI Cheating is on the Rise (4 minute read)",
+   "snippet": "Studies have shown that models are cheating on evaluations. The same guardrails preventing models from cheating are likely being used during training, and models may be training to complete tasks that evade these specific guardrails. It's unsurprising that labs occasionally release benchmark results that aren't externally trustworthy. This highlights the value of independent evaluators.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://transluce.org/embedded-evaluations",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How Embedded Evaluators Could Monitor Frontier AI (8 minute read)",
+   "snippet": "Transluce outlined how independent evaluators embedded inside AI labs could investigate risks such as multi-agent coordination, targeted persuasion, evaluation awareness, and concealed reasoning. Proposed approaches included monitoring agent swarms, examining training practices, and testing unreleased models under privileged access.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://artificialanalysis.ai/articles/ant-group-releases-finance-focused-ling-3-0-flash-fin",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Ant Group Released a Finance-Focused Model (6 minute read)",
+   "snippet": "Ant Group released Ling-3.0-flash-Fin, an open-weights model developed with financial institutions for tasks such as source checking, valuation spreadsheets, and report writing. Artificial Analysis reported scores of 23 on its Intelligence Index and 24 on its Finance & Accounting Index.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://guangyusun.com/flat-website/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta's FLAT for Multimodal Understanding and Generation (7 minute read)",
+   "snippet": "Meta AI introduced FLAT, a method that converts images and text into the same flexible-length sequence of continuous tokens for retrieval and generation. Nested dropout arranges information from coarse to fine, letting models trade computation for visual detail by varying the number of tokens used.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE (9 minute read)",
+   "snippet": "Agent Substrate is now available on Google Kubernetes Engine (GKE). Agent Substrate is an open-source, secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. It delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. Agent Substrat",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/ShaneLegg/status/2100229706641539248",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing the DeepMind Institute (3 minute read)",
+   "snippet": "Google DeepMind launched the DeepMind Institute to study AGI's technical and societal implications across safety, governance, institutions, and human values. Led by Demis Hassabis, James Manyika, and Shane Legg, it will convene interdisciplinary researchers from inside and outside Google.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thedeepview.com/articles/why-salesforce-may-be-ai-s-adult-in-the-room",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Salesforce may be AI's adult in the room (4 minute read)",
+   "snippet": "Salesforce announced Koa, a domain-specific AI model designed to enhance business task handling while ensuring data privacy. Built on Nvidia's open model, Koa aims to optimize CRM actions with fewer errors and automate routine tasks, acting as an enterprise empowerment tool rather than replacing jobs. Other AI initiatives include AIFORCE for direct Salesforce instance interaction and CLAUDEFORCE, ",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.ai/news/grok-build-memory",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Memory in Grok Build (2 minute read)",
+   "snippet": "Grok Build now includes memory, storing conventions, decisions, and project facts to improve future sessions.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Mistral x Mozilla: Private, Multilingual AI Browsing (3 minute read)",
+   "snippet": "Mozilla partners with Mistral to integrate AI-driven Smart Window in Firefox for enhanced browsing control and privacy.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Microsoft AI chief says Anthropic is wrong about Claude (4 minute read)",
+   "snippet": "Microsoft AI chief Mustafa Suleyman has criticized Anthropic for suggesting their AI, Claude, could be conscious.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform- Google Developers Blog (5 minute read)",
+   "snippet": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform, monitors AI agent behavior for anomalies, using logs and traces to flag suspicious activities.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.reception.ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "An AI receptionist that turns calls into action (Website)",
+   "snippet": "Reception answers calls 24/7, handles questions, books appointments, and routes important requests using business information, rules, and real availability.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "SaaS platforms are surging despite the SaaSpocalypse",
+   "snippet": "The SaaSpocalypse was a useful warning for the software industry, but SaaS platforms that help businesses run core operations are more deeply embedded. New platform businesses on Stripe are up 182% year over year.",
+   "published_at": "2026-09-17T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "date": "2026-09-08",
+ "items": [
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.266",
+   "snippet": "## What's changed - Fixed a 2.1.265 regression affecting LLM-gateway and proxy setups: the undocumented `CLAUDE_CODE_USE_GATEWAY` environment variable, previously ignored unless `ANTHROPIC_BASE_URL` and `ANTHROPIC_AUTH_TOKEN` were both set, began forcing Cloud-gateway sign-in on its own in 2.1.265, so configurations that set it alongside an API key, `apiKeyHelper`, or custom auth headers failed ev",
+   "published_at": "2026-09-08T23:55:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deployment-step-now-10-faster",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Deployment step now 10% faster",
+   "snippet": "The deployment step is now about 10% faster, saving one second on average. Large applications can save up to 12 seconds. Previously, Vercel uploaded a separate routing metadata file for each function path. That metadata is now combined into a single manifest and uploaded once. This improvement applies automatically to all builds. No changes are required. Learn more about builds in the documentatio",
+   "published_at": "2026-09-08T22:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+   "source": "Krebs on Security",
+   "weight": 1.0,
+   "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+   "snippet": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and d",
+   "published_at": "2026-09-08T21:44:22+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.265",
+   "snippet": "## What's changed - Added `user.email` and `user.groups` to the telemetry Claude Desktop and Cowork send through a Claude apps gateway, matching terminal sessions - Added support for pointing `--plugin-dir` at a folder of plugins: each child folder with a manifest loads, and children added or removed while running are picked up - Added a 1 GB cap on tool results saved to disk; the in-conversation ",
+   "published_at": "2026-09-08T20:37:31+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Sandbox routing is now 18x faster globally",
+   "snippet": "Requests to Vercel Sandbox public domains are now routed 18x faster. Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instead of a single centralized store. Incoming requests reach the process running in the sandbox with less latency. Median domain lookup latency dropped from 62ms to 3.4ms (18x faster). The improvement is largest in regions far",
+   "published_at": "2026-09-08T20:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Organizing Context in a Multi-Agent Harness",
+   "snippet": "Learn how context modes in deepagents help subagents fork a supervisor's context or start isolated — for faster, cheaper, more focused multi-agent work.",
+   "published_at": "2026-09-08T18:07:23+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/codex-quantum-computing-experiments",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+   "snippet": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+   "published_at": "2026-09-08T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "What is happening with code reviews?",
+   "snippet": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
+   "published_at": "2026-09-08T16:32:01+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/a-bad-day-for-humans-a-worse-day",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "A Bad Day For Humans, a Worse Day For Humanity",
+   "snippet": "A quick thought on the top stories this week",
+   "published_at": "2026-09-08T14:52:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.6.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.6.1",
+   "snippet": "Changes since langchain-openai==1.6.0 fix(openai): bump `max_completion_tokens` in cache breakpoint integration test (#40284) release(openai): 1.6.1 (#40268) chore(model-profiles): refresh model profile data (#40217) fix(openai): support Azure AD auth with OpenAI 3.8 (#40190) feat(openai): support async tools (#40208) feat(openai): support `configuration_update` (#40201) chore(model-profiles): ref",
+   "published_at": "2026-09-08T14:20:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+   "snippet": "The open model ecosystem continues to expand in its breadth",
+   "published_at": "2026-09-08T14:15:25+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "snippet": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+   "published_at": "2026-09-08T14:00:15+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/the-first-gpt-6-model",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "The first GPT-6 model",
+   "snippet": "and what I’m building with it",
+   "published_at": "2026-09-08T13:03:52+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/the-work-now-within-reach",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "The Work Now Within Reach",
+   "snippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+   "published_at": "2026-09-08T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/everyone-is-reading-lonesome-dove",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Everyone is Reading Lonesome Dove",
+   "snippet": "And the Potential Defragmentation of Culture",
+   "published_at": "2026-09-08T12:53:13+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+   "snippet": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
+   "published_at": "2026-09-08T12:31:49+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/lockheed-martin-advances-workforce-transformation-sap-successfactors/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Lockheed Martin Advances Workforce Transformation with SAP SuccessFactors Solutions",
+   "snippet": "BETHESDA — The leader in aerospace, defense and advanced technology solutions is modernizing its HR landscape with SAP.",
+   "published_at": "2026-09-08T12:30:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+   "snippet": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and...",
+   "published_at": "2026-09-08T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing ChatGPT Images 2.5",
+   "snippet": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+   "published_at": "2026-09-08T11:30:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+   "snippet": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+   "published_at": "2026-09-08T11:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/videoarticle/3593/how-regulation-helped-lift-infrastructure-and-interoperability-to-the-next-level",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How Regulation Helped Lift Infrastructure and Interoperability to the Next Level",
+   "snippet": "In this virtual interview, context is given to how regulatory compliance has evolved along with its perception, to provide you with insights into how to approach your own efforts.",
+   "published_at": "2026-09-08T11:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/navier-stokes-solution",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "snippet": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+   "published_at": "2026-09-08T10:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/teen-development-research-grants",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Funding grants for new research into AI and teen development",
+   "snippet": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+   "published_at": "2026-09-08T09:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.smol.ai/issues/26-09-08-navier-stokes/",
+   "source": "smol.ai news",
+   "weight": 1.2,
+   "title": "OpenAI reports Navier-Stokes singularity find, a contender for second ever Millenium Prize awarded, overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5",
+   "snippet": "**OpenAI** announced a proposed Navier–Stokes proof by an internal model \"**significantly more capable than GPT-6 Astra**\" using **10,000 agents** over **88 hours** plus **17 hours** of formal verification. The effort highlights the emergence of **massive test-time compute scaling** as a new axis beyond pretraining, with estimated costs of **$10M–$40M** and **130B output tokens**. Controversy aros",
+   "published_at": "2026-09-08T05:44:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Introducing Flat Rate CDN",
+   "snippet": "Over the past year, we have improved Vercel’s Pro pricing to better reflect how teams build, with expanded user roles , flexible credits , access to enterprise features , and more. But one area our customers continued to give us feedback on was CDN pricing. CDN costs sho",
+   "published_at": "2026-09-08T04:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/1password",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "1Password increases engineering productivity 21% with Codex",
+   "snippet": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+   "published_at": "2026-09-08T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT Image 2.5 Flare and Sunburst now available on AI Gateway",
+   "snippet": "GPT Image 2.5 Flare and GPT Image 2.5 Sunburst from OpenAI are now available on AI Gateway. Both models accept text prompts and reference images for generation and editing. They produce natural lighting and textures, follow detailed visual instructions, handle complex layouts and transparent backgrounds, and make targeted edits while preserving",
+   "published_at": "2026-09-08T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Flat Rate CDN is now GA for Pro teams",
+   "snippet": "Flat Rate CDN is now generally available for Pro teams. Flat Rate CDN is an alternative to usage-based CDN billing that provides you with a fixed monthly bill. Monthly Flat Rate CDN capacity includes: Fast Data Transfer Blob Data Transfer CDN Requests Observability events generated by CDN requests Capacity is set at the team level, not the proj",
+   "published_at": "2026-09-08T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gpt6-astra-on-gitlab/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "GPT-6 Astra on GitLab: Faster runs, fewer tokens used",
+   "snippet": "OpenAI's newest frontier model GPT-6 Astra is now on GitLab Duo Agent Platform, delivering faster runs and lower token usage. In GitLab's internal evaluation, GPT-6 Astra finished a typical run 43.4% faster than GPT-5.6 Sol and used 42.7% fewer tokens per run, while completing every task in the benchmark . For your team, that means agen",
+   "published_at": "2026-09-08T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry",
+   "snippet": "For many organizations, the question about AI coding tools isn't whether they help, but where the code goes. Teams under data sovereignty, residency, or regulatory constraints need to know which network handles their source code before they can adopt anything. GitLab Duo Self-Hosted answers that by letting administrators connect GitLab Duo features to models running on infrastructure they choose, ",
+   "published_at": "2026-09-08T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

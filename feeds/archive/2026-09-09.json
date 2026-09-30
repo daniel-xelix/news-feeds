@@ -1,0 +1,255 @@
+{
+ "date": "2026-09-09",
+ "items": [
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.21",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.21",
+   "snippet": "## What's Changed ### Features - Add telemetry to track checkpoint runtime and CLI usage. ### Bug Fixes - Fix gateway errors reported inside an HTTP 200 response. - Keep deploy push on the AMP create source. - Report scrape failures instead of raising IndexError in the Oxylabs integration. - Route all DashScope models through the native provider. - Persist JSON checkpoints as UTF-8. - Drop stray $",
+   "published_at": "2026-09-09T22:54:19+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.6.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.6.2",
+   "snippet": "Changes since langchain-openai==1.6.1 release(openai): 1.6.2 (#40339) fix(openai): add GPT-6 Astra reasoning efforts (#40330) chore(deps): bump httpx2 from 2.10.0 to 2.12.0 in /libs/partners/openai (#40309)",
+   "published_at": "2026-09-09T21:22:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+   "snippet": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill...",
+   "published_at": "2026-09-09T20:31:04+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+   "snippet": "Every NVIDIA CUDA Toolkit release adds functionality and performance improvements that help developers get more from NVIDIA GPUs and the broader NVIDIA software...",
+   "published_at": "2026-09-09T20:24:12+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.267",
+   "snippet": "## What's changed - Added `maxEffortLevel` setting (top-level or per model under `modelSettings`): caps the effort level on every provider, including Bedrock, Vertex and Foundry; users can still pick a lower level - Added `--system-prompt-snapshot off` to render the system prompt fresh on every request instead of reusing the conversation's recorded prompt (for iterating on prompt text) - Fixed Cow",
+   "published_at": "2026-09-09T19:58:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.17.0",
+   "snippet": "## 1.17.0 (2026-09-09) ## What's Changed ### Features * feat: show manifest-declared value statements on dashboard cards and rows by @hieptl in https://github.com/OpenHands/OpenHands/pull/16921 * feat: Make automation run UI task-outcome aware by @malhotra5 in https://github.com/OpenHands/OpenHands/pull/16937 * feat: enable LLM provider connections on cloud by @juanmichelini in https://github.com/",
+   "published_at": "2026-09-09T19:27:26+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "snippet": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+   "published_at": "2026-09-09T17:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "Building Codex with Tibo Sottiaux",
+   "snippet": "OpenAI’s Tibo Sottiaux shares how Codex was built and how it’s reshaping software development.",
+   "published_at": "2026-09-09T15:57:24+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Release 5.17.0",
+   "snippet": "# Release v5.17.0 ## New Model additions ### HYV4 Hy4-Preview is a 780B-parameter mixture-of-experts language model that activates 49B parameters per token. Each MoE layer holds 256 routed experts plus one always-active shared expert and routes every token to 8 of them. The context window is 1M tokens. The architecture combines four features:",
+   "published_at": "2026-09-09T15:42:45+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/ai-policy-window",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "The AI policy window is open. We need to act.",
+   "snippet": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+   "published_at": "2026-09-09T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "source": "Sebastian Raschka",
+   "weight": 1.2,
+   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+   "snippet": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+   "published_at": "2026-09-09T11:14:25+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "When will average people feel AI’s impact?",
+   "snippet": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+   "published_at": "2026-09-09T11:01:23+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "snippet": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+   "published_at": "2026-09-09T11:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.getdx.com/p/ai-accelerates-output-not-innovation",
+   "source": "Engineering Enablement (DX)",
+   "weight": 1.1,
+   "title": "AI accelerates output, not innovation",
+   "snippet": "AI output explains 63% of developer time savings but shows a weak link to increased innovation ratio.",
+   "published_at": "2026-09-09T10:03:41+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.29.0",
+   "snippet": "# v0.29.0 ## Highlights This release features 594 commits from 277 contributors (91 new)! * **Model Runner V2 is now the default for all models** (#53183), completing the rollout that began with pooling models (#48290). MRV2 also gained CUDA graph memory profiling for KV cache auto-sizing (#53306), batch-sharded sampling that cuts per-step logits memory by 1/TP (#50465), prompt embeds (#42963), `e",
+   "published_at": "2026-09-09T08:54:49+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+   "snippet": "Anthropic launches Claude Fable 5.1, OpenAI Is About (already has) to Release Its First AI Model With ‘Critical’ Cyber Abilities, OpenAI’s rogue AI model incident was worse than we thought",
+   "published_at": "2026-09-09T08:01:40+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Password Protection is now available per project on Pro",
+   "snippet": "Pro teams can now enable Password Protection for individual projects at $20 per project per month. When enabled, Password Protection requires visitors to enter a password you set before they can view the project’s deployments. Open Security in the sidebar, select <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fdeployment-protection&title=D",
+   "published_at": "2026-09-09T06:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Protect production deployments for free on every plan",
+   "snippet": "Vercel Authentication can now protect all deployments in a project, including production, at no additional cost on every plan. Previously, protecting production domains required the $150-per-month Advanced Deployment Protection add-on. When enabled, visitors must sign in with a Vercel account that has access to the project. This makes it useful for internal tools, private das",
+   "published_at": "2026-09-09T06:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.smol.ai/issues/26-09-09-not-much/",
+   "source": "smol.ai news",
+   "weight": 1.2,
+   "title": "not much happened today",
+   "snippet": "**Anthropic** disclosed four cyber incidents involving **Claude** during third-party security tests, revealing failures in situational awareness and monitorability, with an independent investigation by **METR** underway. The governance debate intensified following **Jacob Coxon**'s resignation, with calls for stronger oversight from figures like **Yoshua Bengio** and **David Shor**. **OpenAI** rep",
+   "published_at": "2026-09-09T05:44:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.smol.ai/issues/26-09-10-not-much/",
+   "source": "smol.ai news",
+   "weight": 1.2,
+   "title": "not much happened today",
+   "snippet": "**DeepSeek** launched **V4.1-Flash**, a new open-weight flagship model focused on extreme inference efficiency and low cost, featuring a **763B total-parameter** causal encoder-decoder architecture with **8B active input** and **16B active output** parameters and **1M-token context**. It scored **40 on the Artificial Analysis Intelligence Index**, outperforming its predecessor and ranking just bel",
+   "published_at": "2026-09-09T05:44:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/the-open-source-ai-stack",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "The Open Source AI Stack",
+   "snippet": "A deep dive into the open model AI stack — model, inference, gateways and routers, harness, and tools — and how keeping each layer independent lets you swap in a new open model in minutes instead of rebuilding your workflow.",
+   "published_at": "2026-09-09T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "DeepSeek V4.1 Flash now available on AI Gateway",
+   "snippet": "DeepSeek V4.1 Flash is now available on AI Gateway with native image understanding. V4.1 Flash has vision support and accepts text and images in the same request, so you can ask questions about screenshots, read charts, and extract information from visual content. The model has a 1 million token context window and supports responses up to 384,000 tokens, along with reasoning, tool use, and prompt ",
+   "published_at": "2026-09-09T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "You can now read and search changelogs from the CLI",
+   "snippet": "You and your agents can now read and search the Vercel changelog feed from your terminal using vercel changelog . Coding agents can use this command to discover new Vercel products and features, find updates relevant to your project, and read full announcements to inform their recommendations. vercel changelog returns the latest five changelogs with full Markdown content. You can also set the numb",
+   "published_at": "2026-09-09T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/persistent-memory-for-eve-agents",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Persistent memory for eve agents",
+   "snippet": "eve agents can now retain context across sessions and use it in future conversations. Persistent memory is organized into slots. You can define named slots in files under agent/memory/ . Each slot specifies a provider, which stores and retrieves the memory, and a scope, which determines who or what shares it. For example, you can keep separate memory for each authenticated user. Before each turn,",
+   "published_at": "2026-09-09T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "v0 adds one-click integrations for email, auth, search, and databases",
+   "snippet": "We're working toward bringing parity across Vercel integration and v0 , starting with Resend , Amazon OpenSearch , MongoDB Atlas , Algolia and Clerk . Prompt v0 with what you want to build, and when your prompt require",
+   "published_at": "2026-09-09T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

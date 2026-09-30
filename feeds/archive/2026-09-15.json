@@ -1,0 +1,275 @@
+{
+ "date": "2026-09-15",
+ "items": [
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.34.2",
+   "snippet": "## What's Changed - Added first-run setup when running `ollama`, with options to sign in or continue locally. Setup completion is shared with the desktop app on macOS and Windows. - Added `ollama://apps` to open the desktop app’s Apps page directly on macOS and Windows. - Fixed excessive memory growth during long generations with MLX speculative decoding. - Updated llama.cpp. **Full Changelog**: h",
+   "published_at": "2026-09-15T21:21:07+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.273",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.273",
+   "snippet": "## What's changed - Added `x-claude-code-request-class`, `x-claude-code-agent-type`, `x-claude-code-prev-tool-durations`, `x-claude-code-compaction` and `x-claude-code-context-compacted` request headers for LLM gateways; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1` - Added a notification when an MCP server disconnects mid-session and automatic reconnection gives up, pointing at `/mcp` - Added ",
+   "published_at": "2026-09-15T20:23:03+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/good-start-labs",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+   "snippet": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+   "published_at": "2026-09-15T20:11:54+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "snippet": "",
+   "published_at": "2026-09-15T17:05:57+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+   "snippet": "How can a 30B-parameter model activate only 3B parameters per token, and still use the capacity of the larger model? Nemotron 3.5 Lightning illustrates the...",
+   "published_at": "2026-09-15T17:00:11+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+   "snippet": "Power is a defining constraint for AI factories. As AI workloads demand a full compute platform to serve them, each component of that platform must maximize...",
+   "published_at": "2026-09-15T16:55:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+   "snippet": "For operators of large-scale AI factories, maximizing continuous output is essential for productivity. In massive-scale AI training, every GPU in the cluster...",
+   "published_at": "2026-09-15T16:55:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/tabpfn-35-plus-now-available-sap-ai-core-instant-business-predictions/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "TabPFN-3.5 Plus Now Available in SAP AI Core for Instant Business Predictions",
+   "snippet": "WALLDORF — Now available in SAP AI Core for SAP customers, the model marks the next leap in tabular AI.",
+   "published_at": "2026-09-15T16:30:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "snippet": "",
+   "published_at": "2026-09-15T16:00:44+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "Inside OpenAI’s agentic software factory",
+   "snippet": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+   "published_at": "2026-09-15T15:41:25+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+   "snippet": "Federated learning (FL) projects often begin with a straightforward setup: one server, a few clients, and one dataset at each site. As those projects grow, the...",
+   "published_at": "2026-09-15T15:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "Good luck slowing this down",
+   "snippet": "plus what’s new in AI this week",
+   "published_at": "2026-09-15T13:02:52+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/team-liquid-race-to-world-first-runs-on-sap-bdc/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Playing the Long Game: Why Team Liquid’s Race to World First Runs on SAP Business Data Cloud",
+   "snippet": "In esports, success can be measured in milliseconds.",
+   "published_at": "2026-09-15T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/sap-bdc-helps-team-liquid-optimize-player-performance/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "SAP BDC Helps Team Liquid Optimize Player Performance",
+   "snippet": "WALLDORF — SAP BDC allows the team to make decisions backed by data rather than intuition.",
+   "published_at": "2026-09-15T13:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "60+ new creative growth ideas",
+   "snippet": "How to stand out when everyone is running the same playbook",
+   "published_at": "2026-09-15T12:45:28+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/videoarticle/3595/how-the-future-of-ai-may-lie-in-informed-revenue-maximisation",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How the Future of AI May Lie in Informed Revenue Maximisation",
+   "snippet": "In this interview at the Communify Intelligence Experience, we look at how AI is being used for revenue maximisation.",
+   "published_at": "2026-09-15T11:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/adam-smith-ai",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "🔮 What would Adam Smith make of AI?",
+   "snippet": "A Smithian inquiry amidst the chaos",
+   "published_at": "2026-09-15T09:48:43+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.28",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.28",
+   "snippet": "- The app no longer gets stuck on \"Desktop backend unavailable\" when the backend is slow to start. The window asked for the backend's address exactly once and the shell stops waiting after about 15 seconds, so on a slower machine — where starting the hub pushed past that — you were left on the error screen until you relaunched, and the relaunch could lose the same race. Connection attempts now kee",
+   "published_at": "2026-09-15T07:55:48+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.62",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.62",
+   "snippet": "- Introducing Cline Desktop: a native app for working with open-weight models, with task import from Claude Code and Codex, scheduled runs, web search and voice input, and a marketplace for plugins, MCP servers, and skills. The CLI now shows a one-time startup notice pointing at cline.bot/desktop. At most one notice appears per launch, and `CLINE_DISABLE_CLINE_PASS_NOTICE=1` still suppresses all o",
+   "published_at": "2026-09-15T06:04:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.83",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.0.83",
+   "snippet": "- Hub-managed Agent Plugins. Packages under `~/.agents/plugins/*` on the hub host are discovered and validated from their root `plugin.json`; valid skills under `skills/` are exposed through the skills tool as `plugin-name:skill-name`, and stdio, Streamable HTTP, and legacy SSE servers from `mcp.json` are started without touching `cline_mcp_settings.json`. Workspace `.agents/plugins` directories a",
+   "published_at": "2026-09-15T05:53:27+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/paid-media-agent",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How We Built LangChain’s Paid Media Agent",
+   "snippet": "How LangChain built a paid media agent to analyze campaign performance, optimize ads, propose changes, and turn marketing data into action.",
+   "published_at": "2026-09-15T04:53:31+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
+   "snippet": "A guide on scaling agents in Europe & the Middle East to see how Schneider Electric, Vodafone, and monday.com are approaching production AI at scale, from establishing shared agent platforms and LLMOps practices to designing multi-agent architectures with stronger observability, evaluation, and control.",
+   "published_at": "2026-09-15T04:53:31+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How Delphi ships 100 times a day with its Python backend on Vercel",
+   "snippet": "Delphi on Vercel 10 engineers with no dedicated infrastructure role Everyone ships code, including product and design 100+ production deploys a day behind feature flags Delphi builds digital minds. They capture what someone has written, recorded, and taught, so anyone can tap that expertise on demand. Delphi is “a destination where you can find and interact with interesting minds,” says fo",
+   "published_at": "2026-09-15T04:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.101.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.101.0",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is",
+   "published_at": "2026-09-15T03:41:59+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.272",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.272",
+   "snippet": "## What's changed - Bug fixes and reliability improvements",
+   "published_at": "2026-09-15T00:42:25+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini 3.8 Live models now available on AI Gateway",
+   "snippet": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking from Google are now available on AI Gateway. Both models support real-time spoken interactions for voice assistants, conversational experiences, and applications that respond through audio. google/gemini-3.8-live supports real-time audio, visual grounding, a",
+   "published_at": "2026-09-15T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "What Stripe data shows about fraud at AI startups",
+   "snippet": "We analyzed attempted fraud rates and customer abuse patterns on Stripe over the past year and found that AI companies faced 4.3x more fraud attempts than startups overall in Q3 2025.",
+   "published_at": "2026-09-15T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}

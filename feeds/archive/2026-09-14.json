@@ -1,0 +1,155 @@
+{
+ "date": "2026-09-14",
+ "items": [
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.34.1",
+   "snippet": "## What's Changed * MLX safetensors `ollama create` no longer experimental. GGUF model creation now requires using llama.cpp tooling for safetensor conversion and quantization. * Improved MLX memory handling on Apple Silicon * Runaway repeat token detection now requires 100 repeat tokens for reduced false positives (e.g. OCR) * `/api/tags` is much faster on large model libraries (3.1 s → 294 ms co",
+   "published_at": "2026-09-14T22:14:03+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.271",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.271",
+   "snippet": "## What's changed - Added fast mode in Claude Code Remote sessions (cloud and self-hosted runners): the host's fast-mode setting or `/fast` typed in the session applies where your organization allows it - Added mouse support to the `/config` panel in fullscreen mode: the wheel scrolls the settings list, a click on a setting's value changes it, and the row under the pointer is highlighted - Added `",
+   "published_at": "2026-09-14T22:12:54+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-has-finally-discovered",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "The AI Industry Has Finally Discovered the Hardest Test: Politics",
+   "snippet": "AI CEOs want to pace the frontier. Here's what that means and why they can't do it",
+   "published_at": "2026-09-14T21:46:17+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI SDK harness layer now supports native subscription authentication",
+   "snippet": "The AI SDK harness layer now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. No code changes or new settings are required. The direct authentication mode uses explicit",
+   "published_at": "2026-09-14T21:28:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+   "snippet": "Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE...",
+   "published_at": "2026-09-14T16:39:15+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+   "snippet": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+   "published_at": "2026-09-14T15:03:48+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+   "snippet": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+   "published_at": "2026-09-14T12:04:39+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/fyxer",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Fyxer built an AI executive assistant people trust",
+   "snippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+   "published_at": "2026-09-14T12:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/monday-data-14-09-2026",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "📈 Anthropic’s $517 billion shopping list",
+   "snippet": "Plus: $300 billion chip subsidies, no jobs; a learning slump; AI decodes bio++",
+   "published_at": "2026-09-14T09:52:14+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How Credit Genie keeps codebase docs fresh with OpenWiki",
+   "snippet": "See how Credit Genie uses OpenWiki to automate repo documentation, reduce tribal knowledge, and give engineers and coding agents searchable codebase context.",
+   "published_at": "2026-09-14T01:53:59+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
+   "snippet": "Learn how Connections in Managed Deep Agents securely manage credentials, support per-user OAuth, and let agents act with each caller’s identity.",
+   "published_at": "2026-09-14T01:53:59+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/how-we-built-langchains-gtm-agent",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How we built LangChain’s GTM Agent",
+   "snippet": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40 hours per month",
+   "published_at": "2026-09-14T01:53:59+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+   "snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+   "published_at": "2026-09-14T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/introducing-agentic-batch-changes",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+   "snippet": "Codebase-wide changes across hundreds or thousands of repositories can now be run by one engineer.",
+   "published_at": "2026-09-14T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gitlab-dedicated-compliance/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "GitLab Dedicated: Compliance for a new regulatory era",
+   "snippet": "Enforcements such as NIS2 are no longer a future planning consideration. The European Union Agency for Cybersecurity's (ENISA) NIS360 report confirms that supervisory authorities are actively assessing cybersecurity maturity across critical sectors. The agency is moving from guidance and consultation into active oversight, scrutiny, and accountability. This is the regulatory environment European e",
+   "published_at": "2026-09-14T00:00:00+00:00",
+   "first_seen": "2026-09-30T14:40:06+00:00",
+   "also_in": []
+  }
+ ]
+}
