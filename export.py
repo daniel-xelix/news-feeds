@@ -106,6 +106,8 @@ async def main() -> int:
     for row in by_url.values():
         ts = row["published_at"]
         dt = datetime.fromisoformat(ts) if ts else None
+        if dt is not None and dt > now + timedelta(days=1):
+            continue  # future-dated entries are event listings, not news
         if dt is None and row["url"] in known:
             continue
         day_dt = dt or now
