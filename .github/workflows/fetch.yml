@@ -1,0 +1,37 @@
+name: Fetch feeds
+
+on:
+  schedule:
+    - cron: "7 5 * * *"    # 05:07 UTC, ahead of the 06:47 London daily briefing
+    - cron: "7 15 * * *"   # 15:07 UTC, ahead of the Friday weekly briefing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Install
+        run: uv sync --no-dev
+      - name: Fetch and export
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run python export.py
+      - name: Commit snapshots
+        run: |
+          git config user.name "news-feeds bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "feeds: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

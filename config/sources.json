@@ -1,0 +1,511 @@
+[
+ {
+  "name": "Hacker News (AI)",
+  "type": "json_hn",
+  "url": "https://hn.algolia.com/api/v1/search?query=AI+LLM+Claude+GPT&tags=story&hitsPerPage=100",
+  "weight": 1.0,
+  "min_score": 20
+ },
+ {
+  "name": "OpenAI blog",
+  "type": "rss",
+  "url": "https://openai.com/news/rss.xml",
+  "weight": 1.4
+ },
+ {
+  "name": "Google DeepMind blog",
+  "type": "rss",
+  "url": "https://deepmind.google/blog/rss.xml",
+  "weight": 1.4
+ },
+ {
+  "name": "Hugging Face blog",
+  "type": "rss",
+  "url": "https://huggingface.co/blog/feed.xml",
+  "weight": 1.3
+ },
+ {
+  "name": "NVIDIA developer blog",
+  "type": "rss",
+  "url": "https://developer.nvidia.com/blog/feed/",
+  "weight": 1.0
+ },
+ {
+  "name": "Apple ML research",
+  "type": "rss",
+  "url": "https://machinelearning.apple.com/rss.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "Together AI blog",
+  "type": "rss",
+  "url": "https://www.together.ai/blog/rss.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "Cursor changelog",
+  "type": "html",
+  "url": "https://www.cursor.com/changelog",
+  "weight": 1.3
+ },
+ {
+  "name": "Simon Willison",
+  "type": "rss",
+  "url": "https://simonwillison.net/atom/everything/",
+  "weight": 1.5
+ },
+ {
+  "name": "Latent Space",
+  "type": "rss",
+  "url": "https://www.latent.space/feed",
+  "weight": 1.4
+ },
+ {
+  "name": "swyx.io",
+  "type": "rss",
+  "url": "https://www.swyx.io/rss.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "smol.ai news",
+  "type": "rss",
+  "url": "https://news.smol.ai/rss.xml",
+  "weight": 1.2
+ },
+ {
+  "name": "Lilian Weng",
+  "type": "rss",
+  "url": "https://lilianweng.github.io/index.xml",
+  "weight": 1.3
+ },
+ {
+  "name": "Chip Huyen",
+  "type": "rss",
+  "url": "https://huyenchip.com/feed.xml",
+  "weight": 1.2
+ },
+ {
+  "name": "Sebastian Raschka",
+  "type": "rss",
+  "url": "https://magazine.sebastianraschka.com/feed",
+  "weight": 1.2
+ },
+ {
+  "name": "Hamel Husain",
+  "type": "rss",
+  "url": "https://hamel.dev/index.xml",
+  "weight": 1.2
+ },
+ {
+  "name": "Eugene Yan",
+  "type": "rss",
+  "url": "https://eugeneyan.com/rss/",
+  "weight": 1.2
+ },
+ {
+  "name": "Interconnects (Nathan Lambert)",
+  "type": "rss",
+  "url": "https://www.interconnects.ai/feed",
+  "weight": 1.3
+ },
+ {
+  "name": "Import AI (Jack Clark)",
+  "type": "rss",
+  "url": "https://importai.substack.com/feed",
+  "weight": 1.3
+ },
+ {
+  "name": "One Useful Thing (Ethan Mollick)",
+  "type": "rss",
+  "url": "https://www.oneusefulthing.org/feed",
+  "weight": 1.1
+ },
+ {
+  "name": "Understanding AI (Timothy B. Lee)",
+  "type": "rss",
+  "url": "https://www.understandingai.org/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "Every \u2014 Chain of Thought (Dan Shipper)",
+  "type": "rss",
+  "url": "https://every.to/chain-of-thought/feed.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "The Gradient",
+  "type": "rss",
+  "url": "https://thegradient.pub/rss/",
+  "weight": 0.9
+ },
+ {
+  "name": "JetBrains AI blog",
+  "type": "rss",
+  "url": "https://blog.jetbrains.com/ai/feed/",
+  "weight": 1.0
+ },
+ {
+  "name": "Vercel blog",
+  "type": "rss",
+  "url": "https://vercel.com/atom",
+  "weight": 0.9
+ },
+ {
+  "name": "Sourcegraph blog",
+  "type": "rss",
+  "url": "https://sourcegraph.com/blog/rss.xml",
+  "weight": 0.9
+ },
+ {
+  "name": "GitLab blog",
+  "type": "rss",
+  "url": "https://about.gitlab.com/atom.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "Ben's Bites",
+  "type": "rss",
+  "url": "https://www.bensbites.com/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "TLDR AI",
+  "type": "tldr_ai_index",
+  "url": "https://tldr.tech/api/rss/ai",
+  "weight": 1.5
+ },
+ {
+  "name": "Last Week in AI",
+  "type": "rss",
+  "url": "https://lastweekin.ai/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "AI Tidbits (Sahar Mor)",
+  "type": "rss",
+  "url": "https://aitidbits.substack.com/feed",
+  "weight": 1.1
+ },
+ {
+  "name": "The Algorithmic Bridge (Alberto Romero)",
+  "type": "rss",
+  "url": "https://www.thealgorithmicbridge.com/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "The Pragmatic Engineer (Gergely Orosz)",
+  "type": "rss",
+  "url": "https://newsletter.pragmaticengineer.com/feed",
+  "weight": 1.2
+ },
+ {
+  "name": "Lenny's Newsletter",
+  "type": "rss",
+  "url": "https://www.lennysnewsletter.com/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "Don't Worry About the Vase (Zvi)",
+  "type": "rss",
+  "url": "https://thezvi.substack.com/feed",
+  "weight": 1.2
+ },
+ {
+  "name": "Exponential View (Azeem Azhar)",
+  "type": "rss",
+  "url": "https://www.exponentialview.co/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "Benedict Evans",
+  "type": "rss",
+  "url": "https://www.ben-evans.com/benedictevans?format=rss",
+  "weight": 0.9
+ },
+ {
+  "name": "Tomasz Tunguz",
+  "type": "rss",
+  "url": "https://tomtunguz.com/index.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "SaaStr (Jason Lemkin)",
+  "type": "rss",
+  "url": "https://www.saastr.com/feed/",
+  "weight": 0.9
+ },
+ {
+  "name": "Not Boring (Packy McCormick)",
+  "type": "rss",
+  "url": "https://www.notboring.co/feed",
+  "weight": 0.9
+ },
+ {
+  "name": "A Smart Bear (Jason Cohen)",
+  "type": "rss",
+  "url": "https://longform.asmartbear.com/index.xml",
+  "weight": 0.9
+ },
+ {
+  "name": "Elad Gil",
+  "type": "rss",
+  "url": "https://blog.eladgil.com/feed",
+  "weight": 0.9
+ },
+ {
+  "name": "Andrej Karpathy",
+  "type": "rss",
+  "url": "https://karpathy.github.io/feed.xml",
+  "weight": 1.4
+ },
+ {
+  "name": "Eric Jang",
+  "type": "rss",
+  "url": "https://evjang.com/feed.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "Google Research blog",
+  "type": "rss",
+  "url": "https://blog.research.google/feeds/posts/default",
+  "weight": 1.2
+ },
+ {
+  "name": "LangChain blog",
+  "type": "rss",
+  "url": "https://blog.langchain.dev/rss.xml",
+  "weight": 1.0
+ },
+ {
+  "name": "CrewAI blog",
+  "type": "rss",
+  "url": "https://blog.crewai.com/rss/",
+  "weight": 1.0
+ },
+ {
+  "name": "r/LocalLLaMA top",
+  "type": "json_reddit",
+  "url": "https://www.reddit.com/r/LocalLLaMA/top/.json?t=day&limit=25",
+  "weight": 1.0,
+  "min_score": 50
+ },
+ {
+  "name": "r/MachineLearning top",
+  "type": "json_reddit",
+  "url": "https://www.reddit.com/r/MachineLearning/top/.json?t=day&limit=25",
+  "weight": 1.0,
+  "min_score": 30
+ },
+ {
+  "name": "r/ClaudeAI top",
+  "type": "json_reddit",
+  "url": "https://www.reddit.com/r/ClaudeAI/top/.json?t=day&limit=25",
+  "weight": 1.0,
+  "min_score": 30
+ },
+ {
+  "name": "r/ChatGPTCoding top",
+  "type": "json_reddit",
+  "url": "https://www.reddit.com/r/ChatGPTCoding/top/.json?t=day&limit=25",
+  "weight": 1.0,
+  "min_score": 15
+ },
+ {
+  "name": "GitHub: anthropics/claude-code",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/anthropics/claude-code/releases",
+  "weight": 1.5
+ },
+ {
+  "name": "GitHub: ollama/ollama",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/ollama/ollama/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: ggml-org/llama.cpp",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/ggml-org/llama.cpp/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: Aider-AI/aider",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/Aider-AI/aider/releases",
+  "weight": 1.1
+ },
+ {
+  "name": "GitHub: vllm-project/vllm",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/vllm-project/vllm/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: sgl-project/sglang",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/sgl-project/sglang/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: ml-explore/mlx",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/ml-explore/mlx/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: huggingface/transformers",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/huggingface/transformers/releases",
+  "weight": 0.9
+ },
+ {
+  "name": "GitHub: cline/cline",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/cline/cline/releases",
+  "weight": 1.2
+ },
+ {
+  "name": "GitHub: continuedev/continue",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/continuedev/continue/releases",
+  "weight": 1.1
+ },
+ {
+  "name": "GitHub: All-Hands-AI/OpenHands",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/releases",
+  "weight": 1.1
+ },
+ {
+  "name": "GitHub: simonw/llm",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/simonw/llm/releases",
+  "weight": 1.1
+ },
+ {
+  "name": "GitHub: langchain-ai/langchain",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/langchain-ai/langchain/releases",
+  "weight": 0.9
+ },
+ {
+  "name": "GitHub: langchain-ai/langgraph",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/langchain-ai/langgraph/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: microsoft/autogen",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/microsoft/autogen/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: crewAIInc/crewAI",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/crewAIInc/crewAI/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "GitHub: BerriAI/litellm",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/BerriAI/litellm/releases",
+  "weight": 1.1
+ },
+ {
+  "name": "GitHub: huggingface/text-generation-inference",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/huggingface/text-generation-inference/releases",
+  "weight": 0.9
+ },
+ {
+  "name": "GitHub: princeton-nlp/SWE-agent",
+  "type": "json_github",
+  "url": "https://api.github.com/repos/SWE-agent/SWE-agent/releases",
+  "weight": 1.0
+ },
+ {
+  "name": "Fintech Brainfood (Simon Taylor)",
+  "type": "rss",
+  "url": "https://www.fintechbrainfood.com/feed",
+  "weight": 1.3
+ },
+ {
+  "name": "This Week in Fintech",
+  "type": "rss",
+  "url": "https://thisweekinfintech.com/rss/",
+  "weight": 1.1
+ },
+ {
+  "name": "Mostly Metrics (CJ Gustafson)",
+  "type": "rss",
+  "url": "https://www.mostlymetrics.com/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "Net Interest (Marc Rubinstein)",
+  "type": "rss",
+  "url": "https://www.netinterest.co/feed",
+  "weight": 0.9
+ },
+ {
+  "name": "CFO Dive",
+  "type": "rss",
+  "url": "https://www.cfodive.com/feeds/news/",
+  "weight": 1.3
+ },
+ {
+  "name": "Payments Dive",
+  "type": "rss",
+  "url": "https://www.paymentsdive.com/feeds/news/",
+  "weight": 1.1
+ },
+ {
+  "name": "Finextra headlines",
+  "type": "rss",
+  "url": "https://www.finextra.com/rss/headlines.aspx",
+  "weight": 1.0
+ },
+ {
+  "name": "Sifted",
+  "type": "rss",
+  "url": "https://sifted.eu/feed",
+  "weight": 1.0
+ },
+ {
+  "name": "VATCalc (e-invoicing)",
+  "type": "rss",
+  "url": "https://www.vatcalc.com/feed/",
+  "weight": 1.3
+ },
+ {
+  "name": "SAP News Center",
+  "type": "rss",
+  "url": "https://news.sap.com/feed/",
+  "weight": 1.0
+ },
+ {
+  "name": "Stripe blog",
+  "type": "rss",
+  "url": "https://stripe.com/blog/feed.rss",
+  "weight": 1.0
+ },
+ {
+  "name": "Engineering Enablement (DX)",
+  "type": "rss",
+  "url": "https://newsletter.getdx.com/feed",
+  "weight": 1.1
+ },
+ {
+  "name": "Krebs on Security",
+  "type": "rss",
+  "url": "https://krebsonsecurity.com/feed/",
+  "weight": 1.0
+ },
+ {
+  "name": "The Record",
+  "type": "rss",
+  "url": "https://therecord.media/feed",
+  "weight": 0.9
+ }
+]
