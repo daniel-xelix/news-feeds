@@ -2,6 +2,116 @@
  "date": "2026-09-30",
  "items": [
   {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.40",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.40",
+   "snippet": "- Custom providers added with **Add Provider** now work when you run a task. They showed up in the provider and model pickers but failed with `Unknown or disabled provider` - New chats remember whether you last used **Cloud** or **Local**, and which Cloud model you picked, instead of always going back to Local. Switching a thread from Local to Cloud also opens on your remembered Cloud model - Savi",
+   "published_at": "2026-09-30T23:56:13+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.67",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.67",
+   "snippet": "- When an MCP tool returns more output than fits in context, the agent can now read the rest. It gets a preview plus a link it can page through with `read_files`, so the output past the cutoff is no longer lost - Custom providers defined in `providers.json`/`models.json` now work when you run a task. They showed up in the provider and model pickers but failed with `Unknown or disabled provider` - ",
+   "published_at": "2026-09-30T23:42:02+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.89",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.0.89",
+   "snippet": "- Oversized MCP and Composio tool results can now be recovered in full. Core caches the oversized output in a per-session in-memory cache and sends the model a bounded preview plus a `cline://cache/...` URI that `read_files` can page through by line range. Custom tools can opt in with `resultPolicy: \"cache-oversized\"` on `createTool`. Entries expire after five model iterations without a read, the ",
+   "published_at": "2026-09-30T23:34:22+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Agent now installs private packages from npm and custom registries",
+   "snippet": "Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. npm , pnpm , and classic Yarn running in Agent sessions authenticate as they do in Vercel builds. To get started, add a shared environment variable for Development or Preview: Use NPM_TOKEN for private pack",
+   "published_at": "2026-09-30T23:22:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/bdo-axis-a-single-global-vat-technology-services-solution/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "BDO Axis – a single global VAT technology & services solution",
+   "snippet": "",
+   "published_at": "2026-09-30T23:00:54+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "US sanctions 10 over ATM malware scheme tied to Tren de Aragua",
+   "snippet": "Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.",
+   "published_at": "2026-09-30T22:35:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/devday-2026",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+   "snippet": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+   "published_at": "2026-09-30T22:23:40+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "He Built This City",
+   "snippet": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance. <img alt=\"A wide shot of the model of the isla",
+   "published_at": "2026-09-30T21:54:19+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway adds Browserbase Search and Fetch tools",
+   "snippet": "Browserbase Search and Fetch are now available through AI Gateway . Give your models access to current information, find relevant pages, and retrieve their contents, alongside Browserbase's existing AI SDK and Vercel Marketplace integrations. AI Gateway lets you use Browserbase's tools across model providers with one API key. Add web search and page retrieval to any model tha",
+   "published_at": "2026-09-30T21:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+   "snippet": "Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...",
+   "published_at": "2026-09-30T20:54:59+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+   "snippet": "A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.",
+   "published_at": "2026-09-30T20:32:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/videoarticle/3602/bridging-the-compliance-screening-decision-gap-whats-next",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -9,6 +119,56 @@
    "snippet": "At Sibos 2026, David White, Global Head of Product and Data for Risk Intelligence at LSEG, reveals how LSEG is collaborating with AWS to bridge the compliance screening decision gap using intelligent data and AI agents.",
    "published_at": "2026-09-30T20:10:00+00:00",
    "first_seen": "2026-09-30T19:55:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "snippet": "",
+   "published_at": "2026-09-30T20:01:45+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Edge Requests are now called CDN Requests",
+   "snippet": "CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged. The new name appears on the usage dashboard, the Observability Events chart, usage notifications, and invoice line items. It reflects that these are requests served by Vercel's CDN. Metric IDs and product aliases are unchange",
+   "published_at": "2026-09-30T20:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33040/open-banking-year-eight-building-the-foundation-for-corporate-agentic-finance",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Open Banking Year Eight: Building the Foundation for Corporate Agentic Finance",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-09-30T19:58:48+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/conagra-cfo-cites-logistics-transportation-accelerating-inflation/831822/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Conagra CFO cites logistics, transportation accelerating inflation",
+   "snippet": "The Slim Jim-maker’s finance chief David Marberger said oil prices and a driver shortage helped drive inflation higher in the fiscal first quarter.",
+   "published_at": "2026-09-30T19:46:45+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33039/integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Integrity in Digital Asset Architecture: Evaluating Crypto Trading Applications",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-09-30T19:41:36+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
    "also_in": []
   },
   {
@@ -69,6 +229,16 @@
    "snippet": "The UK's competition watchdog says it will undertake an in-depth investigation into cash management giant Brink's' planned $6.6 billion deal to buy ATM operator NCR Atleos - unless the parties take action to address concerns.",
    "published_at": "2026-09-30T18:59:00+00:00",
    "first_seen": "2026-09-30T19:55:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/new-davids-bridal-cfo-focuses-finance-fundamentals-ai-transformation/831801/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "New David’s Bridal CFO focuses on finance fundamentals",
+   "snippet": "Nike alum Kathy Cherian wants to ensure the bridal company’s finance function is included early in the decision-making process, she said.",
+   "published_at": "2026-09-30T18:12:08+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
    "also_in": []
   },
   {
@@ -602,6 +772,16 @@
    "also_in": []
   },
   {
+   "url": "https://hamel.dev/blog/posts/claude-auto-evals/",
+   "source": "Hamel Husain",
+   "weight": 1.2,
+   "title": "Claude’s new auto eval tool",
+   "snippet": "Anthropic released new eval tooling for Claude Code . Their claude-api plugin now includes a new build_eval and hill-climb command that helps you build evals, check the graders, and improve your application against",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.vatcalc.com/france/france-e-invoicing-data-beyond-the-invoice-creating-complexity/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
@@ -1021,6 +1201,36 @@
    "snippet": "Open USD (OUSD), a stablecoin built for global money movement, is now available across Stripe. Businesses can use OUSD to manage funds, make payments, and offer new financial services.",
    "published_at": "2026-09-30T00:00:00+00:00",
    "first_seen": "2026-09-30T19:55:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
+   "snippet": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and start, crons, and memory consolidation. Yet existing benchmarks and training frameworks schedule only the benchmark’s own events, leaving each benchmark and agent pair to build a c",
+   "published_at": "2026-09-30T00:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Sandbox now supports Secure Compute",
+   "snippet": "Vercel Sandbox now supports Secure Compute , connecting sandboxes to a team's dedicated network. Public-internet traffic exits through the network's static IPs, and sandboxes can reach private resources in an AWS VPC through VPC peering. You can attach a sandbox to your network in your code or via the CLI. In your code, pass an existing Secure Compute network ID when creating a sandbox: In the CLI",
+   "published_at": "2026-09-30T00:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Ling 3.1 Flash is now available on AI Gateway",
+   "snippet": "Ling 3.1 Flash from InclusionAI is now available on AI Gateway. The model is free to use through October 13, 2026. Ling 3.1 Flash is a hybrid reasoning language model with 560B total parameters and 25B active per token. It has a 262K-token context window on AI Gateway. The model is designed for coding, multi-step analysis, and agents that use tools, including workflows involving long documents, co",
+   "published_at": "2026-09-30T00:00:00+00:00",
+   "first_seen": "2026-10-01T11:32:17+00:00",
    "also_in": []
   }
  ]
