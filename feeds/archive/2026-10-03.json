@@ -2,6 +2,66 @@
  "date": "2026-10-03",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "snippet": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and per",
+   "published_at": "2026-10-03T23:34:02+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.103.3",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.103.3",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is",
+   "published_at": "2026-10-03T23:33:58+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.289",
+   "snippet": "## What's changed - Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines - Fixed the terminal freezing on short code blocks with many unclosed ` ` tags or deeply nested `${` substitutions - Fixed `Read` deny rules not applying to files @-mentioned, changed, or selected in the IDE through a symlink - [VSCode] Reve",
+   "published_at": "2026-10-03T23:07:17+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "snippet": "",
+   "published_at": "2026-10-03T22:56:48+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.104.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.104.0",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is",
+   "published_at": "2026-10-03T22:50:14+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "September sponsors-only newsletter",
+   "snippet": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks <l",
+   "published_at": "2026-10-03T22:00:31+00:00",
+   "first_seen": "2026-10-04T11:05:01+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
    "source": "Lenny's Newsletter",
    "weight": 1.0,
