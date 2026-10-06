@@ -2,6 +2,26 @@
  "date": "2026-10-05",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting Felix Rieseberg",
+   "snippet": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally.",
+   "published_at": "2026-10-05T23:56:47+00:00",
+   "first_seen": "2026-10-06T11:57:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.290",
+   "snippet": "## What's changed - Added `serverToolUses` to the result of a mod's `turn.step` hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end - Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell a subagent's permission check from the main session's - Added `ceiling` to the question and verdict a mod's `tool.check` hook reads, naming ",
+   "published_at": "2026-10-05T23:33:17+00:00",
+   "first_seen": "2026-10-06T11:57:27+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
    "source": "The Record",
    "weight": 0.9,
