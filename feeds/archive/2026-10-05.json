@@ -880,6 +880,26 @@
    "published_at": "2026-10-05T00:00:00+00:00",
    "first_seen": "2026-10-05T21:57:04+00:00",
    "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "OpenAI Ultrafast mode now available on AI Gateway",
+   "snippet": "AI Gateway now supports OpenAI's Ultrafast service tier for GPT-6 Astra, providing faster output for interactive applications and rapid coding iterations. To use Ultrafast, request it for openai/gpt-6-astra through AI SDK, the Chat Completions API, or Responses API: For workflows with frequent tool calls, OpenAI recommends the Responses API over a persistent WebSocket connection to reduce overhead",
+   "published_at": "2026-10-05T00:00:00+00:00",
+   "first_seen": "2026-10-08T11:56:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "FLUX 3 Image now available on AI Gateway",
+   "snippet": "FLUX 3 Image from Black Forest Labs is now available on AI Gateway. Generate images from text or edit existing images using the same model, with one API key and no Black Forest Labs account required. FLUX 3 Image supports up to ten reference images for editing, combining subjects, or changing the composition. It supports five resolution tiers from 768 × 768 to 4K, with square, portrait, and landsc",
+   "published_at": "2026-10-05T00:00:00+00:00",
+   "first_seen": "2026-10-08T11:56:57+00:00",
+   "also_in": []
   }
  ]
 }
