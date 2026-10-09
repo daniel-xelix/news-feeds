@@ -2,6 +2,296 @@
  "date": "2026-10-09",
  "items": [
   {
+   "url": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to build great out-of-the-box user experiences with Managed Deep Agents",
+   "snippet": "Managed Deep Agents includes a new API for managing reactions for your distributed agents, and a system to dynamically assign emoji responses with your instrument of choice. Learn more.",
+   "published_at": "2026-10-09T19:34:01+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to Build a Model Router in the Harness",
+   "snippet": "How we built a model router into Open SWE's harness that cut median cost per coding task by 64% with no measurable drop in quality, and how to build your own.",
+   "published_at": "2026-10-09T19:34:01+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.296",
+   "snippet": "## What's changed - Added a `code` key to the Claude apps gateway's `managed.policies[]`: the same settings as `cli`, also applied in Claude Desktop's Code tab; beside `desktop`, it turns on Claude Desktop's gateway mode - Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions, so a subagent can auto-compact earlier than the main conversation's window - Added `CLAUDE_CODE_WOR",
+   "published_at": "2026-10-09T19:28:59+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/japan-germany-ransomware-arrest",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+   "snippet": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
+   "published_at": "2026-10-09T18:45:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "New Pro teams now default to 30-day deployment retention",
+   "snippet": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retention period in your team's settings when you need more history for inspection or r",
+   "published_at": "2026-10-09T18:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Deployment Storage billing begins for existing Pro teams",
+   "snippet": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting October 23, unless you opt out in your retention settings before then. Retention sett",
+   "published_at": "2026-10-09T18:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/report-open-model-abliteration-ai-safety/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
+   "snippet": "",
+   "published_at": "2026-10-09T16:48:02+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/irhythm-data-breach-reports",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+   "snippet": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
+   "published_at": "2026-10-09T16:06:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+   "snippet": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
+   "published_at": "2026-10-09T16:06:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "FBI touts another ShinyHunters arrest in response to data breach",
+   "snippet": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
+   "published_at": "2026-10-09T15:41:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/lps-red-flags/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "LPs’ red flags",
+   "snippet": "",
+   "published_at": "2026-10-09T15:31:38+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/the-actual-reason-why-meta-got-back",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+   "snippet": "An unlikely friendship; a predictable outcome",
+   "published_at": "2026-10-09T15:25:22+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Impactful scheduling for GPU clusters",
+   "snippet": "",
+   "published_at": "2026-10-09T15:20:29+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/revolut-agentic-shopping/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Revolut to roll out agentic shopping as AI commerce takes off",
+   "snippet": "",
+   "published_at": "2026-10-09T15:15:36+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting Matthew Green",
+   "snippet": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with ",
+   "published_at": "2026-10-09T15:02:29+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33112/operational-risk-management---the-day-the-bank-stops-working",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Operational Risk Management - The Day the Bank Stops Working",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T14:45:37+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+   "snippet": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
+   "published_at": "2026-10-09T14:40:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48566/sibos-2026-trust-and-collaboration-at-machine-speed-needed-to-fight-banking-industry-threats",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
+   "snippet": "Sibos 2026 in Miami featured several 'Big Issue Debate' sessions, but one with an unwieldy name captured the attention of many attendees: 'Trust under pressure: resilience in a world where compromise must be assumed and prepared for.'",
+   "published_at": "2026-10-09T14:39:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48565/revolut-to-create-its-own-scent",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Revolut to create its own scent",
+   "snippet": "Fintech Revolut is on the hunt for a scent branding agency to help it translate its brand into a fragrance that is \"unmistakably ours\".",
+   "published_at": "2026-10-09T14:29:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/block-envisions-bitcoin-for-all/832610/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Block envisions bitcoin for all",
+   "snippet": "The company’s head of bitcoin, Miles Suter, has two big tasks: Make bitcoin a routine payment tool and change the global financial system.",
+   "published_at": "2026-10-09T14:20:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "How agentic payments present risk",
+   "snippet": "“There's no clear legal rule for who bears the loss when an AI tool exceeds its mandate,” writes one financial services consultant. “That's a problem for issuers as they contemplate making credentials available to AI tools.”",
+   "published_at": "2026-10-09T14:11:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33111/fraudscape-2026-six-fraud-trends-that-deserve-closer-attention",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Fraudscape 2026: Six fraud trends that deserve closer attention",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T14:01:33+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33109/how-tokenization-is-unlocking-liquidity-in-specialty-finance",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T13:48:30+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111212/caixabank-expands-google-cloud-collaboration",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "CaixaBank expands Google Cloud collaboration",
+   "snippet": "CaixaBank has announced an expanded strategic agreement with Google Cloud to strengthen its technological capabilities and accelerate the integration of AI, data management and cloud infrastructure across its business.",
+   "published_at": "2026-10-09T13:18:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111211/lseg-and-cmc-markets-ink-strategic-data-agreement",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "LSEG and CMC Markets ink strategic data agreement",
+   "snippet": "LSEG and CMC Markets (“CMC”) today announced a multi-year strategic data agreement, expanding CMC's access to LSEG's financial data, news and analytics.",
+   "published_at": "2026-10-09T13:16:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111210/edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "EDX Markets and Verified X partner for tokenised bitcoin trading",
+   "snippet": "VerifiedX (verifiedx.io), the programmable financial operating system for Bitcoin and intel assets, and EDX Markets (“EDX”), a leading digital asset technology firm that combines institution-only trading venue with a central clearinghouse, announced a strategic partnership to bring Verified Bitcoin (vBTC), a tokenized form of Bitcoin, to EDX for institutional spot trading.",
+   "published_at": "2026-10-09T12:55:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "A new feature for my blog, built using my voice",
+   "snippet": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode <p",
+   "published_at": "2026-10-09T12:54:06+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Weekly Dose of Optimism #214",
+   "snippet": "Nobel, Matter Compiler, Anduril Shipyard, Mouth Cancer Patch, Biohub Virtual Cell + Extra Doses",
+   "published_at": "2026-10-09T12:48:52+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111209/investment-research-spend-flatlines-despite-ai-advancements",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Investment research spend flatlines despite AI advancements",
+   "snippet": "Substantive Research, the research and market data discovery and pricing analytics provider, today publishes the findings of its latest survey into investment research spending and consumption, highlighting how research spending continues to flatline despite new AI-driven requirements.",
+   "published_at": "2026-10-09T12:48:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/pressarticle/111208/ig-prime-and-investec-launch-white-label-offering",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -42,6 +332,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.finextra.com/blogposting/33110/when-going-global-means-operating-local-the-payment-infrastructure-behind-cross-border-growth",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "When Going Global Means Operating Local: The Payment Infrastructure Behind Cross-Border Growth",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T11:58:16+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -49,6 +349,16 @@
    "snippet": "Banks in the EU and UK are under pressure to demonstrate their operational readiness for the upcoming move to next day settlement, with just one year to go before the deadline for T+1.",
    "published_at": "2026-10-09T11:38:00+00:00",
    "first_seen": "2026-10-09T11:49:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111213/mastercard-rolls-out-trust-and-intelligence-services-for-agentic-commerce",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Mastercard rolls out trust and intelligence services for agentic commerce",
+   "snippet": "Today, Mastercard announced an expansion of Agent Pay, its agentic payments program, with new trust and intelligence services that provide greater context for AI-initiated transactions.",
+   "published_at": "2026-10-09T11:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
    "also_in": []
   },
   {
@@ -79,6 +389,16 @@
    "snippet": "Cavero Secure, a pioneer in continuous identity security and post-quantum trust architectures, are announcing a breakthrough approach to autonomous AI governance with the launch of its CaveroCTX™ protocol.",
    "published_at": "2026-10-09T10:36:00+00:00",
    "first_seen": "2026-10-09T11:49:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33108/the-growing-importance-of-data-enrichment-in-financial-services",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The growing importance of data enrichment in financial services",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T10:28:43+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
    "also_in": []
   },
   {
@@ -129,6 +449,16 @@
    "snippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "published_at": "2026-10-09T07:00:00+00:00",
    "first_seen": "2026-10-09T11:49:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "snippet": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
    "also_in": []
   },
   {
@@ -192,6 +522,16 @@
    "also_in": []
   },
   {
+   "url": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How Rillet ships 3× faster with AI agents on Vercel",
+   "snippet": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder access to models through AI Gateway <a",
+   "published_at": "2026-10-09T04:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575/",
    "source": "Payments Dive",
    "weight": 1.1,
@@ -229,6 +569,176 @@
    "snippet": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
    "published_at": "2026-10-09T00:01:00+00:00",
    "first_seen": "2026-10-09T11:49:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Liquid AI's d1 is available on AI Gateway",
+   "snippet": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images for visual clas",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2108262812489531498.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work (2 minute read)",
+   "snippet": "OpenAI is rolling out Ultrafast today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work. The feature offers near-Astra-level intelligence at up to 8x faster speeds than Sol Standard. It is built for work where speed and intelligence make a difference. API pricing for GPT-6.1 Sol in Ultrafast mode is $12 per million input tokens and $60 per million output tokens.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini Agent (18 minute read)",
+   "snippet": "Google introduced a universal Gemini agent that could autonomously handle knowledge work, media creation, coding, and multi-step workflows across Workspace and other enterprise tools. It also added persistent context, multi-agent orchestration, model routing, governance, and cost controls.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNjQ4NywiZXhwIjoxNzkyMTIxMjg3LCJhcnRpY2xlSWQiOiJUTUxHQ0JSS1YyVUcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Jtwqx1KL4tjx_bLoAYVftZkw_Sg4QVDOCe3pGu64cos",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Former Cognition, Ramp Staffers Want AI Agents Running Businesses (2 minute read)",
+   "snippet": "Hone, a startup formed by a group of former employees from some of the fastest-growing AI firms, has raised a $60 million seed round. The startup aims to create AI agents that can help run a business, essentially serving as professional staffers. These agents will be able to field long-running tasks that run over the course of weeks or even months. The five-month-old startup joins a growing number",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://epoch.ai/publications/can-ai-automate-epoch",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Can AI automate Epoch? (20 minute read)",
+   "snippet": "Epoch Automation Reports show that models can't yet autonomously produce Epoch-quality work. Frontier models performed reliably on well-defined tasks, but they failed in the more open-ended aspects that prevent full automation. Open-weight models lag further behind, struggling even on the well-defined tasks that frontier models handle reliably. The models struggle to pick up Epoch's standards, eve",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why is Speculative Decoding Fast? (4 minute read)",
+   "snippet": "Speculative Decoding is a technique where a small draft model proposes a likely draft sequence, and a big model verifies that sequence in parallel in a single forward pass. It enables the ability to look at many tokens at once and accept the ones that would have been generated by the big model. When the batch size is smaller than the optimal number of tokens, speculative decoding allows models to ",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://exa.ai/blog/atlas-benchmark",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ATLAS: Evaluating Agents on Search-Intensive Tasks (13 minute read)",
+   "snippet": "ATLAS is a new benchmark that evaluates search agents on real-world tasks requiring web searches, highlighting their accuracy and completeness. The benchmark reveals that even high-effort agents miss significant golden answers, indicating major room for improvement in search engines. ATLAS differs from existing benchmarks by focusing on non-memorized tasks, requiring extensive multi-domain searche",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/microsoft/quicksand",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Quicksand (GitHub Repo)",
+   "snippet": "Quicksand is an async Python API for launching, controlling, and snapshotting QEMU virtual machines with a particular focus on sandboxing AI agents. It provides pre-built Linux VMs for Ubuntu and Alpine distros. Quicksand supports x86_64 and ARM64 across macOS, Linux, and Windows. The sandboxes do not need root privileges or Docker.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/NVlabs/LongLive",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA's Long-Video and World-Action Research (GitHub Repo)",
+   "snippet": "NVIDIA released LongLive, a collection of research projects focused on long-video generation and world-action modeling. Each project includes its own code, documentation, and model weights.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI's revenue is reportedly $20 billion less than previously projected (2 minute read)",
+   "snippet": "OpenAI has told its investors that its annualized revenue is approaching $50 billion, $20 billion less than a figure reported a little over a week ago. The previously reported figure was devised by OpenAI investors as an attempt to produce a direct comparison with Anthropic's annualized revenues. OpenAI and Anthropic calculate their annualized revenue differently, with Anthropic counting sales mad",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://mikitabalesni.com/letter/letter.pdf",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI Cannot Make AI Safe on Its Own (6 minute read)",
+   "snippet": "Three former OpenAI safety researchers say their dismissals risk chilling internal dissent and external collaboration. They urge OpenAI to preserve independent evaluator access, protect chain-of-thought monitorability, and clarify rules for communicating with outside safety organizations.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic Cyber Defense Initiative (6 minute read)",
+   "snippet": "Anthropic launched its Cyber Mission to apply frontier models, engineering support, and funding to critical-infrastructure and open-source security.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/nikogrupen/status/2108226990792900876",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Return of Wake-Sleep (8 minute read)",
+   "snippet": "After training on 110 legal tasks, Harvey's wake-sleep agent improved held-out all-pass rates from 2.9% to 15.7% by distilling graded trajectories into reusable lessons.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2108287358374482381.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ICYMI we've cut the price of Sonnet 5.5 cache reads in half (1 minute read)",
+   "snippet": "Sonnet 5.5 now runs around 20% cheaper on most agentic work.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://updates.midjourney.com/testing-thinking-mode/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Testing Thinking Mode (1 minute read)",
+   "snippet": "Midjourney is now testing a new 'Thinking Mode' for image generation on its Alpha website.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://voyager.so/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Voyager (Website)",
+   "snippet": "Voyager is an open harness for creative work tuned so that AI models can work with creative tools more effectively.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://docs.devin.ai/work-with-devin/security-swarm",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Security Swarm (15 minute read)",
+   "snippet": "Security Swarm by Devin scans code for vulnerabilities like RCE, SQL injection, and SSRF, using a unique Agentic MapReduce method to efficiently handle large codebases.",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-09T20:04:00+00:00",
    "also_in": []
   }
  ]
