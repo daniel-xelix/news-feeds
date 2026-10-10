@@ -2,6 +2,86 @@
  "date": "2026-10-09",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Deno is joining Cloudflare",
+   "snippet": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Worker",
+   "published_at": "2026-10-09T22:48:37+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.27",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.27",
+   "snippet": "## What's Changed ### Features - Add XPU to OpenCLIP provider device options - Add deepinfra as an OpenAI-compatible provider - Record why an evaluation stopped before its verdict - Record what the run app's Deploy met before an attempt - Implement per-run cost and time tracking in crewai eval --models without repeated progress lines ### Bug Fixes - Fix issue where stopSequences were sent to OpenA",
+   "published_at": "2026-10-09T22:33:44+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "I expect rapid progress but not towards general superintelligence",
+   "snippet": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
+   "published_at": "2026-10-09T21:33:47+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33118/the-debugging-tax-why-agent-budgets-blow-up-on-closed-apisand-what-open-models-change",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The debugging tax: why agent budgets blow up on closed APIs—and what open models change",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T20:34:00+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents can now buy domains with the Vercel CLI",
+   "snippet": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. Run non-interactively, vercel domains buy returns a str",
+   "published_at": "2026-10-09T20:24:00+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/big-bankruptcies-decline-while-pace-holds-historical-average-corners/832663/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Big bankruptcies decline while pace holds above historical average: Cornerstone",
+   "snippet": "Several large companies cited tariffs as a contributing factor driving their bankruptcies, report co-author Trevor Haynes said.",
+   "published_at": "2026-10-09T20:21:05+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/cfo-warns-ignoring-shallowfakes-expense-reports/832659/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "CFO warns against ignoring ‘shallowfakes’ in expense reports",
+   "snippet": "“If I saw [an employee’s expense] claim I thought was fraudulent, I would be all over it,” Medius CFO Chris Wilmot said.",
+   "published_at": "2026-10-09T19:47:43+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832657/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Tariffs pushed up consumer goods prices by 2.9 percentage points: NY Fed",
+   "snippet": "Consumer expectations for inflation rose for the second straight month to the highest level since May, the University of Michigan said Friday, citing an October survey.",
+   "published_at": "2026-10-09T19:38:41+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
    "source": "LangChain blog",
    "weight": 1.0,
@@ -29,6 +109,16 @@
    "snippet": "## What's changed - Added a `code` key to the Claude apps gateway's `managed.policies[]`: the same settings as `cli`, also applied in Claude Desktop's Code tab; beside `desktop`, it turns on Claude Desktop's gateway mode - Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions, so a subagent can auto-compact earlier than the main conversation's window - Added `CLAUDE_CODE_WOR",
    "published_at": "2026-10-09T19:28:59+00:00",
    "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/pepsico-cfo-touts-cost-discipline-slashes-guidance-beverage-pricing/832649/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "PepsiCo CFO touts cost discipline, slashes guidance",
+   "snippet": "The beverage giant is focused on cutting costs as it navigates rising food prices and changing consumer habits which have impacted its North American business.",
+   "published_at": "2026-10-09T19:11:50+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
    "also_in": []
   },
   {
@@ -69,6 +159,26 @@
    "snippet": "",
    "published_at": "2026-10-09T16:48:02+00:00",
    "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33114/beyond-upi-and-chatbots-the-infrastructure-re-engineering-reshaping-us-uk-and-india-fintech",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Beyond UPI and Chatbots: The Infrastructure Re-Engineering Reshaping US, UK, and India Fintech",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T16:40:33+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33113/cres-ai-ambition-is-running-ahead-of-its-data-plumbing",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "CRE's AI ambition is running ahead of its data plumbing",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-09T16:09:40+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
    "also_in": []
   },
   {
@@ -739,6 +849,16 @@
    "snippet": "Security Swarm by Devin scans code for vulnerabilities like RCE, SQL injection, and SSRF, using a unique Agentic MapReduce method to efficiently handle large codebases.",
    "published_at": "2026-10-09T00:00:00+00:00",
    "first_seen": "2026-10-09T20:04:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Microsoft Decision-1 now available on AI Gateway",
+   "snippet": "Decision-1 from Microsoft is now available on AI Gateway . It answers typed questions about text with probabilities, choices, and scores. It can be used to classify support requests, select the next step in a workflow, or assess an AI response against a rubric. The model can answer yes/no questions, choose among named categories, or score an input against an ordered set of",
+   "published_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-10-10T11:06:06+00:00",
    "also_in": []
   }
  ]
