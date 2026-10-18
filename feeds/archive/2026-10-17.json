@@ -2,6 +2,26 @@
  "date": "2026-10-17",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Inline rendering with document​.currentScript",
+   "snippet": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.curren",
+   "published_at": "2026-10-17T21:11:12+00:00",
+   "first_seen": "2026-10-18T09:28:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway logs now show session affinity",
+   "snippet": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, alo",
+   "published_at": "2026-10-17T20:03:00+00:00",
+   "first_seen": "2026-10-18T09:28:57+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/BerriAI/litellm/releases/tag/v1.103.5",
    "source": "GitHub: BerriAI/litellm",
    "weight": 1.1,
@@ -29,6 +49,16 @@
    "snippet": "Community Wisdom 302",
    "published_at": "2026-10-17T13:53:57+00:00",
    "first_seen": "2026-10-17T17:49:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "web-edit 0.1a2",
+   "snippet": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (",
+   "published_at": "2026-10-17T13:16:49+00:00",
+   "first_seen": "2026-10-18T09:28:57+00:00",
    "also_in": []
   },
   {
