@@ -2,6 +2,36 @@
  "date": "2026-10-18",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-tools-datasette 0.1.1",
+   "snippet": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.",
+   "published_at": "2026-10-18T23:43:09+00:00",
+   "first_seen": "2026-10-19T10:40:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-echo 0.5",
+   "snippet": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system promp",
+   "published_at": "2026-10-18T23:16:16+00:00",
+   "first_seen": "2026-10-19T10:40:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.303",
+   "snippet": "## What's changed - Bug fixes and reliability improvements",
+   "published_at": "2026-10-18T22:26:54+00:00",
+   "first_seen": "2026-10-19T10:40:48+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
    "source": "Vercel blog",
    "weight": 0.9,
@@ -9,6 +39,16 @@
    "snippet": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, alo",
    "published_at": "2026-10-18T20:03:00+00:00",
    "first_seen": "2026-10-18T17:59:44+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/10/can-you-bake-maven-into-a-neural-network/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "Can you bake Maven into a neural network?",
+   "snippet": "We tried, and it builds. We compiled the decision-making part of a Maven-style build tool into a fixed weight matrix and used it to build a real Java library. The output matches Apache Maven's byte for byte. A clean build with tests took 1.49× as long as the same logic written in Python (95% interval […]",
+   "published_at": "2026-10-18T16:36:08+00:00",
+   "first_seen": "2026-10-19T10:40:48+00:00",
    "also_in": []
   },
   {
