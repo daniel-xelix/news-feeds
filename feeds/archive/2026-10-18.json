@@ -120,6 +120,16 @@
    "published_at": "2026-10-18T03:46:33+00:00",
    "first_seen": "2026-10-18T09:28:57+00:00",
    "also_in": []
+  },
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.7",
+   "snippet": "## What's Changed * [pplx-decider](https://ollama.com/library/pplx-decider) is a 27B decision model from Perplexity, fine-tuned from Qwen3.8-27B * Continuing an OpenAI-compatible Responses conversation no longer fails when switching between models with and without thinking, or when the history contains another provider's compaction items * Fixed streaming Responses requests where client tool calls",
+   "published_at": "2026-10-18T00:28:57+00:00",
+   "first_seen": "2026-10-21T10:01:33+00:00",
+   "also_in": []
   }
  ]
 }
