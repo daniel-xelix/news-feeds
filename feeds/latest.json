@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T18:20:06+00:00",
+ "generated_at": "2026-10-26T10:58:35+00:00",
  "window_hours": 96,
  "sources_total": 84,
  "unavailable": [
@@ -16,45 +16,243 @@
   "r/MachineLearning top"
  ],
  "counts": {
-  "TLDR AI": 31,
-  "Finextra headlines": 30,
-  "Vercel blog": 11,
-  "Sifted": 10,
+  "Finextra headlines": 29,
+  "TLDR AI": 15,
+  "Sifted": 13,
+  "Vercel blog": 10,
+  "CFO Dive": 9,
+  "VATCalc (e-invoicing)": 9,
   "GitHub: BerriAI/litellm": 8,
-  "VATCalc (e-invoicing)": 8,
+  "Payments Dive": 7,
   "Simon Willison": 7,
-  "CFO Dive": 7,
-  "OpenAI blog": 7,
-  "SaaStr (Jason Lemkin)": 6,
-  "Latent Space": 6,
+  "SaaStr (Jason Lemkin)": 5,
+  "Latent Space": 5,
   "The Record": 5,
   "NVIDIA developer blog": 5,
-  "Hugging Face blog": 5,
-  "Payments Dive": 5,
-  "GitHub: All-Hands-AI/OpenHands": 5,
+  "GitHub: cline/cline": 4,
   "LangChain blog": 4,
-  "GitHub: anthropics/claude-code": 4,
-  "Lenny's Newsletter": 3,
+  "OpenAI blog": 4,
   "GitHub: langchain-ai/langgraph": 3,
-  "GitHub: ollama/ollama": 3,
-  "GitHub: langchain-ai/langchain": 3,
+  "Hugging Face blog": 3,
+  "GitHub: All-Hands-AI/OpenHands": 3,
+  "Lenny's Newsletter": 2,
   "Exponential View (Azeem Azhar)": 2,
   "GitHub: crewAIInc/crewAI": 2,
-  "SAP News Center": 2,
-  "Tomasz Tunguz": 2,
+  "GitHub: ollama/ollama": 2,
+  "GitHub: anthropics/claude-code": 2,
   "Interconnects (Nathan Lambert)": 1,
   "Sebastian Raschka": 1,
   "Net Interest (Marc Rubinstein)": 1,
   "Not Boring (Packy McCormick)": 1,
+  "SAP News Center": 1,
+  "Tomasz Tunguz": 1,
+  "GitHub: langchain-ai/langchain": 1,
   "Google DeepMind blog": 1,
   "JetBrains AI blog": 1,
   "The Pragmatic Engineer (Gergely Orosz)": 1,
-  "Ben's Bites": 1,
-  "GitLab blog": 1,
-  "Stripe blog": 1,
-  "The Algorithmic Bridge (Alberto Romero)": 1
+  "Ben's Bites": 1
  },
  "items": [
+  {
+   "url": "https://sifted.eu/articles/ai-takes-the-easy-decisions-leaders-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "AI takes the easy decisions; leaders must get comfortable with the hard ones",
+   "snippet": "",
+   "published_at": "2026-10-26T10:38:23+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/strawberrys-charles-maddock-lessons-anton-osika-legoras-junestrand-general-catalyst/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Strawberry's Charles Maddock on lessons from Anton Osika, US ambitions – and how Legora’s Junestrand helped land GC",
+   "snippet": "",
+   "published_at": "2026-10-26T10:21:40+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/v4.1.26",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline v4.1.26",
+   "snippet": "### Added - Cloud tasks: Settings > API Configuration has a Local | Cloud toggle when cloud sessions are on. Cloud picks the Cline model new cloud tasks run on, saved separately from your local models. Clicking the model label in a cloud session's composer opens it there. - Starting or resuming a cloud sandbox shows a progress card with the repo, branch and steps (start sandbox, clone repository, ",
+   "published_at": "2026-10-26T09:06:50+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/spons/from-ai-investment-to-ai-impact-the-cfos-new-talent-mandate/833634/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "From AI investment to AI impact: The CFO’s new talent mandate",
+   "snippet": "Finance leaders are wondering: is their talent model and team ready to put AI insights into action?",
+   "published_at": "2026-10-26T09:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/spons/agentic-ai-on-financial-data-wherever-it-lives/833734/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Agentic AI on financial data, wherever it lives",
+   "snippet": "Agentic AI can transform close, audit and risk work, if it can reach your data where it lives.",
+   "published_at": "2026-10-26T09:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "The B2B payment stack wasn’t built for how businesses pay now",
+   "snippet": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
+   "published_at": "2026-10-26T09:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "1 ring, 500 accounts: Why fraud signals need to travel",
+   "snippet": "How one reflection exposed a 500-account fraud ring and why cross-industry signals matter.",
+   "published_at": "2026-10-26T09:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/netherlands/netherlands-enacts-vida-single-vat-registration-reforms-2027/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Netherlands enacts ViDA Single VAT Registration reforms for 2027",
+   "snippet": "",
+   "published_at": "2026-10-26T07:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/sovereignty-comes-to-pan-european-spinout-event-stage-two/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Sovereignty comes to pan-European spinout event Stage Two",
+   "snippet": "",
+   "published_at": "2026-10-26T05:00:16+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/nous-ai-agent-funding-round-monzo-tom-blomfield/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Heartcore Capital leads $17m raise for AI agent startup Nous",
+   "snippet": "",
+   "published_at": "2026-10-26T05:00:14+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/follow-jensens-money-not-his-mouth/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Follow Jensen’s money not his mouth",
+   "snippet": "",
+   "published_at": "2026-10-26T05:00:12+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/strawberry-browser-1-0/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: General Catalyst-backed Strawberry launches first full product, 'the European alternative' to US agents",
+   "snippet": "",
+   "published_at": "2026-10-26T05:00:08+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/europe-third-consecutive-record-quarter-paris-munich-outstrip-london/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Europe posts a third consecutive record quarter, as Paris and Munich outstrip London",
+   "snippet": "",
+   "published_at": "2026-10-26T05:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.49",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.49",
+   "snippet": "- A new **Changes** button in the session header shows the session's line counts and opens a pane listing the files changed in the last turn or across the whole session, with a diff of each. When a turn finishes, a summary under it lists the files it changed; click it to open the pane on that turn - A **project files panel** (folder button in the session header) shows a file tree beside the conver",
+   "published_at": "2026-10-26T04:49:34+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.74",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.74",
+   "snippet": "- Opening a task that's already running in another Cline app now attaches to that run instead of starting a second one that couldn't be stopped. If an app closes mid-task, requests waiting on it now fail with a clear message instead of hanging - `cline hub status` and `cline doctor` no longer hang on a Hub that has frozen. Its health check now times out after 3s and the Hub is reported as not runn",
+   "published_at": "2026-10-26T04:03:28+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.2.0",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.2.0",
+   "snippet": "- Starting a session that already has a run in progress now reattaches to the live session instead of replacing its runtime. Before, the original run kept going but couldn't be reached, and its transcript writes landed on a stale snapshot. A start that includes a prompt while a run is in progress is rejected - The hub records every client that registered a capability for a session, including clien",
+   "published_at": "2026-10-26T03:34:08+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/liberia/liberia-looks-to-implement-vat/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Liberia 18% VAT implementation Jan 2027",
+   "snippet": "",
+   "published_at": "2026-10-26T00:01:03+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Riksbank reignites e-krona debate",
+   "snippet": "With cash usage down, a digital euro on the horizon and stablecoins gathering momentum, Sweden's central bank has reignited a debate on whether the country should roll out its own e-krona.",
+   "published_at": "2026-10-26T00:01:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/faster-pnpm-installs",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Faster pnpm installs",
+   "snippet": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, ins",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Alex Depledge departs UK treasury job, criticising 'sideshow' treatment of scaleups",
+   "snippet": "",
+   "published_at": "2026-10-25T18:43:50+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.langchain.com/blog/components-building-company-harness",
    "source": "LangChain blog",
@@ -62,7 +260,7 @@
    "title": "The five components of building a \"company harness\"",
    "snippet": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
    "published_at": "2026-10-25T18:06:32+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -72,7 +270,17 @@
    "title": "Jason’s Takes on This Week’s 20VC: Meet 100 VCs, None-and-Done Beats One-and-Done, and Build-to-Prod Is Where I’d Make 10 Bets",
    "snippet": "The deeper cut on a week where capital concentrated harder than I’ve ever seen, and what founders should actually do about it Harry, Rory and I covered a lot this week: a $20M ARR profitable company that can’t get a meeting, Anthropic’s $16.8B quarter, CoreWeave’s 25% drop, Modal at $15.75B, and Berkshire doubling down on... <a class=\"more-link fade\" href=\"https://www.saastr.com/jasons-takes-on-th",
    "published_at": "2026-10-25T16:00:33+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Seam Cutter",
+   "snippet": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stit",
+   "published_at": "2026-10-25T15:10:19+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -82,7 +290,7 @@
    "title": "Your Top Job For 2027: Hire 1-2 Execs Who Can Take the Load, Not Just Do the Work",
    "snippet": "I was with a great agentic B2B CEO this week, $100M+ ARR and still growing fast, and we got into hiring ex-founders. I’m a huge proponent. Every B2B company at scale should have 1 to 3 ex-founder CEOs on the team. They have superpowers you can’t train into an operator who has never been a... Continue Reading",
    "published_at": "2026-10-25T14:10:24+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -92,7 +300,7 @@
    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
    "snippet": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
    "published_at": "2026-10-25T12:31:34+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -102,7 +310,7 @@
    "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
    "snippet": "#20",
    "published_at": "2026-10-25T11:49:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -112,7 +320,7 @@
    "title": "Half Your CRM Data Is Wrong: AI Prospecting in a World of 49% Exec Turnover",
    "snippet": "Earlier in the day at the latest SaaStr AI Day, Jason and Amelia talked about a core weakness in most AI prospecting tools: they run almost entirely on third-party data. Every team buys from the same data vendors, so every agent ends up writing the same emails to the same people. In the next session,... Continue Reading",
    "published_at": "2026-10-25T11:00:12+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -122,7 +330,7 @@
    "title": "BerriAI/litellm v1.106.4",
    "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.4 ``` Same command for `litellm-database`, `litellm-non_root` and the `docker.io/litellm/*` images ## What's new in 1.106.4 3 PRs. 2 fixed. No action needed to upgrade ### Changes - **Deployment:** Fixed the prox",
    "published_at": "2026-10-25T09:39:15+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -132,7 +340,7 @@
    "title": "BerriAI/litellm v1.105.5",
    "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.105.5 ``` Same command for `litellm-database`, `litellm-non_root` and the `docker.io/litellm/*` images ## What's new in 1.105.5 2 PRs. 2 fixed. No action needed to upgrade ### Changes - **Deployment:** Fixed the prox",
    "published_at": "2026-10-25T09:12:39+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -142,7 +350,7 @@
    "title": "BerriAI/litellm v1.104.7",
    "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.104.7 ``` Same command for `litellm-database`, `litellm-non_root` and the `docker.io/litellm/*` images ## What's new in 1.104.7 2 PRs. 2 fixed. No action needed to upgrade ### Changes - **Deployment:** Fixed the prox",
    "published_at": "2026-10-25T09:12:15+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -152,7 +360,7 @@
    "title": "BerriAI/litellm v1.103.9",
    "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.103.9 ``` Same command for `litellm-database`, `litellm-non_root` and the `docker.io/litellm/*` images ## What's new in 1.103.9 1 PR. 1 fixed. No action needed to upgrade ### Changes - **Deployment:** Fixed image sca",
    "published_at": "2026-10-25T08:57:32+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -162,7 +370,7 @@
    "title": "German e-invoicing lays the ground for automated VAT auditing",
    "snippet": "",
    "published_at": "2026-10-25T07:13:27+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -172,7 +380,7 @@
    "title": "🔮 The internet under attack, AGI compression & the next oil shock that never will be... #607",
    "snippet": "Plus: Join our invite-only salon with Bill Gross",
    "published_at": "2026-10-25T03:30:52+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -182,7 +390,7 @@
    "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
    "snippet": "Community Wisdom 303",
    "published_at": "2026-10-24T15:11:42+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -192,7 +400,7 @@
    "title": "The Agent-Led Growth Playbook: A 10-Minute Inbound Booking, a 46-of-50 AEO Score, and Why First-Party Data Beats Every Signal Tool | The Agents #017",
    "snippet": "We ran a live edition of The Agents this week to walk through our agent-led growth stack as it stands today. We talked about “ask your agent instead of your developer” on last week’s episode, and this session goes into how that works in practice. At SaaStr, agent-led growth means two different things: Using AI... <a class=\"more-link fade\" href=\"https://www.saastr.com/the-agent-led-growth-playbook-",
    "published_at": "2026-10-24T14:10:16+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -202,7 +410,7 @@
    "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
    "snippet": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
    "published_at": "2026-10-24T11:14:32+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -212,7 +420,7 @@
    "title": "BerriAI/litellm v1.106.3",
    "snippet": "> [!IMPORTANT] > **The image-signing key has changed.** Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit [`e82a3c6`](https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065). Verifying with the previous key from commit `0112e53` will fail. > > Update anything that pins the old `cosign.pub`: `cosign verify` script",
    "published_at": "2026-10-24T09:34:13+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -222,7 +430,7 @@
    "title": "BerriAI/litellm v1.105.4",
    "snippet": "> [!IMPORTANT] > **The image-signing key has changed.** Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit [`e82a3c6`](https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065). Verifying with the previous key from commit `0112e53` will fail. > > Update anything that pins the old `cosign.pub`: `cosign verify` script",
    "published_at": "2026-10-24T08:52:07+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -232,7 +440,7 @@
    "title": "BerriAI/litellm v1.104.6",
    "snippet": "> [!IMPORTANT] > **The image-signing key has changed.** Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit [`e82a3c6`](https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065). Verifying with the previous key from commit `0112e53` will fail. > > Update anything that pins the old `cosign.pub`: `cosign verify` script",
    "published_at": "2026-10-24T08:40:34+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -242,7 +450,7 @@
    "title": "BerriAI/litellm v1.103.8",
    "snippet": "> [!IMPORTANT] > **The image-signing key has changed.** Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit [`e82a3c6`](https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065). Verifying with the previous key from commit `0112e53` will fail. > > Update anything that pins the old `cosign.pub`: `cosign verify` script",
    "published_at": "2026-10-24T08:11:40+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -252,7 +460,7 @@
    "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
    "snippet": "We have Fable at home... or so we are being told by paid shills",
    "published_at": "2026-10-24T07:18:29+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -262,7 +470,7 @@
    "title": "Belgium implements first ViDA VAT changes from 2027",
    "snippet": "",
    "published_at": "2026-10-24T06:16:25+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -272,7 +480,7 @@
    "title": "battledrones v14: Compass Rose, a four player map",
    "snippet": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocke",
    "published_at": "2026-10-24T03:59:57+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -282,7 +490,7 @@
    "title": "crewAIInc/crewAI 1.15.30",
    "snippet": "## What's Changed ### Bug Fixes - Fix AGENTS.md to start the login process while evaluating and stop after three rounds. ### Documentation - Update snapshot and changelog for v1.15.29. ## Contributors @joaomdmoura",
    "published_at": "2026-10-24T01:56:04+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -292,7 +500,7 @@
    "title": "langchain-ai/langgraph langgraph==1.2.17",
    "snippet": "Changes since 1.2.16 * release(langgraph): 1.2.17 (#9418) * fix(langgraph): apply an explicit recursion_limit equal to the default (#9417) * fix(langgraph): keep the caller's namespace in RemoteGraph.stream(subgraphs=True) (#9401) * chore(deps): remove precautionary third-party upper bounds (#9390) * chore(deps): bump certifi from 2026.1.4 to 2026.10.19 in /libs/langgraph (#9375) * chore(deps-dev)",
    "published_at": "2026-10-24T01:08:05+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -302,7 +510,7 @@
    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
    "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
    "published_at": "2026-10-24T01:05:29+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -312,7 +520,7 @@
    "title": "ollama/ollama v0.40.11",
    "snippet": "## Speech Ollama can now generate [speech](https://docs.ollama.com/capabilities/speech) on macOS. `ollama run` plays text or a chat model's reply aloud as the audio is generated, and apps can stream audio through the OpenAI-compatible `/v1/audio/speech` endpoint. ```sh ollama run phonon \"Hello from Ollama.\" ``` ## d3 decision models [d3](https://ollama.com/library/d3) brings vLLM Semantic Router's",
    "published_at": "2026-10-24T00:30:13+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -322,7 +530,7 @@
    "title": "Cabo Verde 2027 Budget links e-invoicing to VAT accounting",
    "snippet": "Cabo Verde is proposing a further tightening of its electronic invoicing regime from January 2027...",
    "published_at": "2026-10-23T23:53:19+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -332,7 +540,7 @@
    "title": "anthropics/claude-code v2.1.310",
    "snippet": "## What's changed - Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too - Fixed requests failing behind some gateways and compatible servers that reject the `effort-2025-11-24` beta value or mid-conversation system messages; Claude Code now retries without them - Fixed b",
    "published_at": "2026-10-23T23:39:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -342,7 +550,7 @@
    "title": "Vercel CLI adds Spend Management",
    "snippet": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The --pause flag pauses production depl",
    "published_at": "2026-10-23T21:44:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -352,7 +560,7 @@
    "title": "Quick Study",
    "snippet": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also <a href=\"https://simonwillison.net/2026/Aug/25/pelican-wa",
    "published_at": "2026-10-23T21:35:13+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -362,7 +570,7 @@
    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
    "snippet": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
    "published_at": "2026-10-23T21:32:37+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -372,7 +580,7 @@
    "title": "Send feedback from the Vercel MCP",
    "snippet": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missing. Your assistant can attach structured context that desc",
    "published_at": "2026-10-23T20:53:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -382,7 +590,7 @@
    "title": "How Vercel Agent accesses production safely",
    "snippet": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeate",
    "published_at": "2026-10-23T20:29:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -392,7 +600,7 @@
    "title": "Argentine payment infrastructure company Rebill raises $5.4m",
    "snippet": "Rebill, the Argentine payment infrastructure company, announced the closing of a USD 5.4 million pre-Series A funding round, bringing its total funding to more than USD 9 million since its founding in 2020.",
    "published_at": "2026-10-23T20:24:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -402,7 +610,7 @@
    "title": "Consumer sentiment dips on worries about affordability: UMichigan survey",
    "snippet": "“Consumers broadly expect inflation to accelerate,” a University of Michigan economist said, citing survey results.",
    "published_at": "2026-10-23T19:46:13+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -412,7 +620,7 @@
    "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
    "snippet": "Bankjoy, a leading provider of digital banking solutions for community financial institutions, today announced that TEN Credit Union (TENCU), a Nashville-based credit union founded in 1950, has selected Bankjoy as its digital banking platform.",
    "published_at": "2026-10-23T19:46:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -422,7 +630,17 @@
    "title": "Introducing Kimi K3.1 Pro",
    "snippet": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/",
    "published_at": "2026-10-23T19:40:54+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/gold-trade-restakes-claims-digital-rush/833642/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Gold stakes claim in digital rush",
+   "snippet": "The industry seeks to carve a niche in the fintech era, with a recent report estimating the digital gold market could be valued at $170 billion by 2031.",
+   "published_at": "2026-10-23T19:08:16+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -432,7 +650,7 @@
    "title": "Deployments now show build cache size",
    "snippet": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time,",
    "published_at": "2026-10-23T19:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -442,7 +660,7 @@
    "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
    "snippet": "The U.S. Faster Payments Council (FPC), a membership organization devoted to advancing safe, easy-to-use faster payments in the United States, today announced the publication of Operational Considerations for Non-Value Messages, a new guide developed by the FPC Operational Considerations Work Group.",
    "published_at": "2026-10-23T18:31:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -452,7 +670,17 @@
    "title": "The internet’s Wuhan moment",
    "snippet": "AI is turning every old bug into a serious problem. The Internet that survives will be safer--but less open.",
    "published_at": "2026-10-23T17:56:58+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Forgent Power CFO leaves after a year",
+   "snippet": "Forgent veteran Amy Ard is taking the CFO reins in the wake of the power distributor's net income skyrocketing in fiscal 2026.",
+   "published_at": "2026-10-23T17:48:57+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -462,7 +690,7 @@
    "title": "crewAIInc/crewAI 1.15.29",
    "snippet": "## What's Changed ### Features - Add support for LiteLLM-compatible kwargs. - Implement platform application search in CLI. - Highlight action picker search in CLI. - Trace conversation routes and public replies in flow. - Select organization during login in CLI. - Add offline jev routing and guardrail evaluation runner. - Run integration app actions directly with call: tool. - Promote AgentExecut",
    "published_at": "2026-10-23T17:35:29+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -472,7 +700,7 @@
    "title": "FCC bans two devices with surveillance chips linked to Huawei",
    "snippet": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
    "published_at": "2026-10-23T17:28:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -482,7 +710,7 @@
    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
    "snippet": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
    "published_at": "2026-10-23T17:27:52+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -492,7 +720,7 @@
    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
    "snippet": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For...",
    "published_at": "2026-10-23T17:27:35+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -502,7 +730,7 @@
    "title": "GASB leans into new technologies to improve public sector reporting",
    "snippet": "Emerging tools, including AI, could soon be used to prepare GAAP reports, automate research efforts, and allow governments to file detailed and simplified versions of the same report.",
    "published_at": "2026-10-23T17:07:16+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -512,7 +740,7 @@
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
    "snippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
    "published_at": "2026-10-23T17:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -522,7 +750,7 @@
    "title": "Vercel Connect adds managed Stripe API keys",
    "snippet": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged. type: embedded-entry-inline id",
    "published_at": "2026-10-23T17:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -532,7 +760,7 @@
    "title": "Fiserv adds Raj Seshadri to board",
    "snippet": "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, today announced that Raj Seshadri will join the Fiserv Board of Directors effective November 30, 2026.",
    "published_at": "2026-10-23T16:25:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -542,7 +770,7 @@
    "title": "Capital Wars",
    "snippet": "CoreWeave and the Economics of a Data Center Build",
    "published_at": "2026-10-23T16:24:17+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -552,7 +780,7 @@
    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
    "snippet": "",
    "published_at": "2026-10-23T16:15:50+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -562,7 +790,7 @@
    "title": "Amex to shrink workforce",
    "snippet": "The card company plans to cut 4.5% of its employees to become more “agile and efficient” as it adjusts to more use of artificial intelligence, CEO Stephen Squeri said.",
    "published_at": "2026-10-23T15:49:35+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -572,7 +800,7 @@
    "title": "AI Is Getting Good at Math. Here’s Why.",
    "snippet": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
    "published_at": "2026-10-23T15:19:48+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -582,7 +810,7 @@
    "title": "ollama/ollama v0.40.10",
    "snippet": "## NVIDIA Nemotron 3.5 Bolt E4B [Nemotron 3.5 Bolt E4B](https://ollama.com/library/nemotron-3.5-bolt) is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b **Full Changelog**: https://github.com/oll",
    "published_at": "2026-10-23T15:03:59+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -592,7 +820,7 @@
    "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
    "snippet": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance",
    "published_at": "2026-10-23T14:58:32+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -602,7 +830,7 @@
    "title": "Sezzle seeks OCC bank charter",
    "snippet": "The buy now, pay later provider wants a U.S. charter from the Office of the Comptroller of the Currency amid new state rules.",
    "published_at": "2026-10-23T14:54:11+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -612,7 +840,7 @@
    "title": "langchain-ai/langgraph langgraph-cli==0.4.38",
    "snippet": "Changes since cli==0.4.37 * release(cli): 0.4.38 (#9411) * feat(cli): add the priority section to langgraph.json (#9393) * chore(deps): bump uv from 0.11.15 to 0.13.4 in /libs/cli (#9366) * chore(deps): bump certifi from 2026.2.25 to 2026.10.19 in /libs/cli (#9374) * chore(deps): bump the uv group across 2 directories with 1 update (#9373) * fix(cli): patch missed brace-expansion dependency majors",
    "published_at": "2026-10-23T14:22:29+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -622,7 +850,7 @@
    "title": "langchain-ai/langgraph langgraph-sdk==0.4.9",
    "snippet": "Changes since sdk==0.4.8 * release(sdk-py): 0.4.9 (#9398) * feat(sdk-py): add Priority for thread priority settings (#9392) * chore(deps): remove precautionary third-party upper bounds (#9390) * chore(deps): bump certifi from 2026.2.25 to 2026.10.19 in /libs/sdk-py (#9370) * chore(deps-dev): bump dotenv from 17.4.2 to 18.0.4 in /libs/cli/js-examples in the major group (#9154) * chore(deps-dev): bu",
    "published_at": "2026-10-23T14:19:24+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -632,7 +860,7 @@
    "title": "The New “Ask Your Developer” Is Ask Your Agent. And It’s The Marketing Battle You Have to Win Now",
    "snippet": "In 2021 Jeff Lawson wrote Ask Your Developer. His point was that developers had become the real buyers of a huge slice of B2B software. If you wanted to win Twilio-style infrastructure deals, you won the engineer, and the engineer brought the budget with them. Five years later the same thing is happening again, one... Continue Reading",
    "published_at": "2026-10-23T14:09:23+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -642,7 +870,7 @@
    "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
    "snippet": "The central banks Thailand and Malaysia are backing a Monetary Authority of Singapore-led public-private sector initiative to advance cross-border settlement in digital money.",
    "published_at": "2026-10-23T13:52:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -652,7 +880,7 @@
    "title": "All-Hands-AI/OpenHands v1.33.0",
    "snippet": "## 1.33.0 (2026-10-23) ## What's Changed ### Features * feat(verify-openhands): launch --mars-web and --lock-to-cloud by @enyst in https://github.com/OpenHands/OpenHands/pull/18848 * feat(digitalocean): keep the web build signed in across restarts by @enyst in https://github.com/OpenHands/OpenHands/pull/18705 ### Bug Fixes * fix(automations): render the shipped current_phase on live runs by @aarte",
    "published_at": "2026-10-23T13:46:20+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -662,7 +890,7 @@
    "title": "UK proposes 14-year prison terms for undersea cable sabotage",
    "snippet": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
    "published_at": "2026-10-23T13:26:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -672,7 +900,7 @@
    "title": "5 Questions Every CFO Should Ask About Their Payment Stack Costs",
    "snippet": "Author: A finextra community member",
    "published_at": "2026-10-23T13:23:39+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -682,7 +910,7 @@
    "title": "Plum secures FCA approval to deliver Targeted Support",
    "snippet": "Smart money app Plum has been authorised by the Financial Conduct Authority (FCA) to offer Targeted Support, through its investment entity Saveable Limited.",
    "published_at": "2026-10-23T13:11:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -692,7 +920,7 @@
    "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
    "snippet": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
    "published_at": "2026-10-23T12:52:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -702,7 +930,7 @@
    "title": "Reputation Reframed: The Reputation Gap - Your FinTech is probably not who you think it is",
    "snippet": "Author: A finextra community member",
    "published_at": "2026-10-23T12:41:23+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -712,7 +940,7 @@
    "title": "Quant salaries on the rise amid AI revolution",
    "snippet": "Remuneration for quantitative finance professionals has continued to rise despite the increased use of AI, according to recently published research.",
    "published_at": "2026-10-23T12:40:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -722,7 +950,7 @@
    "title": "Weekly Dose of Optimism #216",
    "snippet": "Cancer Drugs, The Nuclear Company, Warhound, Consciousness, Marathon Alchemy + Extra Doses",
    "published_at": "2026-10-23T12:34:23+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -732,7 +960,7 @@
    "title": "The epic fight to define the prediction markets may come down to marketing",
    "snippet": "Author: A finextra community member",
    "published_at": "2026-10-23T12:13:36+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -742,7 +970,7 @@
    "title": "US fintech Coast secures $35m for physical economy payments platform",
    "snippet": "New York-based startup Coast has raised $35m for the launch of a payment platform designed to support companies working in the physical economy.",
    "published_at": "2026-10-23T12:13:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -752,7 +980,7 @@
    "title": "Tech Mahindra acquires Finastra's cash management division",
    "snippet": "Tech Mahindra (NSE: TECHM), a leading provider of AI-powered digital transformation and technology consulting solutions to enterprises across industries, has acquired Finastra’s Cash Management product suite, comprising Fusion Cash Management (FCM), Fusion Virtual Accounts (FVA) and Fusion Liquidity Management (FLM).",
    "published_at": "2026-10-23T11:57:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -762,7 +990,7 @@
    "title": "A second provider is not a resilience plan",
    "snippet": "Author: A finextra community member",
    "published_at": "2026-10-23T11:28:34+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -772,7 +1000,7 @@
    "title": "For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms",
    "snippet": "SAP helps customers simplify complex commerce and prepare for what come next.",
    "published_at": "2026-10-23T11:15:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -782,7 +1010,7 @@
    "title": "Shopping is Muse’s top task: Meta",
    "snippet": "About a quarter of the personal agent’s earliest adopters look to shop, with an average purchase size around $200, Meta’s CEO said.",
    "published_at": "2026-10-23T11:11:33+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -792,7 +1020,7 @@
    "title": "HSBC launches first stablecoin",
    "snippet": "Global bank HSBC has launched RedCoin, its first stablecoin, for public use.",
    "published_at": "2026-10-23T11:09:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -802,17 +1030,7 @@
    "title": "Agentic AI: Who Is Really in Control?",
    "snippet": "Author: A finextra community member",
    "published_at": "2026-10-23T11:01:55+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "The Double Hockey Stick: Why 1% of Your Users Now Drive 75% of Your AI Costs, and What Figma, Clay, and Higgsfield Are Doing About It",
-   "snippet": "Ulrik Lehrskov-Schmidt has worked on pricing full time for about ten years. He’s the founder and CEO of Willingness to Pay, his team has run hundreds of pricing projects, and he’s written several books on B2B pricing. He put off writing one on AI pricing because he didn’t yet have a model that explained what... <a class=\"more-link fade\" href=\"https://www.saastr.com/the-double-hockey-stick-why-1-of",
-   "published_at": "2026-10-23T11:00:41+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -822,7 +1040,7 @@
    "title": "Oslo tech struggles to break out of Stockholm's shadow",
    "snippet": "",
    "published_at": "2026-10-23T10:45:03+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -832,7 +1050,7 @@
    "title": "Fintel acquires Mortgage Brain Holdings",
    "snippet": "Fintel plc, a leading provider of software, data and support services to the retail financial services sector, today announces the acquisition of Mortgage Brain Holdings.",
    "published_at": "2026-10-23T10:34:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -842,7 +1060,7 @@
    "title": "Temenos selected by Raya Financing",
    "snippet": "Temenos (SIX: TEMN), a global leader in banking technology, today announced that Raya Financing has selected Temenos Core to power the next phase of its growth strategy.",
    "published_at": "2026-10-23T10:29:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -852,7 +1070,7 @@
    "title": "Survey suggests UK innovation is moving abroad",
    "snippet": "Almost eight in ten (78%) FTSE firms have moved innovation investment or activity overseas in the past three years, according to new research from innovation incentives consultancy ForrestBrown.",
    "published_at": "2026-10-23T10:23:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -862,7 +1080,7 @@
    "title": "HKEX launches AI and semiconductor indices",
    "snippet": "Hong Kong Exchanges and Clearing Limited (HKEX) is pleased to announce today (Friday) the launch of the HKEX Artificial Intelligence Index and the HKEX Semiconductor Index.",
    "published_at": "2026-10-23T10:12:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -872,7 +1090,7 @@
    "title": "[AINews] Black October",
    "snippet": "the Cyber onslaught continues.",
    "published_at": "2026-10-23T10:09:29+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -882,7 +1100,7 @@
    "title": "Securing our frontier model training environment",
    "snippet": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
    "published_at": "2026-10-23T10:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -892,7 +1110,7 @@
    "title": "Visa partners with Singapore Tourism Board",
    "snippet": "Visa, a global leader in digital payments and the Singapore Tourism Board (STB) have signed a three-year Memorandum of Understanding (MOU) to strengthen Singapore’s appeal as a preferred travel destination and to unlock new growth opportunities.",
    "published_at": "2026-10-23T10:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -902,7 +1120,7 @@
    "title": "EU €2 per Customs item handling fee Nov 2026 confirmed",
    "snippet": "",
    "published_at": "2026-10-23T07:05:37+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -912,7 +1130,7 @@
    "title": "Belgium argues over 1% VAT hike to 22%",
    "snippet": "",
    "published_at": "2026-10-23T05:48:44+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -922,7 +1140,7 @@
    "title": "Nvidia funds European startups. They spend it on Nvidia",
    "snippet": "",
    "published_at": "2026-10-23T05:00:55+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -932,7 +1150,7 @@
    "title": "14 Italian early stage startups to watch, according to VCs",
    "snippet": "",
    "published_at": "2026-10-23T05:00:33+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -942,7 +1160,7 @@
    "title": "How Interfaze serves 50 million requests a month on Vercel",
    "snippet": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and classification. As foun",
    "published_at": "2026-10-23T04:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -952,7 +1170,7 @@
    "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
    "snippet": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
    "published_at": "2026-10-23T04:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -962,7 +1180,7 @@
    "title": "All-Hands-AI/OpenHands v1.32.0",
    "snippet": "## 1.32.0 (2026-10-23) ## What's Changed ### Features * feat(home): store pinned automations in agent-server settings by @abhayymishraa in https://github.com/OpenHands/OpenHands/pull/18190 * feat(mcp): let the install dialog choose between installable library options by @ak684 in https://github.com/OpenHands/OpenHands/pull/18836 * feat(automations): list every cloneable provider's repositories in ",
    "published_at": "2026-10-23T03:03:37+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -972,7 +1190,7 @@
    "title": "Send feedback from the Vercel CLI",
    "snippet": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to describe",
    "published_at": "2026-10-23T02:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -982,7 +1200,7 @@
    "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
    "snippet": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
    "published_at": "2026-10-23T00:01:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -992,7 +1210,7 @@
    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
    "snippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1002,7 +1220,7 @@
    "title": "Does Your Model Run on AWS Trainium? Look It Up",
    "snippet": "",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1012,7 +1230,7 @@
    "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
    "snippet": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on <a href=\"https://vercel.com/ai",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1022,7 +1240,7 @@
    "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors (3 minute read)",
    "snippet": "OpenAI is closing in on a funding round that could value it at more than $1 trillion. Investors from the United Arab Emirates are leading the round. The round is being positioned as an opportunistic bridge ahead of a potential IPO. OpenAI is aiming to secure signatures by the end of next week, but the final size of the round is still being determined.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1032,7 +1250,7 @@
    "title": "Introducing 1Password for Agents (7 minute read)",
    "snippet": "1Password introduced a platform that lets AI agents authenticate to websites without accessing users' passwords directly. Agents can request credentials from a user's vault, and once approved, 1Password autofills them into the destination site while keeping the credentials hidden from the agent.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1042,7 +1260,7 @@
    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal (18 minute read)",
    "snippet": "WorldTUI is a 360-million-parameter model fine-tuned to act as a terminal. The model predicts how the screen will change for every key press, and there is no shell or file system behind it. WorldTUI can create files, run vim and tmux, play snake, and usually remember commands. It can repair mistakes and decode screen rows in parallel. A browser demo is available.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1052,7 +1270,7 @@
    "title": "How the US and China Could Verifiably Slow AI (29 minute read)",
    "snippet": "A unilateral US pause will fail because rivals would catch up within about a year, so any slowdown needs a treaty that catches defection early. This post surveys how one could govern compute through remote sensing, on-site inspections, and hardware mechanisms like chip licensing and location verification.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1062,7 +1280,7 @@
    "title": "How Researchers Tested OpenAI's Internal Agent Monitoring (6 minute read)",
    "snippet": "METR and Redwood Research conducted a three-week security assessment with access to OpenAI's internal infrastructure, identifying vulnerabilities that could allow AI agents to evade monitoring, bypass sandbox restrictions, or conceal actions.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1072,7 +1290,7 @@
    "title": "Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement? (7 minute read)",
    "snippet": "Flapping Airplanes' potential valuation jump from $1.5B to $5B may reflect investor hype rather than verified technical progress. Breakthroughs in sample-efficient AI could accelerate superintelligence timelines and make compute-based treaty enforcement harder.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1082,7 +1300,7 @@
    "title": "Claude's Text Output Now Carries an Invisible Watermark (9 minute read)",
    "snippet": "Anthropic's latest Claude models embed a SynthID-Text-based watermark in all text output to comply with the EU AI Act. It works by nudging choices among near-equivalent words, adds no hidden characters or tokens, and carries no information about the user.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1092,7 +1310,7 @@
    "title": "A Novel Self-Distillation Method (7 minute read)",
    "snippet": "Perplexity's JOLT is a self-distillation method that jointly trains a model as both teacher and student, adapting feedback to the student's capabilities. It improved performance and training efficiency across mathematical reasoning, coding, and agentic tasks.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1102,7 +1320,7 @@
    "title": "How we deploy Trillion-parameter frontier models on Cerebras (6 minute read)",
    "snippet": "A single Cerebras WSE-3T wafer has 44 GB of on-chip memory. Trillion-parameter frontier models need terabytes of memory for their weights alone. This post explains how the company splits a large frontier model across multiple WSE-3T wafers. It covers how models are filled into on-chip memory, how models are mapped across multiple chips, and how Cerebras handles a high number of concurrent requests",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1112,7 +1330,7 @@
    "title": "NVIDIA's Video Generation with Matching 3D Motion (4 minute read)",
    "snippet": "NVIDIA has introduced Joints, Camera, Action! (JCA), a system that generates videos and synchronized 3D motion for arbitrary character rigs from text prompts. It supports scene-aware motion, keyframe-based control, and bidirectional conversion between video and rig animation.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1122,7 +1340,7 @@
    "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip (22 minute read)",
    "snippet": "OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1132,7 +1350,7 @@
    "title": "What happened to the missing Gemini 3.5 Pro model that never shipped? (1 minute read)",
    "snippet": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1142,7 +1360,7 @@
    "title": "The full Claude Platform, available on Google Cloud (2 minute read)",
    "snippet": "Claude Platform features are now available on Google Cloud with Google Cloud authentication, billing, and commitment retirement.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1152,7 +1370,7 @@
    "title": "Anthropic Donates Agent Skills to Linux Foundation (1 minute read)",
    "snippet": "Anthropic donated its Agent Skills open standard to the Agentic AI Foundation, placing its development under vendor-neutral governance.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1162,7 +1380,7 @@
    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained (20 minute read)",
    "snippet": "Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1172,7 +1390,7 @@
    "title": "How Large is the AI Circle?",
    "snippet": "Every major build-out has two phases per Carlota Perez: infrastructure, then the applications that pay for it. The telecom internet build-out ran capex twelve times ahead of application revenue at the 2000 peak, & took seven years to get application revenue above 10% of capex, & ten to reach 48%. AI has reached that 10% mark in four years, roughly half the time.",
    "published_at": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1182,7 +1400,7 @@
    "title": "Ukraine scraps VAT relief on low-value imports July 2027",
    "snippet": "",
    "published_at": "2026-10-22T23:34:57+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1192,7 +1410,7 @@
    "title": "Eight more TLDs now eligible for a free domain with Pro",
    "snippet": "Every Pro team can claim a free domain for one year. That offer now includes .co , .studio , .company , .info , .pro , .live , .digital , and .agency , bringing the eligible TLDs to sixteen. The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew",
    "published_at": "2026-10-22T22:28:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1202,7 +1420,7 @@
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "snippet": "",
    "published_at": "2026-10-22T22:24:34+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1212,7 +1430,7 @@
    "title": "anthropics/claude-code v2.1.309",
    "snippet": "## What's changed - Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command - Fixed macOS sandbox `denyWrite` glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink - Fixed sandboxed commands and auto-accepted edits being able to modify the MCP config file passed with `--mcp-conf",
    "published_at": "2026-10-22T22:18:57+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1222,7 +1440,7 @@
    "title": "UK and EU financial regulators seek answers from Google over cloud outage",
    "snippet": "The European Banking Authority and the UK's Financial Conduct Authority have been in contact with Google over the major cloud outage earlier this week that knocked out several bank websites.",
    "published_at": "2026-10-22T21:18:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1232,7 +1450,7 @@
    "title": "Toronto crime tips org freezes operations after details of data breach come to light",
    "snippet": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
    "published_at": "2026-10-22T20:52:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1242,7 +1460,7 @@
    "title": "Economy holds steady despite grim consumer expectations: Conference Board",
    "snippet": "For several months persistent inflation — fueled largely by the rising cost of energy — has eroded real household incomes and soured the mood of consumers.",
    "published_at": "2026-10-22T19:49:21+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1252,7 +1470,7 @@
    "title": "DE STAAT - FREEDOM (Official Music Video)",
    "snippet": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : <video controls=\"1\" height=\"720\" loop=\"1\" poster=\"https://static.simonwillison.net/static/2026/freedom-pelican-poster.jpg\" preload=\"none\" sr",
    "published_at": "2026-10-22T19:42:26+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1262,7 +1480,7 @@
    "title": "Tesla cuts 2026 capex to $20B amid tech transformation plans",
    "snippet": "The Musk-owned company revised its spending guidance for the full year as it attempts to grow from an EV maker to a leader in the AI and autonomous tech space.",
    "published_at": "2026-10-22T19:22:35+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1272,7 +1490,7 @@
    "title": "SoFi launches tokenised deposits",
    "snippet": "SoFi Technologies, Inc. (NASDAQ: SOFI), the everything app for digital financial services, today announced the launch of SoFi Earn (SOFIE), the first and only national bank-issued tokenized deposit for consumers.",
    "published_at": "2026-10-22T19:19:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1282,7 +1500,7 @@
    "title": "Build more responsive apps with the Decisions API",
    "snippet": "Fast, focused, low-cost decisions for any application.",
    "published_at": "2026-10-22T19:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1292,7 +1510,7 @@
    "title": "What the fintech cool kids are wearing",
    "snippet": "A business casual vibe informed the unspoken dress code at the Money20/20 conference in Las Vegas this week. The standouts chose suits.",
    "published_at": "2026-10-22T18:57:42+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1302,7 +1520,7 @@
    "title": "Palantir chief: Europe must ‘accept some dependency’ on US tech",
    "snippet": "",
    "published_at": "2026-10-22T18:56:43+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1312,7 +1530,7 @@
    "title": "Donating Agent Skills to the Agentic AI Foundation",
    "snippet": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, <a href=\"https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-th",
    "published_at": "2026-10-22T18:09:56+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1322,7 +1540,7 @@
    "title": "langchain-ai/langchain langchain-core==1.7.0",
    "snippet": "Changes since langchain-core==1.6.13 release(core): 1.7.0 (#41418) feat(core): emit `tool-call-delta` for streamed tool-call args (#41257) ## Notes - Tool-call args now stream as `tool-call-delta` slices instead of `block-delta` snapshots of the args so far. If you read raw stream events and their `block-delta` args mid-stream, read `tool-call-delta` instead. `.tool_calls.get()` and `.output` are ",
    "published_at": "2026-10-22T17:47:38+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1332,7 +1550,7 @@
    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
    "snippet": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
    "published_at": "2026-10-22T17:40:57+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1342,7 +1560,7 @@
    "title": "Meet Aaron Rosenberg: The man DeepMind researchers call before they quit",
    "snippet": "",
    "published_at": "2026-10-22T16:49:43+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1352,7 +1570,7 @@
    "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
    "snippet": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI...",
    "published_at": "2026-10-22T16:39:09+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1362,7 +1580,7 @@
    "title": "All-Hands-AI/OpenHands v1.31.0",
    "snippet": "## 1.31.0 (2026-10-22) ## What's Changed ### Features * feat(automations): hide the GitHub token secret field on self-hosted instances when GitHub is connected (OHE-3699) by @hieptl in https://github.com/OpenHands/OpenHands/pull/18829 ### Bug Fixes * fix(mcp): install OAuth-only library entries through the MCP server's own OAuth by @ak684 in https://github.com/OpenHands/OpenHands/pull/18780 * fix:",
    "published_at": "2026-10-22T16:09:18+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1372,7 +1590,7 @@
    "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
    "snippet": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and exper",
    "published_at": "2026-10-22T16:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1382,7 +1600,7 @@
    "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
    "snippet": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
    "published_at": "2026-10-22T15:46:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1392,7 +1610,7 @@
    "title": "Quoting Armin Ronacher",
    "snippet": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , <a href=\"https:/",
    "published_at": "2026-10-22T15:34:13+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1402,7 +1620,7 @@
    "title": "How to Balance Blockchain's Speed and Privacy Flaws",
    "snippet": "At Sibos 2026, Hashgraph’s CIO Gregg Bell discusses how to replace risky blockchain bridges to make Web3 settlements faster, safer, and fully private for global finance.",
    "published_at": "2026-10-22T15:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1412,7 +1630,7 @@
    "title": "Treasury tallies $270M in suspicious financial aid transactions",
    "snippet": "The department flagged the potentially fraudulent activity as it seeks to stop criminals from stealing student financial aid payments.",
    "published_at": "2026-10-22T14:52:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1422,7 +1640,7 @@
    "title": "Paze sets big targets after revamp",
    "snippet": "The wallet’s bank owners are battling Apple and PayPal with an extensive marketing push, touting it as a more secure payment method.",
    "published_at": "2026-10-22T14:49:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1432,7 +1650,7 @@
    "title": "Beyond tree cover: mapping the world’s forest types",
    "snippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
    "published_at": "2026-10-22T14:30:24+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1442,7 +1660,7 @@
    "title": "Banks move to limit agents' access to customer accounts",
    "snippet": "The CEOs of Canada's RBC and BMO are the latest bank chiefs to warn customers about the dangers of linking their accounts to AI agents.",
    "published_at": "2026-10-22T14:26:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1452,7 +1670,7 @@
    "title": "Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization",
    "snippet": "Today, JetBrains Air Governance becomes generally available. Formerly known as JetBrains Central, this is the organization layer of JetBrains Air, a system of products for agentic development. Air Governance gives you one place to manage which AI agents, models, and providers your teams use, set spending limits, and see what that usage costs and delivers. […]",
    "published_at": "2026-10-22T14:09:21+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1462,7 +1680,7 @@
    "title": "The Pulse: Time to rethink software security because of AI?",
    "snippet": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
    "published_at": "2026-10-22T14:08:21+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1472,7 +1690,7 @@
    "title": "You are the Team — Anekha Sokhal, Moshi",
    "snippet": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
    "published_at": "2026-10-22T14:03:40+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1482,7 +1700,7 @@
    "title": "LangSmith LLM Gateway: Runtime Controls for Agents",
    "snippet": "LangSmith LLM Gateway is in public beta: spend caps, rate limits, model fallbacks and PII redaction for production agents, without provider lock-in.",
    "published_at": "2026-10-22T13:09:40+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1492,7 +1710,7 @@
    "title": "Switzerland 3.8% hotel VAT rate extended to Dec 2031",
    "snippet": "",
    "published_at": "2026-10-22T13:01:25+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1502,7 +1720,7 @@
    "title": "Claude’s personal agent",
    "snippet": "And how I run the newsletter with agents",
    "published_at": "2026-10-22T13:01:21+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1512,7 +1730,7 @@
    "title": "Coinbase fined €3.25m by Irish central bank",
    "snippet": "Crypto exchange Coinbase Ireland has been penalised by the Central Bank of Ireland (CBI) for a series of operational and governance failings over a five-year period.",
    "published_at": "2026-10-22T12:24:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   },
   {
@@ -1522,487 +1740,7 @@
    "title": "Barclays to cut 5,000 jobs amid AI expansion",
    "snippet": "Barclays is the latest high street bank to announce a headcount reduction at the same time as an expansion in the use of AI.",
    "published_at": "2026-10-22T11:37:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48631/lseg-to-acquire-data-provider-octus-for-35bn",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "LSEG to acquire data provider Octus for $3.5bn",
-   "snippet": "The London Stock Exchange (LSEG) has agreed to acquire credit data provider Octus in a cash deal worth $3.535bn.",
-   "published_at": "2026-10-22T10:04:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Ensemble forecasting with IBM Granite time-series models",
-   "snippet": "",
-   "published_at": "2026-10-22T07:51:31+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-   "snippet": "The Big Hardening begins",
-   "published_at": "2026-10-22T07:42:44+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.30.1",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.30.1",
-   "snippet": "## 1.30.1 (2026-10-22) ## What's Changed ### Maintenance * refactor(diff): express the Markdown preview cap in CSS by @enyst in https://github.com/OpenHands/OpenHands/pull/18762 * refactor(automations): express the activity track height in CSS by @enyst in https://github.com/OpenHands/OpenHands/pull/18788 * chore: bump agent-server to 1.57.0 by @all-hands-bot in https://github.com/OpenHands/OpenHa",
-   "published_at": "2026-10-22T07:12:31+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/will-vida-really-end-the-eus-reliance-on-vat-reverse-charge/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Will ViDA really end the EU’s reliance on VAT Reverse Charge?",
-   "snippet": "",
-   "published_at": "2026-10-22T06:30:33+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "What FDE means at OpenAI",
-   "snippet": "What forward deployed engineering means at OpenAI",
-   "published_at": "2026-10-22T06:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/irelands-ai-scene/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Ireland’s AI scene has buzz. Now it needs breakouts",
-   "snippet": "",
-   "published_at": "2026-10-22T05:00:56+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/sifteds-first-onstage-demo-day/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Sifted’s first Onstage Demo Day",
-   "snippet": "",
-   "published_at": "2026-10-22T05:00:40+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/norway-startup-mafia-vc-physical-ai-cognite/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "More startup ‘mafias’ are coming in Norway, predicts VC",
-   "snippet": "",
-   "published_at": "2026-10-22T05:00:06+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/italian-startups-are-growing-up/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Italian startups are growing up: bigger early-stage rounds and more late-stage money, data shows",
-   "snippet": "",
-   "published_at": "2026-10-22T05:00:05+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/yann-lecun-arthur-mensch-zurich-robotics-startup-30m-pre-seed/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed",
-   "snippet": "",
-   "published_at": "2026-10-22T05:00:04+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
-   "source": "GitHub: anthropics/claude-code",
-   "weight": 1.5,
-   "title": "anthropics/claude-code v2.1.308",
-   "snippet": "## What's changed - Bug fixes and reliability improvements",
-   "published_at": "2026-10-22T04:34:55+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Death to long-lived static credentials",
-   "snippet": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAuth, OIDC, DBSC, and related standards already provide building blocks for secure ",
-   "published_at": "2026-10-22T04:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
-   "source": "GitHub: ollama/ollama",
-   "weight": 1.0,
-   "title": "ollama/ollama v0.40.9",
-   "snippet": "## Flint on Linux and Windows [Flint](https://ollama.com/library/flint) now runs on Linux and Windows as well as macOS. ## Other improvements - Streaming OpenAI Responses and Anthropic Messages requests now report generation failures instead of ending silently after partial output. - `ollama launch` now passes cloud models' context lengths and capabilities to coding tools, fixing incorrect context",
-   "published_at": "2026-10-22T01:33:10+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.30.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.30.0",
-   "snippet": "## 1.30.0 (2026-10-22) ## What's Changed ### Features * feat(automations): reflect the built-in integration's connection state in the setup choice modal (OHE-3612) by @hieptl in https://github.com/OpenHands/OpenHands/pull/18566 ### Bug Fixes * fix(chat): let a Cloud member pick the LLM profile on the home page (OHE-3669) by @hieptl in https://github.com/OpenHands/OpenHands/pull/18729 * fix(sidebar",
-   "published_at": "2026-10-22T01:08:52+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48630/fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment---bis-research",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
-   "snippet": "Cross-border payments remain slow and expensive but fintech outfits such as Wise and Remitly have substantially cut costs relative to traditional retail bank wires while stabelcoins still suffer from issues with friction, according to BIS research.",
-   "published_at": "2026-10-22T00:01:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "snippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Deploy without an account using Vercel CLI",
-   "snippet": "You can now deploy apps to Vercel without an account using Vercel CLI . Share prototypes faster with a live URL before signing in to claim your project. From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deployments use the dedicated tmp.now domain, separate from vercel.app , and expire af",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "PHP2Shell: GitLab helps find and remediate critical PHP flaws",
-   "snippet": "GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve web requests, and our Security team has found no evidence of impact to GitLab-managed infrastructure. GitLab.com, GitLab Self-Managed, and GitLab Dedicated are not impacted. PHP is a widely used programming language that runs on web servers and powers",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://claude.com/resources/articles/claude-duet",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Claude Duet (5 minute read)",
-   "snippet": "Anthropic has unveiled Claude Duet, a proactive AI agent powered by Opus 5.5 that monitors connected apps, prioritizes tasks, and works autonomously while requesting approval before certain actions. The research preview initially targeted US Pro and Max subscribers through a waitlist.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://recursive.com/updates/introducing-recursive-flint",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing Flint (7 minute read)",
-   "snippet": "Recursive Flint is a mixture-of-experts model built for fast agentic coding on local hardware. It has 40 billion total parameters but activates just 2.5 billion per token. It was built from scratch by a small team of people and agents in under four months. Flint generates more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 tokens per second on a 64GB NVIDIA RTX Spark at shor",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/openai-models-google-cloud/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI models are coming to Google Cloud (2 minute read)",
-   "snippet": "OpenAI's frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale. It will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads. O",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://x.com/prathiknaidu/status/2112928049935118493",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "If Intelligence Is Getting Cheap, What Remains Expensive? (7 minute read)",
-   "snippet": "Long Lake argues that acquiring established service businesses solves AI deployment barriers through customer trust, expert knowledge, proprietary data, and aligned incentives. Backed by $7.5B, the company has partnered with 40 businesses to turn automation into measurable operating gains.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "How does Fable 5.1 hide messages in images? (15 minute read)",
-   "snippet": "Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.latent.space/p/claude-mods",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Claude Mods: Flipping the Harness Inside Out (11 minute read)",
-   "snippet": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-makin",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Mammoth-1 and Elephant-1: frontier decision models (20 minute read)",
-   "snippet": "Mammoth-1 and Elephant-1, decision models from Base Labs, top benchmarks like the Jev Decision Index and Artificial Analysis Decision Index.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://threadreaderapp.com/thread/2113013247209021918.html",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Claude API version 2026-10-21 is now available (1 minute read)",
-   "snippet": "The Claude API has received its first official version release since 2023. Anthropic plans to release versions more often so developers can handle breaking changes before a new model requires them. 2023-06-10 is not deprecated. New major versions of the Anthropic SDKs and CLI are out today and default to the new API. A migration guide is available.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vllm.ai/blog/2026-10-21-humming",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Announcing Humming: Fast, Flexible Kernels for Quantized Inference (19 minute read)",
-   "snippet": "Humming is a general-purpose kernel library for quantized inference. It features broad device support, extensive quantization support, and strong execution performance. Humming's unified architecture makes it straightforward to tune execution parameters and collect pipelines for different workloads.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI's PHP Patcher (11 minute read)",
-   "snippet": "OpenAI coordinated with PHP maintainers and security partners to patch critical vulnerabilities discovered using GPT-5.6 Sol and independently by Wiz. The company also released a PHP vulnerability checker and proposed a framework for coordinating responses to AI-discovered security flaws.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenClaw creator says he spent $10 million in tokens last month (4 minute read)",
-   "snippet": "Peter Steinberger, the creator of OpenClaw and now a member of technical staff at OpenAI, estimates that he spent around $10 million in tokens running AI workloads last month, all from out of investors' pockets. Steinberger has a virtually unlimited token budget, allowing him to work differently from others in the industry. This article collects some of his answers during a conversation with Cloud",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised (11 minute read)",
-   "snippet": "A malicious LiteLLM package was published to PyPI and was live for approximately 2 hours before it was pulled.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/openai/openai-cli",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI CLI (GitHub Repo)",
-   "snippet": "This repository contains the official CLI for the OpenAI API.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://x.com/samdblond/status/2112936538711683315",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Monaco Launches Agent Matrix for Revenue Growth (1 minute read)",
-   "snippet": "Agent Matrix is a platform that coordinates multiple AI agents working continuously toward revenue growth.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://getopposable.com/blog/computer-use-on-the-phone",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Computer use on the phone itself: a 2B model that operates Android apps (4 minute read)",
-   "snippet": "GUI-Owl 1.5 is a 2-billion-parameter screen model that can read an Android screen through the accessibility service and tap and type in any other app.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://threadreaderapp.com/thread/2112732230124818891.html",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "A response from Dario Amodei (8 minute read)",
-   "snippet": "Dario Amodei responds to a post regarding Anthropic's stance on AI safety by listing the things that the company did in the past year that were pro-safety and commercially costly to it.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/",
-   "source": "Tomasz Tunguz",
-   "weight": 1.0,
-   "title": "Closing Eight Figure Deals in Two Weeks",
-   "snippet": "Bardia Shahali, VP of Sales at Granola, joins Office Hours to explain how AI-era sales teams run smaller because revenue per rep multiplies, why comp plans moved from annual to quarterly, & why the sales pod splits by layer between infrastructure & application companies.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
-   "source": "Stripe blog",
-   "weight": 1.0,
-   "title": "Trends from Money20/20 2026: The rise of “hidden” financial services",
-   "snippet": "As fintech products become increasingly capable, the infrastructure behind them fades into the background. Three trends from Money20/20 show how stablecoins, agents, and always-on money are changing financial services.",
-   "published_at": "2026-10-22T00:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
-   "source": "GitHub: anthropics/claude-code",
-   "weight": 1.5,
-   "title": "anthropics/claude-code v2.1.307",
-   "snippet": "## What's changed - Added `/claude-api api-version` to move Claude API code to API version `2026-10-21` - Added the `claude_code.safety_event` OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back - Fixed requests failing with a model-not-found error when `CLAUDE_CODE_DISABLE_1M_CONTEXT` is set and the model is an ",
-   "published_at": "2026-10-21T22:17:02+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.7",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain==1.4.7",
-   "snippet": "Changes since langchain==1.4.6 chore(langchain): update lockfile (#41402) release(langchain): 1.4.7 (#41401) chore(deps): bump certifi from 2025.11.12 to 2026.10.19 in /libs/langchain_v1 (#41370) feat(core,langchain,standard-tests): read `tool-call-delta` in stream consumers (#41246) chore(deps): bump aiohttp from 3.14.4 to 3.14.5 in /libs/langchain_v1 (#41360) chore(deps): bump aiohttp from 3.14.",
-   "published_at": "2026-10-21T21:39:16+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Broad access through consistent standards",
-   "snippet": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-   "published_at": "2026-10-21T21:00:00+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.13",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.6.13",
-   "snippet": "Changes since langchain-core==1.6.12 release(core): 1.6.13 (#41397) chore(deps): bump certifi from 2025.11.12 to 2026.10.19 in /libs/core (#41373) feat(core,langchain,standard-tests): read `tool-call-delta` in stream consumers (#41246)",
-   "published_at": "2026-10-21T20:43:48+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.thealgorithmicbridge.com/p/put-some-brain-in-your-thinking",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
-   "weight": 1.0,
-   "title": "Put Some Brain in Your Thinking",
-   "snippet": "Life advice from a 7-year-old",
-   "published_at": "2026-10-21T20:40:57+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "Claude Duet is beautiful. I still forgot to use it",
-   "snippet": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
-   "published_at": "2026-10-21T20:25:18+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Announces Q3 2026 Results",
-   "snippet": "WALLDORF — The company's Autonomous Enterprise strategy is not just resonating, it is being adopted.",
-   "published_at": "2026-10-21T20:07:37+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/sec-enforcement-actions-sink-57-8-year-average-brattle-group-atkins-gensler-law-fraud/833648/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "SEC enforcement actions sink 57% below 8-year average: Brattle Group",
-   "snippet": "Staff reductions at the Securities and Exchange Commission and the record-long government shutdown slowed enforcement last year, the Brattle Group said.",
-   "published_at": "2026-10-21T19:34:07+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/spreedly-names-team-cymru-alum-cfo-ai-cyber/833645/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Spreedly names Team Cymru alum CFO",
-   "snippet": "Darren Bounds will step in as CFO as the payments company targets expansion and strives for an established place in AI-supported commerce.",
-   "published_at": "2026-10-21T19:24:12+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-   "snippet": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. <p",
-   "published_at": "2026-10-21T18:41:53+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-   "snippet": "",
-   "published_at": "2026-10-21T18:26:30+00:00",
-   "first_seen": "2026-10-25T18:20:06+00:00",
+   "first_seen": "2026-10-26T10:58:35+00:00",
    "also_in": []
   }
  ]
