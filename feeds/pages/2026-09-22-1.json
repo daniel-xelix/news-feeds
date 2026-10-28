@@ -1,0 +1,277 @@
+{
+ "set": "2026-09-22",
+ "page": 1,
+ "pages": 3,
+ "items": [
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "snippet": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI <a href=\"https://openai.com/index/introducing-",
+   "published_at": "2026-09-22T23:46:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+   "snippet": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
+   "published_at": "2026-09-22T23:12:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.6.4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.6.4",
+   "snippet": "Changes since langchain-openai==1.6.3 release(openai): 1.6.4 (#40775) chore(model-profiles): refresh openai model profile data (#40774)",
+   "published_at": "2026-09-22T22:37:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.3",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.3",
+   "snippet": "Changes since langchain-anthropic==1.7.2 release(anthropic): 1.7.3 (#40773) chore(model-profiles): refresh anthropic model profile data (#40772) fix(anthropic): auto-route `with_structured_output` to ",
+   "published_at": "2026-09-22T22:08:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.34",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.34",
+   "snippet": "- Composio connectors now load all their tools, not just the first 20. Google Calendar, for example, showed only 20 of its 47 tools, and the Installed view wrongly said \"20/20.\" The full list is now f",
+   "published_at": "2026-09-22T21:10:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.latent.space/p/john-platt",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+   "snippet": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+   "published_at": "2026-09-22T21:07:39+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Better prompt caching for GPT-6",
+   "snippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+   "published_at": "2026-09-22T21:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/v4.1.20",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline v4.1.20",
+   "snippet": "### Changed - Sub-agents spawned in the same step now run their tool calls at the same time rather than one after another. Tools that must run in order still do, and the parent still waits for every r",
+   "published_at": "2026-09-22T20:45:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
+   "snippet": "See how LangSmith helps healthcare AI teams turn clinical review into reusable evaluators, datasets, and release gates for safer AI in production.",
+   "published_at": "2026-09-22T20:12:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "I left Claude for months. Opus 5.5 is why I'm back",
+   "snippet": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and a",
+   "published_at": "2026-09-22T19:06:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.36",
+   "snippet": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversat",
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.36",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.36",
+   "snippet": "New features: - New OpenAI models: `gpt-6-sol` for [GPT-6 Sol](https://developers.openai.com/api/docs/models/gpt-6-sol) and `gpt-6-luna` for [GPT-6 Luna](https://developers.openai.com/api/docs/models/",
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting @therealcornpop",
+   "snippet": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or ",
+   "published_at": "2026-09-22T18:03:21+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing GPT-6 Sol and Luna",
+   "snippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+   "published_at": "2026-09-22T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.102.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.102.0",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e5",
+   "published_at": "2026-09-22T17:56:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+   "snippet": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...",
+   "published_at": "2026-09-22T17:27:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "How will AI change operating systems? Part 2: Windows",
+   "snippet": "Deepdive into the Windows team’s efforts to make the OS “AI agent-friendly” and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
+   "published_at": "2026-09-22T17:17:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+   "snippet": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...",
+   "published_at": "2026-09-22T17:16:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-anthropic 0.29",
+   "snippet": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+   "published_at": "2026-09-22T17:14:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.280",
+   "snippet": "## What's changed - Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads - Added mouse support to more lists in fullscreen mo",
+   "published_at": "2026-09-22T16:38:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.22.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.22.0",
+   "snippet": "## 1.22.0 (2026-09-22) ## What's Changed ### Features * feat: test remote MCP servers on cloud backends via the app server by @hieptl in https://github.com/OpenHands/OpenHands/pull/17276 * feat: open ",
+   "published_at": "2026-09-22T16:28:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-typesafe 0.1a0",
+   "snippet": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the wai",
+   "published_at": "2026-09-22T15:54:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+   "snippet": "Podcast #19",
+   "published_at": "2026-09-22T13:37:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "What can you build with Jev",
+   "snippet": "Muse is off to a good start",
+   "published_at": "2026-09-22T13:01:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+   "snippet": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...",
+   "published_at": "2026-09-22T13:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+   "snippet": "Why you should never skip error discovery",
+   "published_at": "2026-09-22T12:45:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/autonomous-enterprise-business-transformation-management-solutions-sap-ai-agents-work-at-scale/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "The Operational Backbone of the Autonomous Enterprise",
+   "snippet": "Business Transformation Management solutions from SAP help make AI agents work at scale.",
+   "published_at": "2026-09-22T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "snippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+   "snippet": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/09/when-ai-moves-from-answers-to-action/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "When AI Moves From Answers to Action",
+   "snippet": "An individual customer use case can become the foundation for future industry capabilities.",
+   "published_at": "2026-09-22T11:15:00+00:00",
+   "also_in": []
+  }
+ ]
+}
