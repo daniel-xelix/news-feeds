@@ -5,6 +5,8 @@ Outputs (committed by the GitHub Actions workflow):
   feeds/latest.json          items from the last LATEST_HOURS hours, newest first
   feeds/archive/YYYY-MM-DD.json  items published on that UTC day (merged across runs)
   feeds/status.json          per-source health for the last run
+  feeds/pages/               latest and each archive day split into small pages
+                             (index.json lists them) for readers with a fetch limit
 
 No LLM call: curation happens in the CTO Briefing scheduled tasks, which read
 these files. Exit code is non-zero only when every source failed.
@@ -16,6 +18,7 @@ import html
 import json
 import logging
 import re
+import shutil
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -26,6 +29,9 @@ from src.types import CandidateItem
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "feeds"
 ARCHIVE = OUT / "archive"
+PAGES = OUT / "pages"
+PAGE_SIZE = 30             # keeps each page under ~15 KB, below the Quick fetch limit (~28 KB)
+PAGE_SNIPPET_CHARS = 200
 LATEST_HOURS = 96          # covers a Friday-to-Monday gap with margin
 ARCHIVE_KEEP_DAYS = 45     # enough for the monthly digest
 SNIPPET_CHARS = 400
@@ -66,6 +72,26 @@ def load_rows(path: Path) -> list[dict]:
         return json.loads(path.read_text())["items"]
     except (FileNotFoundError, KeyError, json.JSONDecodeError):
         return []
+
+
+def compact(row: dict) -> dict:
+    r = dict(row)
+    r["snippet"] = (r.get("snippet") or "")[:PAGE_SNIPPET_CHARS]
+    r.pop("first_seen", None)
+    return r
+
+
+def write_pages(prefix: str, rows: list[dict]) -> list[dict]:
+    """Write rows as prefix-1.json, prefix-2.json ...; return index entries."""
+    entries = []
+    total = max(1, -(-len(rows) // PAGE_SIZE))
+    for i in range(total):
+        chunk = rows[i * PAGE_SIZE:(i + 1) * PAGE_SIZE]
+        name = f"{prefix}-{i + 1}.json"
+        write_json(PAGES / name, {"set": prefix, "page": i + 1, "pages": total,
+                                  "items": [compact(r) for r in chunk]})
+        entries.append({"file": name, "set": prefix, "page": i + 1, "pages": total, "items": len(chunk)})
+    return entries
 
 
 async def main() -> int:
@@ -151,6 +177,19 @@ async def main() -> int:
         "failed": sorted(unavailable),
         "items_in_latest": len(latest),
     })
+
+    # Paged copies for readers with a small fetch limit (Quick briefing runs).
+    shutil.rmtree(PAGES, ignore_errors=True)
+    index = write_pages("latest", latest)
+    for p in sorted(ARCHIVE.glob("*.json")):
+        index += write_pages(p.stem, load_rows(p))
+    write_json(PAGES / "index.json", {
+        "generated_at": fetched_at,
+        "page_size": PAGE_SIZE,
+        "unavailable": sorted(unavailable),
+        "files": index,
+    })
+
     log.info("latest.json: %d items; archive days touched: %d", len(latest), len(per_day))
     return 0
 
