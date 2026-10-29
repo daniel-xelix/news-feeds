@@ -1,8 +1,145 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 9,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "1 ring, 500 accounts: Why fraud signals need to travel",
+   "snippet": "How one reflection exposed a 500-account fraud ring and why cross-industry signals matter.",
+   "published_at": "2026-10-26T09:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "snippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+   "published_at": "2026-10-26T07:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "snippet": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+   "published_at": "2026-10-26T07:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Create custom monitors in Vercel Observability",
+   "snippet": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance me",
+   "published_at": "2026-10-26T06:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Sandbox commands now support stdin",
+   "snippet": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line",
+   "published_at": "2026-10-26T06:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.49",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.49",
+   "snippet": "- A new **Changes** button in the session header shows the session's line counts and opens a pane listing the files changed in the last turn or across the whole session, with a diff of each. When a tu",
+   "published_at": "2026-10-26T04:49:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.74",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.74",
+   "snippet": "- Opening a task that's already running in another Cline app now attaches to that run instead of starting a second one that couldn't be stopped. If an app closes mid-task, requests waiting on it now f",
+   "published_at": "2026-10-26T04:03:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.2.0",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.2.0",
+   "snippet": "- Starting a session that already has a run in progress now reattaches to the live session instead of replacing its runtime. Before, the original run kept going but couldn't be reached, and its transc",
+   "published_at": "2026-10-26T03:34:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing GPT-6.1 Terra",
+   "snippet": "Bringing fast and capable computer use to everyone",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Securing our frontier model training environment (17 minute read)",
+   "snippet": "OpenAI has bolstered security for its frontier-model training environments by implementing robust controls, intensifying monitoring, and conducting defense-in-depth strategies. These measures include ",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": [
+    "OpenAI blog"
+   ]
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/gharp-head-animation",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
+   "snippet": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expres",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Customizable widgets for project cards",
+   "snippet": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your tea",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-6.1 Terra now available on AI Gateway",
+   "snippet": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasonin",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/faster-pnpm-installs",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Faster pnpm installs",
+   "snippet": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times wi",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Pillow CVE-2026-112900: How to find and fix it with GitLab",
+   "snippet": "GitLab is not affected by CVE-2026-112900 or the other vulnerabilities fixed in Pillow 13.0.0. GitLab products do not include the Pillow library, and our Security team has found no evidence of impact ",
+   "published_at": "2026-10-26T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://block.xyz/dessa",
    "source": "TLDR AI",
@@ -136,69 +273,6 @@
    "title": "Seam Cutter",
    "snippet": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it ",
    "published_at": "2026-10-25T15:10:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
-   "snippet": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
-   "published_at": "2026-10-25T12:31:34+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-   "source": "Interconnects (Nathan Lambert)",
-   "weight": 1.3,
-   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-   "snippet": "#20",
-   "published_at": "2026-10-25T11:49:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.4",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.4",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.4 ``` Same c",
-   "published_at": "2026-10-25T09:39:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.105.5",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.105.5",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.105.5 ``` Same c",
-   "published_at": "2026-10-25T09:12:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.104.7",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.104.7",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.104.7 ``` Same c",
-   "published_at": "2026-10-25T09:12:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.103.9",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.103.9",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.103.9 ``` Same c",
-   "published_at": "2026-10-25T08:57:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/ev-607",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "🔮 The internet under attack, AGI compression & the next oil shock that never will be... #607",
-   "snippet": "Plus: Join our invite-only salon with Bill Gross",
-   "published_at": "2026-10-25T03:30:52+00:00",
    "also_in": []
   }
  ]
