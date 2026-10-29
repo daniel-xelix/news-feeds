@@ -1,278 +1,276 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 10,
+ "pages": 11,
  "items": [
   {
-   "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+   "url": "https://www.langchain.com/blog/the-art-of-loop-engineering",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "The Art of Loop Engineering",
+   "snippet": "Agents automate real-world work, but reliable performance requires more than a good model, it requires a carefully designed harness built for specific tasks. This post explores the core agent loop, ho",
+   "published_at": "2026-10-28T21:01:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+   "snippet": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+   "published_at": "2026-10-28T20:50:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.13",
+   "snippet": "## LFM3 on Linux and Windows Liquid AI's [LFM3](https://ollama.com/library/lfm3) models, including text-to-speech in [lfm3-audio](https://ollama.com/library/lfm3-audio) and [lfm3-omni](https://ollama.",
+   "published_at": "2026-10-28T19:55:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/supabase/",
    "source": "Latent Space",
    "weight": 1.4,
-   "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-   "snippet": "Since coding is solved, why code for the job?",
-   "published_at": "2026-10-28T08:50:30+00:00",
+   "title": "Why Agents Love Supabase",
+   "snippet": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+   "published_at": "2026-10-28T19:48:05+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48658/clearstream-makes-tokenised-fund-distribution-move",
+   "url": "https://www.cfodive.com/news/trintech-cfo-right-ai-tools-right-teams-cybersecurity-reporting/873088/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Trintech CFO: AI needs the right teams, controls",
+   "snippet": "As AI agents continue to gain more agency, upskilling employees so they have the skills to match is critical, Trintech CFO Omar Choucair said.",
+   "published_at": "2026-10-28T19:34:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel CI is now in beta",
+   "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
+   "published_at": "2026-10-28T19:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+   "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
+   "published_at": "2026-10-28T18:06:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Box Mount now runs in Vercel Sandbox",
+   "snippet": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
+   "published_at": "2026-10-28T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards",
    "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "Clearstream makes tokenised fund distribution move",
-   "snippet": "Deutsche Börse's post-trade business Clearstream is set to enable asset managers to securely issue tokenised fund shares using distributed ledger technology.",
-   "published_at": "2026-10-28T08:30:00+00:00",
+   "title": "UK Government takes on till fraud with POS software standards",
+   "snippet": "The UK government is introducing mandatory software standards for point-of-sale systems in an effort to clamp down on till fraud.",
+   "published_at": "2026-10-28T17:41:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48656/zumo-and-quantum-chain-partner-up-to-fight-quantum-threats",
+   "url": "https://www.langchain.com/blog/proactive-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+   "snippet": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+   "published_at": "2026-10-28T17:28:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+   "snippet": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+   "published_at": "2026-10-28T17:28:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873063/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Fed holds main interest rate steady despite accelerating inflation",
+   "snippet": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
+   "published_at": "2026-10-28T17:21:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "snippet": "",
+   "published_at": "2026-10-28T17:00:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33334/what-should-compliance-leaders-be-asking-at-financial-crime-summit-london-2026",
    "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "Zumo and Quantum Chain partner up to fight quantum threats",
-   "snippet": "Cryptocurrency firm Zumo has joined forces with quantum blockchain platform Quantum Chain in efforts to combat the growing threat of quantum attacks.",
-   "published_at": "2026-10-28T08:00:00+00:00",
+   "title": "What Should Compliance Leaders Be Asking at Financial Crime Summit London 2026?",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-28T17:00:42+00:00",
    "also_in": []
   },
   {
-   "url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GitHub Octoverse 2026",
+   "snippet": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted thes",
+   "published_at": "2026-10-28T16:45:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
    "source": "SAP News Center",
    "weight": 1.0,
-   "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
-   "snippet": "TOKYO — The companies share the ambition to advance secure, resilient and sovereign digital transformation for regulated industries.",
-   "published_at": "2026-10-28T08:00:00+00:00",
+   "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
+   "snippet": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise.",
+   "published_at": "2026-10-28T16:30:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/blog/ai-gateway-virtual-models",
-   "source": "Vercel blog",
+   "url": "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
+   "source": "SaaStr (Jason Lemkin)",
    "weight": 0.9,
-   "title": "Introducing Virtual Models on AI Gateway",
-   "snippet": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can ",
-   "published_at": "2026-10-28T07:25:00+00:00",
+   "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $190B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
+   "snippet": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a $190 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sa",
+   "published_at": "2026-10-28T15:52:32+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/blog/introducing-vercel-ci",
-   "source": "Vercel blog",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.1",
+   "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "Introducing Vercel CI",
-   "snippet": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. Th",
-   "published_at": "2026-10-28T07:00:00+00:00",
+   "title": "langchain-ai/langchain langchain-core==1.7.1",
+   "snippet": "Changes since langchain-core==1.7.0 release(core): version 1.7.1 (#41548) fix(core): preserve gateway tracing metadata in v3 streams (#41504) fix(core): escape node metadata in Mermaid labels (#41512)",
+   "published_at": "2026-10-28T15:00:02+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/climate-tech-growth/",
+   "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
+   "snippet": "At Sibos 2026, Volante’s Nadish Lad reveals how tokenisation and programmable money will revolutionise cross-border payments and compliance.",
+   "published_at": "2026-10-28T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Visa adapts to tech innovations",
+   "snippet": "The card network’s fiscal 2026 results show it’s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
+   "published_at": "2026-10-28T14:58:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33332/why-institutional-capital-transactions-fail-before-underwriting-begins",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Why Institutional Capital Transactions Fail Before Underwriting Begins",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-28T14:52:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
+   "snippet": "A host of companies, including JPMorgan Chase, Goldman Sachs and Microsoft, have registered their objection to their shares trading on a planned tokenised platform developed by Nyse parent Intercontin",
+   "published_at": "2026-10-28T14:51:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Liability looms over AI shopping",
+   "snippet": "Some banks and other payment players lament how agentic commerce has steamrolled ahead without “rules of the road” for liability issues.",
+   "published_at": "2026-10-28T14:48:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
    "source": "Sifted",
    "weight": 1.0,
-   "title": "The climate tech startups still growing despite the funding slowdown",
+   "title": "The executive talent market is divided in two",
    "snippet": "",
-   "published_at": "2026-10-28T05:00:43+00:00",
+   "published_at": "2026-10-28T14:32:29+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "url": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Coinbase says customer contact data exposed in third-party breach",
+   "snippet": "Crypto exchange Coinbase says a security incident at a third-party vendor exposed some customer contact data but that its own systems were not breached.",
+   "published_at": "2026-10-28T14:18:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/united-kingdom/uk-2029-mandatory-b2b-e-invoicing/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "UK April 2029 B2B e-invoicing roadmap",
+   "snippet": "",
+   "published_at": "2026-10-28T14:04:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/10-months-into-ai-for-gtm-that-actually-works-the-cro-matters-more-than-ever-every-other-gtm-role-is-in-flux/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
+   "snippet": "We are about 10 months or so into AI for go-to-market that actually works: agents running real motions in production, booking real meetings and closing real dollars. In that time, agents have absorbed",
+   "published_at": "2026-10-28T14:00:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The October inflection point for vibe game development",
+   "snippet": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became re",
+   "published_at": "2026-10-28T13:55:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
    "source": "Sifted",
    "weight": 1.0,
-   "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+   "title": "UK Budget: Capital gains, work visas and young entrepreneur allowances",
    "snippet": "",
-   "published_at": "2026-10-28T05:00:10+00:00",
+   "published_at": "2026-10-28T13:51:26+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/how-to-fund-your-robotics-company/",
-   "source": "Sifted",
+   "url": "https://www.finextra.com/newsarticle/48661/wealthsimple-hits-c138bn-valuation",
+   "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "How to fund your robotics company: not another fundraise",
-   "snippet": "",
-   "published_at": "2026-10-28T05:00:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/eu-vat-reforms-tracker/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "EU VAT reforms tracker 2026 to 2035",
-   "snippet": "",
-   "published_at": "2026-10-28T01:00:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/belgium/belgium-implements-first-vida-vat-changes-from-2027/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Belgium implements first ViDA VAT changes from 2027",
-   "snippet": "",
-   "published_at": "2026-10-28T00:16:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/eu-vat-in-the-digital-age-vida-adopted-by-ec/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "EU VAT in the Digital Age updates",
-   "snippet": "",
-   "published_at": "2026-10-28T00:03:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/uk/uk-vat-cut-on-public-ev-charging/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "UK closes loophole on Tribunal ruling 5% reduced VAT on public EV charging",
-   "snippet": "2026 Budget to confirm 20% VAT on public charging of Electric Vehicles following Charge My...",
-   "published_at": "2026-10-28T00:00:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Google Introduces Genie 4 (5 minute read)",
-   "snippet": "Genie 4 is a world model that generates photorealistic, interactive environments with synchronized audio and real-time prompt-based editing. It can maintain consistent simulations for up to two minute",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": [
-    "Google DeepMind blog"
-   ]
-  },
-  {
-   "url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Virtual models now available on AI Gateway",
-   "snippet": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, su",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Run Paseo agents on Vercel Sandbox",
-   "snippet": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect f",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Particle-1 is now available on AI Gateway",
-   "snippet": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
-   "snippet": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To ",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "fx is now available in T3 Code",
-   "snippet": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as prov",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Plugin now available in OpenCode",
-   "snippet": "The Vercel Plugin is now available in OpenCode . The plugin provides guidance on Vercel APIs and recommended patterns, with skills for AI SDK, Vercel Functions, Workflow, and more. It also includes sp",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "AI traffic insights now available in Vercel Observability",
-   "snippet": "You can now query AI traffic in Vercel Observability to understand how AI bots are accessing your site. AI traffic insights show: Requests by verified AI bot: how many requests each bot makes Most-cra",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/security-at-machine-speed/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "What happens when vulnerabilities are discovered faster than you can fix them?",
-   "snippet": "We're entering a new era of application security. Frontier AI models are uncovering complex flaws that traditional tools overlooked, and attackers are using the same models to exploit them faster. Rem",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.liquid.ai/blog/lfm3",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Liquid AI Launches LFM3 Models for On Device AI (27 minute read)",
-   "snippet": "LFM3 is a family of open weight text, vision, audio, omni, and decision models built on a shared tri-hybrid backbone, starting in the 2B parameter range. The 1.7B text model beats its 2.6B predecessor",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Formalizing the Enormous Theorem (27 minute read)",
-   "snippet": "Axiom Math has released the first complete computer-checked proof of the Classification of Finite Simple Groups (CFSG). The original CFSG proof is considered to be the longest mathematical proof ever ",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Anthropic Versus Anthropic (17 minute read)",
-   "snippet": "Anthropic is grappling with balancing bold safety initiatives and disappointing operational decisions. CEO Dario Amodei has defended their costly, safety-oriented strategies, yet concerns persist over",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Where are the world's AI chips? (1 minute read)",
-   "snippet": "The AI Chip Imports explorer estimates AI compute arrivals by country since 2022, enhancing the mapping of the global AI chip supply chain. It complements existing data on AI chip components, sales, a",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://arxiv.org/abs/2610.34662",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Proactive Video Agents (22 minute read)",
-   "snippet": "StreamVibe-VL is a vision-language model that infers implicit user intentions from continuous observations and adapts as those intentions change.",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning (11 minute read)",
-   "snippet": "Researchers have developed a new way to enable large language models to integrate new facts and enhance reasoning without catastrophic forgetting or static knowledge cutoffs. The sleep framework equip",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://cognition.com/blog/frontier-code-2.0",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "FrontierCode 2.0 (13 minute read)",
-   "snippet": "FrontierCode 2.0 provides broader coverage, higher mergeability standards, and a larger task scope while largely retaining the methodology of FrontierCode 1.0. The benchmark now accommodates surprisin",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/facebookresearch/InteractiveWorld",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Meta's Interactive Simulator for Wearable AI (GitHub Repo)",
-   "snippet": "InteractiveWorld is a simulation framework for training and evaluating wearable AI assistants. It models interactions where an assistant observes through a user's eyes, communicates with them, and rec",
-   "published_at": "2026-10-28T00:00:00+00:00",
+   "title": "Wealthsimple hits C$13.8bn valuation",
+   "snippet": "Canada's Wealthsimple has raised C$425 million at a post-money valuation of C$13.8 billion (about $9.8 billion).",
+   "published_at": "2026-10-28T13:33:00+00:00",
    "also_in": []
   }
  ]
