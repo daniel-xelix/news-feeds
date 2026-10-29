@@ -2,9 +2,9 @@ name: Fetch feeds
 
 on:
   schedule:
-    cron: "7 */2 * * *"
+    - cron: "7 */2 * * *"   # every two hours at :07 UTC; GitHub can start scheduled runs hours late
   workflow_dispatch:
-  push:                    # re-fetch whenever code or sources change
+  push:
     branches: [main]
     paths-ignore: ["feeds/**", "README.md"]
 
