@@ -1,213 +1,278 @@
 {
  "set": "latest",
  "page": 10,
- "pages": 10,
+ "pages": 11,
  "items": [
   {
-   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Jason Koebler",
-   "snippet": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to Cha",
-   "published_at": "2026-10-26T19:00:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
-   "snippet": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent an",
-   "published_at": "2026-10-26T19:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21",
-   "source": "GitHub: huggingface/transformers",
-   "weight": 0.9,
-   "title": "huggingface/transformers Release: v5.21.0",
-   "snippet": "# Release v5.21.0 ## New Model additions ### MiniCPM-OCR MiniCPM-OCR is a document-understanding model from OpenBMB's MiniCPM-V family. It keeps the MiniCPM-V 4.6 architecture, which pairs a SigLIP vi",
-   "published_at": "2026-10-26T18:17:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.40",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-cli==0.4.40",
-   "snippet": "Changes since cli==0.4.39 * release(cli): 0.4.40 (#9443) * feat(cli): send the upload headers the control plane returns (#9396)",
-   "published_at": "2026-10-26T16:45:54+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "webframe: evaluated as a scraper and a sandbox",
-   "snippet": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it execu",
-   "published_at": "2026-10-26T16:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-   "snippet": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet...",
-   "published_at": "2026-10-26T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/components-building-company-harness",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "The five components of building a \"company harness\"",
-   "snippet": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
-   "published_at": "2026-10-26T15:32:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-   "snippet": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
-   "published_at": "2026-10-26T15:32:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Euronet, Fireblocks pursue stablecoin cards",
-   "snippet": "The companies are extending their partnership to provide financial firms with the infrastructure needed to issue stablecoin-funded cards.",
-   "published_at": "2026-10-26T15:27:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/monday-data-for-science-the-bottleneck",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "📈 Monday data: For science the bottleneck isn’t intelligence",
-   "snippet": "AI already improves AI. Whether that compounds across the sciences depends on the field.",
-   "published_at": "2026-10-26T15:25:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-   "published_at": "2026-10-26T15:00:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-   "snippet": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency...",
-   "published_at": "2026-10-26T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3625/banks-and-fintechs-real-partnerships-or-competition",
+   "url": "https://www.finextra.com/videoarticle/3627/why-open-banking-needs-sustainable-commercial-model-to-scale-payments-and-ai-services",
    "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "Banks and Fintechs: Real Partnerships or Competition?",
-   "snippet": "At Sibos 2026, Cogent Bank and Modulr reveal how banks and fintechs balance collaboration and competition to deliver secure, seamless embedded finance.",
-   "published_at": "2026-10-26T15:00:00+00:00",
+   "title": "Why Open Banking Needs Sustainable Commercial Model to Scale Payments and AI Services",
+   "snippet": "At Sibos 2026, NatWest’s Simon Eacott reveals how commercial models, A2A payments, and AI can drive open banking to the next level.",
+   "published_at": "2026-10-27T11:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.39",
-   "source": "GitHub: langchain-ai/langgraph",
+   "url": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
+   "source": "JetBrains AI blog",
    "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-cli==0.4.39",
-   "snippet": "Changes since cli==0.4.38 * release(cli): 0.4.39 (#9442) * feat(cli): add --json to deploy list (#9395) * chore(deps): bump zod from 4.3.6 to 4.6.7 in /libs/cli/js-examples (#9432) * chore(deps): bump",
-   "published_at": "2026-10-26T14:16:53+00:00",
+   "title": "The Terminal in JetBrains IDEs Now Runs on libghostty",
+   "snippet": "More and more of your terminal work now runs through tools that push the terminal harder than a shell prompt ever did: AI coding agents like Claude Code and Codex, full-screen apps like Neovim and tmu",
+   "published_at": "2026-10-27T09:36:36+00:00",
    "also_in": []
   },
   {
-   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "snippet": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-   "published_at": "2026-10-26T13:45:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-   "source": "Lenny's Newsletter",
+   "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+   "source": "SAP News Center",
    "weight": 1.0,
-   "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-   "snippet": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git",
-   "published_at": "2026-10-26T12:04:20+00:00",
+   "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
+   "snippet": "BERLIN — SAP SE (NYSE: SAP) today announced a series of AI innovations at its annual SAP TechEd conference that expands its portfolio for developers.",
+   "published_at": "2026-10-27T08:02:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare",
-   "source": "Finextra headlines",
+   "url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026#new_tab",
+   "source": "SAP News Center",
    "weight": 1.0,
-   "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
-   "snippet": "At Sibos 2026, FIS and Modulr discuss the learns the U.S. can learn from U.K. real-time payment models to drive adoption and prevent fraud.",
-   "published_at": "2026-10-26T11:00:00+00:00",
+   "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
+   "snippet": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
+   "published_at": "2026-10-27T08:01:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "url": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
+   "snippet": "Tabular AI on SAP works at the edge of possibility.",
+   "published_at": "2026-10-27T08:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+   "snippet": "AI has gone from insight to action. With physical AI, it comes into the physical world.",
+   "published_at": "2026-10-27T07:59:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/ainews-anthropic-s1/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+   "snippet": "The S-1, the numbers, and the reactions.",
+   "published_at": "2026-10-27T07:24:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
    "source": "OpenAI blog",
    "weight": 1.4,
-   "title": "ChatGPT’s expanding world of work",
-   "snippet": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-   "published_at": "2026-10-26T10:00:00+00:00",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "snippet": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+   "published_at": "2026-10-27T07:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/cline/cline/releases/tag/v4.1.26",
-   "source": "GitHub: cline/cline",
-   "weight": 1.2,
-   "title": "cline/cline v4.1.26",
-   "snippet": "### Added - Cloud tasks: Settings > API Configuration has a Local | Cloud toggle when cloud sessions are on. Cloud picks the Cline model new cloud tasks run on, saved separately from your local models",
-   "published_at": "2026-10-26T09:06:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "snippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "published_at": "2026-10-26T07:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/openai-cut-incident-investigation",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "snippet": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-   "published_at": "2026-10-26T07:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+   "url": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
    "source": "Vercel blog",
    "weight": 0.9,
-   "title": "Create custom monitors in Vercel Observability",
-   "snippet": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance me",
-   "published_at": "2026-10-26T06:00:00+00:00",
+   "title": "ElevenLabs on AI Gateway",
+   "snippet": "Vercel and ElevenLabs are partnering to bring 14 ElevenLabs models to AI Gateway . To celebrate the launch, all ElevenLabs models are 50% off on AI Gateway for the first 14 days, through November 9th.",
+   "published_at": "2026-10-27T07:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.12",
+   "snippet": "## Liquid AI LFM3 [LFM3](https://ollama.com/library/lfm3) is Liquid AI's new family of small models built for local agents, tool calling, and structured output, on Liquid's new tri-hybrid architecture",
+   "published_at": "2026-10-27T00:07:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "snippet": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI says its models disproved the Exponential Time Hypothesis (7 minute read)",
+   "snippet": "OpenAI announced three model-produced results in harmonic analysis, complexity theory, and quantum field theory, including a Lean-verified proof that the long-standing Exponential Time Hypothesis is f",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": [
+    "OpenAI blog"
+   ]
+  },
+  {
+   "url": "https://www.together.ai/blog/auto-repair-for-together-gpu-clusters",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Auto repair for Together GPU Clusters: from GPU fault to healthy node",
+   "snippet": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically. Here is how it works.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
    "source": "Vercel blog",
    "weight": 0.9,
-   "title": "Vercel Sandbox commands now support stdin",
-   "snippet": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line",
-   "published_at": "2026-10-26T06:00:00+00:00",
+   "title": "Deploy a container from a plain Dockerfile",
+   "snippet": "You can now deploy a plain root Dockerfile or Containerfile on Vercel's Container runtime when no other framework is detected. Vercel selects the Container preset, builds that file, and routes all tra",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Agent sessions now cost 67% less",
+   "snippet": "Vercel Agent sessions in the dashboard and Slack now cost 67% less on average. We rebuilt how Agent manages context, reducing the tokens needed per session and improving prompt-cache reuse. These impr",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/harness-agent-image-inputs",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "HarnessAgent now supports image inputs for all harness adapters",
+   "snippet": "The AI SDK HarnessAgent layer now accepts image inputs across every harness adapter. Pass images alongside text in the standard AI SDK message format: a content array mixing { type: 'text' } and { typ",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Extend GitLab Duo Agent Platform into your business systems",
+   "snippet": "Developers mostly use GitLab Duo Agent Platform where they already work: the IDE, merge requests, and issues. But DevSecOps teams also support the business systems the rest of the company runs on, and",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPT-6.1 Terra (3 minute read)",
+   "snippet": "OpenAI released GPT-6.1 Terra, a faster, more cost-efficient model with improved visual reasoning, computer use, and writing capabilities.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic Files for an IPO (2 minute read)",
+   "snippet": "Anthropic filed an S-1 registration statement with the SEC for a proposed initial public offering on the Nasdaq under the ticker ANT. The company has not yet disclosed the number of shares to be offer",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Concerning behavior from a popular open-weight AI model (12 minute read)",
+   "snippet": "One of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file toward a remote storage container situated in Beijing while inside a closed testing sandbox managed by Cohere. The model's re",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
+   "snippet": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost pe",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+   "snippet": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's sti",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://arxiv.org/abs/2610.32770",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google's Self-Improvements in LLMs (18 minute read)",
+   "snippet": "Google researchers introduced a self-training framework that allows foundation models to improve using entirely self-generated questions, answers, and reasoning traces, guided only by broad topic desc",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Git Forge for Agent-Human Collaboration (11 minute read)",
+   "snippet": "Entire introduces a Git forge designed for agent-human collaboration, featuring Trails for code evaluations, faster distributed Git hosting, and Continuous Memory for session syncing. The platform off",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' (7 minute read)",
+   "snippet": "Anthropic's IPO could be one of the largest ever, with an anticipated market cap in the trillions, implicating major tech players like Microsoft, Amazon, Google, and Nvidia in its financial strategies",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://mirendil.com/news/introducing-fern/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Fern (3 minute read)",
+   "snippet": "Fern, Mirendil's first LLM model, supports a context window of up to 10 million tokens and specializes in high-volume agentic tasks.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Cloudflare Computer now helps agents recover from interruptions and wait for approval (2 minute read)",
+   "snippet": "Cloudflare Computer's v0.7.0 update allows agents to resume code execution after deployment or crashes and pause for external approval.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta announces $95 billion stock offering to fund AI expansion (2 minute read)",
+   "snippet": "Meta is planning a $95 billion stock offering to boost AI infrastructure and superintelligence.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "How the fastest-growing enterprises on Stripe scale globally",
+   "snippet": "Despite slower global economic growth and greater geopolitical fragmentation, the fastest-growing enterprises continue to look beyond their home markets and are investing in tools and workflows that m",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GPT-6.1 Terra",
+   "snippet": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:",
+   "published_at": "2026-10-26T23:53:07+00:00",
    "also_in": []
   }
  ]
