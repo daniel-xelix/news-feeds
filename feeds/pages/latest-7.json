@@ -4,12 +4,102 @@
  "pages": 11,
  "items": [
   {
-   "url": "https://www.cfodive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873063/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Fed holds main interest rate steady despite accelerating inflation",
-   "snippet": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
-   "published_at": "2026-10-28T17:21:09+00:00",
+   "url": "https://tomtunguz.com/crossing-the-trillion-dollar-chasm/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "Crossing the Trillion Dollar Chasm",
+   "snippet": "Two CEOs have set $1t revenue targets on their businesses while cloud growth accelerates at $30b to $50b quarterly scale. The first $10t company will be the one that crosses the trillion dollar chasm ",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting Ted Sanders",
+   "snippet": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexit",
+   "published_at": "2026-10-28T23:23:21+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.6",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.6",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
+   "published_at": "2026-10-28T23:03:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.105.7",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.105.7",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
+   "published_at": "2026-10-28T22:55:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.13",
+   "snippet": "## LFM3 on Linux and Windows Liquid AI's [LFM3](https://ollama.com/library/lfm3) models, including text-to-speech in [lfm3-audio](https://ollama.com/library/lfm3-audio) and [lfm3-omni](https://ollama.",
+   "published_at": "2026-10-28T19:55:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/supabase/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Why Agents Love Supabase",
+   "snippet": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+   "published_at": "2026-10-28T19:48:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+   "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
+   "published_at": "2026-10-28T19:33:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel CI is now in beta",
+   "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
+   "published_at": "2026-10-28T19:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Box Mount now runs in Vercel Sandbox",
+   "snippet": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
+   "published_at": "2026-10-28T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/proactive-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+   "snippet": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+   "published_at": "2026-10-28T17:28:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+   "snippet": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+   "published_at": "2026-10-28T17:28:42+00:00",
    "also_in": []
   },
   {
@@ -181,96 +271,6 @@
    "title": "Why the smartest AI models still need human context",
    "snippet": "",
    "published_at": "2026-10-28T11:06:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3629/how-market-developments-have-fundamentally-changed-risk-mitigation-and-resilience-requirements-in-fx",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "How Market Developments Have Fundamentally Changed Risk Mitigation and Resilience Requirements in FX",
-   "snippet": "In this interview, conducted following Sibos 2026, CLS's Marc Bayle De Jessé discusses how evolving geopolitics and emerging technologies are impacting operational resilience requirements in FX.",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
-   "snippet": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/how-to-expand-into-new-markets/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "How to expand into new markets",
-   "snippet": "",
-   "published_at": "2026-10-28T10:40:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/best-linkedin-photo-in-european-tech/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Who has the best LinkedIn photo in European tech?",
-   "snippet": "",
-   "published_at": "2026-10-28T10:35:36+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.jetbrains.com/ai/2026/10/getting-started-with-air-part1/",
-   "source": "JetBrains AI blog",
-   "weight": 1.0,
-   "title": "Getting Started with Air in JetBrains IDEs – Part 1",
-   "snippet": "Setting coding agents up to handle several tasks while you continue working is easy. The harder part is knowing where each task stands, what each agent has changed, and what still needs your attention",
-   "published_at": "2026-10-28T10:21:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Terk Terkowitz",
-   "snippet": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An e",
-   "published_at": "2026-10-28T10:09:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://newsletter.getdx.com/p/you-cant-find-10x-developers",
-   "source": "Engineering Enablement (DX)",
-   "weight": 1.1,
-   "title": "You can’t find 10x developers, but you can build 10x organizations",
-   "snippet": "Part I: The Coding War Games, a study behind the 10x developer myth.",
-   "published_at": "2026-10-28T10:02:34+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "The future of the firm",
-   "snippet": "How AI might enter the org chart—beneath, beside, and between us.",
-   "published_at": "2026-10-28T10:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Container Registry now supports 2 GB compressed image layers",
-   "snippet": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The ",
-   "published_at": "2026-10-28T09:32:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Legora is building the agentic operating system for legal work",
-   "snippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "published_at": "2026-10-28T09:30:00+00:00",
    "also_in": []
   }
  ]

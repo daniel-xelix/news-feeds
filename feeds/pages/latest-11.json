@@ -4,75 +4,84 @@
  "pages": 11,
  "items": [
   {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.3",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.7.3",
-   "snippet": "Changes since langchain-openai==1.7.2 test(openai): use current lightweight model in integration tests (#41509) release(openai): 1.7.3 (#41506) chore(model-profiles): refresh openai model profile data",
-   "published_at": "2026-10-26T23:08:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "snippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "published_at": "2026-10-26T22:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
-   "source": "GitHub: anthropics/claude-code",
+   "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/",
+   "source": "TLDR AI",
    "weight": 1.5,
-   "title": "anthropics/claude-code v2.1.311",
-   "snippet": "## What's changed - Added `--hold-idle-file` and `--max-hold-min` to `self-hosted-runner`, to keep an idle session while your host reports processes it left running - Added a tip for the Explanatory o",
-   "published_at": "2026-10-26T21:51:23+00:00",
+   "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+   "snippet": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's sti",
+   "published_at": "2026-10-27T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026/",
-   "source": "SAP News Center",
+   "url": "https://arxiv.org/abs/2610.32770",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google's Self-Improvements in LLMs (18 minute read)",
+   "snippet": "Google researchers introduced a self-training framework that allows foundation models to improve using entirely self-generated questions, answers, and reasoning traces, guided only by broad topic desc",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Git Forge for Agent-Human Collaboration (11 minute read)",
+   "snippet": "Entire introduces a Git forge designed for agent-human collaboration, featuring Trails for code evaluations, faster distributed Git hosting, and Continuous Memory for session syncing. The platform off",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' (7 minute read)",
+   "snippet": "Anthropic's IPO could be one of the largest ever, with an anticipated market cap in the trillions, implicating major tech players like Microsoft, Amazon, Google, and Nvidia in its financial strategies",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://mirendil.com/news/introducing-fern/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Fern (3 minute read)",
+   "snippet": "Fern, Mirendil's first LLM model, supports a context window of up to 10 million tokens and specializes in high-volume agentic tasks.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Cloudflare Computer now helps agents recover from interruptions and wait for approval (2 minute read)",
+   "snippet": "Cloudflare Computer's v0.7.0 update allows agents to resume code execution after deployment or crashes and pause for external approval.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta announces $95 billion stock offering to fund AI expansion (2 minute read)",
+   "snippet": "Meta is planning a $95 billion stock offering to boost AI infrastructure and superintelligence.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+   "source": "Stripe blog",
    "weight": 1.0,
-   "title": "AI Release Highlights Q3 2026",
-   "snippet": "The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.",
-   "published_at": "2026-10-26T20:50:00+00:00",
+   "title": "How the fastest-growing enterprises on Stripe scale globally",
+   "snippet": "Despite slower global economic growth and greater geopolitical fragmentation, the fastest-growing enterprises continue to look beyond their home markets and are investing in tools and workflows that m",
+   "published_at": "2026-10-27T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.18",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph==1.2.18",
-   "snippet": "Changes since 1.2.17 * release(checkpoint): 4.3.1 (#9447) * release(langgraph): 1.2.18 (#9445) * fix(langgraph): let error_handler recover on every path and stream failed task results (#9408) * feat(l",
-   "published_at": "2026-10-26T20:04:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Discover 1000+ services on Vercel Connect from the CLI",
-   "snippet": "You and your agents can now browse and search more than 1000 services available in Vercel Connect without leaving your terminal. vercel connect discover searches by name, alias, keyword, and descripti",
-   "published_at": "2026-10-26T20:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.10",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-sdk==0.4.10",
-   "snippet": "Changes since sdk==0.4.9 * release(checkpoint): 4.3.1 (#9447) * release(langgraph): 1.2.18 (#9445) * release(sdk-py): 0.4.10 (#9446) * fix(sdk-py): retry runs.wait with a bodyless GET and raise run er",
-   "published_at": "2026-10-26T19:59:56+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.1",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-checkpoint==4.3.1",
-   "snippet": "Changes since checkpoint==4.3.0 * release(checkpoint): 4.3.1 (#9447) * fix(checkpoint): reject NUL bytes in namespace labels (#9383) * chore(deps): bump certifi from 2026.1.4 to 2026.10.19 in /libs/ch",
-   "published_at": "2026-10-26T19:57:41+00:00",
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GPT-6.1 Terra",
+   "snippet": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:",
+   "published_at": "2026-10-26T23:53:07+00:00",
    "also_in": []
   }
  ]

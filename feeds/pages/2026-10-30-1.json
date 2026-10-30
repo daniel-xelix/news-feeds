@@ -1,8 +1,134 @@
 {
  "set": "2026-10-30",
  "page": 1,
- "pages": 3,
+ "pages": 4,
  "items": [
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.19",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.19",
+   "snippet": "Changes since 1.2.18 * release(langgraph): 1.2.19 (#9504) * release(checkpoint-sqlite): 3.1.3 (#9505) * fix(langgraph): keep trace_policy from rewriting streamed node payloads (#9486) * fix(langgraph)",
+   "published_at": "2026-10-30T22:23:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointsqlite%3D%3D3.1.3",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint-sqlite==3.1.3",
+   "snippet": "Changes since checkpointsqlite==3.1.2 * release(checkpoint-sqlite): 3.1.3 (#9505) * release(checkpoint): 4.3.1 (#9447) * fix(checkpoint): reject NUL bytes in namespace labels (#9383) * chore(deps): bu",
+   "published_at": "2026-10-30T22:18:54+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.11",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-sdk==0.4.11",
+   "snippet": "Changes since sdk==0.4.10 * release(langgraph): 1.2.19 (#9504) * release(sdk-py): 0.4.11 (#9503) * test(sdk-py): check that a reconnect loop resumes after the newest event (#9483) * fix(sdk-py): retry",
+   "published_at": "2026-10-30T22:17:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "dbreunig/nesformer",
+   "snippet": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES RO",
+   "published_at": "2026-10-30T21:59:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+   "snippet": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...",
+   "published_at": "2026-10-30T21:35:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+   "snippet": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
+   "published_at": "2026-10-30T20:45:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+   "snippet": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...",
+   "published_at": "2026-10-30T20:33:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Visa signs digital payments deal with Senegal",
+   "snippet": "Visa and Senegal’s Ministry of Telecommunications and Digital Affairs have signed a Memorandum of Understanding (MoU) establishing a two-year framework for strategic collaboration to support Senegal’s",
+   "published_at": "2026-10-30T20:13:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873387/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Trump sparked growth but widened trade deficit, slowed hiring: IW",
+   "snippet": "President Donald Trump has fallen short on a pledge to curb inflation and improve other measures of economic well-being, the German Economic Institute said in a report.",
+   "published_at": "2026-10-30T20:01:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33355/digital-wallets-in-emerging-markets-have-to-carry-identity-savings-and-remittances",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Digital wallets in emerging markets have to carry identity, savings, and remittances",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-30T20:00:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33354/why-payment-infrastructure-needs-to-evolve-beyond-transaction-processing",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Why Payment Infrastructure Needs to Evolve Beyond Transaction Processing",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-30T19:49:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/michael-saylors-strategy-cfo-resigns-bitcoin-crypto/873385/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Michael Saylor’s Strategy CFO resigns",
+   "snippet": "Bitcoin accumulator Strategy’s founder Michael Saylor predicted “a new bull market” even as the digital asset remains volatile.",
+   "published_at": "2026-10-30T19:41:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/amazon-ceo-flags-ai-costs-barrier-wider-adoption/873381/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Amazon CEO flags AI costs as barrier to wider adoption",
+   "snippet": "AI demand is driving AWS growth, but lowering the cost of running models will be key to broader business adoption, Amazon CEO Andy Jassy said.",
+   "published_at": "2026-10-30T19:18:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/rivian-grants-interim-cfo-125000-stock-unit-award/873375/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Rivian grants interim CFO 125,000 stock unit award",
+   "snippet": "Rivian veteran Derek Mulvey took its interim CFO chair Friday as the company targets improved deliveries and continued autonomous tech development for the full year.",
+   "published_at": "2026-10-30T19:04:52+00:00",
+   "also_in": []
+  },
   {
    "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
    "source": "The Record",
@@ -28,6 +154,15 @@
    "title": "Belgium submits 2028 VAT e-reporting Bill to Parliament",
    "snippet": "",
    "published_at": "2026-10-30T18:37:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33353/bank-of-england-bringing-climate-risk-into-collateral-management",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Bank of England: Bringing Climate Risk into Collateral Management",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-10-30T18:35:18+00:00",
    "also_in": []
   },
   {
@@ -136,141 +271,6 @@
    "title": "Roblox’s approach to tripling AI code review acceptance rates",
    "snippet": "Andrew Swerdlow shares how Roblox is building trust in AI agents to autonomously review, test, and deploy code and what that means for engineers.",
    "published_at": "2026-10-30T14:33:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/south-korea-is-betting-on-startups-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "South Korea is betting on startups to secure its future on the global stage",
-   "snippet": "",
-   "published_at": "2026-10-30T14:26:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
-   "snippet": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Basha",
-   "published_at": "2026-10-30T14:24:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Amex nabs new risk chief",
-   "snippet": "The executive shuffle comes at a pivotal time for Amex, which was hit this month with regulator penalties over anti-money laundering compliance failures.",
-   "published_at": "2026-10-30T14:13:59+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "The B2B Category the Markets “Hate” the Most Today: GTM",
-   "snippet": "Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it’s a 58% premium, because Braze trade",
-   "published_at": "2026-10-30T14:10:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48679/kipp-acquired-by-ltvco-led-investor-group-for-us-push",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Kipp acquired by LTVCo-led investor group for US push",
-   "snippet": "Kipp, a Tel Aviv-headquartered fintech platform connecting card issuers and merchants to approve more transactions, has been acquired by an investor group ahead of a push into the US market.",
-   "published_at": "2026-10-30T14:10:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/uae/uae-e-invoice-plans-2022/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "UAE e-invoicing Jan – Oct 2027 updated penalties",
-   "snippet": "",
-   "published_at": "2026-10-30T14:01:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "AI agents won’t pay the way you do",
-   "snippet": "Plaid’s payments head explains how payment methods might shift as artificial intelligence begins choosing how to pay.",
-   "published_at": "2026-10-30T13:31:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "ECB picks digital euro network service providers",
-   "snippet": "The European Central Bank has selected two network service providers to connect PSPs and national central banks to the digital euro service platform.",
-   "published_at": "2026-10-30T13:25:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/introducing-geist-serif",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Introducing Geist Serif",
-   "snippet": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and th",
-   "published_at": "2026-10-30T13:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-217",
-   "source": "Not Boring (Packy McCormick)",
-   "weight": 0.9,
-   "title": "Weekly Dose of Optimism #217",
-   "snippet": "Anduril BlueChip, OpenAI Science, Anthropic Drugs, Robot Brain Surgery, Readwise Books, Reta, Neuralink VOICE + Extra Doses",
-   "published_at": "2026-10-30T12:58:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
-   "snippet": "The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” ",
-   "published_at": "2026-10-30T12:52:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Hackers target government Windows systems in Asia with new malware",
-   "snippet": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected compute",
-   "published_at": "2026-10-30T12:36:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48677/sustainable-finance-live-wonky-harvest-and-lloyds-banking-group-win-2026-hackathon",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Sustainable Finance Live: Wonky Harvest and Lloyds Banking Group win 2026 Hackathon",
-   "snippet": "Team 8: Wonky Harvest and Team 9: Lloyds Banking Group have been crowned the winners of the Sustainable Finance Hackathon 2026.",
-   "published_at": "2026-10-30T12:28:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33350/ripples-trust-bank-plans-and-the-potential-implications-for-xrp",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Ripple’s Trust-Bank Plans and the Potential Implications for XRP",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-10-30T12:22:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/annual-contracts-maybe-not-all-they-are-cracked-up-to-be/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Annual Contracts: Maybe Not All They Are Cracked Up To Be",
-   "snippet": "Annual contracts seem so great. VCs love them, and they do seem to reduce churn. Seem to. In fact, when CROs struggle to hit a plan, they often want to push customers onto annual contracts. That and p",
-   "published_at": "2026-10-30T12:10:51+00:00",
    "also_in": []
   }
  ]
