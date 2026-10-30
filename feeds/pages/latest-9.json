@@ -1,8 +1,37 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "snippet": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI says its models disproved the Exponential Time Hypothesis (7 minute read)",
+   "snippet": "OpenAI announced three model-produced results in harmonic analysis, complexity theory, and quantum field theory, including a Lean-verified proof that the long-standing Exponential Time Hypothesis is f",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": [
+    "OpenAI blog"
+   ]
+  },
+  {
+   "url": "https://www.together.ai/blog/auto-repair-for-together-gpu-clusters",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Auto repair for Together GPU Clusters: from GPU fault to healthy node",
+   "snippet": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically. Here is how it works.",
+   "published_at": "2026-10-27T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
    "source": "Vercel blog",
@@ -244,33 +273,6 @@
    "title": "Audit deficiency rate plunges due to training, oversight upgrades: PCAOB",
    "snippet": "Efforts in quality control, stricter accountability and use of technology have reduced the incidence of Part I.A audit deficiencies, the Public Company Accounting Oversight Board said.",
    "published_at": "2026-10-26T19:43:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Jason Koebler",
-   "snippet": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to Cha",
-   "published_at": "2026-10-26T19:00:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
-   "snippet": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent an",
-   "published_at": "2026-10-26T19:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21",
-   "source": "GitHub: huggingface/transformers",
-   "weight": 0.9,
-   "title": "huggingface/transformers Release: v5.21.0",
-   "snippet": "# Release v5.21.0 ## New Model additions ### MiniCPM-OCR MiniCPM-OCR is a document-understanding model from OpenBMB's MiniCPM-V family. It keeps the MiniCPM-V 4.6 architecture, which pairs a SigLIP vi",
-   "published_at": "2026-10-26T18:17:42+00:00",
    "also_in": []
   }
  ]

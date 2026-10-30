@@ -1,15 +1,33 @@
 {
  "set": "latest",
  "page": 10,
- "pages": 11,
+ "pages": 10,
  "items": [
   {
-   "url": "https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?",
-   "snippet": "",
-   "published_at": "2026-10-26T17:03:39+00:00",
+   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting Jason Koebler",
+   "snippet": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to Cha",
+   "published_at": "2026-10-26T19:00:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+   "snippet": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent an",
+   "published_at": "2026-10-26T19:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Release: v5.21.0",
+   "snippet": "# Release v5.21.0 ## New Model additions ### MiniCPM-OCR MiniCPM-OCR is a document-understanding model from OpenBMB's MiniCPM-V family. It keeps the MiniCPM-V 4.6 architecture, which pairs a SigLIP vi",
+   "published_at": "2026-10-26T18:17:42+00:00",
    "also_in": []
   },
   {
@@ -190,89 +208,6 @@
    "title": "Vercel Sandbox commands now support stdin",
    "snippet": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line",
    "published_at": "2026-10-26T06:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.49",
-   "source": "GitHub: cline/cline",
-   "weight": 1.2,
-   "title": "cline/cline Desktop v0.0.49",
-   "snippet": "- A new **Changes** button in the session header shows the session's line counts and opens a pane listing the files changed in the last turn or across the whole session, with a diff of each. When a tu",
-   "published_at": "2026-10-26T04:49:34+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.74",
-   "source": "GitHub: cline/cline",
-   "weight": 1.2,
-   "title": "cline/cline CLI v3.0.74",
-   "snippet": "- Opening a task that's already running in another Cline app now attaches to that run instead of starting a second one that couldn't be stopped. If an app closes mid-task, requests waiting on it now f",
-   "published_at": "2026-10-26T04:03:28+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.2.0",
-   "source": "GitHub: cline/cline",
-   "weight": 1.2,
-   "title": "cline/cline SDK v0.2.0",
-   "snippet": "- Starting a session that already has a run in progress now reattaches to the live session instead of replacing its runtime. Before, the original run kept going but couldn't be reached, and its transc",
-   "published_at": "2026-10-26T03:34:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Introducing GPT-6.1 Terra",
-   "snippet": "Bringing fast and capable computer use to everyone",
-   "published_at": "2026-10-26T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Securing our frontier model training environment (17 minute read)",
-   "snippet": "OpenAI has bolstered security for its frontier-model training environments by implementing robust controls, intensifying monitoring, and conducting defense-in-depth strategies. These measures include ",
-   "published_at": "2026-10-26T00:00:00+00:00",
-   "also_in": [
-    "OpenAI blog"
-   ]
-  },
-  {
-   "url": "https://machinelearning.apple.com/research/gharp-head-animation",
-   "source": "Apple ML research",
-   "weight": 1.0,
-   "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
-   "snippet": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expres",
-   "published_at": "2026-10-26T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Customizable widgets for project cards",
-   "snippet": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your tea",
-   "published_at": "2026-10-26T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "GPT-6.1 Terra now available on AI Gateway",
-   "snippet": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasonin",
-   "published_at": "2026-10-26T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/faster-pnpm-installs",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Faster pnpm installs",
-   "snippet": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times wi",
-   "published_at": "2026-10-26T00:00:00+00:00",
    "also_in": []
   }
  ]

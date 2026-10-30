@@ -1,8 +1,84 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://huggingface.co/blog/anydecisionmodel",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+   "snippet": "",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
+   "snippet": "NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A. It's ranked first across several transcription and speaker att",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": [
+    "Hugging Face blog"
+   ]
+  },
+  {
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma (11 minute read)",
+   "snippet": "Independent evaluation of language models is a hard task. It is difficult to create a number that is representative of current models that matches vibe checks, community sentiment, and scientific anal",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": [
+    "Interconnects (Nathan Lambert)"
+   ]
+  },
+  {
+   "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Node.js 26 LTS is now Generally Available on Vercel",
+   "snippet": "Node.js 26 LTS is now Generally Available for builds and Vercel Functions . This release includes: HTTP/2 by default for built-in fetch ( Undici 8 ) lets multiple requests share a connection with serv",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Connect adds webhook triggers for more providers",
+   "snippet": "Vercel Connect now supports webhook triggers for Resend , X , Twilio , Notion , and Telegram . Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, ",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Control AI crawlers and assistants separately in Vercel Firewall",
+   "snippet": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model trai",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Plugin is now available in Antigravity",
+   "snippet": "The Vercel Plugin is now available in the Google Antigravity marketplace. Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for product",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+   "snippet": "Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights i",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://vercel.com/blog/introducing-vercel-ci",
    "source": "TLDR AI",
@@ -201,78 +277,6 @@
    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
    "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
    "published_at": "2026-10-28T19:33:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel CI is now in beta",
-   "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
-   "published_at": "2026-10-28T19:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/sen-warren-probes-ai-safety-market-risks-anthropic-ipo/873076/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Sen. Warren probes AI safety, market risks in Anthropic IPO",
-   "snippet": "“I believe the risks presented by this technology demand greater scrutiny,” the Democrat wrote in a letter to Anthropic CEO Dario Amodei.",
-   "published_at": "2026-10-28T18:26:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Box Mount now runs in Vercel Sandbox",
-   "snippet": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
-   "published_at": "2026-10-28T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "UK Government takes on till fraud with POS software standards",
-   "snippet": "The UK government is introducing mandatory software standards for point-of-sale systems in an effort to clamp down on till fraud.",
-   "published_at": "2026-10-28T17:41:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/proactive-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
-   "snippet": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
-   "published_at": "2026-10-28T17:28:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
-   "snippet": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
-   "published_at": "2026-10-28T17:28:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873063/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Fed holds main interest rate steady despite accelerating inflation",
-   "snippet": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
-   "published_at": "2026-10-28T17:21:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind blog",
-   "weight": 1.4,
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "snippet": "",
-   "published_at": "2026-10-28T17:00:58+00:00",
    "also_in": []
   }
  ]

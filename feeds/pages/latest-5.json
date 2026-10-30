@@ -1,8 +1,80 @@
 {
  "set": "latest",
  "page": 5,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel CI is now in beta",
+   "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
+   "published_at": "2026-10-28T19:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/sen-warren-probes-ai-safety-market-risks-anthropic-ipo/873076/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Sen. Warren probes AI safety, market risks in Anthropic IPO",
+   "snippet": "“I believe the risks presented by this technology demand greater scrutiny,” the Democrat wrote in a letter to Anthropic CEO Dario Amodei.",
+   "published_at": "2026-10-28T18:26:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Box Mount now runs in Vercel Sandbox",
+   "snippet": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
+   "published_at": "2026-10-28T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "UK Government takes on till fraud with POS software standards",
+   "snippet": "The UK government is introducing mandatory software standards for point-of-sale systems in an effort to clamp down on till fraud.",
+   "published_at": "2026-10-28T17:41:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/proactive-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+   "snippet": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+   "published_at": "2026-10-28T17:28:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+   "snippet": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+   "published_at": "2026-10-28T17:28:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/fed-holds-main-interest-rate-steady-accelerating-inflation-Warsh/873063/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Fed holds main interest rate steady despite accelerating inflation",
+   "snippet": "Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.",
+   "published_at": "2026-10-28T17:21:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "snippet": "",
+   "published_at": "2026-10-28T17:00:58+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.finextra.com/blogposting/33334/what-should-compliance-leaders-be-asking-at-financial-crime-summit-london-2026",
    "source": "Finextra headlines",
@@ -139,15 +211,6 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48661/wealthsimple-hits-c138bn-valuation",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Wealthsimple hits C$13.8bn valuation",
-   "snippet": "Canada's Wealthsimple has raised C$425 million at a post-money valuation of C$13.8 billion (about $9.8 billion).",
-   "published_at": "2026-10-28T13:33:00+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
    "source": "OpenAI blog",
    "weight": 1.4,
@@ -172,15 +235,6 @@
    "title": "ggml-org/llama.cpp v0.8.0",
    "snippet": "## Overview This release adds the LiquidAI LFM3 family (text, vision, audio and omni) together with a new experimental streaming-audio API in `mtmd`, and wires realtime audio in and out of the server ",
    "published_at": "2026-10-28T12:47:51+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48660/natwest-slashes-marketing-compliance-approval-times-with-adclear-agents",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "NatWest slashes marketing compliance approval times with Adclear agents",
-   "snippet": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval times by 80%.",
-   "published_at": "2026-10-28T12:45:00+00:00",
    "also_in": []
   },
   {
@@ -217,60 +271,6 @@
    "title": "Why the smartest AI models still need human context",
    "snippet": "",
    "published_at": "2026-10-28T11:06:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3629/how-market-developments-have-fundamentally-changed-risk-mitigation-and-resilience-requirements-in-fx",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "How Market Developments Have Fundamentally Changed Risk Mitigation and Resilience Requirements in FX",
-   "snippet": "In this interview, conducted following Sibos 2026, CLS's Marc Bayle De Jessé discusses how evolving geopolitics and emerging technologies are impacting operational resilience requirements in FX.",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
-   "snippet": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/how-to-expand-into-new-markets/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "How to expand into new markets",
-   "snippet": "",
-   "published_at": "2026-10-28T10:40:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/best-linkedin-photo-in-european-tech/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Who has the best LinkedIn photo in European tech?",
-   "snippet": "",
-   "published_at": "2026-10-28T10:35:36+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.jetbrains.com/ai/2026/10/getting-started-with-air-part1/",
-   "source": "JetBrains AI blog",
-   "weight": 1.0,
-   "title": "Getting Started with Air in JetBrains IDEs – Part 1",
-   "snippet": "Setting coding agents up to handle several tasks while you continue working is easy. The harder part is knowing where each task stands, what each agent has changed, and what still needs your attention",
-   "published_at": "2026-10-28T10:21:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Terk Terkowitz",
-   "snippet": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An e",
-   "published_at": "2026-10-28T10:09:07+00:00",
    "also_in": []
   }
  ]
