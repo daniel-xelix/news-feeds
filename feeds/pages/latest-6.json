@@ -1,8 +1,53 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 9,
+ "pages": 8,
  "items": [
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.21.1",
+   "snippet": "# Patch release v5.21.1 ** Fix rope_scaling setter for configs that assign it during init (#50080 ) We broke remote code loading in vllm, this fixes it sorry everyone!",
+   "published_at": "2026-10-29T08:35:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.33",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.33",
+   "snippet": "## What's Changed ### Features - Add `crewai skill search` to list the organization's skills - Pass `crewai run --inputs` to a Python flow - Add `deploy create --zip` and print the commit a zip is bui",
+   "published_at": "2026-10-29T07:36:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/austria/austria-proposes-2027-initial-vida-vat-law/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Austria proposes 2027 initial ViDA VAT law",
+   "snippet": "",
+   "published_at": "2026-10-29T07:00:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "snippet": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "published_at": "2026-10-29T07:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+   "snippet": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response. Faster cold starts Two changes speed up SDK initializat",
+   "published_at": "2026-10-29T06:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://latent.space/p/ainews-gemini-4-carbon/",
    "source": "Latent Space",
@@ -229,51 +274,6 @@
    "weight": 1.5,
    "title": "Building an Inference Stack That Improves Itself (20 minute read)",
    "snippet": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up t",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work (4 minute read)",
-   "snippet": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and e",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Route and orchestrate models with GitHub Copilot Fusion (2 minute read)",
-   "snippet": "GitHub Copilot Fusion lets Copilot intelligently route and orchestrate models for each task. It leverages the benefits of Project HydraFusion's multi-model orchestration and Copilot auto model selecti",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Meta has a new AI pet app called Waddle World (3 minute read)",
-   "snippet": "Meta launched Waddle World, a virtual AI pet app that functions like a Tamagotchi, in the Philippines on iOS and Android. Unlike traditional productivity tools or chatbots, it serves as a digital pet ",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying (5 minute read)",
-   "snippet": "Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recomm",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://elevenlabs.io/blog/cue-aligner",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "ElevenLabs Cue: Character-level audio timing (7 minute read)",
-   "snippet": "ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files.",
    "published_at": "2026-10-29T00:00:00+00:00",
    "also_in": []
   }
