@@ -4,6 +4,33 @@
  "pages": 7,
  "items": [
   {
+   "url": "https://sifted.eu/articles/are-europes-fastest-growing-startups-hiring-wrong-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Are Europe's fastest-growing startups hiring wrong?",
+   "snippet": "",
+   "published_at": "2026-10-29T09:03:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How we detect frontier model misalignment",
+   "snippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "published_at": "2026-10-29T09:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.21.1",
+   "snippet": "# Patch release v5.21.1 ** Fix rope_scaling setter for configs that assign it during init (#50080 ) We broke remote code loading in vllm, this fixes it sorry everyone!",
+   "published_at": "2026-10-29T08:35:02+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.33",
    "source": "GitHub: crewAIInc/crewAI",
    "weight": 1.0,
@@ -247,33 +274,6 @@
    "weight": 1.5,
    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
    "snippet": "NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A. It's ranked first across several transcription and speaker att",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://divagr.com/blog/qwenputer",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)",
-   "snippet": "Qwenputer is a fully functioning, deterministic RISC-V CPU that runs inside Qwen3.5. The CPU runs on its own Gated DeltaNet layers as RAM. It can run arithmetic operations and C and MicroPython code w",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://x.com/DecagonAI/status/2115511110120120437",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Building an Inference Stack That Improves Itself (20 minute read)",
-   "snippet": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up t",
-   "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work (4 minute read)",
-   "snippet": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and e",
    "published_at": "2026-10-29T00:00:00+00:00",
    "also_in": []
   }

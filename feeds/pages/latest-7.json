@@ -4,6 +4,33 @@
  "pages": 7,
  "items": [
   {
+   "url": "https://divagr.com/blog/qwenputer",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)",
+   "snippet": "Qwenputer is a fully functioning, deterministic RISC-V CPU that runs inside Qwen3.5. The CPU runs on its own Gated DeltaNet layers as RAM. It can run arithmetic operations and C and MicroPython code w",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/DecagonAI/status/2115511110120120437",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Building an Inference Stack That Improves Itself (20 minute read)",
+   "snippet": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up t",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work (4 minute read)",
+   "snippet": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and e",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -145,132 +172,6 @@
    "title": "Vercel CI is now in beta",
    "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
    "published_at": "2026-10-28T19:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Box Mount now runs in Vercel Sandbox",
-   "snippet": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the ",
-   "published_at": "2026-10-28T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/proactive-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
-   "snippet": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
-   "published_at": "2026-10-28T17:28:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
-   "snippet": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
-   "published_at": "2026-10-28T17:28:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind blog",
-   "weight": 1.4,
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "snippet": "",
-   "published_at": "2026-10-28T17:00:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "GitHub Octoverse 2026",
-   "snippet": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted thes",
-   "published_at": "2026-10-28T16:45:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
-   "snippet": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise.",
-   "published_at": "2026-10-28T16:30:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.1",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.7.1",
-   "snippet": "Changes since langchain-core==1.7.0 release(core): version 1.7.1 (#41548) fix(core): preserve gateway tracing metadata in v3 streams (#41504) fix(core): escape node metadata in Mermaid labels (#41512)",
-   "published_at": "2026-10-28T15:00:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
-   "snippet": "At Sibos 2026, Volante’s Nadish Lad reveals how tokenisation and programmable money will revolutionise cross-border payments and compliance.",
-   "published_at": "2026-10-28T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Visa adapts to tech innovations",
-   "snippet": "The card network’s fiscal 2026 results show it’s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
-   "published_at": "2026-10-28T14:58:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Liability looms over AI shopping",
-   "snippet": "Some banks and other payment players lament how agentic commerce has steamrolled ahead without “rules of the road” for liability issues.",
-   "published_at": "2026-10-28T14:48:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "The executive talent market is divided in two",
-   "snippet": "",
-   "published_at": "2026-10-28T14:32:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "The October inflection point for vibe game development",
-   "snippet": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became re",
-   "published_at": "2026-10-28T13:55:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "UK Budget: Capital gains, work visas and young entrepreneur allowances",
-   "snippet": "",
-   "published_at": "2026-10-28T13:51:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "snippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "published_at": "2026-10-28T13:15:00+00:00",
    "also_in": []
   }
  ]
