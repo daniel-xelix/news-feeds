@@ -1,17 +1,8 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 8,
+ "pages": 7,
  "items": [
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
-   "source": "GitHub: huggingface/transformers",
-   "weight": 0.9,
-   "title": "huggingface/transformers Patch release v5.21.1",
-   "snippet": "# Patch release v5.21.1 ** Fix rope_scaling setter for configs that assign it during init (#50080 ) We broke remote code loading in vllm, this fixes it sorry everyone!",
-   "published_at": "2026-10-29T08:35:02+00:00",
-   "also_in": []
-  },
   {
    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.33",
    "source": "GitHub: crewAIInc/crewAI",
@@ -274,6 +265,15 @@
    "weight": 1.5,
    "title": "Building an Inference Stack That Improves Itself (20 minute read)",
    "snippet": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up t",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work (4 minute read)",
+   "snippet": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and e",
    "published_at": "2026-10-29T00:00:00+00:00",
    "also_in": []
   }

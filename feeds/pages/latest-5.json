@@ -1,7 +1,7 @@
 {
  "set": "latest",
  "page": 5,
- "pages": 8,
+ "pages": 7,
  "items": [
   {
    "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
@@ -229,15 +229,6 @@
    "also_in": []
   },
   {
-   "url": "https://www.saastr.com/sponsor-saastr-ai-annual-2027-walk-out-with-85-customer-meetings-set/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Sponsor SaaStr AI Annual 2027. Walk Out With 85+ Customer Meetings Set.",
-   "snippet": "A few months after SaaStr AI Annual 2026, someone asked on LinkedIn how many leads sponsors got from the event. Steve Burton, CMO of Aurasell, answered in one line: “Don’t count leads, but we booked 8",
-   "published_at": "2026-10-29T11:00:31+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
    "source": "SAP News Center",
    "weight": 1.0,
@@ -271,6 +262,15 @@
    "title": "How we detect frontier model misalignment",
    "snippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
    "published_at": "2026-10-29T09:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.21.1",
+   "snippet": "# Patch release v5.21.1 ** Fix rope_scaling setter for configs that assign it during init (#50080 ) We broke remote code loading in vllm, this fixes it sorry everyone!",
+   "published_at": "2026-10-29T08:35:02+00:00",
    "also_in": []
   }
  ]
