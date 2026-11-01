@@ -2,6 +2,26 @@
  "date": "2026-11-01",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "If in doubt, delete the uv.lock file",
+   "snippet": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying",
+   "published_at": "2026-11-01T23:24:22+00:00",
+   "first_seen": "2026-11-01T23:33:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.34",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.34",
+   "snippet": "## What's Changed ### Features - Add standalone LiteLLM catalog PR before version bump - Record where crewai run stops before kickoff - Add crewai skill search to list the organization's skills - Pass crewai run --inputs to a Python flow - Add deploy create --zip and print the commit a zip is built from - Document agent planning with planningconfig and migrate reasoning page ### Bug Fixes - Stop o",
+   "published_at": "2026-11-01T21:21:56+00:00",
+   "first_seen": "2026-11-01T23:33:01+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/",
    "source": "SaaStr (Jason Lemkin)",
    "weight": 0.9,

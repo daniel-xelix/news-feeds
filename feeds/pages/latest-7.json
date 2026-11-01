@@ -4,6 +4,24 @@
  "pages": 7,
  "items": [
   {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini 4 Carbon (1 minute read)",
+   "snippet": "Google has introduced the Gemini 4 Carbon model, advancing AI capabilities with improved energy efficiency. This model enhances performance in natural language processing tasks while reducing carbon f",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
+   "snippet": "NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A. It's ranked first across several transcription and speaker att",
+   "published_at": "2026-10-29T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://divagr.com/blog/qwenputer",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -109,69 +127,6 @@
    "title": "Crossing the Trillion Dollar Chasm",
    "snippet": "Two CEOs have set $1t revenue targets on their businesses while cloud growth accelerates at $30b to $50b quarterly scale. The first $10t company will be the one that crosses the trillion dollar chasm ",
    "published_at": "2026-10-29T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Ted Sanders",
-   "snippet": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexit",
-   "published_at": "2026-10-28T23:23:21+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.6",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.6",
-   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
-   "published_at": "2026-10-28T23:03:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.105.7",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.105.7",
-   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
-   "published_at": "2026-10-28T22:55:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
-   "source": "GitHub: ollama/ollama",
-   "weight": 1.0,
-   "title": "ollama/ollama v0.40.13",
-   "snippet": "## LFM3 on Linux and Windows Liquid AI's [LFM3](https://ollama.com/library/lfm3) models, including text-to-speech in [lfm3-audio](https://ollama.com/library/lfm3-audio) and [lfm3-omni](https://ollama.",
-   "published_at": "2026-10-28T19:55:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/supabase/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "Why Agents Love Supabase",
-   "snippet": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
-   "published_at": "2026-10-28T19:48:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-   "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
-   "published_at": "2026-10-28T19:33:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel CI is now in beta",
-   "snippet": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's abi",
-   "published_at": "2026-10-28T19:00:00+00:00",
    "also_in": []
   }
  ]
