@@ -1,105 +1,276 @@
 {
  "set": "2026-11-02",
  "page": 3,
- "pages": 3,
+ "pages": 4,
  "items": [
   {
-   "url": "https://arxiv.org/abs/2610.37741",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Poisoning 0.1% of pretraining data planted a remote-code backdoor in a coding agent (78 minute read)",
-   "snippet": "Researchers from Anthropic, UC Berkeley, and UIUC pretrained Qwen3 models on web data seeded with documents that simply state a trigger-to-'curl | bash' rule, then post-trained them into CLI agents on",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://dejan.ai/blog/latent-skills/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Unlocking hidden skills inside Google's model (8 minute read)",
-   "snippet": "AI models can hold skills that no prompt can unlock. It is possible to enable these skills through precise tuning of only a small number of weights. This study shows how researchers unlocked hidden sk",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "dsh-superagent (GitHub Repo)",
-   "snippet": "dsh-superagent is a coding agent packaged as a bundle for DeepSeek Harness. It can watch GitHub, open work items, work in its own agent session and directory, and answer in the original conversation. ",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Reading Anthropic's S-1 (9 minute read)",
-   "snippet": "Anthropic is growing absurdly fast. It just had its first profitable quarter. The real risk is years of locked-in compute bills paid for by customers who can cut back any month. The company is also de",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "DoorDash said it's only received 'several hundred' orders from AI agents (2 minute read)",
-   "snippet": "DoorDash revealed it has received \"several hundred\" orders from AI agents, despite processing 3 million deliveries daily. CEO Tony Xu highlighted that most orders still come directly from the DoorDash",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.stateof.ai/ai-adoption",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "There is no single AI adoption rate (4 minute read)",
-   "snippet": "McKinsey's nearly 90% usage, Ramp's 55.9% paid adoption, and Census's 19.8% measure different businesses, behaviors, and time windows.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tutor.humansand.ai/blog/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing &Tutor (13 minute read)",
-   "snippet": "&Tutor, a new teaching model available via API, was trained against Persimmon, a robust learner model.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://x.com/hannahhaina/status/2116182129403166876",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Inside the Frontier Labs: The First AGI Organizations (12 minute read)",
-   "snippet": "Frontier labs are reorganizing around agents that execute research while humans choose directions and verify results.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Supporting a shared AI training control for websites (2 minute read)",
-   "snippet": "Google announced plans to support a shared AI training control via robots.txt, allowing websites to set AI training preferences with a single policy token.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tomtunguz.com/the-four-questions-of-ai/",
-   "source": "Tomasz Tunguz",
+   "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+   "source": "Lenny's Newsletter",
    "weight": 1.0,
-   "title": "The Four Questions of AI",
-   "snippet": "AI consists of four layers: application, harness & context, model, & data center. Each layer faces an unresolved economic question, & the four layers interplay directly: rising GPU financing costs inc",
-   "published_at": "2026-11-02T00:00:00+00:00",
+   "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+   "snippet": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+   "published_at": "2026-11-02T13:04:11+00:00",
    "also_in": []
   },
   {
-   "url": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+   "url": "https://www.finextra.com/pressarticle/111523/dcs-decard-becomes-a-mastercard-issuer-in-hong-kong",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "DCS DeCard becomes a Mastercard issuer in Hong Kong",
+   "snippet": "DCS DeCard, a card and payments infrastructure platform powered by DCS Group, today announced that it has become a Mastercard issuer in Hong Kong, marking a significant milestone in its expansion of c",
+   "published_at": "2026-11-02T13:02:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/cyberattack-grocery-freezers-europe",
    "source": "The Record",
    "weight": 0.9,
-   "title": "FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions",
-   "snippet": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.",
-   "published_at": "2026-11-02T00:00:00+00:00",
+   "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+   "snippet": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and c",
+   "published_at": "2026-11-02T13:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33373/how-can-a-new-fintech-make-money-in-an-overcrowded-market",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How can a new fintech make money in an overcrowded market",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-02T12:28:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48682/opay-withdraws-planned-304m-us-ipo-after-regulatory-inquiry",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "OPay withdraws planned $304m US IPO after regulatory inquiry",
+   "snippet": "OPay Limited has announced that it will be terminating its underwriting agreement and shelving plans for an initial public offering (IPO) on the New York Stock Exchange (NYSE) following a regulatory i",
+   "published_at": "2026-11-02T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "AI and Transformation Guidance for Every Customer",
+   "snippet": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or through a trusted partner.",
+   "published_at": "2026-11-02T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+   "snippet": "",
+   "published_at": "2026-11-02T12:04:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/global-2023-vat-gst-changes/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "2026 global VAT changes",
+   "snippet": "",
+   "published_at": "2026-11-02T12:02:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111522/equifax-uki-appoints-adam-bassett-as-banking-director",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Equifax UK&I appoints Adam Bassett as banking director",
+   "snippet": "Equifax UK&I has appointed Adam Bassett as Banking Director, in a new leadership role to steer the commercial growth and strategic alignment of the Equifax banking practice and help financial institut",
+   "published_at": "2026-11-02T11:56:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/what-i-told-a-room-full-of-europes-fastest-growing-companies-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "What I told a room full of Europe's fastest-growing companies",
+   "snippet": "",
+   "published_at": "2026-11-02T11:42:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/bnpl-bolsters-holiday-budgets-survey/873390/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "BNPL bolsters holiday budgets: survey",
+   "snippet": "Younger shoppers favor buy now, pay later loans more than their older counterparts, but BNPL companies draw consumers across income brackets, a survey finds.",
+   "published_at": "2026-11-02T11:23:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33370/how-the-global-lei-system-is-becoming-a-global-digital-public-infrastructure-for-business-identity",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How the Global LEI System is becoming a Global Digital Public Infrastructure for Business Identity",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-02T11:06:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33369/digital-finance-in-2026-how-ai-online-privacy-and-smarter-technology-are-changing-everyday-habits",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Digital Finance in 2026: How AI, Online Privacy, and Smarter Technology Are Changing Everyday Habits",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-02T11:01:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33368/why-finance-teams-should-prepare-their-payroll-benefits-plan-for-2028-now",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Why finance teams should prepare their payroll benefits plan for 2028 now",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-02T10:53:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/missile-startup-hypersonica-fundraise-lightspeed-general-catalyst-europe/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Missile startup Hypersonica raises €100m from Lightspeed, General Catalyst as missile defence takes off",
+   "snippet": "",
+   "published_at": "2026-11-02T10:39:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.33.0",
+   "snippet": "# v0.33.0 ## Highlights This release features 927 commits from 389 contributors (122 new)! * **New models**: Reflection Beam-1.0 (501B MoE, 23B active) with its DFlash2 drafter (#62074), Yandex AliceA",
+   "published_at": "2026-11-02T10:10:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/spons/5-ways-cfos-can-maximize-their-organizations-human-capital/833426/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "5 ways CFOs can maximize their organization’s human capital",
+   "snippet": "Executives everywhere are trying to balance protecting margins and funding growth. Maximizing their organization’s human capital may be the key to achieving both goals.",
+   "published_at": "2026-11-02T10:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/spons/agentic-finance-is-coming-most-organizations-arent-ready/872991/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Agentic Finance is coming. Most organizations aren’t ready.",
+   "snippet": "The future of finance is agentic. Most organizations still lack the foundation to scale it.",
+   "published_at": "2026-11-02T10:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/spons/fraud-capital-and-owning-the-infrastructure/873353/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Fraud, capital and owning the infrastructure",
+   "snippet": "Discover how unified financial infrastructure and smart fraud prevention power modern platforms.",
+   "published_at": "2026-11-02T10:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/livestream-scaling-agentic-development-with-air-governance/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "Livestream: Scaling Agentic Development With Air Governance",
+   "snippet": "Join us on November 18, from 4:00–5:00 pm CET, for a livestream with Viktor Kiselev and Guillaume Garnier from the JetBrains Air product team. Your developers want to use the best AI agents for the jo",
+   "published_at": "2026-11-02T09:40:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/lifeval",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "LifeVal",
+   "snippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "published_at": "2026-11-02T09:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33282/iso-20022-meets-real-time-rails-vladyslav-kolodistyi-on-data-rich-instant-payments-across-borders",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "ISO 20022 Meets Real-Time Rails: Vladyslav Kolodistyi on Data-Rich Instant Payments Across Borders",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-02T08:59:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/live-vat-gst-transaction-e-invoicing-global-tracker/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "e-invoicing global tracker",
+   "snippet": "",
+   "published_at": "2026-11-02T08:02:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/e-invoicing-risks-becoming-a-continuous-digital-vat-audit/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "E-Invoicing risks becoming a Continuous Digital VAT Audit",
+   "snippet": "",
+   "published_at": "2026-11-02T07:09:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/germany/germanys-e-invoicing-paradox-when-a-failed-invoice-is-still-valid-for-vat/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Germany’s e-invoice paradox: is a failed invoice still a valid VAT invoice?",
+   "snippet": "",
+   "published_at": "2026-11-02T07:04:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "How India Drives SAP’s AI Future",
+   "snippet": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
+   "published_at": "2026-11-02T05:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/enterprise-customers-want-to-see-ais-roi-heres-how-startups-can-show-it/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Enterprise customers want to see AI’s ROI. Here’s how startups can show it",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:54+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/bulgaria-startup-ecosystem-2026/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "A satellite unicorn has put Bulgarian tech on the map",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/15-photonics-startups-to-watch-according-to-vcs/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "15 photonics startups to watch, according to VCs",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "London is the 'best place in the world to launch an AI company'",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:30+00:00",
    "also_in": []
   }
  ]
