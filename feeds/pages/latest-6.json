@@ -4,129 +4,246 @@
  "pages": 6,
  "items": [
   {
-   "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven",
-   "source": "Finextra headlines",
+   "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The surprising leadership dynamics in agent swarms (17 minute read)",
+   "snippet": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outag",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Leaking Muse's Charter, Meta's model spec (13 minute read)",
+   "snippet": "Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leake",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How Meta Catches Bugs Before Code Ships (9 minute read)",
+   "snippet": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code chan",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How we're training a Figma-fluent editing model (6 minute read)",
+   "snippet": "Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how ",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://factory.com/news/frontier-harness",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Droid 1.0: Building a Frontier Harness (15 minute read)",
+   "snippet": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progr",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Sam Altman is against a single superintelligence (64 minute read)",
+   "snippet": "Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient so",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Economics of Intelligence: How and when does AGI lead to economic transformation? (24 minute read)",
+   "snippet": "AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables acro",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/fishaudio/status/2115836725184667833",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Drama 3 just leveled up (1 minute read)",
+   "snippet": "Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas.",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.natural.com/blog/direct",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Natural Direct (6 minute read)",
+   "snippet": "Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions.",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/nicholasachow/status/2115839602749849840",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Escape Room Economy (10 minute read)",
+   "snippet": "Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts.",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://pika.art/blog/pika-h3-flex",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Pika H3 Flex (6 minute read)",
+   "snippet": "Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K.",
+   "published_at": "2026-10-30T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
+   "source": "Stripe blog",
    "weight": 1.0,
-   "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
-   "snippet": "SettleMint today announced that its Digital Asset Lifecycle Platform (DALP) has been integrated with IBM Digital Asset Haven, enabling financial institutions, governments and other regulated organizat",
-   "published_at": "2026-10-29T12:31:00+00:00",
+   "title": "Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts",
+   "snippet": "In early 2026, we began moving our vendor payments to Global Payouts, Stripe’s product for paying recipients in 160+ countries. New-market setup fell from six weeks to one, with a 99.9% payout success",
+   "published_at": "2026-10-30T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/pressarticle/111508/tradestation-europe-expands-operations-capability",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "TradeStation Europe expands operations capability",
-   "snippet": "TradeStation Europe B.V. (“TradeStation Europe”), the recently licensed European brokerage subsidiary of TradeStation Group, Inc. (“TradeStation”), today announced a round of product updates, includin",
-   "published_at": "2026-10-29T12:29:00+00:00",
+   "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "API credits benefit for eligible ChatGPT subscriptions",
+   "snippet": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers wo",
+   "published_at": "2026-10-29T22:48:29+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.vatcalc.com/finland/finland-implements-first-vida-reforms-from-january-2027/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Finland adopts first ViDA reforms from January 2027",
-   "snippet": "",
-   "published_at": "2026-10-29T12:18:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/germany/germany-starts-vida-implementation-with-2026-annual-tax-act/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Germany starts ViDA implementation with 2026 Annual Tax Act",
-   "snippet": "",
-   "published_at": "2026-10-29T12:01:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise",
-   "snippet": "Enterprises can build AI agents act with greater autonomy and confidence.",
-   "published_at": "2026-10-29T11:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/united-kingdom/uk-reverse-charge-overseas-suppliers-april-2027/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "UK reverse charge overseas suppliers April 2027",
-   "snippet": "",
-   "published_at": "2026-10-29T09:26:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/are-europes-fastest-growing-startups-hiring-wrong-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Are Europe's fastest-growing startups hiring wrong?",
-   "snippet": "",
-   "published_at": "2026-10-29T09:03:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "How we detect frontier model misalignment",
-   "snippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-   "published_at": "2026-10-29T09:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
-   "source": "GitHub: huggingface/transformers",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.3",
+   "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "huggingface/transformers Patch release v5.21.1",
-   "snippet": "# Patch release v5.21.1 ** Fix rope_scaling setter for configs that assign it during init (#50080 ) We broke remote code loading in vllm, this fixes it sorry everyone!",
-   "published_at": "2026-10-29T08:35:02+00:00",
+   "title": "langchain-ai/langchain langchain-core==1.7.3",
+   "snippet": "Changes since langchain-core==1.7.2 release(core): 1.7.3 (#41564)",
+   "published_at": "2026-10-29T20:56:12+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.33",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.33",
-   "snippet": "## What's Changed ### Features - Add `crewai skill search` to list the organization's skills - Pass `crewai run --inputs` to a Python flow - Add `deploy create --zip` and print the commit a zip is bui",
-   "published_at": "2026-10-29T07:36:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/austria/austria-proposes-2027-initial-vida-vat-law/",
-   "source": "VATCalc (e-invoicing)",
+   "url": "https://www.cfodive.com/news/brazils-picpay-cfo-forges-ahead-post-election-turmoil-watershed-ipo/833549/",
+   "source": "CFO Dive",
    "weight": 1.3,
-   "title": "Austria proposes 2027 initial ViDA VAT law",
-   "snippet": "",
-   "published_at": "2026-10-29T07:00:57+00:00",
+   "title": "Brazil’s PicPay CFO forges ahead after post-election turmoil, watershed IPO",
+   "snippet": "André Cazotto took PicPay’s finance reins just months after it became the first Brazilian company to go public in the U.S. in four years.",
+   "published_at": "2026-10-29T20:42:50+00:00",
    "also_in": []
   },
   {
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "snippet": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-   "published_at": "2026-10-29T07:00:00+00:00",
+   "url": "https://www.cfodive.com/news/fasb-fix-investment-rule-accounting-advances-accounting-GAAP/873244/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "FASB proposes fix for investment accounting",
+   "snippet": "The Financial Accounting Standards Board is seeking public comment on the proposed change to GAAP standards by Jan. 11.",
+   "published_at": "2026-10-29T19:53:25+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+   "url": "https://www.cfodive.com/news/economy-q3-grew-exceeding-forecasts-amid-persistent-inflation-fed-savings-consumers-midterms-trump/873243/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Economy in Q3 grew 3.4%, exceeding forecasts amid persistent inflation",
+   "snippet": "On the eve of the midterm elections, half of Americans view the economy as “extremely important” and 37% consider the issue “very important,” Gallup said.",
+   "published_at": "2026-10-29T19:49:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "Anthropic’s financials are surprisingly strong",
+   "snippet": "What I learned reading all 421 pages of the Anthropic S-1",
+   "published_at": "2026-10-29T19:10:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.7.2",
+   "snippet": "Changes since langchain-core==1.7.1 release(core): 1.7.2 (#41562) feat(core): add `add_notification_metadata` and `get_notification_metadata` (#41540) fix(core): stop `merge_content` from changing the",
+   "published_at": "2026-10-29T19:04:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
    "source": "Vercel blog",
    "weight": 0.9,
-   "title": "Vercel Flags starts 7x faster and no longer extends function duration",
-   "snippet": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response. Faster cold starts Two changes speed up SDK initializat",
-   "published_at": "2026-10-29T06:00:00+00:00",
+   "title": "Strix now supports Vercel AI Gateway",
+   "snippet": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through",
+   "published_at": "2026-10-29T18:44:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+   "url": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "FTC, states sue Toast over fees",
+   "snippet": "The agency and eight states allege that the point-of-sale services provider charges its restaurant clients and their customers hidden fees.",
+   "published_at": "2026-10-29T18:00:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Building a multiplayer game world with autonomous Fable-class models",
+   "snippet": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the ",
+   "published_at": "2026-10-29T17:00:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "snippet": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "published_at": "2026-10-29T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "IP geolocation now covers more visitors at higher resolution",
+   "snippet": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic. Geolocation data is ",
+   "published_at": "2026-10-29T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Browser Use in Managed Deep Agents",
+   "snippet": "Managed Deep Agents now runs a browser for your agent, with tools tuned for context-efficient browser use and a handoff so you can sign in yourself.",
+   "published_at": "2026-10-29T16:45:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/elorian/",
    "source": "Latent Space",
    "weight": 1.4,
-   "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-   "snippet": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-   "published_at": "2026-10-29T05:55:19+00:00",
+   "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+   "snippet": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+   "published_at": "2026-10-29T16:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/uk-budget-alex-depledge-advisor-startups/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "‘There’s no magic money tree’: Alex Depledge on the Budget, startup lobbying and why she left the UK government",
+   "snippet": "",
+   "published_at": "2026-10-29T15:52:47+00:00",
    "also_in": []
   }
  ]
