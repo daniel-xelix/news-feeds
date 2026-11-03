@@ -2,6 +2,296 @@
  "date": "2026-11-03",
  "items": [
   {
+   "url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How We Optimized Browser Use for Deep Agents",
+   "snippet": "We compared seven browser toolsets for Deep Agents, picked Stagehand from Browserbase, and tuned it with LangSmith traces and evals. Here's what we learned.",
+   "published_at": "2026-11-03T22:30:50+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
+   "snippet": "LangSmith BYOC now runs on AWS (GA), Azure and Google Cloud (Beta). Your traces, evals, and agent deployments stay in your cloud account while LangChain runs it.",
+   "published_at": "2026-11-03T22:06:58+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Why human insight is a strategic advantage for building better agents",
+   "snippet": "Explore 3 principles for effective human-in-the-loop workflows and how human-review is a strategic imperative for production-ready agents.",
+   "published_at": "2026-11-03T21:48:04+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.1",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37.1",
+   "snippet": "- `llm openai endpoint add` now works when `extra-openai-models.yaml` holds a list written in square brackets, such as the `[]` left behind by removing the last saved endpoint. Previously it wrote invalid YAML that stopped LLM from loading any models until the file was fixed by hand. Thanks, [Steven Huang](https://github.com/remote-controlled-man). [#1845](https://github.com/simonw/llm/pull/1845) ",
+   "published_at": "2026-11-03T21:41:42+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33389/rwas-need-more-than-tokenization-to-function-in-defi",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "RWAs Need More Than Tokenization to Function in DeFi",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-03T21:13:11+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111563/stripe-treasury-launches-in-the-uk",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Stripe Treasury launches in the UK",
+   "snippet": "Stripe, the programmable financial services company, today launched Stripe Treasury in the UK, enabling founders to manage money from the same Dashboard where they already accept payments, without navigating across separate providers.",
+   "published_at": "2026-11-03T21:04:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33387/decision-models-a-new-middle-ground-for-ai-in-financial-services",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Decision models: a new middle ground for AI in financial services",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-03T20:58:55+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/sec-approves-easing-audit-quality-controls-endorsed-big-four-atkins-ey-pwc-deloitte-kpmg/873643/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "SEC approves easing of audit quality controls as endorsed by Big Four",
+   "snippet": "The amended rules align with efforts by SEC Chair Paul Atkins to streamline compliance and promote regulation that is “grounded in First Principles.”",
+   "published_at": "2026-11-03T20:45:31+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48696/oppfi-abandons-purchase-of-bnc-bank",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "OppFi abandons purchase of BNC Bank",
+   "snippet": "Digital finance platform OppFi has withdrawn its applications buy a bank, claiming it has not had a \"meaningful opportunity\" to engage with regulators to address concerns about the deal.",
+   "published_at": "2026-11-03T20:44:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Security Review now in public beta",
+   "snippet": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the Vulnerabilities dashboard . What triggers a review Security Review runs automatically when code is pushed to a connected GitHu",
+   "published_at": "2026-11-03T20:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Google dismantles massive botnet hidden in Android TV boxes",
+   "snippet": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines and digital signage devices.",
+   "published_at": "2026-11-03T19:48:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111562/dpc-data-and-ftlabs-team-on-muniref-municipal-bond-reference-data-product",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "DPC Data and FTLabs team on MuniREF municipal bond reference data product",
+   "snippet": "DPC Data and Financial Technology Laboratories (FTLabs.com) today announced MuniREF, a municipal bond reference data product developed through their partnership.",
+   "published_at": "2026-11-03T19:44:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/the-dawn-of-a-new-ai-paradigm-weight",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "The Dawn of a New AI Paradigm: Weight-Space Programming",
+   "snippet": "Why do AI research like a human when you’re a machine?",
+   "published_at": "2026-11-03T19:14:37+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.35.0",
+   "snippet": "## 1.35.0 (2026-11-03) ## What's Changed ### Features * feat(home): remember and clear the cloud repository selection by @tofarr in https://github.com/OpenHands/OpenHands/pull/19053 * feat(automations): store picked Bitbucket Data Center repositories as clone URLs by @ak684 in https://github.com/OpenHands/OpenHands/pull/19023 * feat(automations): list each event source's own event types by @ak684 ",
+   "published_at": "2026-11-03T18:47:18+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+   "snippet": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.",
+   "published_at": "2026-11-03T18:44:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.35",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.35",
+   "snippet": "## What's Changed ### Documentation - Update litellm model catalog for v1.15.35 - Add snapshot and changelog for v1.15.34 ## Contributors @github-actions[bot], @joaomdmoura, @lorenzejay",
+   "published_at": "2026-11-03T18:25:15+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48694/binance-says-hackers-used-fake-job-interviews-and-ai-tools-in-63bn-hack",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Binance says hackers used fake job interviews and AI tools in $6.3bn hack",
+   "snippet": "Binance says the $6.3 billion cyberattack it suffered last week was a sophisticated, multi-stage campaign that included fake job interviews, malicious software downloads and compromised AI tooling.",
+   "published_at": "2026-11-03T18:22:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111561/members1st-community-credit-union-picks-mahalo-digital-banking-platform",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Members1st Community Credit Union picks Mahalo digital banking platform",
+   "snippet": "Members1st Community Credit Union (‘MEMBERS1st’) has selected Mahalo Banking’s Thoughtful Banking® platform as its new digital banking provider to enhance the member experience, expand business banking capabilities, and support the credit union’s long-term growth and digital transformation initiatives.",
+   "published_at": "2026-11-03T18:14:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.12",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-sdk==0.4.12",
+   "snippet": "Changes since sdk==0.4.11 * release(sdk-py): 0.4.12 (#9569) * feat(sdk-py): remove fairness_weight from PrioritySettings (#9441) * fix(sdk-py): rejoin a run stream that closes before the run ends (#9554)",
+   "published_at": "2026-11-03T18:10:30+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel CI no longer requires a linked Vercel project",
+   "snippet": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository. To enable it, you need: The Vercel GitHub App installed with access to the repository Your GitHub account connected to your Vercel account Write or admin permission on the repository Then, from a clone of the repository, run: CI is enabled for the te",
+   "published_at": "2026-11-03T18:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "British businesses caught in Europe-wide supermarket fridge attacks",
+   "snippet": "Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified perpetrators defrosting fridges and causing stock to spoil.",
+   "published_at": "2026-11-03T17:43:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Truist bolsters merchant tools",
+   "snippet": "The super-regional rolled out a faster onboarding experience and added insights for business owners, said Chris Ward, head of enterprise payments.",
+   "published_at": "2026-11-03T17:37:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/ev-unfiltered-opening-my-sketchbook",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "👀 EV Unfiltered – opening my sketchbook",
+   "snippet": "Research notes, unfinished ideas and internal memos... Would you find them useful?",
+   "published_at": "2026-11-03T17:33:44+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "snippet": "",
+   "published_at": "2026-11-03T17:15:21+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "snippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "published_at": "2026-11-03T17:01:49+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "How software engineering is changing: a tale of two eras",
+   "snippet": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries",
+   "published_at": "2026-11-03T16:58:22+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
+   "snippet": "North Korean attackers \"combined a range of techniques, including social engineering by fake recruitment interviews,\" Binance said about the multibillion-dollar crypto heist it discovered in October.",
+   "published_at": "2026-11-03T16:42:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "snippet": "",
+   "published_at": "2026-11-03T16:35:36+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "snippet": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a ",
+   "published_at": "2026-11-03T16:29:48+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
    "source": "Hugging Face blog",
    "weight": 1.3,
@@ -19,6 +309,16 @@
    "snippet": "Developed alongside Offchain Enterprise Services on Arbitrum One, the solution builds tokenization into Cross River’s platform so assets can be tokenized at origination, unlocking new products and new pools of global capital, including onchain funds and international investors.",
    "published_at": "2026-11-03T15:56:00+00:00",
    "first_seen": "2026-11-03T16:09:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Fiserv talks to potential asset buyers",
+   "snippet": "The processor has started engaging with potential buyers for the sale of some of its assets, the CEO said. It has also doubled its savings goal to $1 billion.",
+   "published_at": "2026-11-03T15:56:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   },
   {
@@ -42,6 +342,26 @@
    "also_in": []
   },
   {
+   "url": "https://www.finextra.com/newsarticle/48693/td-launches-challenge-to-help-gen-z-build-financial-confidence",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "TD launches challenge to help Gen Z build financial confidence",
+   "snippet": "Canada's TD is launching a challenge across its social and digital channels designed to help Gen Z build their financial confidence through daily activities and gamified experiences.",
+   "published_at": "2026-11-03T15:48:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Google makes big plans for wallet",
+   "snippet": "The tech giant envisions its digital wallet assuming a larger role in commerce than merely point-of-sale payments, Google’s payments head said.",
+   "published_at": "2026-11-03T15:26:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -59,6 +379,16 @@
    "snippet": "When we introduced OnePay Next, we said we were tracking two tectonic plates moving at once: AI that can reason and act, and blockchain infrastructure that is rewiring how money moves. Our first experiment, OnePay for Agents, leaned into the first. This one leans into the second.",
    "published_at": "2026-11-03T15:18:00+00:00",
    "first_seen": "2026-11-03T16:09:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/tajikistan/tajikistan-cuts-vat-to-13-by-2027/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Tajikistan confirms VAT cut to 13% Jan 2027",
+   "snippet": "",
+   "published_at": "2026-11-03T15:01:12+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   },
   {
@@ -132,6 +462,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.paymentsdive.com/news/bilt-acquire-lava-sports-technology-rewards-loyalty-300-million-wells-fargo-cards-cfpb/873572/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Bilt tackles sports with $300M deal",
+   "snippet": "The rent-rewards startup aims to stretch beyond housing payments and credit cards by buying Lava, a technology firm that focuses on sports loyalty.",
+   "published_at": "2026-11-03T14:29:16+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/pressarticle/111556/first-new-mexico-bank-selects-phoenixworx-core-processing-platform",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -189,6 +529,16 @@
    "snippet": "Dmitry Zlokazov, formerly Global Head of Product and Head of Retail at Revolut, has partnered with Borja Solé (ex-YC) and Marc Sanchez (ex-Twilio) to build Murphy as co-founder and Chief Product Officer. Murphy builds AI agents that take over manual bank operations, starting with debt collection.",
    "published_at": "2026-11-03T14:01:00+00:00",
    "first_seen": "2026-11-03T16:09:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33383/goldmans-ai-pullback-isnt-about-ai-its-about-production",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Goldman's AI pullback isn't about AI. It's about production",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-03T14:00:29+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   },
   {
@@ -322,6 +672,16 @@
    "also_in": []
   },
   {
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Accelerating engineering for the physical world",
+   "snippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "published_at": "2026-11-03T12:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.vatcalc.com/congo-republic/democratic-republic-of-congo-e-invoicing-2024/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
@@ -359,6 +719,16 @@
    "snippet": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
    "published_at": "2026-11-03T08:00:00+00:00",
    "first_seen": "2026-11-03T16:09:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "snippet": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "published_at": "2026-11-03T08:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   },
   {
@@ -429,6 +799,26 @@
    "snippet": "",
    "published_at": "2026-11-03T05:00:37+00:00",
    "first_seen": "2026-11-03T06:40:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How Zapier turns ideas into working software in hours with Vercel",
+   "snippet": "Zapier on Vercel Interactive partner demos in under two hours with v0, replacing a process that could take weeks First versions of three internal applications, each built in one day A shared daily briefing for more than 60 marketers, replacing individual efforts to assemble the same information 3.3 million sandboxes created in one month, isolating the code execution behind Zapier’s AI workloads Be",
+   "published_at": "2026-11-03T04:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+   "snippet": "Mercor on Vercel Batch jobs cut from 12 hours to 2 hours 18M requests and 63B tokens routed through AI Gateway in 10 days Expert access provisioned in seconds via Vercel Passport Over 2,000 projects created by hundreds of internal builders Mercor connects hundreds of thousands of domain experts with frontier AI labs, helping those labs generate the human data they ne",
+   "published_at": "2026-11-03T04:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   },
   {
@@ -701,6 +1091,56 @@
    "snippet": "The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with fictional stories and ethical dilemmas.",
    "published_at": "2026-11-03T00:00:00+00:00",
    "first_seen": "2026-11-03T16:09:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "snippet": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "snippet": "",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How OpenEvidence scales medical search for 650K doctors",
+   "snippet": "OpenEvidence on Vercel Serves 650,000 doctors with medical search Completes production deployments in about five minutes Absorbs traffic spikes without additional capacity provisioning Reduced serverless spend by 90% with Fluid compute Updates doctor- and patient-facing applications independently OpenEvidence helps physicians find medical evidence during c",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+   "snippet": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "The Financial Engineering Essential for AI in 2027",
+   "snippet": "Anthropic's Form S-1/A rolls financials through Q3 2026 ($17.0b revenue, +$8.6b operating cash flow) & reveals that $5.0b of short-term burst compute at $7 to $13 per GPU-hour lifted blended GPU-hour costs 82% in two quarters, flipping Q2's $974m operating profit into a $567m Q3 loss & driving $895.4b of long-term obligations.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "first_seen": "2026-11-03T23:15:32+00:00",
    "also_in": []
   }
  ]
