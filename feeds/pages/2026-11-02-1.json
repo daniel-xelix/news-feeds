@@ -1,8 +1,35 @@
 {
  "set": "2026-11-02",
  "page": 1,
- "pages": 4,
+ "pages": 5,
  "items": [
+  {
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37",
+   "snippet": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-te",
+   "published_at": "2026-11-02T23:49:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37",
+   "snippet": "New features: - New OpenAI models: `gpt-6.1-sol` for [GPT-6.1 Sol](https://developers.openai.com/api/docs/models/gpt-6.1-sol), `gpt-6.1-terra` for [GPT-6.1 Terra](https://developers.openai.com/api/doc",
+   "published_at": "2026-11-02T23:49:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+   "snippet": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+   "published_at": "2026-11-02T23:39:34+00:00",
+   "also_in": []
+  },
   {
    "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
    "source": "Latent Space",
@@ -55,6 +82,15 @@
    "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
    "snippet": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
    "published_at": "2026-11-02T21:42:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Projects can now be configured with vercel.toml",
+   "snippet": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it ",
+   "published_at": "2026-11-02T21:00:00+00:00",
    "also_in": []
   },
   {
@@ -175,6 +211,24 @@
    "also_in": []
   },
   {
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Rewarding defenders with bigger bug bounties",
+   "snippet": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "snippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
    "source": "LangChain blog",
    "weight": 1.0,
@@ -217,60 +271,6 @@
    "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
    "snippet": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into...",
    "published_at": "2026-11-02T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Flags Explorer redesigned for easier override sharing",
-   "snippet": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The ",
-   "published_at": "2026-11-02T16:58:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Sandbox with Drives now starts up to 2.4x faster",
-   "snippet": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Dri",
-   "published_at": "2026-11-02T16:39:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/hackers-ukraine-belarus-russia",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
-   "snippet": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
-   "published_at": "2026-11-02T16:30:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111536/uk-steps-closer-to-launching-digitally-native-government-bond",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "UK steps closer to launching digitally-native government bond",
-   "snippet": "The UK is a step closer to launching its first digitally native government bond, with roles allocated to the six banks supporting the landmark pilot.",
-   "published_at": "2026-11-02T16:20:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Mastercard scales in India",
-   "snippet": "The card network expanded its tie with the country’s largest private bank, increasing its opportunities to sell to small businesses and consumers.",
-   "published_at": "2026-11-02T16:18:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48687/lotech-raises-12m-to-take-on-wall-street",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Lo:Tech raises $12m to take on Wall Street",
-   "snippet": "Lo:Tech, a London-based capital markets firm built for round-the-clock and onchain markets, has raised $12 million in a Series A round led by MMC.",
-   "published_at": "2026-11-02T16:04:00+00:00",
    "also_in": []
   }
  ]

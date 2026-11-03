@@ -2,6 +2,36 @@
  "date": "2026-11-02",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37",
+   "snippet": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make i",
+   "published_at": "2026-11-02T23:49:30+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37",
+   "snippet": "New features: - New OpenAI models: `gpt-6.1-sol` for [GPT-6.1 Sol](https://developers.openai.com/api/docs/models/gpt-6.1-sol), `gpt-6.1-terra` for [GPT-6.1 Terra](https://developers.openai.com/api/docs/models/gpt-6.1-terra) and `chat-latest` for [Chat Latest](https://developers.openai.com/api/docs/models/chat-latest). - The default model for users who have not set their own default is now [GPT-6 L",
+   "published_at": "2026-11-02T23:49:30+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+   "snippet": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+   "published_at": "2026-11-02T23:39:34+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
    "source": "Latent Space",
    "weight": 1.4,
@@ -59,6 +89,16 @@
    "snippet": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
    "published_at": "2026-11-02T21:42:00+00:00",
    "first_seen": "2026-11-02T23:27:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Projects can now be configured with vercel.toml",
+   "snippet": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuration file: vercel.toml, vercel.json, or vercel.ts. For example, configuring <a href=",
+   "published_at": "2026-11-02T21:00:00+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
    "also_in": []
   },
   {
@@ -189,6 +229,26 @@
    "snippet": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, net",
    "published_at": "2026-11-02T18:00:00+00:00",
    "first_seen": "2026-11-02T23:27:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Rewarding defenders with bigger bug bounties",
+   "snippet": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "snippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
    "also_in": []
   },
   {
@@ -389,6 +449,16 @@
    "snippet": "> [!WARNING] > **Python 3.10 support will be dropped in `langchain-core` 1.8.0 and `langchain` 1.5.0.** The current minor versions are the last to support Python 3.10. Please upgrade to Python 3.11 or later. Changes since langchain-core==1.7.3 release(core): 1.7.4 (#41635) fix(core): avoid mutating message content in Anthropic translator (#40213)",
    "published_at": "2026-11-02T15:31:47+00:00",
    "first_seen": "2026-11-02T15:39:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Scaling Git at OpenAI",
+   "snippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "published_at": "2026-11-02T15:30:00+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
    "also_in": []
   },
   {
@@ -1129,6 +1199,16 @@
    "snippet": "Vercel now checks for blocked npm packages before and during dependency installation in builds , helping prevent malicious install scripts from running. The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes. Before installation , Vercel checks supported lockfiles, inc",
    "published_at": "2026-11-02T00:00:00+00:00",
    "first_seen": "2026-11-02T23:27:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "snippet": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "published_at": "2026-11-02T00:00:00+00:00",
+   "first_seen": "2026-11-03T06:40:08+00:00",
    "also_in": []
   }
  ]
