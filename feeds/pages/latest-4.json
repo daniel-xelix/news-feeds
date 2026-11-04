@@ -4,6 +4,89 @@
  "pages": 7,
  "items": [
   {
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "snippet": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "snippet": "",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Transformers Model Integration Contracts",
+   "snippet": "",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA's Cosmos Framework (6 minute read)",
+   "snippet": "NVIDIA introduced new Cosmos Framework capabilities for training, fine-tuning, reinforcement learning, and optimizing world models for physical AI. Developers can generate synchronized video and LiDAR",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": [
+    "NVIDIA developer blog"
+   ]
+  },
+  {
+   "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How OpenEvidence scales medical search for 650K doctors",
+   "snippet": "OpenEvidence on Vercel Serves 650,000 doctors with medical search Completes production deployments in about five minutes Absorbs traffic spikes without additional capacity provisioning Reduced serverl",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+   "snippet": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project ",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch (3 minute read)",
+   "snippet": "GPT-6.2-Astra has started appearing in Codex usage breakdowns. The requests are likely being quietly routed to the new model as part of an A/B test or a staged rollout. A public launch could be days a",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic Warns It May Be Close to Self-Improving AI (3 minute read)",
+   "snippet": "Anthropic disclosed in its updated IPO filing that it may soon reach its internal definition of recursive self-improvement (RSI), where AI systems help develop increasingly capable AI models.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.com/resources/articles/message-threads",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Introduces Message Threads (2 minute read)",
+   "snippet": "Anthropic released message threads in public beta, allowing agents to send only new messages instead of resending their entire conversation history. The feature reduced median time to first token by a",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.gr.inc/blog/how-to-train-a-swarm",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -190,87 +273,6 @@
    "title": "sgl-project/sglang v0.5.23",
    "snippet": "# Highlights *1007 PRs from 257 contributors.* ## New models | Model | Type | Cookbook | |---|---|---| | Muse Spark Open | LLM / VLM | [link](https://docs.sglang.io/cookbook/autoregressive/Meta/MuseSp",
    "published_at": "2026-11-02T22:14:10+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Projects can now be configured with vercel.toml",
-   "snippet": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it ",
-   "published_at": "2026-11-02T21:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/manufacturing-grows-10-straight-months-erratic-prices-dim-sentiment-inflation-gdp-economy/873500/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Manufacturing grows for 10 straight months; erratic prices dim sentiment",
-   "snippet": "“The AI-capex boom probably will continue to support output in tech-related sectors, but a broader manufacturing boom looks unlikely,” a Pantheon Macroeconomics economist said.",
-   "published_at": "2026-11-02T20:41:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/norwegian-cruise-line-taps-newly-hired-strategy-chief-cfo-compensation/873498/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Norwegian Cruise Line taps newly-hired strategy chief for CFO",
-   "snippet": "After eight years as CFO, Mark A. Kempa will hand the finance reins to former American Airlines treasurer Meghan Montana.",
-   "published_at": "2026-11-02T20:36:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "New context engineering challenges in late 2026",
-   "snippet": "LangChain CEO Harrison Chase shares insights into the biggest harness engineering challenges with the emergence of proactive agents.",
-   "published_at": "2026-11-02T20:35:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Browser Use in Managed Deep Agents",
-   "snippet": "Managed Deep Agents now runs a browser for your agent, with tools tuned for context-efficient browser use and a handoff so you can sign in yourself.",
-   "published_at": "2026-11-02T20:35:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/new-optro-cfo-targets-sustainable-ai-growth-saas/873495/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "New Optro CFO targets sustainable AI growth",
-   "snippet": "Two months in as Optro’s CFO, Tim Daniels is in the “go slow to go fast” stage, he said — seeking to establish rapport and a solid growth plan.",
-   "published_at": "2026-11-02T20:27:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.9",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-anthropic==1.7.9",
-   "snippet": "Changes since langchain-anthropic==1.7.8 release(anthropic): 1.7.9 (#41644) fix(anthropic): report streamed content-block tokens to callbacks (#41643)",
-   "published_at": "2026-11-02T20:14:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel MCP now supports Client ID Metadata Documents",
-   "snippet": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowli",
-   "published_at": "2026-11-02T20:09:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/grant-thornton-advisors-closes-5b-cbiz-deal/873488/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Grant Thornton Advisors closes $5B CBIZ deal",
-   "snippet": "The combination creates the fifth-largest U.S. provider of professional services, tax and advisory offerings, Grant Thornton Advisors said.",
-   "published_at": "2026-11-02T19:43:45+00:00",
    "also_in": []
   }
  ]
