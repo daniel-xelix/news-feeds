@@ -1,15 +1,168 @@
 {
  "set": "latest",
  "page": 10,
- "pages": 10,
+ "pages": 11,
  "items": [
   {
-   "url": "https://openai.com/index/qodo-codex-plugin",
+   "url": "https://www.finextra.com/videoarticle/3639/cybersecurity-why-building-resilience-into-an-organisations-culture-is-crucial",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Cybersecurity: Why Building Resilience Into An Organisation's Culture is Crucial",
+   "snippet": "In this interview, Mastercard's Kiersten Todt discusses how cybersecurity is more than a technological concern; it’s a human one.",
+   "published_at": "2026-11-02T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/videoarticle/3638/how-to-contextualise-threat-data-for-improved-cyber-defences",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How to Contextualise Threat Data for Improved Cyber Defences",
+   "snippet": "In this interview, Recorded Future's Levi Gundert discusses why contextual threat data is fundamental to modern financial crime prevention, and why financial institutions need real-time intelligence t",
+   "published_at": "2026-11-02T14:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The U.S. Census Bureau and “Super Intelligence”",
+   "snippet": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adop",
+   "published_at": "2026-11-02T13:31:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+   "snippet": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+   "published_at": "2026-11-02T13:04:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/vercel-security-review",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Introducing Vercel Security Review",
+   "snippet": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities",
+   "published_at": "2026-11-02T13:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "AI and Transformation Guidance for Every Customer",
+   "snippet": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or through a trusted partner.",
+   "published_at": "2026-11-02T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+   "snippet": "",
+   "published_at": "2026-11-02T12:04:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/what-i-told-a-room-full-of-europes-fastest-growing-companies-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "What I told a room full of Europe's fastest-growing companies",
+   "snippet": "",
+   "published_at": "2026-11-02T11:42:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/missile-startup-hypersonica-fundraise-lightspeed-general-catalyst-europe/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Missile startup Hypersonica raises €100m from Lightspeed, General Catalyst as missile defence takes off",
+   "snippet": "",
+   "published_at": "2026-11-02T10:39:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.33.0",
+   "snippet": "# v0.33.0 ## Highlights This release features 927 commits from 389 contributors (122 new)! * **New models**: Reflection Beam-1.0 (501B MoE, 23B active) with its DFlash2 drafter (#62074), Yandex AliceA",
+   "published_at": "2026-11-02T10:10:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/livestream-scaling-agentic-development-with-air-governance/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "Livestream: Scaling Agentic Development With Air Governance",
+   "snippet": "Join us on November 18, from 4:00–5:00 pm CET, for a livestream with Viktor Kiselev and Guillaume Garnier from the JetBrains Air product team. Your developers want to use the best AI agents for the jo",
+   "published_at": "2026-11-02T09:40:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/lifeval",
    "source": "OpenAI blog",
    "weight": 1.4,
-   "title": "Qodo builds context into AI code review with Codex",
-   "snippet": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "published_at": "2026-11-02T00:00:00+00:00",
+   "title": "LifeVal",
+   "snippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "published_at": "2026-11-02T09:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "How India Drives SAP’s AI Future",
+   "snippet": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
+   "published_at": "2026-11-02T05:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/enterprise-customers-want-to-see-ais-roi-heres-how-startups-can-show-it/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Enterprise customers want to see AI’s ROI. Here’s how startups can show it",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:54+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/bulgaria-startup-ecosystem-2026/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "A satellite unicorn has put Bulgarian tech on the map",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/15-photonics-startups-to-watch-according-to-vcs/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "15 photonics startups to watch, according to VCs",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "London is the 'best place in the world to launch an AI company'",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/the-future-office-ai/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "AI has changed how we work. So why does the office look exactly the same?",
+   "snippet": "",
+   "published_at": "2026-11-02T05:00:06+00:00",
    "also_in": []
   },
   {
@@ -18,6 +171,15 @@
    "weight": 1.4,
    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
    "snippet": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "published_at": "2026-11-02T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Qodo builds context into AI code review with Codex",
+   "snippet": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
    "published_at": "2026-11-02T00:00:00+00:00",
    "also_in": []
   },
@@ -109,96 +271,6 @@
    "title": "Unlocking hidden skills inside Google's model (8 minute read)",
    "snippet": "AI models can hold skills that no prompt can unlock. It is possible to enable these skills through precise tuning of only a small number of weights. This study shows how researchers unlocked hidden sk",
    "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "dsh-superagent (GitHub Repo)",
-   "snippet": "dsh-superagent is a coding agent packaged as a bundle for DeepSeek Harness. It can watch GitHub, open work items, work in its own agent session and directory, and answer in the original conversation. ",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Reading Anthropic's S-1 (9 minute read)",
-   "snippet": "Anthropic is growing absurdly fast. It just had its first profitable quarter. The real risk is years of locked-in compute bills paid for by customers who can cut back any month. The company is also de",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "DoorDash said it's only received 'several hundred' orders from AI agents (2 minute read)",
-   "snippet": "DoorDash revealed it has received \"several hundred\" orders from AI agents, despite processing 3 million deliveries daily. CEO Tony Xu highlighted that most orders still come directly from the DoorDash",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.stateof.ai/ai-adoption",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "There is no single AI adoption rate (4 minute read)",
-   "snippet": "McKinsey's nearly 90% usage, Ramp's 55.9% paid adoption, and Census's 19.8% measure different businesses, behaviors, and time windows.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tutor.humansand.ai/blog/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing &Tutor (13 minute read)",
-   "snippet": "&Tutor, a new teaching model available via API, was trained against Persimmon, a robust learner model.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://x.com/hannahhaina/status/2116182129403166876",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Inside the Frontier Labs: The First AGI Organizations (12 minute read)",
-   "snippet": "Frontier labs are reorganizing around agents that execute research while humans choose directions and verify results.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Supporting a shared AI training control for websites (2 minute read)",
-   "snippet": "Google announced plans to support a shared AI training control via robots.txt, allowing websites to set AI training preferences with a single policy token.",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "If in doubt, delete the uv.lock file",
-   "snippet": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects ",
-   "published_at": "2026-11-01T23:24:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.34",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.34",
-   "snippet": "## What's Changed ### Features - Add standalone LiteLLM catalog PR before version bump - Record where crewai run stops before kickoff - Add crewai skill search to list the organization's skills - Pass",
-   "published_at": "2026-11-01T21:21:56+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Quoting Kyle Kingsbury",
-   "snippet": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the",
-   "published_at": "2026-11-01T16:49:04+00:00",
    "also_in": []
   }
  ]
