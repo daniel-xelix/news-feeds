@@ -1,8 +1,98 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPU-accelerated Weight Teleportation (17 minute read)",
+   "snippet": "GPU-accelerated Weight Teleportation optimizes RL training by improving weight syncing between trainers and samplers, reducing pause times to under 0.23 seconds. This is achieved using a co-designed c",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://framer.com/blog/harness-2/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Harness 2: executing agent code as it streams (6 minute read)",
+   "snippet": "Framer's Harness 2 significantly upgrades the agent's execution process, allowing entire workflows in one program, achieving up to 33% cost reduction and 20% faster execution. This is done by executin",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs (2 minute read)",
+   "snippet": "OpenAI plans to merge the Chat and Work tabs within the ChatGPT experience after an initial testing period with select users. Codex will remain a separate experience in the ChatGPT desktop app. The ch",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LLMs are not superhuman at reading and writing neural network weights (4 minute read)",
+   "snippet": "A recent paper demonstrates GPT-6 Astra's ability to interact with neural network weights directly, surpassing human or conventional algorithm capabilities. Astra significantly improved a 0.8B Qwen LL",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic releases amended IPO prospectus with third-quarter financials (1 minute read)",
+   "snippet": "Anthropic's amended IPO prospectus reveals a 1,200% increase in revenue to $33.24 billion for the first nine months of 2026. The company reported a net loss of $104 billion for the same period. Anthro",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://githubnext.com/posts/enclaves/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Limit what agents learn about private repos with enclaves (17 minute read)",
+   "snippet": "Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows that lets agents work on different repositories while limiting what they say to each other.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/lifeval/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks (4 minute read)",
+   "snippet": "LifeVal is a benchmark designed to evaluate AI performance on practical everyday tasks such as budgeting, finding childcare, and accessing government services.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Teaching Qwen Why (47 minute read)",
+   "snippet": "The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/elonmusk/status/2116992258520064397",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs (2 minute read)",
+   "snippet": "Elon Musk confirmed that Grok Bot usage limits were reduced after operating costs became unsustainably high relative to revenue.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "The Financial Engineering Essential for AI in 2027",
+   "snippet": "Anthropic's Form S-1/A rolls financials through Q3 2026 ($17.0b revenue, +$8.6b operating cash flow) & reveals that $5.0b of short-term burst compute at $7 to $13 per GPU-hour lifted blended GPU-hour ",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://simonwillison.net/2026/Nov/2/llm/",
    "source": "Simon Willison",
@@ -181,96 +271,6 @@
    "title": "Mastercard scales in India",
    "snippet": "The card network expanded its tie with the country’s largest private bank, increasing its opportunities to sell to small businesses and consumers.",
    "published_at": "2026-11-02T16:18:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "published_at": "2026-11-02T16:02:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-   "snippet": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source",
-   "published_at": "2026-11-02T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-   "snippet": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a ser",
-   "published_at": "2026-11-02T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.8",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain==1.4.8",
-   "snippet": "> [!WARNING] > **Python 3.10 support will be dropped in `langchain-core` 1.8.0 and `langchain` 1.5.0.** The current minor versions are the last to support Python 3.10. Please upgrade to Python 3.11 or",
-   "published_at": "2026-11-02T15:45:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/political-ads-turn-against-data-centers",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "📈 Political ads turn against data centers",
-   "snippet": "Plus: Korea’s chip boom, the Census asks firms about “Super Intelligence”, and US workers check out++",
-   "published_at": "2026-11-02T15:41:38+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.4",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.7.4",
-   "snippet": "> [!WARNING] > **Python 3.10 support will be dropped in `langchain-core` 1.8.0 and `langchain` 1.5.0.** The current minor versions are the last to support Python 3.10. Please upgrade to Python 3.11 or",
-   "published_at": "2026-11-02T15:31:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Scaling Git at OpenAI",
-   "snippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-   "published_at": "2026-11-02T15:30:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.8",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-anthropic==1.7.8",
-   "snippet": "Changes since langchain-anthropic==1.7.7 release(anthropic): 1.7.8 (#41638) fix(anthropic): strip index from compaction blocks (#41637) fix(anthropic): handle null cache-creation token counts (#41553)",
-   "published_at": "2026-11-02T15:23:31+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Why You Don’t Want Humans Doing Outbound Anymore",
-   "snippet": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered “insights” on buyer intent and AI efficiency … and shared none. It just ",
-   "published_at": "2026-11-02T15:10:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/grid-protectors-program",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Introducing the Grid Protectors Program",
-   "snippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-   "published_at": "2026-11-02T15:00:00+00:00",
    "also_in": []
   }
  ]
