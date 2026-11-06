@@ -4,39 +4,30 @@
  "pages": 11,
  "items": [
   {
-   "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-   "snippet": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Dri",
-   "published_at": "2026-11-02T16:39:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "published_at": "2026-11-02T16:02:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
+   "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
    "source": "NVIDIA developer blog",
    "weight": 1.0,
-   "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-   "snippet": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source",
-   "published_at": "2026-11-02T16:00:00+00:00",
+   "title": "Keep Distributed Training Running with Automated Workload Recovery",
+   "snippet": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+   "published_at": "2026-11-02T22:43:05+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-   "snippet": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a ser",
-   "published_at": "2026-11-02T16:00:00+00:00",
+   "url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Managed Deep Agents: the fastest way to ship a production deep agent",
+   "snippet": "Run deep agents in production with durable execution, sandboxes, tool access, and LangSmith observability, without building the runtime yourself. Now in private beta",
+   "published_at": "2026-11-02T22:28:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
+   "source": "GitHub: sgl-project/sglang",
+   "weight": 1.0,
+   "title": "sgl-project/sglang v0.5.23",
+   "snippet": "# Highlights *1007 PRs from 257 contributors.* ## New models | Model | Type | Cookbook | |---|---|---| | Muse Spark Open | LLM / VLM | [link](https://docs.sglang.io/cookbook/autoregressive/Meta/MuseSp",
+   "published_at": "2026-11-02T22:14:10+00:00",
    "also_in": []
   }
  ]

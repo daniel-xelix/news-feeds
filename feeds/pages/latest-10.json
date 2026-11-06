@@ -4,6 +4,134 @@
  "pages": 11,
  "items": [
   {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.14",
+   "snippet": "## What's Changed * `ollama launch claude` now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap * Cloud web search responses on `/api/cha",
+   "published_at": "2026-11-03T01:40:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.317",
+   "snippet": "## What's changed - Added a warning to `/schedule` when a new cloud scheduled task gets connectors you did not ask for, with how to remove them - Added a check that asks before a web or shell tool cal",
+   "published_at": "2026-11-03T01:25:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/belgium/belgium-implements-first-vida-vat-changes-from-2027/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Belgium implements first ViDA VAT changes from 2027",
+   "snippet": "",
+   "published_at": "2026-11-03T00:16:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "snippet": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "snippet": "",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Transformers Model Integration Contracts",
+   "snippet": "",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA's Cosmos Framework (6 minute read)",
+   "snippet": "NVIDIA introduced new Cosmos Framework capabilities for training, fine-tuning, reinforcement learning, and optimizing world models for physical AI. Developers can generate synchronized video and LiDAR",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": [
+    "NVIDIA developer blog"
+   ]
+  },
+  {
+   "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "How OpenEvidence scales medical search for 650K doctors",
+   "snippet": "OpenEvidence on Vercel Serves 650,000 doctors with medical search Completes production deployments in about five minutes Absorbs traffic spikes without additional capacity provisioning Reduced serverl",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Tencent Hy4 now available on AI Gateway",
+   "snippet": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , <a href=\"https://vercel.com/docs/ai-gateway",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+   "snippet": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project ",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch (3 minute read)",
+   "snippet": "GPT-6.2-Astra has started appearing in Codex usage breakdowns. The requests are likely being quietly routed to the new model as part of an A/B test or a staged rollout. A public launch could be days a",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic Warns It May Be Close to Self-Improving AI (3 minute read)",
+   "snippet": "Anthropic disclosed in its updated IPO filing that it may soon reach its internal definition of recursive self-improvement (RSI), where AI systems help develop increasingly capable AI models.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.com/resources/articles/message-threads",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Introduces Message Threads (2 minute read)",
+   "snippet": "Anthropic released message threads in public beta, allowing agents to send only new messages instead of resending their entire conversation history. The feature reduced median time to first token by a",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.gr.inc/blog/how-to-train-a-swarm",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How to Train a Swarm (19 minute read)",
+   "snippet": "Swarms are AI systems where multiple agents cooperate towards a shared goal. This post discusses a technique called collective inference-time scaling, where agents scale the amount of useful work perf",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -103,15 +231,6 @@
    "also_in": []
   },
   {
-   "url": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/",
-   "source": "Tomasz Tunguz",
-   "weight": 1.0,
-   "title": "The Financial Engineering Essential for AI in 2027",
-   "snippet": "Anthropic's Form S-1/A rolls financials through Q3 2026 ($17.0b revenue, +$8.6b operating cash flow) & reveals that $5.0b of short-term burst compute at $7 to $13 per GPU-hour lifted blended GPU-hour ",
-   "published_at": "2026-11-03T00:00:00+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://simonwillison.net/2026/Nov/2/llm/",
    "source": "Simon Willison",
    "weight": 1.5,
@@ -154,123 +273,6 @@
    "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
    "snippet": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the",
    "published_at": "2026-11-02T22:54:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Keep Distributed Training Running with Automated Workload Recovery",
-   "snippet": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
-   "published_at": "2026-11-02T22:43:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Managed Deep Agents: the fastest way to ship a production deep agent",
-   "snippet": "Run deep agents in production with durable execution, sandboxes, tool access, and LangSmith observability, without building the runtime yourself. Now in private beta",
-   "published_at": "2026-11-02T22:28:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
-   "source": "GitHub: sgl-project/sglang",
-   "weight": 1.0,
-   "title": "sgl-project/sglang v0.5.23",
-   "snippet": "# Highlights *1007 PRs from 257 contributors.* ## New models | Model | Type | Cookbook | |---|---|---| | Muse Spark Open | LLM / VLM | [link](https://docs.sglang.io/cookbook/autoregressive/Meta/MuseSp",
-   "published_at": "2026-11-02T22:14:10+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Projects can now be configured with vercel.toml",
-   "snippet": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it ",
-   "published_at": "2026-11-02T21:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "New context engineering challenges in late 2026",
-   "snippet": "LangChain CEO Harrison Chase shares insights into the biggest harness engineering challenges with the emergence of proactive agents.",
-   "published_at": "2026-11-02T20:35:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.9",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-anthropic==1.7.9",
-   "snippet": "Changes since langchain-anthropic==1.7.8 release(anthropic): 1.7.9 (#41644) fix(anthropic): report streamed content-block tokens to callbacks (#41643)",
-   "published_at": "2026-11-02T20:14:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel MCP now supports Client ID Metadata Documents",
-   "snippet": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowli",
-   "published_at": "2026-11-02T20:09:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.thealgorithmicbridge.com/p/new-survey-math-students-are-giving",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
-   "weight": 1.0,
-   "title": "AI Won't Kill Math But Empty Classrooms Will",
-   "snippet": "This is what a dying field looks like",
-   "published_at": "2026-11-02T18:42:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Rewarding defenders with bigger bug bounties",
-   "snippet": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-   "published_at": "2026-11-02T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "snippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-   "published_at": "2026-11-02T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
-   "snippet": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, net",
-   "published_at": "2026-11-02T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel MCP now renders deployments as an interactive card",
-   "snippet": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit d",
-   "published_at": "2026-11-02T17:05:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Flags Explorer redesigned for easier override sharing",
-   "snippet": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The ",
-   "published_at": "2026-11-02T16:58:00+00:00",
    "also_in": []
   }
  ]
