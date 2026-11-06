@@ -1,204 +1,276 @@
 {
  "set": "latest",
  "page": 10,
- "pages": 10,
+ "pages": 11,
  "items": [
   {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-   "source": "Lenny's Newsletter",
+   "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Hitchhiker's Guide to Training on Compute Islands (18 minute read)",
+   "snippet": "Being able to train reliably on multiple smaller clusters widens the usable training pool for frontier training. A single run could mix accelerator generations and vendors as each island runs on its o",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Lessons from building Copilot Cowork (21 minute read)",
+   "snippet": "Microsoft's Copilot Cowork, an AI-driven agentic execution layer, achieved global availability in four and a half months, switching its runtime from Python to Rust while live. Key practices included w",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPU-accelerated Weight Teleportation (17 minute read)",
+   "snippet": "GPU-accelerated Weight Teleportation optimizes RL training by improving weight syncing between trainers and samplers, reducing pause times to under 0.23 seconds. This is achieved using a co-designed c",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://framer.com/blog/harness-2/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Harness 2: executing agent code as it streams (6 minute read)",
+   "snippet": "Framer's Harness 2 significantly upgrades the agent's execution process, allowing entire workflows in one program, achieving up to 33% cost reduction and 20% faster execution. This is done by executin",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs (2 minute read)",
+   "snippet": "OpenAI plans to merge the Chat and Work tabs within the ChatGPT experience after an initial testing period with select users. Codex will remain a separate experience in the ChatGPT desktop app. The ch",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LLMs are not superhuman at reading and writing neural network weights (4 minute read)",
+   "snippet": "A recent paper demonstrates GPT-6 Astra's ability to interact with neural network weights directly, surpassing human or conventional algorithm capabilities. Astra significantly improved a 0.8B Qwen LL",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic releases amended IPO prospectus with third-quarter financials (1 minute read)",
+   "snippet": "Anthropic's amended IPO prospectus reveals a 1,200% increase in revenue to $33.24 billion for the first nine months of 2026. The company reported a net loss of $104 billion for the same period. Anthro",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://githubnext.com/posts/enclaves/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Limit what agents learn about private repos with enclaves (17 minute read)",
+   "snippet": "Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows that lets agents work on different repositories while limiting what they say to each other.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/lifeval/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks (4 minute read)",
+   "snippet": "LifeVal is a benchmark designed to evaluate AI performance on practical everyday tasks such as budgeting, finding childcare, and accessing government services.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Teaching Qwen Why (47 minute read)",
+   "snippet": "The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/elonmusk/status/2116992258520064397",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs (2 minute read)",
+   "snippet": "Elon Musk confirmed that Grok Bot usage limits were reduced after operating costs became unsustainably high relative to revenue.",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/",
+   "source": "Tomasz Tunguz",
    "weight": 1.0,
-   "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "published_at": "2026-11-02T16:02:08+00:00",
+   "title": "The Financial Engineering Essential for AI in 2027",
+   "snippet": "Anthropic's Form S-1/A rolls financials through Q3 2026 ($17.0b revenue, +$8.6b operating cash flow) & reveals that $5.0b of short-term burst compute at $7 to $13 per GPU-hour lifted blended GPU-hour ",
+   "published_at": "2026-11-03T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-   "snippet": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source",
-   "published_at": "2026-11-02T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-   "snippet": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a ser",
-   "published_at": "2026-11-02T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.8",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain==1.4.8",
-   "snippet": "> [!WARNING] > **Python 3.10 support will be dropped in `langchain-core` 1.8.0 and `langchain` 1.5.0.** The current minor versions are the last to support Python 3.10. Please upgrade to Python 3.11 or",
-   "published_at": "2026-11-02T15:45:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/political-ads-turn-against-data-centers",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "📈 Political ads turn against data centers",
-   "snippet": "Plus: Korea’s chip boom, the Census asks firms about “Super Intelligence”, and US workers check out++",
-   "published_at": "2026-11-02T15:41:38+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.4",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.7.4",
-   "snippet": "> [!WARNING] > **Python 3.10 support will be dropped in `langchain-core` 1.8.0 and `langchain` 1.5.0.** The current minor versions are the last to support Python 3.10. Please upgrade to Python 3.11 or",
-   "published_at": "2026-11-02T15:31:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Scaling Git at OpenAI",
-   "snippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-   "published_at": "2026-11-02T15:30:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.8",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-anthropic==1.7.8",
-   "snippet": "Changes since langchain-anthropic==1.7.7 release(anthropic): 1.7.8 (#41638) fix(anthropic): strip index from compaction blocks (#41637) fix(anthropic): handle null cache-creation token counts (#41553)",
-   "published_at": "2026-11-02T15:23:31+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Why You Don’t Want Humans Doing Outbound Anymore",
-   "snippet": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered “insights” on buyer intent and AI efficiency … and shared none. It just ",
-   "published_at": "2026-11-02T15:10:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/grid-protectors-program",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Introducing the Grid Protectors Program",
-   "snippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-   "published_at": "2026-11-02T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3639/cybersecurity-why-building-resilience-into-an-organisations-culture-is-crucial",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Cybersecurity: Why Building Resilience Into An Organisation's Culture is Crucial",
-   "snippet": "In this interview, Mastercard's Kiersten Todt discusses how cybersecurity is more than a technological concern; it’s a human one.",
-   "published_at": "2026-11-02T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3638/how-to-contextualise-threat-data-for-improved-cyber-defences",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "How to Contextualise Threat Data for Improved Cyber Defences",
-   "snippet": "In this interview, Recorded Future's Levi Gundert discusses why contextual threat data is fundamental to modern financial crime prevention, and why financial institutions need real-time intelligence t",
-   "published_at": "2026-11-02T14:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
    "source": "Simon Willison",
    "weight": 1.5,
-   "title": "The U.S. Census Bureau and “Super Intelligence”",
-   "snippet": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adop",
-   "published_at": "2026-11-02T13:31:26+00:00",
+   "title": "llm 0.37",
+   "snippet": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-te",
+   "published_at": "2026-11-02T23:49:30+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-   "source": "Lenny's Newsletter",
+   "url": "https://github.com/simonw/llm/releases/tag/0.37",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37",
+   "snippet": "New features: - New OpenAI models: `gpt-6.1-sol` for [GPT-6.1 Sol](https://developers.openai.com/api/docs/models/gpt-6.1-sol), `gpt-6.1-terra` for [GPT-6.1 Terra](https://developers.openai.com/api/doc",
+   "published_at": "2026-11-02T23:49:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+   "source": "NVIDIA developer blog",
    "weight": 1.0,
-   "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-   "snippet": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
-   "published_at": "2026-11-02T13:04:11+00:00",
+   "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+   "snippet": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+   "published_at": "2026-11-02T23:39:34+00:00",
    "also_in": []
   },
   {
-   "url": "https://vercel.com/blog/vercel-security-review",
+   "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+   "snippet": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+   "published_at": "2026-11-02T23:01:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+   "snippet": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the",
+   "published_at": "2026-11-02T22:54:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Keep Distributed Training Running with Automated Workload Recovery",
+   "snippet": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+   "published_at": "2026-11-02T22:43:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Managed Deep Agents: the fastest way to ship a production deep agent",
+   "snippet": "Run deep agents in production with durable execution, sandboxes, tool access, and LangSmith observability, without building the runtime yourself. Now in private beta",
+   "published_at": "2026-11-02T22:28:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.23",
+   "source": "GitHub: sgl-project/sglang",
+   "weight": 1.0,
+   "title": "sgl-project/sglang v0.5.23",
+   "snippet": "# Highlights *1007 PRs from 257 contributors.* ## New models | Model | Type | Cookbook | |---|---|---| | Muse Spark Open | LLM / VLM | [link](https://docs.sglang.io/cookbook/autoregressive/Meta/MuseSp",
+   "published_at": "2026-11-02T22:14:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
    "source": "Vercel blog",
    "weight": 0.9,
-   "title": "Introducing Vercel Security Review",
-   "snippet": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities",
-   "published_at": "2026-11-02T13:00:00+00:00",
+   "title": "Projects can now be configured with vercel.toml",
+   "snippet": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it ",
+   "published_at": "2026-11-02T21:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
-   "source": "SAP News Center",
+   "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+   "source": "LangChain blog",
    "weight": 1.0,
-   "title": "AI and Transformation Guidance for Every Customer",
-   "snippet": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or through a trusted partner.",
-   "published_at": "2026-11-02T12:15:00+00:00",
+   "title": "New context engineering challenges in late 2026",
+   "snippet": "LangChain CEO Harrison Chase shares insights into the biggest harness engineering challenges with the emergence of proactive agents.",
+   "published_at": "2026-11-02T20:35:55+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
-   "source": "Sifted",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.9",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.9",
+   "snippet": "Changes since langchain-anthropic==1.7.8 release(anthropic): 1.7.9 (#41644) fix(anthropic): report streamed content-block tokens to callbacks (#41643)",
+   "published_at": "2026-11-02T20:14:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel MCP now supports Client ID Metadata Documents",
+   "snippet": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowli",
+   "published_at": "2026-11-02T20:09:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/new-survey-math-students-are-giving",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
    "weight": 1.0,
-   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
-   "snippet": "",
-   "published_at": "2026-11-02T12:04:11+00:00",
+   "title": "AI Won't Kill Math But Empty Classrooms Will",
+   "snippet": "This is what a dying field looks like",
+   "published_at": "2026-11-02T18:42:07+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/what-i-told-a-room-full-of-europes-fastest-growing-companies-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "What I told a room full of Europe's fastest-growing companies",
-   "snippet": "",
-   "published_at": "2026-11-02T11:42:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/missile-startup-hypersonica-fundraise-lightspeed-general-catalyst-europe/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Missile startup Hypersonica raises €100m from Lightspeed, General Catalyst as missile defence takes off",
-   "snippet": "",
-   "published_at": "2026-11-02T10:39:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
-   "source": "GitHub: vllm-project/vllm",
-   "weight": 1.0,
-   "title": "vllm-project/vllm v0.33.0",
-   "snippet": "# v0.33.0 ## Highlights This release features 927 commits from 389 contributors (122 new)! * **New models**: Reflection Beam-1.0 (501B MoE, 23B active) with its DFlash2 drafter (#62074), Yandex AliceA",
-   "published_at": "2026-11-02T10:10:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.jetbrains.com/ai/2026/11/livestream-scaling-agentic-development-with-air-governance/",
-   "source": "JetBrains AI blog",
-   "weight": 1.0,
-   "title": "Livestream: Scaling Agentic Development With Air Governance",
-   "snippet": "Join us on November 18, from 4:00–5:00 pm CET, for a livestream with Viktor Kiselev and Guillaume Garnier from the JetBrains Air product team. Your developers want to use the best AI agents for the jo",
-   "published_at": "2026-11-02T09:40:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/lifeval",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "source": "OpenAI blog",
    "weight": 1.4,
-   "title": "LifeVal",
-   "snippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-   "published_at": "2026-11-02T09:00:00+00:00",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "snippet": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "snippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+   "snippet": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, net",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel MCP now renders deployments as an interactive card",
+   "snippet": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit d",
+   "published_at": "2026-11-02T17:05:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Flags Explorer redesigned for easier override sharing",
+   "snippet": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The ",
+   "published_at": "2026-11-02T16:58:00+00:00",
    "also_in": []
   }
  ]
