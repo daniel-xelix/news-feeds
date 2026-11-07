@@ -2,6 +2,56 @@
  "date": "2026-11-06",
  "items": [
   {
+   "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+   "snippet": "When deploying diffusion models in design tools, image editors, and visual production workflows, develope",
+   "published_at": "2026-11-06T22:20:20+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.2",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.2 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.108.2 ``` Same command for `litellm-database`, `litellm-non_root` and the `do",
+   "published_at": "2026-11-06T22:07:43+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Chat SDK agents can now stream generative UI with json-render",
+   "snippet": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The catalog covers tables, charts, buttons, and more, so there’s no separate",
+   "published_at": "2026-11-06T21:00:00+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway adds DeepSeek Search and Fetch tools",
+   "snippet": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek accou",
+   "published_at": "2026-11-06T21:00:00+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/unemployment-rate-dips-surge-hiring-shatters-expectations-fed-inflation-jobs-economy/874049/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Unemployment rate dips to 4.1% as surge in hiring shatters expectations",
+   "snippet": "“The strong October jobs report should keep the Fed focused on inflation and on track to hike again in December,” Bank of America Securities analysts said.",
+   "published_at": "2026-11-06T20:48:24+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
    "source": "The Pragmatic Engineer (Gergely Orosz)",
    "weight": 1.2,
@@ -9,6 +59,26 @@
    "snippet": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027",
    "published_at": "2026-11-06T19:39:15+00:00",
    "first_seen": "2026-11-06T21:27:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/tripadvisor-shares-plummet-ceo-cfo-departure-restructuring-layoffs/874036/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Tripadvisor shares plummet on CEO, CFO departure news",
+   "snippet": "The beleaguered travel service is embarking on $40 million restructuring plan aimed at simplifying its flagging hotel segment as it seeks out a new CEO and CFO.",
+   "published_at": "2026-11-06T19:29:00+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/canada-goose-revisit-pricing-blunt-tariffs-year-cfo-retail/874035/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
+   "snippet": "The Toronto-based luxury apparel company worked hard to get its products into the U.S. before new import tariffs became effective in August.",
+   "published_at": "2026-11-06T19:28:40+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
    "also_in": []
   },
   {
@@ -109,6 +179,16 @@
    "snippet": "Why a market shakedown could leave the biggest pod shops stronger",
    "published_at": "2026-11-06T17:59:24+00:00",
    "first_seen": "2026-11-06T21:27:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874024/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
+   "snippet": "With various executives and directors out, including the CEO, the children’s apparel retailer’s CFO has taken over as principal executive officer.",
+   "published_at": "2026-11-06T17:31:00+00:00",
+   "first_seen": "2026-11-07T01:52:22+00:00",
    "also_in": []
   },
   {

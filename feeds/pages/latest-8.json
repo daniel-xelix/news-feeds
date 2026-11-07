@@ -1,8 +1,71 @@
 {
  "set": "latest",
  "page": 8,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-apps 0.3a0",
+   "snippet": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs ",
+   "published_at": "2026-11-04T00:29:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-typesafe==0.0.1",
+   "snippet": "Initial release release(typesafe): 0.0.1 (#41650) chore(infra): relax third-party dependency upper bounds (#41407) chore(deps): bump certifi from 2026.7.22 to 2026.10.19 in /libs/partners/typesafe (#4",
+   "published_at": "2026-11-04T00:11:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/ukraine/ukraine-proposes-21-vat-rate-from-january-2027/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Ukraine Parliament adopts 21% VAT rate rise January 2027",
+   "snippet": "Ukraine mulls raising its standard VAT rate from 20% to 21% to help fund a...",
+   "published_at": "2026-11-04T00:05:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.318",
+   "snippet": "## What's changed - Added a record of your answer when Claude Code asks to turn on the mods it writes in a session - Added `assume_role` on `mantle` upstreams of the Claude apps gateway, for a role in",
+   "published_at": "2026-11-04T00:01:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing Images 2.6",
+   "snippet": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "snippet": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/polymorphic-inference",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Polymorphic Inference: self-tuning inference for open models",
+   "snippet": "Models, traffic and chips are constantly changing. Polymorphic Inference adapts to each, and Together Compiler uses AI agents to keep production inference tuned.",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://developer.apple.com/news/?id=gdk2umrf&amp%3Butm_source=tldrai",
    "source": "TLDR AI",
@@ -184,24 +247,6 @@
    "also_in": []
   },
   {
-   "url": "https://www.cfodive.com/news/sec-approves-easing-audit-quality-controls-endorsed-big-four-atkins-ey-pwc-deloitte-kpmg/873643/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "SEC approves easing of audit quality controls as endorsed by Big Four",
-   "snippet": "The amended rules align with efforts by SEC Chair Paul Atkins to streamline compliance and promote regulation that is “grounded in First Principles.”",
-   "published_at": "2026-11-03T20:45:31+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/fluence-energy-names-interim-ceo-cfo-legal-ebitda/873637/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
-   "snippet": "Executives from shareholders Siemens and AES took C-suite roles as Fluence seeks to address supply chain challenges and allegations of securities fraud.",
-   "published_at": "2026-11-03T20:33:23+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
    "source": "Vercel blog",
    "weight": 0.9,
@@ -226,51 +271,6 @@
    "title": "All-Hands-AI/OpenHands v1.35.0",
    "snippet": "## 1.35.0 (2026-11-03) ## What's Changed ### Features * feat(home): remember and clear the cloud repository selection by @tofarr in https://github.com/OpenHands/OpenHands/pull/19053 * feat(automations",
    "published_at": "2026-11-03T18:47:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.35",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.35",
-   "snippet": "## What's Changed ### Documentation - Update litellm model catalog for v1.15.35 - Add snapshot and changelog for v1.15.34 ## Contributors @github-actions[bot], @joaomdmoura, @lorenzejay",
-   "published_at": "2026-11-03T18:25:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.12",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-sdk==0.4.12",
-   "snippet": "Changes since sdk==0.4.11 * release(sdk-py): 0.4.12 (#9569) * feat(sdk-py): remove fairness_weight from PrioritySettings (#9441) * fix(sdk-py): rejoin a run stream that closes before the run ends (#95",
-   "published_at": "2026-11-03T18:10:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel CI no longer requires a linked Vercel project",
-   "snippet": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository. To enable it, you need: The Vercel GitHub App inst",
-   "published_at": "2026-11-03T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Truist bolsters merchant tools",
-   "snippet": "The super-regional rolled out a faster onboarding experience and added insights for business owners, said Chris Ward, head of enterprise payments.",
-   "published_at": "2026-11-03T17:37:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/ev-unfiltered-opening-my-sketchbook",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "👀 EV Unfiltered – opening my sketchbook",
-   "snippet": "Research notes, unfinished ideas and internal memos... Would you find them useful?",
-   "published_at": "2026-11-03T17:33:44+00:00",
    "also_in": []
   }
  ]
