@@ -1,8 +1,26 @@
 {
  "set": "latest",
  "page": 8,
- "pages": 10,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.7",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.7",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.7 ``` Same c",
+   "published_at": "2026-11-04T04:28:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.0 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-04T03:35:33+00:00",
+   "also_in": []
+  },
   {
    "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
    "source": "Simon Willison",
@@ -253,24 +271,6 @@
    "title": "Vercel Security Review now in public beta",
    "snippet": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are rep",
    "published_at": "2026-11-03T20:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.thealgorithmicbridge.com/p/the-dawn-of-a-new-ai-paradigm-weight",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
-   "weight": 1.0,
-   "title": "The Dawn of a New AI Paradigm: Weight-Space Programming",
-   "snippet": "Why do AI research like a human when you’re a machine?",
-   "published_at": "2026-11-03T19:14:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.35.0",
-   "snippet": "## 1.35.0 (2026-11-03) ## What's Changed ### Features * feat(home): remember and clear the cloud repository selection by @tofarr in https://github.com/OpenHands/OpenHands/pull/19053 * feat(automations",
-   "published_at": "2026-11-03T18:47:18+00:00",
    "also_in": []
   }
  ]

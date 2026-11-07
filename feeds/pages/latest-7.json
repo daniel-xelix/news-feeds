@@ -1,8 +1,26 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 10,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+   "snippet": "A Siemens report estimates that unplanned downtime costs an average large plant in th",
+   "published_at": "2026-11-04T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+   "snippet": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonsh",
+   "published_at": "2026-11-04T17:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.4",
    "source": "GitHub: langchain-ai/langchain",
@@ -253,24 +271,6 @@
    "title": "Can tech media survive the rise of AI and influencers?",
    "snippet": "",
    "published_at": "2026-11-04T05:00:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.7",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.7",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.7 ``` Same c",
-   "published_at": "2026-11-04T04:28:59+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.0",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.0 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
-   "published_at": "2026-11-04T03:35:33+00:00",
    "also_in": []
   }
  ]
