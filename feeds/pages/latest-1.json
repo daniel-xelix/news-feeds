@@ -1,8 +1,26 @@
 {
  "set": "latest",
  "page": 1,
- "pages": 9,
+ "pages": 8,
  "items": [
+  {
+   "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "snippet": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggeri",
+   "published_at": "2026-11-07T23:57:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.3",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.3 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-07T22:29:58+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.saastr.com/a-critical-app-we-pay-for-went-down-for-2-days-they-never-offered-a-credit-i-wont-forget/",
    "source": "SaaStr (Jason Lemkin)",
@@ -253,24 +271,6 @@
    "title": "anthropics/claude-code v2.1.319",
    "snippet": "## What's changed - Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in class",
    "published_at": "2026-11-06T17:04:01+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Tracing is now generally available",
-   "snippet": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchang",
-   "published_at": "2026-11-06T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
-   "snippet": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 mil",
-   "published_at": "2026-11-06T16:53:00+00:00",
    "also_in": []
   }
  ]
