@@ -1,8 +1,35 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 8,
+ "pages": 7,
  "items": [
+  {
+   "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "Analyze your Stripe data directly with your agent",
+   "snippet": "You can now use natural language to create an investor slide deck highlighting where your business outperformed in the previous quarter, or build a custom dashboard to understand why your Stripe reven",
+   "published_at": "2026-11-05T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+   "snippet": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards...",
+   "published_at": "2026-11-04T22:00:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/stanley-black-decker-raises-outlook-tariff-refunds-boost-margins/873805/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Stanley Black & Decker raises EPS outlook after tariff refund boost",
+   "snippet": "The toolmaker is using tariff refunds to accelerate $70 million to $80 million in growth investments originally slated for 2027.",
+   "published_at": "2026-11-04T20:53:50+00:00",
+   "also_in": []
+  },
   {
    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.2",
    "source": "GitHub: langchain-ai/langchain",
@@ -136,141 +163,6 @@
    "title": "langchain-ai/langchain langchain-anthropic==1.7.10",
    "snippet": "Changes since langchain-anthropic==1.7.9 release(anthropic): 1.7.10 (#41685) chore(deps): require `langchain-core>=1.7.5` for refusal handling (#41682) feat(core): translate Gemini safety blocks to re",
    "published_at": "2026-11-04T16:51:12+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
-   "source": "Interconnects (Nathan Lambert)",
-   "weight": 1.3,
-   "title": "How big is the open model economy today?",
-   "snippet": "Our first open model economy research note for paid subscribers.",
-   "published_at": "2026-11-04T16:35:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/fis-toast-cfos-exit/873750/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "FIS, Toast CFOs exit",
-   "snippet": "The chief financial officers are leaving the payments players as the companies grapple with separate challenges.",
-   "published_at": "2026-11-04T16:03:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-   "snippet": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memor",
-   "published_at": "2026-11-04T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Block reaches $964M DOJ pact",
-   "snippet": "The company would pay $764 million of the amount in the agreement to resolve U.S. charges that its anti-money laundering program was ineffective.",
-   "published_at": "2026-11-04T15:58:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.5",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.7.5",
-   "snippet": "Changes since langchain-core==1.7.4 release(core): 1.7.5 (#41665) feat(core): translate Gemini safety blocks to refusal content blocks (#41658) fix(core): end tool run on cancellation (#41660) feat(co",
-   "published_at": "2026-11-04T15:50:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873669/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Payments firm settles FTC fees case",
-   "snippet": "Riverside Payments and its affiliates agreed to pay $600,000 to resolve allegations they misled small businesses about processing costs.",
-   "published_at": "2026-11-04T15:32:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-llm 0.1a10",
-   "snippet": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: da",
-   "published_at": "2026-11-04T15:26:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic’s Dollar Growth.",
-   "snippet": "Ramp’s latest AI Index, built from transactions at 85,000+ US businesses, shows the heaviest AI spenders peaking in July. Anthropic’s amended S-1, filed this morning, shows its quarterly dollar add sh",
-   "published_at": "2026-11-04T15:00:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3641/scaling-digital-assets-and-overcoming-market-fragmentation",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Scaling Digital Assets and Overcoming Market Fragmentation",
-   "snippet": "At Sibos 2026, Quant and Murex discuss the barriers affecting institutional adoption of digital assets and overcoming fragmentation when integrating digital assets with money, liquidity, risk, and exi",
-   "published_at": "2026-11-04T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Sequoia to close London office, cut Europe team",
-   "snippet": "",
-   "published_at": "2026-11-04T14:22:35+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/india/india-b2b-e-invoicing-threshold-drops-to-%e2%82%b95-january-2023-faqs-update/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "India e-invoicing; expansion to reverse charge & imports 2027",
-   "snippet": "",
-   "published_at": "2026-11-04T14:00:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape",
-   "snippet": "The report points to a future where connected data and intelligent technology drive better external workforce decisions.",
-   "published_at": "2026-11-04T13:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/introducing-vercel-schedules",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Introducing Vercel Schedules",
-   "snippet": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once ",
-   "published_at": "2026-11-04T13:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel token scanning expands to more public sources",
-   "snippet": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projec",
-   "published_at": "2026-11-04T13:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "New SAP Incentive Management, Starter Edition, Now Available",
-   "snippet": "Growing organizations need the right solutions to turn their strategy into performance.",
-   "published_at": "2026-11-04T12:15:00+00:00",
    "also_in": []
   }
  ]
