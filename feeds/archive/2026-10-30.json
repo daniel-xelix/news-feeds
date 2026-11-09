@@ -702,6 +702,16 @@
    "also_in": []
   },
   {
+   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-mcp-events",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel MCP now supports MCP events",
+   "snippet": "Vercel MCP now publishes events, so agents can subscribe to Vercel platform events like deployment.succeeded and deployment.error and react to what happens on your projects instead of polling for changes. An agent subscribes once, filtering by team, project, and environment, and Vercel MCP manages an ordinary expiring Vercel webhook behind it. Refreshes extend the subscription, an abandoned one ex",
+   "published_at": "2026-10-30T01:47:06+00:00",
+   "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
    "source": "GitHub: anthropics/claude-code",
    "weight": 1.5,
