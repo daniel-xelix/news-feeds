@@ -4,102 +4,273 @@
  "pages": 7,
  "items": [
   {
-   "url": "https://www.paymentsdive.com/news/ncr-atleos-first-citizens-target-stores-atm-digital-banking/873953/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "NCR Atleos, First Citizens lock arms",
-   "snippet": "The bank aims to expand its reach to more customers by offering services via the NCR Atleos ATMs in Target stores.",
-   "published_at": "2026-11-06T14:39:00+00:00",
+   "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Can LLMs redesign themselves as they train? (18 minute read)",
+   "snippet": "LLMs can integrate coding agents into the training loop to redesign their architectures to address limitations like compositionality and generalization.",
+   "published_at": "2026-11-09T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.exponentialview.co/p/what-to-build-next-with-bill-gross",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Warp Sciences raises $215M for AI-powered labs (2 minute read)",
+   "snippet": "Warp Sciences raised a $215M Series A led by Lightspeed to accelerate drug discovery with AI and robotics.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Project EVE: Claude plays MMORPGs (20 minute read)",
+   "snippet": "Anthropic explored AI participation in MMORPGs, using Claude to test complex decision-making in EVE Online and EVE Frontier.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/johnjnay/status/2118377267495649448",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Symbiotic Firms Built Around Humans and AI (4 minute read)",
+   "snippet": "Firms should build operations around human experts and AI agents from inception.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta Introduces Custom Spaces in Muse (3 minute read)",
+   "snippet": "Meta introduced Spaces in its Muse app, allowing users to create personalized interactive experiences by describing what they want, such as gift trackers, games, or project planners.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Measuring how AI agents handle everyday wet-lab science (13 minute read)",
+   "snippet": "OpenAI introduced BioBasicsBench, a benchmark to evaluate AI performance in interpreting raw experimental data from 100 routine wet-lab science tasks.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "When Does the US Become a Net Importer of Tokens?",
+   "snippet": "US AI demand grows from 66gw in 2027 while tokens per watt compound 2.9x a year, so the grid only binds if token demand outruns efficiency. Break-even real token growth is ~2.5x a year with no cancell",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "snippet": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() fun",
+   "published_at": "2026-11-08T22:26:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/cs146s/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "snippet": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+   "published_at": "2026-11-08T21:41:44+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "snippet": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have",
+   "published_at": "2026-11-08T21:23:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.38",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.38",
+   "snippet": "## What's Changed ### Features - Make gpt-6-luna crewAI's default model everywhere - Read spreadsheet URLs in an agent's input with tools over every row - Tag eval usage spans with target and a per-ev",
+   "published_at": "2026-11-08T19:39:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor",
+   "snippet": "The decisions behind this week’s headlines: how to price for falling model costs, how to report growth when your percentages are shrinking, and why you need to test whether you’re expanding the TAM or",
+   "published_at": "2026-11-08T17:00:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/why-your-revenues-only-sort-of-matter-when-you-get-acquired-by-a-strategic-even-though-they-are-usually-how-a-deal-is-priced/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced",
+   "snippet": "Patrick Collison posted an update on Privy, the wallet infrastructure company Stripe acquired a little over a year ago. The numbers since the deal closed: Assets in Privy wallets up ~25x Monthly activ",
+   "published_at": "2026-11-08T15:10:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+   "snippet": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+   "published_at": "2026-11-08T13:31:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/eu/27-shades-of-eu-vida-harmonisation/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "27 shades of EU ViDA harmonisation",
+   "snippet": "",
+   "published_at": "2026-11-08T10:36:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?",
+   "snippet": "Their confidence. That’s the first thing you see: Are they confident in their progress? Are they confident in their metrics? Do they know them cold: customer count, ACV, # leads, etc.? Do they have co",
+   "published_at": "2026-11-08T10:00:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/ai-tax-classification-are-tax-technology-providers-solving-the-wrong-problem/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "AI Tax Classification: are tax technology providers solving the wrong problem?",
+   "snippet": "",
+   "published_at": "2026-11-08T07:25:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/ev-609",
    "source": "Exponential View (Azeem Azhar)",
    "weight": 1.0,
-   "title": "What to build next? With Bill Gross, IdeaLab.ai",
-   "snippet": "“This is my way to have 12,000 companies at once.“",
-   "published_at": "2026-11-06T14:37:32+00:00",
+   "title": "🔮 The people vs tech; the Europoor; forgotten Creole++ #609",
+   "snippet": "Your weekend briefing on AI and exponential technologies",
+   "published_at": "2026-11-08T03:47:27+00:00",
    "also_in": []
   },
   {
-   "url": "https://huggingface.co/blog/allenai/toyblocks",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "snippet": "",
-   "published_at": "2026-11-06T14:00:48+00:00",
+   "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "snippet": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggeri",
+   "published_at": "2026-11-07T23:57:46+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-218",
-   "source": "Not Boring (Packy McCormick)",
-   "weight": 0.9,
-   "title": "Weekly Dose of Optimism #218",
-   "snippet": "Plasmid DNA Immunotherapy, Zipline, DREADDs, NOM4D, Reincarnation + Extra Doses",
-   "published_at": "2026-11-06T13:53:10+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Sequoia is leaving London. Should Europe be worried?",
-   "snippet": "",
-   "published_at": "2026-11-06T13:36:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
-   "snippet": "A new Economist Enterprise global survey of finance, HR, and supply chain leaders reveals a shared reality.",
-   "published_at": "2026-11-06T13:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/agents-are-going-async",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Agents Are Going Async",
-   "snippet": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
-   "published_at": "2026-11-06T13:12:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How We Optimized Browser Use for Deep Agents",
-   "snippet": "We compared seven browser toolsets for Deep Agents, picked Stagehand from Browserbase, and tuned it with LangSmith traces and evals. Here's what we learned.",
-   "published_at": "2026-11-06T13:12:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Browser Use in Managed Deep Agents",
-   "snippet": "Managed Deep Agents now runs a browser for your agent, with tools tuned for context-efficient browser use and a handoff so you can sign in yourself.",
-   "published_at": "2026-11-06T13:12:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/videoarticle/3643/binance-what-the-largest-ever-crypto-hack-means-for-cyber-resilience",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Binance: What the Largest Ever Crypto Hack Means for Cyber Resilience",
-   "snippet": "In this interview, GlobalData's Phoebe Hodgson comments on the market reaction and implications to the Binance hack.",
-   "published_at": "2026-11-06T13:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.37.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.3",
+   "source": "GitHub: BerriAI/litellm",
    "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.37.0",
-   "snippet": "## 1.37.0 (2026-11-06) ## What's Changed ### Features * feat(automations): explain each automation with a Mermaid diagram by @VascoSch92 in https://github.com/OpenHands/OpenHands/pull/19318 ### Bug Fi",
-   "published_at": "2026-11-06T12:54:14+00:00",
+   "title": "BerriAI/litellm 1.108.3 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-07T22:29:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Terry Pratchett's Study",
+   "snippet": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suc",
+   "published_at": "2026-11-07T19:34:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Anthropic IPO: Whither Now?",
+   "snippet": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+   "published_at": "2026-11-07T03:04:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.37",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.37",
+   "snippet": "## What's Changed ### Features - Add functionality to read spreadsheets for agents in crewai-files. - Scaffold and load standalone agent projects. ### Documentation - Update RagTool description for be",
+   "published_at": "2026-11-07T02:18:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+   "snippet": "Managed Deep Agents v0.10 adds browser use, so agents can work on sites with no API and hand you the window to sign in, and async subagents for background work.",
+   "published_at": "2026-11-07T00:01:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+   "snippet": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.",
+   "published_at": "2026-11-07T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+   "snippet": "When deploying diffusion models in design tools, image editors, and visual production workflows, develope",
+   "published_at": "2026-11-06T22:20:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.2",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.2 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-06T22:07:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Chat SDK agents can now stream generative UI with json-render",
+   "snippet": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapt",
+   "published_at": "2026-11-06T21:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway adds DeepSeek Search and Fetch tools",
+   "snippet": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read.",
+   "published_at": "2026-11-06T21:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/unemployment-rate-dips-surge-hiring-shatters-expectations-fed-inflation-jobs-economy/874049/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Unemployment rate dips to 4.1% as surge in hiring shatters expectations",
+   "snippet": "“The strong October jobs report should keep the Fed focused on inflation and on track to hike again in December,” Bank of America Securities analysts said.",
+   "published_at": "2026-11-06T20:48:24+00:00",
    "also_in": []
   }
  ]
