@@ -2,6 +2,96 @@
  "date": "2026-11-09",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-anthropic 0.31",
+   "snippet": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG o",
+   "published_at": "2026-11-09T23:58:46+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Locating the source of a mysterious beep with Claude",
+   "snippet": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator , ",
+   "published_at": "2026-11-09T23:57:21+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.4",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.4 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.108.4 ``` Same command for `litellm-database`, `litellm-non_root` and the `do",
+   "published_at": "2026-11-09T23:00:51+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How Stripe Built Kai on Deep Agents in 1 Week",
+   "snippet": "Learn how Stripe built Kai, a company-wide AI agent on LangChain, LangGraph, and Deep Agents, reaching 5,000 users in roughly 4 weeks.",
+   "published_at": "2026-11-09T22:07:04+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+   "snippet": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
+   "published_at": "2026-11-09T21:20:38+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+   "snippet": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50. Snapshots are now able to write and restore by re-using frames within the Vercel Hive Snapshot (VHS) format. VHS now indexes data in a more efficient way which means that more read and write operation",
+   "published_at": "2026-11-09T21:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.3",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-fireworks==1.7.3",
+   "snippet": "Changes since langchain-fireworks==1.7.2 release(fireworks): 1.7.3 (#41773) fix(fireworks): default `max_tokens` from model profiles (#41772) chore(model-profiles): refresh model profile data (#41762) chore(model-profiles): refresh model profile data (#41745)",
+   "published_at": "2026-11-09T20:54:19+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/pcaob-scraps-registrations-97-audit-firms-deemed-delinquent-SEC-atkins-enforcement/874178/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "PCAOB scraps registrations for 97 audit firms deemed delinquent",
+   "snippet": "Securities and Exchange Commission Chairman Paul Atkins seeks to narrow the PCAOB’s focus and ensure the “integrity and objectivity” of audit firms.",
+   "published_at": "2026-11-09T20:49:02+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+   "snippet": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
+   "published_at": "2026-11-09T20:44:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
    "source": "Lenny's Newsletter",
    "weight": 1.0,
@@ -9,6 +99,46 @@
    "snippet": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
    "published_at": "2026-11-09T20:37:49+00:00",
    "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48730/fca-explores-use-of-quantum-computing-to-tackle-financial-crime",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "FCA explores use of quantum computing to tackle financial crime",
+   "snippet": "The UK's Financial Conduct Authority is bringing together industry players to explore how quantum machine learning could help detect money laundering and fraud",
+   "published_at": "2026-11-09T20:29:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/less-than-1-4-new-cfos-globally-were-women-q3/874169/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Less than 1 in 4 new CFOs globally were women in Q3",
+   "snippet": "The downshift in newly appointed female CFOs came as the pace of the turnover in the seat ticked up this year, according to Russell Reynolds Associates.",
+   "published_at": "2026-11-09T20:22:16+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33426/ai-agents-in-fintech-where-interpretation-should-end-and-execution-begin",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "AI Agents in Fintech: Where Interpretation Should End and Execution Begin",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-09T20:11:56+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/binance-cfo-departs-one-week-6b-hack-cybersecurity-bitcoin/874164/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Binance CFO departs one week after $6B hack",
+   "snippet": "The crypto exchange’s CFO left to start his own business about a week after hackers siphoned $6.3 billion in assets from the Binance platform.",
+   "published_at": "2026-11-09T19:52:52+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
    "also_in": []
   },
   {
@@ -52,6 +182,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/trump-signals-openness-ai-guardrails-blue-tsunami/874155/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Trump signals openness to AI guardrails after ‘blue tsunami’",
+   "snippet": "The shift in tone on AI comes after the midterm elections and as Nvidia grapples with reports linking CEO Jensen Huang to an alleged Chinese spy.",
+   "published_at": "2026-11-09T19:02:25+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "source": "OpenAI blog",
    "weight": 1.4,
@@ -69,6 +209,16 @@
    "snippet": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water utilities.",
    "published_at": "2026-11-09T18:45:00+00:00",
    "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33425/prediction-markets-are-entering-their-bot-era",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Prediction Markets Are Entering Their Bot Era",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-09T18:34:03+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
    "also_in": []
   },
   {
@@ -109,6 +259,16 @@
    "snippet": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.",
    "published_at": "2026-11-09T18:30:00+00:00",
    "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.16",
+   "snippet": "## Ripple Preview [Ripple Preview](https://ollama.com/library/ripple-preview) from Ricursive Intelligence is a 65B dense model built for agentic coding. ```sh ollama run ripple-preview ``` ## What's Changed - Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon - `ollama launch claude` always routes Claude Code to the selected model - `ollama launch` explains when a cloud model has be",
+   "published_at": "2026-11-09T18:21:19+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
    "also_in": []
   },
   {
@@ -442,6 +602,16 @@
    "also_in": []
   },
   {
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "snippet": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "published_at": "2026-11-09T13:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
    "source": "Hugging Face blog",
    "weight": 1.3,
@@ -629,6 +799,16 @@
    "snippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
    "published_at": "2026-11-09T08:00:00+00:00",
    "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "snippet": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
    "also_in": []
   },
   {
@@ -929,6 +1109,36 @@
    "snippet": "US AI demand grows from 66gw in 2027 while tokens per watt compound 2.9x a year, so the grid only binds if token demand outruns efficiency. Break-even real token growth is ~2.5x a year with no cancellations.",
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-09T20:41:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GLM 5.3 Flash is now available in Token Pass",
+   "snippet": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context window. Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gat",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Workflow SDK now writes over WebSockets on Vercel",
+   "snippet": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSocket by default, replacing one HTTP request per write, or per write group for streams. No code change is needed beyond upgrading to workflow@5.2.0 or later. Once you deploy the upgrade, new runs use it. In-flight runs finish on the deployment they started on. Existing streaming code works",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Build disk space on Vercel increased to 64 GB",
+   "snippet": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo. The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space. The change applies automatically across all plans and build machine types at no",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T04:04:24+00:00",
    "also_in": []
   }
  ]
