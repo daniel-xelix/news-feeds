@@ -2,6 +2,76 @@
  "date": "2026-11-10",
  "items": [
   {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.5",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.5 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.108.5 ``` Same command for `litellm-database`, `litellm-non_root` and the `do",
+   "published_at": "2026-11-10T22:51:37+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "weight": 1.0,
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "snippet": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+   "published_at": "2026-11-10T21:55:03+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Block’s Cash App weaves payment tech into bandanas",
+   "snippet": "The peer-to-peer payment provider will soon begin selling its digital tags attached to bandanas.",
+   "published_at": "2026-11-10T21:35:05+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "US Army member arrested in UK over allegations of spying for Russia",
+   "snippet": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+   "published_at": "2026-11-10T21:13:00+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
+   "snippet": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
+   "published_at": "2026-11-10T20:55:00+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/inflation-rises-faster-expected-boosting-odds-fed-rate-hike-waller-federal-reserve/874314/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Inflation rises faster than expected, boosting odds of Fed rate hike",
+   "snippet": "“I am particularly concerned about the breadth of price increases,” Federal Reserve Governor Christopher Waller said, calling for higher borrowing costs.",
+   "published_at": "2026-11-10T20:52:07+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/nike-retiree-returns-cao/874311/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Nike retiree returns as CAO",
+   "snippet": "The Beaverton, Oregon-based sports apparel giant has brought back Dan McKenzie, a 19-year veteran, to serve as its chief accounting officer.",
+   "published_at": "2026-11-10T20:42:47+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/BerriAI/litellm/releases/tag/v1.104.9",
    "source": "GitHub: BerriAI/litellm",
    "weight": 1.1,
@@ -19,6 +89,16 @@
    "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the s",
    "published_at": "2026-11-10T20:24:40+00:00",
    "first_seen": "2026-11-10T20:46:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-gemini 0.36",
+   "snippet": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Go",
+   "published_at": "2026-11-10T20:09:44+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
    "also_in": []
   },
   {
@@ -49,6 +129,16 @@
    "snippet": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
    "published_at": "2026-11-10T18:46:00+00:00",
    "first_seen": "2026-11-10T20:46:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111640/wise-expands-us-product-suite",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Wise expands US product suite,",
+   "snippet": "Wise, the global technology company building the best way to move and manage the world's money, today announced an expansion of its US product offering, giving people and businesses two new ways to earn a return on the money they hold with Wise.",
+   "published_at": "2026-11-10T18:41:00+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
    "also_in": []
   },
   {
@@ -199,6 +289,16 @@
    "snippet": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in human behavior, today launched BioCatch AiRE™ (Agentic AI Risk Essentials), the company’s new agentic AI detection capability.",
    "published_at": "2026-11-10T15:38:00+00:00",
    "first_seen": "2026-11-10T20:46:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33431/globalisation-you-cant-keep-a-good-thing-down",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Globalisation: You Can’t Keep a Good Thing Down",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-10T15:37:38+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
    "also_in": []
   },
   {
@@ -369,6 +469,16 @@
    "snippet": "The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced the launch of its EU Markets in Financial Instruments Directive (MiFID) Approved Reporting Mechanism (ARM), delivering an end-to-end transaction reporting solution developed to further improve reporting accuracy and support more efficient comp",
    "published_at": "2026-11-10T14:09:00+00:00",
    "first_seen": "2026-11-10T20:46:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33430/subscription-banking-transaction-data-tells-you-what-customers-will-pay-for",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Subscription banking: Transaction data tells you what customers will pay for",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-10T14:08:48+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
    "also_in": []
   },
   {
@@ -1049,6 +1159,16 @@
    "snippet": "KC, Chief People Officer at OpenAI & former CIO at Palantir, argues that efficiency is the wrong frame for AI. The prize is a reimagined firm where every role gains an agent manager & EQ becomes what separates people.",
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-10T20:46:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+   "snippet": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illustration, then pass the im",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-11T01:54:06+00:00",
    "also_in": []
   }
  ]
