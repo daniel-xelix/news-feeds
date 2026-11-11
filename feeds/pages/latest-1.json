@@ -1,8 +1,17 @@
 {
  "set": "latest",
  "page": 1,
- "pages": 8,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Cross-border payments: How banks can close the corporate service gap",
+   "snippet": "How can banks adapt their cross-border payment services to increase client satisfaction?",
+   "published_at": "2026-11-12T15:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "source": "OpenAI blog",
@@ -13,264 +22,255 @@
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "What it takes to build a globally competitive deeptech business in Europe",
-   "snippet": "",
-   "published_at": "2026-11-11T09:00:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "snippet": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-   "published_at": "2026-11-11T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/eu-midas-touch-member-states-risk-gold-plating-vida/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "EU Midas Touch: member states risk gold-plating ViDA",
-   "snippet": "",
-   "published_at": "2026-11-11T07:00:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/moldova/moldova-reduced-vat-rate-rises/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Moldova reduced VAT rate rises Jan 2027",
-   "snippet": "",
-   "published_at": "2026-11-11T05:35:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/qvac/botpsy",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "snippet": "",
-   "published_at": "2026-11-11T05:01:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Who could replace Palantir in the NHS?",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Europe’s chips startups mapped: 113 companies building the hardware behind AI",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Why Europe’s AI founders are opening accounting and law firms",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/codex-work/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-   "snippet": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
-   "published_at": "2026-11-11T04:49:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.8",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+   "source": "GitHub: simonw/llm",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.8",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.8 ``` Same c",
-   "published_at": "2026-11-11T03:23:36+00:00",
+   "title": "simonw/llm 0.37.2",
+   "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been ",
+   "published_at": "2026-11-11T17:19:52+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.39.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.0",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.109.0 ``` Same c",
-   "published_at": "2026-11-11T00:56:51+00:00",
+   "title": "All-Hands-AI/OpenHands v1.39.0",
+   "snippet": "## 1.39.0 (2026-11-11) ## What's Changed ### Features * feat(automations): filter the dashboard by owner with a Service accounts option by @hieptl in https://github.com/OpenHands/OpenHands/pull/19472 ",
+   "published_at": "2026-11-11T17:14:58+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.thealgorithmicbridge.com/p/claude-fable-52-too-good",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+   "source": "NVIDIA developer blog",
    "weight": 1.0,
-   "title": "Claude Fable 5.2: Too Good",
-   "snippet": "Reality is the only benchmark",
-   "published_at": "2026-11-11T00:05:45+00:00",
+   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+   "snippet": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+   "published_at": "2026-11-11T17:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "AI could cut banking industry's cost base by 20% - McKinsey's",
-   "snippet": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line",
-   "published_at": "2026-11-11T00:01:00+00:00",
+   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "snippet": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterd",
+   "published_at": "2026-11-11T16:57:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.5",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.5 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
-   "published_at": "2026-11-10T22:51:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "weight": 1.0,
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "snippet": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday ad",
-   "published_at": "2026-11-10T21:55:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
+   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
    "source": "Payments Dive",
    "weight": 1.1,
-   "title": "Block’s Cash App weaves payment tech into bandanas",
-   "snippet": "The peer-to-peer payment provider will soon begin selling its digital tags attached to bandanas.",
-   "published_at": "2026-11-10T21:35:05+00:00",
+   "title": "Fiserv preps debit network sale",
+   "snippet": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.",
+   "published_at": "2026-11-11T16:30:26+00:00",
    "also_in": []
   },
   {
-   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-   "source": "The Record",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
+   "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "US Army member arrested in UK over allegations of spying for Russia",
-   "snippet": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
-   "published_at": "2026-11-10T21:13:00+00:00",
+   "title": "langchain-ai/langchain langchain-typesafe==0.1.0",
+   "snippet": "**`langchain-typesafe` 0.1.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0 (`l",
+   "published_at": "2026-11-11T16:14:24+00:00",
    "also_in": []
   },
   {
-   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-   "snippet": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-   "published_at": "2026-11-10T20:55:00+00:00",
+   "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Fractile confirms £540m raise first revealed by Sifted",
+   "snippet": "",
+   "published_at": "2026-11-11T16:09:13+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.cfodive.com/news/inflation-rises-faster-expected-boosting-odds-fed-rate-hike-waller-federal-reserve/874314/",
+   "url": "https://www.cfodive.com/news/tips-rooting-out-fraudulent-federal-funds-use-accounting/874390/",
    "source": "CFO Dive",
    "weight": 1.3,
-   "title": "Inflation rises faster than expected, boosting odds of Fed rate hike",
-   "snippet": "“I am particularly concerned about the breadth of price increases,” Federal Reserve Governor Christopher Waller said, calling for higher borrowing costs.",
-   "published_at": "2026-11-10T20:52:07+00:00",
+   "title": "Tips for rooting out fraudulent federal funds use",
+   "snippet": "There are a number of red flags that auditors should look out for when working with non-profits or government entities that get federal grants, experts say.",
+   "published_at": "2026-11-11T16:06:12+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-   "snippet": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
-   "published_at": "2026-11-10T20:43:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-   "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
-   "published_at": "2026-11-10T20:43:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/nike-retiree-returns-cao/874311/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Nike retiree returns as CAO",
-   "snippet": "The Beaverton, Oregon-based sports apparel giant has brought back Dan McKenzie, a 19-year veteran, to serve as its chief accounting officer.",
-   "published_at": "2026-11-10T20:42:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.104.9",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
+   "source": "Payments Dive",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.104.9",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.104.9 ``` Same c",
-   "published_at": "2026-11-10T20:29:03+00:00",
+   "title": "Western Union, Intermex clash",
+   "snippet": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
+   "published_at": "2026-11-11T15:56:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.103.11",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.103.11",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.103.11 ``` Same ",
-   "published_at": "2026-11-10T20:24:40+00:00",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.5.0",
+   "snippet": "**`langchain` 1.5.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. Users on Py",
+   "published_at": "2026-11-11T15:47:22+00:00",
    "also_in": []
   },
   {
-   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.0",
+   "snippet": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core",
+   "published_at": "2026-11-11T15:22:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
    "source": "Simon Willison",
    "weight": 1.5,
-   "title": "llm-gemini 0.36",
-   "snippet": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Go",
-   "published_at": "2026-11-10T20:09:44+00:00",
+   "title": "Anthropic's IPO roadshow video",
+   "snippet": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Ap",
+   "published_at": "2026-11-11T15:11:59+00:00",
    "also_in": []
   },
   {
-   "url": "https://latent.space/p/resend/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "Designing for Agents — Zeno Rocha, Resend",
-   "snippet": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-   "published_at": "2026-11-10T20:05:17+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/naiveai/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-   "snippet": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-   "published_at": "2026-11-10T18:56:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg",
+   "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions",
    "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
-   "snippet": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
-   "published_at": "2026-11-10T18:46:00+00:00",
+   "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+   "snippet": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+   "published_at": "2026-11-11T15:06:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/top-10-learnings-from-databricks-cro-ron-gabrisko-on-scaling-sales-from-under-1m-to-a-200b-company/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company",
+   "snippet": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now worth $200 billion and does many billions in ARR, and Ron has run sales the whole way. He joined Sam Blond, ",
+   "published_at": "2026-11-11T15:00:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "snippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "published_at": "2026-11-11T15:00:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+   "snippet": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+   "published_at": "2026-11-11T14:21:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermax-acquisition",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Western Union ditches Intermax acquisition",
+   "snippet": "Western Union has pulled the plug on its $500 million acquisition of rival Intermax after failing to secure an \"acceptable approval\" for the deal from regulators.",
+   "published_at": "2026-11-11T14:05:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111648/duffel-and-katanox-bring-hotel-bookings-payments-and-financing-into-single-flow-for-travel-sellers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Duffel and Katanox bring hotel bookings, payments and financing into single flow for travel sellers",
+   "snippet": "With $1.5bn lost every year to broken travel payments processes, Duffel, the travel-tech platform, and Katanox, the financial infrastructure for hospitality, are plugging the gap with a single integra",
+   "published_at": "2026-11-11T14:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/of-miracles-and-moats",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Of Miracles and Moats",
+   "snippet": "Cycles, Bubbles, and the Golden Age of Consumer Surplus",
+   "published_at": "2026-11-11T13:53:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+   "snippet": "",
+   "published_at": "2026-11-11T13:40:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
+   "snippet": "",
+   "published_at": "2026-11-11T13:24:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111647/crdit-agricole-deutschland-selects-enfuce-as-partner-for-visa-debit-cards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Crédit Agricole Deutschland selects Enfuce as partner for Visa debit cards",
+   "snippet": "Enfuce, Europe’s card issuing and processing powerhouse, today announced it is the card issuer and BIN sponsor behind Crédit Agricole Deutschland, Crédit Agricole’s newly launched universal bank for r",
+   "published_at": "2026-11-11T13:20:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
+   "snippet": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers o",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Poland shuts down government services platform ePUAP following cyberattack",
+   "snippet": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111645/swipesum-launches-payments-command-centre",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Swipesum launches payments command centre",
+   "snippet": "Swipesum, the payments software and services company, today announced the launch of Swipesum CPO, a payments command center that brings a company’s entire payments function into one place.",
+   "published_at": "2026-11-11T13:16:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Britain, France set out first guidelines for commercial hacking firms",
+   "snippet": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+   "published_at": "2026-11-11T13:11:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+   "snippet": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+   "published_at": "2026-11-11T13:04:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.",
+   "snippet": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we’ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. ",
+   "published_at": "2026-11-11T13:00:26+00:00",
    "also_in": []
   }
  ]

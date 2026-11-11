@@ -1,132 +1,276 @@
 {
  "set": "2026-11-11",
  "page": 1,
- "pages": 1,
+ "pages": 3,
  "items": [
   {
-   "url": "https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "What it takes to build a globally competitive deeptech business in Europe",
-   "snippet": "",
-   "published_at": "2026-11-11T09:00:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "snippet": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-   "published_at": "2026-11-11T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/eu-midas-touch-member-states-risk-gold-plating-vida/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "EU Midas Touch: member states risk gold-plating ViDA",
-   "snippet": "",
-   "published_at": "2026-11-11T07:00:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/moldova/moldova-reduced-vat-rate-rises/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Moldova reduced VAT rate rises Jan 2027",
-   "snippet": "",
-   "published_at": "2026-11-11T05:35:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/qvac/botpsy",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "snippet": "",
-   "published_at": "2026-11-11T05:01:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Who could replace Palantir in the NHS?",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Europe’s chips startups mapped: 113 companies building the hardware behind AI",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Why Europe’s AI founders are opening accounting and law firms",
-   "snippet": "",
-   "published_at": "2026-11-11T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/codex-work/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-   "snippet": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
-   "published_at": "2026-11-11T04:49:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.8",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+   "source": "GitHub: simonw/llm",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.8",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.8 ``` Same c",
-   "published_at": "2026-11-11T03:23:36+00:00",
+   "title": "simonw/llm 0.37.2",
+   "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been ",
+   "published_at": "2026-11-11T17:19:52+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.39.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.0",
-   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
-   "published_at": "2026-11-11T00:56:51+00:00",
+   "title": "All-Hands-AI/OpenHands v1.39.0",
+   "snippet": "## 1.39.0 (2026-11-11) ## What's Changed ### Features * feat(automations): filter the dashboard by owner with a Service accounts option by @hieptl in https://github.com/OpenHands/OpenHands/pull/19472 ",
+   "published_at": "2026-11-11T17:14:58+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.thealgorithmicbridge.com/p/claude-fable-52-too-good",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+   "source": "NVIDIA developer blog",
    "weight": 1.0,
-   "title": "Claude Fable 5.2: Too Good",
-   "snippet": "Reality is the only benchmark",
-   "published_at": "2026-11-11T00:05:45+00:00",
+   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+   "snippet": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+   "published_at": "2026-11-11T17:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys",
+   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "snippet": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterd",
+   "published_at": "2026-11-11T16:57:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Fiserv preps debit network sale",
+   "snippet": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.",
+   "published_at": "2026-11-11T16:30:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-typesafe==0.1.0",
+   "snippet": "**`langchain-typesafe` 0.1.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0 (`l",
+   "published_at": "2026-11-11T16:14:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Fractile confirms £540m raise first revealed by Sifted",
+   "snippet": "",
+   "published_at": "2026-11-11T16:09:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/tips-rooting-out-fraudulent-federal-funds-use-accounting/874390/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Tips for rooting out fraudulent federal funds use",
+   "snippet": "There are a number of red flags that auditors should look out for when working with non-profits or government entities that get federal grants, experts say.",
+   "published_at": "2026-11-11T16:06:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Western Union, Intermex clash",
+   "snippet": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
+   "published_at": "2026-11-11T15:56:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.5.0",
+   "snippet": "**`langchain` 1.5.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. Users on Py",
+   "published_at": "2026-11-11T15:47:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.0",
+   "snippet": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core",
+   "published_at": "2026-11-11T15:22:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Anthropic's IPO roadshow video",
+   "snippet": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Ap",
+   "published_at": "2026-11-11T15:11:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions",
    "source": "Finextra headlines",
    "weight": 1.0,
-   "title": "AI could cut banking industry's cost base by 20% - McKinsey's",
-   "snippet": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line",
-   "published_at": "2026-11-11T00:01:00+00:00",
+   "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+   "snippet": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+   "published_at": "2026-11-11T15:06:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/top-10-learnings-from-databricks-cro-ron-gabrisko-on-scaling-sales-from-under-1m-to-a-200b-company/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company",
+   "snippet": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now worth $200 billion and does many billions in ARR, and Ron has run sales the whole way. He joined Sam Blond, ",
+   "published_at": "2026-11-11T15:00:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "snippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "published_at": "2026-11-11T15:00:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+   "snippet": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+   "published_at": "2026-11-11T14:21:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermax-acquisition",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Western Union ditches Intermax acquisition",
+   "snippet": "Western Union has pulled the plug on its $500 million acquisition of rival Intermax after failing to secure an \"acceptable approval\" for the deal from regulators.",
+   "published_at": "2026-11-11T14:05:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111648/duffel-and-katanox-bring-hotel-bookings-payments-and-financing-into-single-flow-for-travel-sellers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Duffel and Katanox bring hotel bookings, payments and financing into single flow for travel sellers",
+   "snippet": "With $1.5bn lost every year to broken travel payments processes, Duffel, the travel-tech platform, and Katanox, the financial infrastructure for hospitality, are plugging the gap with a single integra",
+   "published_at": "2026-11-11T14:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/of-miracles-and-moats",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Of Miracles and Moats",
+   "snippet": "Cycles, Bubbles, and the Golden Age of Consumer Surplus",
+   "published_at": "2026-11-11T13:53:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+   "snippet": "",
+   "published_at": "2026-11-11T13:40:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
+   "snippet": "",
+   "published_at": "2026-11-11T13:24:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111647/crdit-agricole-deutschland-selects-enfuce-as-partner-for-visa-debit-cards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Crédit Agricole Deutschland selects Enfuce as partner for Visa debit cards",
+   "snippet": "Enfuce, Europe’s card issuing and processing powerhouse, today announced it is the card issuer and BIN sponsor behind Crédit Agricole Deutschland, Crédit Agricole’s newly launched universal bank for r",
+   "published_at": "2026-11-11T13:20:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
+   "snippet": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers o",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Poland shuts down government services platform ePUAP following cyberattack",
+   "snippet": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111645/swipesum-launches-payments-command-centre",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Swipesum launches payments command centre",
+   "snippet": "Swipesum, the payments software and services company, today announced the launch of Swipesum CPO, a payments command center that brings a company’s entire payments function into one place.",
+   "published_at": "2026-11-11T13:16:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Britain, France set out first guidelines for commercial hacking firms",
+   "snippet": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+   "published_at": "2026-11-11T13:11:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+   "snippet": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+   "published_at": "2026-11-11T13:04:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.",
+   "snippet": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we’ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. ",
+   "published_at": "2026-11-11T13:00:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "SAP and VFC Open Intelligent Fashion Store",
+   "snippet": "Industry AI connects the shopper journey with end-to-end retail operations, enhancing the consumer experience WALLDORF — SAP SE (NYSE: SAP) and VF Corporation (NYSE: VFC)...",
+   "published_at": "2026-11-11T13:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48742/indonesia-ranks-social-engineering-scams-as-single-biggest-concern",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Indonesia ranks social engineering scams as single biggest concern",
+   "snippet": "With the majority of scams originating on social media and messaging apps, a new Biocatch survey of 100 fraud management, AML and compliance team leaders at banks in Indonesia has found that social en",
+   "published_at": "2026-11-11T12:45:00+00:00",
    "also_in": []
   }
  ]

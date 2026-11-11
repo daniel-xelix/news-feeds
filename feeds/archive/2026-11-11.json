@@ -2,6 +2,456 @@
  "date": "2026-11-11",
  "items": [
   {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37.2",
+   "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been stored. They now fail with a `No key found` error instead. [GHSA-v9h7-jj4g-f862](https://github.com/simonw/llm/security/advisories/GHSA-v9h7-jj4g-f862) - **Security:** Models with `responses: true` an",
+   "published_at": "2026-11-11T17:19:52+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.39.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.39.0",
+   "snippet": "## 1.39.0 (2026-11-11) ## What's Changed ### Features * feat(automations): filter the dashboard by owner with a Service accounts option by @hieptl in https://github.com/OpenHands/OpenHands/pull/19472 * feat(chat): move the message hover timestamp closer to its message by @ak684 in https://github.com/OpenHands/OpenHands/pull/19623 * feat(conversation): keep Stop hook feedback out of the chat by @ak",
+   "published_at": "2026-11-11T17:14:58+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+   "snippet": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+   "published_at": "2026-11-11T17:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "snippet": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+   "published_at": "2026-11-11T16:57:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Fiserv preps debit network sale",
+   "snippet": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.",
+   "published_at": "2026-11-11T16:30:26+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-typesafe==0.1.0",
+   "snippet": "**`langchain-typesafe` 0.1.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0 (`langchain` 1.5.0 for the `experimental` extra). Users on Python 3.10 will continue to resolve `langchain-typesafe` 0.0.x. Changes since langchain-typesafe==0.0.2 release(typesafe): 0.1.0 (#41800) refac",
+   "published_at": "2026-11-11T16:14:24+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Fractile confirms £540m raise first revealed by Sifted",
+   "snippet": "",
+   "published_at": "2026-11-11T16:09:13+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/tips-rooting-out-fraudulent-federal-funds-use-accounting/874390/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Tips for rooting out fraudulent federal funds use",
+   "snippet": "There are a number of red flags that auditors should look out for when working with non-profits or government entities that get federal grants, experts say.",
+   "published_at": "2026-11-11T16:06:12+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Western Union, Intermex clash",
+   "snippet": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
+   "published_at": "2026-11-11T15:56:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.5.0",
+   "snippet": "**`langchain` 1.5.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. Users on Python 3.10 will continue to resolve `langchain` 1.4.x. Changes since langchain==1.4.10 release(langchain): 1.5.0 (#41798) fix(langchain): mark `ModelRouterMiddleware` as beta (#41797) feat(langchain): ",
+   "published_at": "2026-11-11T15:47:22+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.0",
+   "snippet": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core` 1.7.x. Changes since langchain-core==1.7.7 release(core): 1.8.0 (#41796) feat(core): Remove EOL Python 3.10 support (#41267) feat(core): add decision models (#41765)",
+   "published_at": "2026-11-11T15:22:07+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Anthropic's IPO roadshow video",
+   "snippet": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure wh",
+   "published_at": "2026-11-11T15:11:59+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+   "snippet": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+   "published_at": "2026-11-11T15:06:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/top-10-learnings-from-databricks-cro-ron-gabrisko-on-scaling-sales-from-under-1m-to-a-200b-company/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company",
+   "snippet": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now worth $200 billion and does many billions in ARR, and Ron has run sales the whole way. He joined Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI CRO Confidential podcast to talk... Continue Reading",
+   "published_at": "2026-11-11T15:00:32+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "snippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "published_at": "2026-11-11T15:00:15+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+   "snippet": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+   "published_at": "2026-11-11T14:21:42+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermax-acquisition",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Western Union ditches Intermax acquisition",
+   "snippet": "Western Union has pulled the plug on its $500 million acquisition of rival Intermax after failing to secure an \"acceptable approval\" for the deal from regulators.",
+   "published_at": "2026-11-11T14:05:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111648/duffel-and-katanox-bring-hotel-bookings-payments-and-financing-into-single-flow-for-travel-sellers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Duffel and Katanox bring hotel bookings, payments and financing into single flow for travel sellers",
+   "snippet": "With $1.5bn lost every year to broken travel payments processes, Duffel, the travel-tech platform, and Katanox, the financial infrastructure for hospitality, are plugging the gap with a single integration set to give operators everything they need to transact, settle and scale.",
+   "published_at": "2026-11-11T14:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/of-miracles-and-moats",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Of Miracles and Moats",
+   "snippet": "Cycles, Bubbles, and the Golden Age of Consumer Surplus",
+   "published_at": "2026-11-11T13:53:22+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+   "snippet": "",
+   "published_at": "2026-11-11T13:40:55+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
+   "snippet": "",
+   "published_at": "2026-11-11T13:24:45+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111647/crdit-agricole-deutschland-selects-enfuce-as-partner-for-visa-debit-cards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Crédit Agricole Deutschland selects Enfuce as partner for Visa debit cards",
+   "snippet": "Enfuce, Europe’s card issuing and processing powerhouse, today announced it is the card issuer and BIN sponsor behind Crédit Agricole Deutschland, Crédit Agricole’s newly launched universal bank for retail customers in Germany, designed with a digital-first approach.",
+   "published_at": "2026-11-11T13:20:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
+   "snippet": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers on ENBD X, developed in collaboration with Bridgewise, the global leader in embedded investment AI.",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Poland shuts down government services platform ePUAP following cyberattack",
+   "snippet": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+   "published_at": "2026-11-11T13:18:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111645/swipesum-launches-payments-command-centre",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Swipesum launches payments command centre",
+   "snippet": "Swipesum, the payments software and services company, today announced the launch of Swipesum CPO, a payments command center that brings a company’s entire payments function into one place.",
+   "published_at": "2026-11-11T13:16:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Britain, France set out first guidelines for commercial hacking firms",
+   "snippet": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+   "published_at": "2026-11-11T13:11:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+   "snippet": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+   "published_at": "2026-11-11T13:04:09+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.",
+   "snippet": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we’ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. Alex Mashrabov just sent me the October number: $1.35 billion. That’s $350 million of new run rate in about a month. Most companies at that... <a class=\"more-link fade\" href=\"https://www.saastr.com/hi",
+   "published_at": "2026-11-11T13:00:26+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "SAP and VFC Open Intelligent Fashion Store",
+   "snippet": "Industry AI connects the shopper journey with end-to-end retail operations, enhancing the consumer experience WALLDORF — SAP SE (NYSE: SAP) and VF Corporation (NYSE: VFC)...",
+   "published_at": "2026-11-11T13:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48742/indonesia-ranks-social-engineering-scams-as-single-biggest-concern",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Indonesia ranks social engineering scams as single biggest concern",
+   "snippet": "With the majority of scams originating on social media and messaging apps, a new Biocatch survey of 100 fraud management, AML and compliance team leaders at banks in Indonesia has found that social engineering scams remain the biggest concern.",
+   "published_at": "2026-11-11T12:45:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111644/salad-secures-15m-investment-to-expand-affordable-credit-across-london",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Salad secures £1.5m investment to expand affordable credit across London",
+   "snippet": "Salad, the UK’s largest consumer lending Community Development Finance Institution (CDFI), has secured a £1.5 million social impact investment from City Bridge Foundation, enabled by a £1.2 million funding guarantee from Fair4All Finance. The partnership will unlock up to £20 million in affordable and responsible lending capacity, helping more Londoners access fair credit when they are unable to d",
+   "published_at": "2026-11-11T12:21:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33439/preparing-for-q-day-building-more-resilient-crypto-infrastructure-in-a-hyper-connected-world",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Preparing for Q-Day: Building more resilient crypto infrastructure in a hyper-connected world",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-11T11:50:27+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111643/teciem-appoints-mufg-americas-cio-alla-whitston-as-non-executive-director",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Teciem appoints MUFG Americas CIO Alla Whitston as non-executive director",
+   "snippet": "Teciem, a global provider of front-to-back treasury and capital markets software, today announced the appointment of Alla Whitston as a Non-Executive Director, completing its Board of Directors. Ms. Whitston is Chief Information Officer for the Americas at MUFG, one of the world's largest financial groups, and brings more than 25 years of technology leadership experience, guiding IT strategy at so",
+   "published_at": "2026-11-11T11:36:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48741/zilch-expands-debt-facilities-to-395m-in-round-led-by-deutsche-bank",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Zilch expands debt facilities to £395m in round led by Deutsche Bank",
+   "snippet": "Zilch has expanded its securitisation and corporate debt facilities by an additional £165 million in aggregate, taking the total commitment available to £395 million.",
+   "published_at": "2026-11-11T11:34:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111642/bmll-and-vola-dynamics-partners-to-unify-historical-data-with-options-analytics",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "BMLL and Vola Dynamics partners to unify historical data with options analytics",
+   "snippet": "BMLL, the global market data and analytics platform provider, today announced a strategic partnership with Vola Dynamics, the options analytics provider that market makers, banks, and hedge funds use to price options, model volatility and manage risk.",
+   "published_at": "2026-11-11T11:22:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
+   "snippet": "If agents are expected to handle real business tasks, they need to run on a platform that is reliable, governed, and scalable.",
+   "published_at": "2026-11-11T11:15:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking",
+   "snippet": "A new research report released by Deutsche Bank and Ant Digital Technologies highlights the potential of agentic AI across institutional treasury, cross border payments and trade finance.",
+   "published_at": "2026-11-11T11:13:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111641/kingdom-bank-goes-live-with-sandstone-technology",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Kingdom Bank goes live with Sandstone Technology",
+   "snippet": "Sandstone Technology, a leading provider of digital banking solutions, today announced the successful go-live of Kingdom Bank’s new digital banking platform. The implementation enables the UK-based Christian bank to deliver seamless digital onboarding and provide customers with the ability to manage their accounts online and through a native mobile app, while benefiting from the security, resilien",
+   "published_at": "2026-11-11T11:08:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.getdx.com/p/the-10x-org-is-in-your-grasp",
+   "source": "Engineering Enablement (DX)",
+   "weight": 1.1,
+   "title": "The 10x org is in your grasp",
+   "snippet": "Part III: Setting the groundwork for a truly 10x organization",
+   "published_at": "2026-11-11T11:07:07+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Jobs of the future: Creator in residence",
+   "snippet": "",
+   "published_at": "2026-11-11T10:45:58+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33434/tackling-till-fraud-getting-the-uks-pos-software-standards-right",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Tackling till fraud: Getting the UK’s POS software standards right",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-11T10:20:18+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/global-2023-vat-gst-changes/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "2027 global VAT changes",
+   "snippet": "",
+   "published_at": "2026-11-11T10:02:57+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111629/wasabicard-launches-local-issuing-across-more-than-100-markets",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "WasabiCard launches local issuing across more than 100 markets",
+   "snippet": "WasabiCard, a provider of stablecoin-powered payments infrastructure, today announced the launch of its Local Issuing Solution.",
+   "published_at": "2026-11-11T10:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/air-in-jetbrains-ides-ga/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "JetBrains IDEs Transformed for the Agentic Era of Development – With Air",
+   "snippet": "As agents write more code, individual productivity goes up, but the bottleneck moves to review. 49% of developers now spend four or more hours a week reviewing AI output and correcting prompts (Atlassian State of Developer Experience Report 2026). We believe this means you need to understand what changed, decide whether it belongs in your […]",
+   "published_at": "2026-11-11T09:38:53+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+   "snippet": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+   "published_at": "2026-11-11T09:34:28+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/",
    "source": "Sifted",
    "weight": 1.0,
@@ -29,6 +479,16 @@
    "snippet": "",
    "published_at": "2026-11-11T07:00:37+00:00",
    "first_seen": "2026-11-11T09:17:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33433/the-human-side-of-foresight-why-technology-foresight-succeeds-or-fails-on-organizational-factors",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The Human Side of Foresight: Why Technology Foresight Succeeds or Fails on Organizational Factors",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-11T07:00:21+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
    "also_in": []
   },
   {
@@ -139,6 +599,188 @@
    "snippet": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey's.",
    "published_at": "2026-11-11T00:01:00+00:00",
    "first_seen": "2026-11-11T01:54:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinsey",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "AI could cut banking industry's cost base by 20% - McKinsey",
+   "snippet": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey.",
+   "published_at": "2026-11-11T00:01:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google DeepMind Uses AI to Verify Signal's Security (6 minute read)",
+   "snippet": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": [
+    "Google DeepMind blog"
+   ]
+  },
+  {
+   "url": "https://huggingface.co/blog/token-pooling",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "snippet": "",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors (5 minute read)",
+   "snippet": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Cl",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Businesses and Business Agents in ChatGPT (3 minute read)",
+   "snippet": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini 4 Carbon is now available (12 minute read)",
+   "snippet": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best ext",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/KunhaoZ/status/2120172863734849903",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Suppressing Reward Hacking Through Model Weight Arithmetic (3 minute read)",
+   "snippet": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All (125 minute read)",
+   "snippet": "A Superhuman AI Researcher (SAR) is predicted to arrive at some point in 2027, assuming there is no substantial deliberate slowdown in development. AIs that can automate all white-collar work are predicted to arrive before 2028. Companies are currently not on track to align an SAR, and using a misaligned SAR to do recursive self-improvement will have negative consequences. China will probably be a",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/nizzyabi/status/2120194267066863738",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Instinct Feels Like a Personal Assistant (20 minute read)",
+   "snippet": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Neurons as an Interpretable Basis (15 minute read)",
+   "snippet": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://antigravity.google/docs/swarm/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Swarm (/swarm) (10 minute read)",
+   "snippet": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
+   "snippet": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MAI-Transcribe-2 (125 minute read)",
+   "snippet": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. MAI-Transcribe-2 can handle a broader range of real-world audio than leading models like Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large, and ScribeV2. The model costs just $0.10 per hour of a",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder (3 minute read)",
+   "snippet": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies as customers or partners. Odessia's founder previously founded a travel startup called Sonder, focused on short-term leasing of upscale apartments, as a college student in 2014.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic's IPO Roadshow (2 minute read)",
+   "snippet": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70–$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly issued shares going to Anthropic.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.claroc.io/ghostshares-grok-build-apps",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own (16 minute read)",
+   "snippet": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Gemini for healthcare (13 minute read)",
+   "snippet": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser (6 minute read)",
+   "snippet": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T17:51:50+00:00",
    "also_in": []
   }
  ]
