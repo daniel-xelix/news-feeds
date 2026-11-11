@@ -4,6 +4,123 @@
  "pages": 8,
  "items": [
   {
+   "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+   "snippet": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage look",
+   "published_at": "2026-11-09T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "snippet": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge E",
+   "published_at": "2026-11-09T04:32:33+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Hide your slop PR descriptions behind",
+   "snippet": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them",
+   "published_at": "2026-11-09T04:25:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.39",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.39",
+   "snippet": "## What's Changed ### Documentation - Document the `apps_not_connected` error on `/kickoff` and `/status` ## Contributors @joaomdmoura",
+   "published_at": "2026-11-09T01:07:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GLM 5.3 Flash is now available in Token Pass",
+   "snippet": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context w",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Workflow SDK now writes over WebSockets on Vercel",
+   "snippet": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSocket by default, replacing one HTTP request per write, or per write group for streams. No code change is neede",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Build disk space on Vercel increased to 64 GB",
+   "snippet": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo. The additional space provides more room fo",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+   "snippet": "Vercel Container Registry now supports compressed image layers of up to 2 GB each, up from 500 MB, the total image size limit stays 15 GB. The registry works with standard workflows like docker push ,",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Claude Fable 5.2 now available on AI Gateway",
+   "snippet": "Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Muse Ember now available on AI Gateway",
+   "snippet": "Muse Ember from Meta is now available on AI Gateway . It is a lightweight reasoning model for the high-volume parts of an agent run, such as coding sub-tasks, tool calls, and document analysis. Muse E",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/sunsetting-cody-future-of-code-intelligence",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Sunsetting Sourcegraph Cody and building the future of code intelligence",
+   "snippet": "Sourcegraph Cody reaches end of life on January 31, 2027. Here is why, what Sourcegraph is building next for developers and coding agents, and how Cody customers can plan their transition.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "How to design a decision-grade pilot for agentic AI",
+   "snippet": "Agentic AI changes the nature of a technology evaluation. When an AI system only generates an answer, a person reviews the output and decides whether to use it. An agent goes further: It gathers conte",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)",
+   "snippet": "OpenAI reportedly secured $11 billion in a new funding round at a $1.25 trillion valuation, with the round potentially reaching $20 billion before closing. The amount fell short of its previously repo",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -154,123 +271,6 @@
    "title": "parse_number() as a SQLite extension: C vs Rust",
    "snippet": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() fun",
    "published_at": "2026-11-08T22:26:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/cs146s/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "snippet": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
-   "published_at": "2026-11-08T21:41:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "snippet": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have",
-   "published_at": "2026-11-08T21:23:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.38",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.38",
-   "snippet": "## What's Changed ### Features - Make gpt-6-luna crewAI's default model everywhere - Read spreadsheet URLs in an agent's input with tools over every row - Tag eval usage spans with target and a per-ev",
-   "published_at": "2026-11-08T19:39:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor",
-   "snippet": "The decisions behind this week’s headlines: how to price for falling model costs, how to report growth when your percentages are shrinking, and why you need to test whether you’re expanding the TAM or",
-   "published_at": "2026-11-08T17:00:28+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/why-your-revenues-only-sort-of-matter-when-you-get-acquired-by-a-strategic-even-though-they-are-usually-how-a-deal-is-priced/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced",
-   "snippet": "Patrick Collison posted an update on Privy, the wallet infrastructure company Stripe acquired a little over a year ago. The numbers since the deal closed: Assets in Privy wallets up ~25x Monthly activ",
-   "published_at": "2026-11-08T15:10:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-   "snippet": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-   "published_at": "2026-11-08T13:31:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/27-shades-of-eu-vida-harmonisation/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "27 shades of EU ViDA harmonisation",
-   "snippet": "",
-   "published_at": "2026-11-08T10:36:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?",
-   "snippet": "Their confidence. That’s the first thing you see: Are they confident in their progress? Are they confident in their metrics? Do they know them cold: customer count, ACV, # leads, etc.? Do they have co",
-   "published_at": "2026-11-08T10:00:06+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/global/ai-tax-classification-are-tax-technology-providers-solving-the-wrong-problem/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "AI Tax Classification: are tax technology providers solving the wrong problem?",
-   "snippet": "",
-   "published_at": "2026-11-08T07:25:12+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/ev-609",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "🔮 The people vs tech; the Europoor; forgotten Creole++ #609",
-   "snippet": "Your weekend briefing on AI and exponential technologies",
-   "published_at": "2026-11-08T03:47:27+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-   "snippet": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggeri",
-   "published_at": "2026-11-07T23:57:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.3",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.3 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
-   "published_at": "2026-11-07T22:29:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Terry Pratchett's Study",
-   "snippet": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suc",
-   "published_at": "2026-11-07T19:34:24+00:00",
    "also_in": []
   }
  ]
