@@ -2,6 +2,86 @@
  "date": "2026-11-11",
  "items": [
   {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.40",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.40",
+   "snippet": "## What's Changed ### Features - Remove chromadb from the embedding function layer. - Add exact historical state lookup by row id. - Wire jsonl into rag data type discovery. - Scaffold standalone agents as JSON by default. - Add backend record lifecycle and pagination tests. ### Bug Fixes - Run after_llm_call hooks on async calls. - Stop an agent whose apps CrewAI AMP cannot resolve. ### Documenta",
+   "published_at": "2026-11-11T22:19:53+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Gemini Decisions API",
+   "snippet": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even",
+   "published_at": "2026-11-11T22:03:25+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "aws-emulator",
+   "snippet": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about <a href=\"https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the",
+   "published_at": "2026-11-11T21:18:30+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/high-court-asked-intervene-accountants-fight-pcaob-scotus-sec/874440/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Supreme Court asked to intervene in accountant’s fight with PCAOB",
+   "snippet": "The D.C. Circuit disregarded statutory confidentiality protections owed to an accountant challenging PCAOB proceedings, an advocacy group says.",
+   "published_at": "2026-11-11T20:09:33+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Browse tools.simonwillison.net by tag",
+   "snippet": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The hom",
+   "published_at": "2026-11-11T18:42:50+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+   "snippet": "Learn how LangChain built GTM Agent on Deep Agents to build high-quality, custom sales artifacts trained on business context.",
+   "published_at": "2026-11-11T18:27:26+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/our-agents-never-picked-canva-10-learnings-on-agent-pricing-getting-picked-and-security-from-this-weeks-the-agents-with-ulrik-lehrskov-schmidt/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Our Agents Never Picked Canva. 10 Learnings on Agent Pricing, Getting Picked, and Security From This Week’s “The Agents” With Ulrik Lehrskov-Schmidt",
+   "snippet": "Amelia and I both canceled Canva this week. I’d been a customer for about 12 years. We weren’t angry at it, and nobody sat down and decided to replace it. Our agents just never had a use for it. That happened the same week Canva restructured 22% of the company. Melanie Perkins said in her... C",
+   "published_at": "2026-11-11T18:09:46+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "weight": 1.0,
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "snippet": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+   "published_at": "2026-11-11T18:06:01+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
    "source": "GitHub: simonw/llm",
    "weight": 1.1,
@@ -9,6 +89,16 @@
    "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been stored. They now fail with a `No key found` error instead. [GHSA-v9h7-jj4g-f862](https://github.com/simonw/llm/security/advisories/GHSA-v9h7-jj4g-f862) - **Security:** Models with `responses: true` an",
    "published_at": "2026-11-11T17:19:52+00:00",
    "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37.2",
+   "snippet": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called <a href=\"https://llm.datasette.io/e",
+   "published_at": "2026-11-11T17:19:52+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
    "also_in": []
   },
   {
@@ -781,6 +871,46 @@
    "snippet": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
    "published_at": "2026-11-11T00:00:00+00:00",
    "first_seen": "2026-11-11T17:51:50+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "snippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini Decision 1 now available on AI Gateway",
+   "snippet": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use google/gemini-decision-1 with the AI SDK, TypeSafe-compatible API, or Decisions ",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
+   "snippet": "This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed that GitLab’s own infrastructure secrets are protected. In Claude Code, Anthropic’s coding agent, a developer can approve a shell command by selecting “Yes, and don’t ask again.” Claude then saves that exact command to .claude/settings.local.json in the",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "Who Captures the Most Margin in AI?",
+   "snippet": "Public disclosures from CoreWeave, Anthropic & wholesale data center landlords piece together the AI gross profit value chain in dollars per watt per year. At a 40% application margin, applications (40%), neoclouds (28%) & inference vendors (24%) capture 92% of total gross profit before GPU depreciation.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
    "also_in": []
   }
  ]

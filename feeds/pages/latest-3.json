@@ -4,6 +4,78 @@
  "pages": 9,
  "items": [
   {
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "snippet": "",
+   "published_at": "2026-11-11T05:01:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Who could replace Palantir in the NHS?",
+   "snippet": "",
+   "published_at": "2026-11-11T05:00:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI",
+   "snippet": "",
+   "published_at": "2026-11-11T05:00:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Europe’s chips startups mapped: 113 companies building the hardware behind AI",
+   "snippet": "",
+   "published_at": "2026-11-11T05:00:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Why Europe’s AI founders are opening accounting and law firms",
+   "snippet": "",
+   "published_at": "2026-11-11T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/codex-work/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+   "snippet": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
+   "published_at": "2026-11-11T04:49:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.8",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.8",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.8 ``` Same c",
+   "published_at": "2026-11-11T03:23:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.109.0",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.109.0 ``` Same c",
+   "published_at": "2026-11-11T00:56:51+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.thealgorithmicbridge.com/p/claude-fable-52-too-good",
    "source": "The Algorithmic Bridge (Alberto Romero)",
    "weight": 1.0,
@@ -19,6 +91,15 @@
    "title": "AI could cut banking industry's cost base by 20% - McKinsey",
    "snippet": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line",
    "published_at": "2026-11-11T00:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "snippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "published_at": "2026-11-11T00:00:00+00:00",
    "also_in": []
   },
   {
@@ -38,6 +119,24 @@
    "weight": 1.3,
    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
    "snippet": "",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini Decision 1 now available on AI Gateway",
+   "snippet": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scor",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
+   "snippet": "This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed that GitLab’s own infrastructure secrets are protecte",
    "published_at": "2026-11-11T00:00:00+00:00",
    "also_in": []
   },
@@ -174,105 +273,6 @@
    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser (6 minute read)",
    "snippet": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
    "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.5",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.5 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
-   "published_at": "2026-11-10T22:51:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "weight": 1.0,
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "snippet": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday ad",
-   "published_at": "2026-11-10T21:55:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Block’s Cash App weaves payment tech into bandanas",
-   "snippet": "The peer-to-peer payment provider will soon begin selling its digital tags attached to bandanas.",
-   "published_at": "2026-11-10T21:35:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "US Army member arrested in UK over allegations of spying for Russia",
-   "snippet": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
-   "published_at": "2026-11-10T21:13:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-   "snippet": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-   "published_at": "2026-11-10T20:55:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/inflation-rises-faster-expected-boosting-odds-fed-rate-hike-waller-federal-reserve/874314/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Inflation rises faster than expected, boosting odds of Fed rate hike",
-   "snippet": "“I am particularly concerned about the breadth of price increases,” Federal Reserve Governor Christopher Waller said, calling for higher borrowing costs.",
-   "published_at": "2026-11-10T20:52:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-   "snippet": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
-   "published_at": "2026-11-10T20:43:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-   "snippet": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
-   "published_at": "2026-11-10T20:43:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/nike-retiree-returns-cao/874311/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Nike retiree returns as CAO",
-   "snippet": "The Beaverton, Oregon-based sports apparel giant has brought back Dan McKenzie, a 19-year veteran, to serve as its chief accounting officer.",
-   "published_at": "2026-11-10T20:42:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.104.9",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.104.9",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.104.9 ``` Same c",
-   "published_at": "2026-11-10T20:29:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.103.11",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.103.11",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.103.11 ``` Same ",
-   "published_at": "2026-11-10T20:24:40+00:00",
    "also_in": []
   }
  ]

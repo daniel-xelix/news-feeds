@@ -1190,6 +1190,36 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T09:17:48+00:00",
    "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+   "snippet": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate whether generated text adheres to this preference. We examine how the writing task, the combination of ge",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+   "snippet": "State Space Models (SSMs) have emerged as a compelling alternative to Transformers, enabling sequence modeling with constant memory and linear compute. Although SSMs exhibit reasonable performance and favorable computational characteristics, they continue to lag behind Transformers on tasks that require in-context learning and precise retrieval, slowing their adoption for large-scale language mode",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+   "snippet": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026. State space models (SSMs) combine fast inference and fixed state size with competitive language-modeling performance. Recently, state souping has been proposed as a procedure whereby an SSM independently encodes chunks of tokens like documents, tool definitions, or memory recor",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-12T00:35:07+00:00",
+   "also_in": []
   }
  ]
 }
