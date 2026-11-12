@@ -1,8 +1,125 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 9,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Speed Insights and Web Analytics now support custom environments",
+   "snippet": "Speed Insights and Web Analytics now fully support custom environments . Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now at",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/what-we-learned-building-a-pr-approval-bot",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Keeping code moving with clearer review expectations",
+   "snippet": "As agents help us produce more code, review becomes more of a bottleneck. We built a bot to reduce approval chasing and make review expectations explicit.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google's New TPU Lineup (4 minute read)",
+   "snippet": "Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Meta Ember (3 minute read)",
+   "snippet": "Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at r",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Fable 5.2 and Mythos 5.2 (12 minute read)",
+   "snippet": "Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underl",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "When Does the US Become a Net Importer of Tokens? (3 minute read)",
+   "snippet": "The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pu",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027 (62 minute read)",
+   "snippet": "AI is accelerating AI R&D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenec",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/OrnnExchange/status/2119839768355778637",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Will Anthropic Grow Into Its Compute Bill? (13 minute read)",
+   "snippet": "Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to ",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "What objective is reasoning solving? (12 minute read)",
+   "snippet": "Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the c",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Two Kinds of Test-Time Scaling (28 minute read)",
+   "snippet": "Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the ",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://arxiv.org/abs/2611.08290",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA Introduces Hardware-Aware LLM Compression (24 minute read)",
+   "snippet": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B t",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Apple Introduces $50 AI Usage Packs in Logic Pro (2 minute read)",
+   "snippet": "Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months,",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic Buys $3.4 Billion in Gas Generators (2 minute read)",
+   "snippet": "Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrast",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://openai.com/index/control-room/",
    "source": "TLDR AI",
@@ -154,123 +271,6 @@
    "title": "anthropics/claude-code v2.1.321",
    "snippet": "## What's changed - Added Claude Fable 5.2 (`claude-fable-5-2`), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads - Added `--settings ` to `claude remote-control`,",
    "published_at": "2026-11-09T19:22:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
-   "snippet": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a...",
-   "published_at": "2026-11-09T19:09:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
-   "source": "One Useful Thing (Ethan Mollick)",
-   "weight": 1.1,
-   "title": "Fable 5.2 and Jagged AGI",
-   "snippet": "General, often expert, and sometimes jagged",
-   "published_at": "2026-11-09T19:04:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "snippet": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "published_at": "2026-11-09T19:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/what-is-eval-driven-development",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "What Is Eval-Driven Development? How to Improve AI Agents",
-   "snippet": "Eval-driven development helps you build AI agents against a consistent set of metrics. Define good behavior, write the eval first, then compare experiments.",
-   "published_at": "2026-11-09T18:57:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "LangSmith BYOC on AWS is generally available",
-   "snippet": "LangSmith Bring Your Own Cloud is now generally available on AWS, giving Enterprise teams managed observability, evaluation, and deployment inside their own VPC.",
-   "published_at": "2026-11-09T18:57:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/iterating-towards-llm-reliability-with-evaluation-driven-development",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
-   "snippet": "Dosu uses evaluation driven development and LangSmith to build reliable LLM products at scale, monitor production performance, and iterate with confidence.",
-   "published_at": "2026-11-09T18:57:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/promptim",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Promptim: an experimental library for prompt optimization",
-   "snippet": "Automate prompt engineering with Promptim's optimization library. Save time, improve AI performance, and switch models faster.",
-   "published_at": "2026-11-09T18:57:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
-   "source": "GitHub: ollama/ollama",
-   "weight": 1.0,
-   "title": "ollama/ollama v0.40.16",
-   "snippet": "## Ripple Preview [Ripple Preview](https://ollama.com/library/ripple-preview) from Ricursive Intelligence is a 65B dense model built for agentic coding. ```sh ollama run ripple-preview ``` ## What's C",
-   "published_at": "2026-11-09T18:21:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/handshake/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-   "snippet": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
-   "published_at": "2026-11-09T17:15:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Monzo in talks to raise up to £500m, reports say",
-   "snippet": "",
-   "published_at": "2026-11-09T16:56:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/eu/eu-debates-raising-e150-ioss-threshold/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "EU Council agrees removal of €150 IOSS threshold July 2028",
-   "snippet": "",
-   "published_at": "2026-11-09T16:47:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "published_at": "2026-11-09T16:01:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/global-payments-faces-industry-pricing-pressure/874128/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Global Payments faces industry pricing pressure",
-   "snippet": "While analysts point to an increasingly competitive environment for the processor, the company is still trying to raise prices.",
-   "published_at": "2026-11-09T15:59:00+00:00",
    "also_in": []
   }
  ]

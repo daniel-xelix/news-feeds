@@ -1,8 +1,80 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 9,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "snippet": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "snippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
+   "snippet": "SAP India President and MD Manish Prasad makes the case for why India is becoming a strategically important market in SAP's global story.",
+   "published_at": "2026-11-09T05:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+   "snippet": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage look",
+   "published_at": "2026-11-09T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "snippet": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge E",
+   "published_at": "2026-11-09T04:32:33+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Hide your slop PR descriptions behind",
+   "snippet": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them",
+   "published_at": "2026-11-09T04:25:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.39",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.39",
+   "snippet": "## What's Changed ### Documentation - Document the `apps_not_connected` error on `/kickoff` and `/status` ## Contributors @joaomdmoura",
+   "published_at": "2026-11-09T01:07:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GLM 5.3 Flash is now available in Token Pass",
+   "snippet": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context w",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
    "source": "Vercel blog",
@@ -199,69 +271,6 @@
    "title": "Meta Introduces Custom Spaces in Muse (3 minute read)",
    "snippet": "Meta introduced Spaces in its Muse app, allowing users to create personalized interactive experiences by describing what they want, such as gift trackers, games, or project planners.",
    "published_at": "2026-11-09T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Measuring how AI agents handle everyday wet-lab science (13 minute read)",
-   "snippet": "OpenAI introduced BioBasicsBench, a benchmark to evaluate AI performance in interpreting raw experimental data from 100 routine wet-lab science tasks.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "parse_number() as a SQLite extension: C vs Rust",
-   "snippet": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() fun",
-   "published_at": "2026-11-08T22:26:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/cs146s/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "snippet": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
-   "published_at": "2026-11-08T21:41:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "snippet": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have",
-   "published_at": "2026-11-08T21:23:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.38",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.38",
-   "snippet": "## What's Changed ### Features - Make gpt-6-luna crewAI's default model everywhere - Read spreadsheet URLs in an agent's input with tools over every row - Tag eval usage spans with target and a per-ev",
-   "published_at": "2026-11-08T19:39:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-   "snippet": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-   "published_at": "2026-11-08T13:31:32+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/ev-609",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "🔮 The people vs tech; the Europoor; forgotten Creole++ #609",
-   "snippet": "Your weekend briefing on AI and exponential technologies",
-   "published_at": "2026-11-08T03:47:27+00:00",
    "also_in": []
   }
  ]
