@@ -1,8 +1,170 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://flaviocopes.com/grok-bot-1-0/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "What's new in Grok Bot 1.0 (11 minute read)",
+   "snippet": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole te",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
+   "snippet": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Escaping SPACE: Part II (28 minute read)",
+   "snippet": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+   "snippet": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default to",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+   "snippet": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only ba",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://muni.works/research/tang",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Don't Write Kernels, Derive Them (63 minute read)",
+   "snippet": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through con",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2120556423474028576.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Browser use has been rolling out in Antigravity (1 minute read)",
+   "snippet": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the brows",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/openai/mcp-extensions",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins (1 minute read)",
+   "snippet": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences (11 minute read)",
+   "snippet": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScrip",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://shopify.engineering/generative-discovery",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Shopify's generative discovery model (14 minute read)",
+   "snippet": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offlin",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "United moves to block AI agents (2 minute read)",
+   "snippet": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast ",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Connections Matter More in AI (5 minute read)",
+   "snippet": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development m",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google Tabletop Creates Shared Interactive Planning Spaces (1 minute read)",
+   "snippet": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://elevenlabs.io/elevenai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ElevenAI (Website)",
+   "snippet": "ElevenAI is a desktop app that helps amplify work using agents.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://joost.blog/agents-sharing-user-signals/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI wants agents to tell websites where you are (5 minute read)",
+   "snippet": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Nvidia board reportedly preparing to oust Huang (3 minute read)",
+   "snippet": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Airbnb's AI assistant cut support cost per booking 17% (1 minute read)",
+   "snippet": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Databricks Genie Agents (13 minute read)",
+   "snippet": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://tomtunguz.com/the-impact-of-jensens-resignation/",
    "source": "Tomasz Tunguz",
@@ -109,168 +271,6 @@
    "title": "simonw/llm 0.37.2",
    "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been ",
    "published_at": "2026-11-11T17:19:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.39.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.39.0",
-   "snippet": "## 1.39.0 (2026-11-11) ## What's Changed ### Features * feat(automations): filter the dashboard by owner with a Service accounts option by @hieptl in https://github.com/OpenHands/OpenHands/pull/19472 ",
-   "published_at": "2026-11-11T17:14:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-   "snippet": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
-   "published_at": "2026-11-11T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Fiserv preps debit network sale",
-   "snippet": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.",
-   "published_at": "2026-11-11T16:30:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-typesafe==0.1.0",
-   "snippet": "**`langchain-typesafe` 0.1.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0 (`l",
-   "published_at": "2026-11-11T16:14:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Fractile confirms £540m raise first revealed by Sifted",
-   "snippet": "",
-   "published_at": "2026-11-11T16:09:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/tips-rooting-out-fraudulent-federal-funds-use-accounting/874390/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Tips for rooting out fraudulent federal funds use",
-   "snippet": "There are a number of red flags that auditors should look out for when working with non-profits or government entities that get federal grants, experts say.",
-   "published_at": "2026-11-11T16:06:12+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Western Union, Intermex clash",
-   "snippet": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
-   "published_at": "2026-11-11T15:56:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain==1.5.0",
-   "snippet": "**`langchain` 1.5.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. Users on Py",
-   "published_at": "2026-11-11T15:47:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.8.0",
-   "snippet": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core",
-   "published_at": "2026-11-11T15:22:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Anthropic's IPO roadshow video",
-   "snippet": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Ap",
-   "published_at": "2026-11-11T15:11:59+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
-   "snippet": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
-   "published_at": "2026-11-11T15:06:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
-   "source": "Last Week in AI",
-   "weight": 1.0,
-   "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
-   "snippet": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
-   "published_at": "2026-11-11T14:21:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermex-acquisition",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Western Union ditches Intermex acquisition",
-   "snippet": "Western Union has pulled the plug on its $500 million acquisition of rival Intermex after failing to secure an \"acceptable approval\" for the deal from regulators.",
-   "published_at": "2026-11-11T14:05:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.notboring.co/p/of-miracles-and-moats",
-   "source": "Not Boring (Packy McCormick)",
-   "weight": 0.9,
-   "title": "Of Miracles and Moats",
-   "snippet": "Cycles, Bubbles, and the Golden Age of Consumer Surplus",
-   "published_at": "2026-11-11T13:53:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
-   "snippet": "",
-   "published_at": "2026-11-11T13:40:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
-   "snippet": "",
-   "published_at": "2026-11-11T13:24:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-   "snippet": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
-   "published_at": "2026-11-11T13:04:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.",
-   "snippet": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we’ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. ",
-   "published_at": "2026-11-11T13:00:26+00:00",
    "also_in": []
   }
  ]

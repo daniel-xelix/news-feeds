@@ -4,6 +4,186 @@
  "pages": 4,
  "items": [
   {
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "snippet": "",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Theoretical Limits of Language Model Alignment",
+   "snippet": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learni",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
+   "snippet": "Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge r",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
+   "snippet": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining ",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://flaviocopes.com/grok-bot-1-0/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "What's new in Grok Bot 1.0 (11 minute read)",
+   "snippet": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole te",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
+   "snippet": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Escaping SPACE: Part II (28 minute read)",
+   "snippet": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+   "snippet": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default to",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+   "snippet": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only ba",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://muni.works/research/tang",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Don't Write Kernels, Derive Them (63 minute read)",
+   "snippet": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through con",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2120556423474028576.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Browser use has been rolling out in Antigravity (1 minute read)",
+   "snippet": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the brows",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/openai/mcp-extensions",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins (1 minute read)",
+   "snippet": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences (11 minute read)",
+   "snippet": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScrip",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://shopify.engineering/generative-discovery",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Shopify's generative discovery model (14 minute read)",
+   "snippet": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offlin",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "United moves to block AI agents (2 minute read)",
+   "snippet": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast ",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Connections Matter More in AI (5 minute read)",
+   "snippet": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development m",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Google Tabletop Creates Shared Interactive Planning Spaces (1 minute read)",
+   "snippet": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://elevenlabs.io/elevenai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ElevenAI (Website)",
+   "snippet": "ElevenAI is a desktop app that helps amplify work using agents.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://joost.blog/agents-sharing-user-signals/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI wants agents to tell websites where you are (5 minute read)",
+   "snippet": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Nvidia board reportedly preparing to oust Huang (3 minute read)",
+   "snippet": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -27,6 +207,15 @@
    "weight": 1.0,
    "title": "When the Central Bank of AI Changes Chairs",
    "snippet": "Jensen Huang's resignation as CEO of Nvidia leaves CFO Colette Kress atop the Central Bank of AI : $42b in 2025-2026 M&A & tech buyouts, $61b of cash invested in equity across 229 private startups & 1",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini 4 Hydrogen now available on AI Gateway",
+   "snippet": "Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency clas",
    "published_at": "2026-11-12T00:00:00+00:00",
    "also_in": []
   }
