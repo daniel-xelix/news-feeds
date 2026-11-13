@@ -1,60 +1,276 @@
 {
  "set": "2026-11-13",
  "page": 1,
- "pages": 1,
+ "pages": 2,
  "items": [
   {
-   "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-   "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-   "published_at": "2026-11-13T09:04:13+00:00",
+   "url": "https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr",
+   "snippet": "Also this week: why the AI trade only cracks on demand, an investment committee fight over Zipline, fal and Revolut, the API key crime wave, and why seat-based B2B can’t get a bid This was one of the ",
+   "published_at": "2026-11-13T17:25:27+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.vatcalc.com/croatia/croatia-vida-vat-reforms-for-january-2027/",
-   "source": "VATCalc (e-invoicing)",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face blog",
    "weight": 1.3,
-   "title": "Croatia ViDA VAT reforms for January 2027",
+   "title": "XYBench: Helping with the problem behind the question",
    "snippet": "",
-   "published_at": "2026-11-13T07:14:37+00:00",
+   "published_at": "2026-11-13T17:02:35+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+   "snippet": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...",
+   "published_at": "2026-11-13T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+   "snippet": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing...",
+   "published_at": "2026-11-13T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.8.0",
+   "snippet": "**`langchain-openai` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. User",
+   "published_at": "2026-11-13T16:48:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
+   "snippet": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signe",
+   "published_at": "2026-11-13T16:32:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/series-c",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangChain Raises $300M Series C at $3B Valuation",
+   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+   "published_at": "2026-11-13T16:06:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/gootloader-ransomware-doj-details",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018",
+   "snippet": "In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.",
+   "published_at": "2026-11-13T15:59:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Stripe awaits payoff on Tempo chain",
+   "snippet": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
+   "published_at": "2026-11-13T15:57:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Why PayPal wants to have a bank",
+   "snippet": "The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.",
+   "published_at": "2026-11-13T15:25:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "German banks form financial crime fighting JV",
+   "snippet": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
+   "published_at": "2026-11-13T15:12:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "TSMC confirms employee data breach tied to cloud service provider",
+   "snippet": "An investigation into the breach found that no TSMC systems were compromised but the information was “verified to match data stored in the system services of a cloud service provider, but is unrelated",
+   "published_at": "2026-11-13T15:06:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-9-3-billion-run-rate-96-growth-165-nrr-and-u-s-commercial-passing-government-for-the-first-time/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time",
+   "snippet": "Palantir just reported Q3 2026, and it is growing faster at about $9.3 billion in run-rate than it was at $4 billion. Revenue grew 96% year-over-year and 20% quarter-over-quarter to $2.313 billion, an",
+   "published_at": "2026-11-13T15:00:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing ChatGPT Wallet",
+   "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "published_at": "2026-11-13T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Lloyds appoints Manija Poulatova as group chief security officer",
+   "snippet": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
+   "published_at": "2026-11-13T14:43:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111669/clearscore-launches-free-uk-rent-reporting-to-all-three-credit-bureaus",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "ClearScore launches free UK rent reporting to all three credit bureaus",
+   "snippet": "ClearScore, a global, data-driven, financial services platform that allows people to understand credit and access financial products, has today launched completely free rent reporting for millions of ",
+   "published_at": "2026-11-13T14:38:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Ransomware attack on Belarusian cloud firm disrupts businesses for days",
+   "snippet": "ActiveCloud said hackers had breached its systems and encrypted parts of its cloud infrastructure, leaving customers unable to access key services for several days.",
+   "published_at": "2026-11-13T14:28:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Release v5.23.0",
+   "snippet": "# Release v5.23.0 ## New Model additions ### Inkling2 Inkling 2 Small is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs, and it is intended",
+   "published_at": "2026-11-13T14:10:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "snippet": "",
+   "published_at": "2026-11-13T14:05:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219",
+   "source": "Not Boring (Packy McCormick)",
+   "weight": 0.9,
+   "title": "Weekly Dose of Optimism #219",
+   "snippet": "AlphaGenome 2, Unnatural Products x Argenx, Path, SpaceX Solar, Voyager 1, LSD + Extra Doses",
+   "published_at": "2026-11-13T13:59:44+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33462/the-systems-banks-cannot-afford-to-keep-running",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The systems banks cannot afford to keep running",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-13T13:18:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Hyundai Card launches new AI-powered credit card model",
+   "snippet": "Hyundai Card, a leading credit card company in South Korea, has officially unveiled PLCC 2.0 — a next-generation Private Label Credit Card (PLCC) model combining stronger rewards, exclusive cultural e",
+   "published_at": "2026-11-13T13:11:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111667/paypal-partners-with-workday-to-enhance-employee-financial-wellbeing",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "PayPal partners with Workday to enhance employee financial wellbeing",
+   "snippet": "PayPal today announced a partnership with Workday that lets employees of Workday customers set up PayPal Direct Deposit through Workday's Enhanced Direct Deposit (EDD) program, giving eligible U.S. em",
+   "published_at": "2026-11-13T13:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Record number of cyber incidents reported to UK privacy regulator",
+   "snippet": "British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for",
+   "published_at": "2026-11-13T12:47:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
+   "snippet": "We continue to work with our customers to turn innovation into better warehouse operations and business outcomes.",
+   "published_at": "2026-11-13T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
+   "snippet": "Nvidia CEO Jensen Huang resigned on Thursday following reports of multiple extramarital affairs, plunging company stocks.",
+   "published_at": "2026-11-13T11:52:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48755/paraguays-digital-bank-collapse-triggers-political-crisis",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Paraguay's digital bank collapse triggers political crisis",
+   "snippet": "Paraguay’s digital bank ueno collapsed last Tuesday, freezing the savings of nearly 3 million customers and revealing political scandal.",
+   "published_at": "2026-11-13T11:28:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33461/designing-payments-for-failure-why-resilience-beats-perfection",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Designing Payments for Failure: Why Resilience Beats Perfection",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-13T11:23:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Successful SAP Transformation Starts With Business Processes, Not Tech",
+   "snippet": "Connecting business processes, architecture, data, and human decision-making are key to successful transformation.",
+   "published_at": "2026-11-13T11:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/samsung-european-tech/",
    "source": "Sifted",
    "weight": 1.0,
-   "title": "Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers",
+   "title": "Inside Samsung’s year of European deal making",
    "snippet": "",
-   "published_at": "2026-11-13T05:00:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/artcraft/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-   "snippet": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-   "published_at": "2026-11-13T04:17:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Mastercard opens Singapore innovation centre of excellence",
-   "snippet": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce and cybersecurity.",
-   "published_at": "2026-11-13T00:01:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
-   "snippet": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
-   "published_at": "2026-11-13T00:01:00+00:00",
+   "published_at": "2026-11-13T11:00:39+00:00",
    "also_in": []
   }
  ]
