@@ -4,6 +4,51 @@
  "pages": 10,
  "items": [
   {
+   "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Theoretical Limits of Language Model Alignment",
+   "snippet": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learni",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Inkling 2 Small now available on AI Gateway",
+   "snippet": "Inkling 2 Small from Thinking Machines is now available on AI Gateway. The multimodal reasoning model supports coding agents, visual understanding, and professional knowledge work, with text and image",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Gemini 4 Hydrogen now available on AI Gateway",
+   "snippet": "Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency clas",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
+   "snippet": "Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge r",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
+   "snippet": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining ",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://flaviocopes.com/grok-bot-1-0/",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -226,51 +271,6 @@
    "title": "Browse tools.simonwillison.net by tag",
    "snippet": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekl",
    "published_at": "2026-11-11T18:42:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/our-agents-never-picked-canva-10-learnings-on-agent-pricing-getting-picked-and-security-from-this-weeks-the-agents-with-ulrik-lehrskov-schmidt/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Our Agents Never Picked Canva. 10 Learnings on Agent Pricing, Getting Picked, and Security From This Week’s “The Agents” With Ulrik Lehrskov-Schmidt",
-   "snippet": "Amelia and I both canceled Canva this week. I’d been a customer for about 12 years. We weren’t angry at it, and nobody sat down and decided to replace it. Our agents just never had a use for it. That ",
-   "published_at": "2026-11-11T18:09:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-   "source": "Krebs on Security",
-   "weight": 1.0,
-   "title": "Who Runs the Ransomware Group Qilin?",
-   "snippet": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers ",
-   "published_at": "2026-11-11T18:06:01+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/sharp-cfo-on-a-monthly-close-win-covid-19-and-mentors/874413/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Sharp CFO on a monthly close win, COVID-19 and mentors",
-   "snippet": "Moonsun Park, CFO of Sharp Electronics since 2018, is a firm believer in the power of networking. Whatever that opportunity is, “don’t let it get away,” she advises.",
-   "published_at": "2026-11-11T17:41:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "llm 0.37.2",
-   "snippet": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called <a href=\"https://llm.datasette.io/e",
-   "published_at": "2026-11-11T17:19:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
-   "source": "GitHub: simonw/llm",
-   "weight": 1.1,
-   "title": "simonw/llm 0.37.2",
-   "snippet": "- **Security:** Models in `extra-openai-models.yaml` with an `api_base` and an `api_key_name` no longer send the `OPENAI_API_KEY` environment variable to that endpoint when the named key has not been ",
-   "published_at": "2026-11-11T17:19:52+00:00",
    "also_in": []
   }
  ]
