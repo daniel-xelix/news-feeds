@@ -1,8 +1,170 @@
 {
  "set": "2026-11-13",
  "page": 1,
- "pages": 2,
+ "pages": 3,
  "items": [
+  {
+   "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Daemons can now send traces to Vercel Tracing",
+   "snippet": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides e",
+   "published_at": "2026-11-13T22:24:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+   "snippet": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general...",
+   "published_at": "2026-11-13T22:13:51+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+   "snippet": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" ",
+   "published_at": "2026-11-13T21:32:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+   "snippet": "Imaging black holes is challenging because they are distant and",
+   "published_at": "2026-11-13T21:17:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/city-chicagos-new-cfo-abruptly-quits-Brandon-Johnson/874690/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Chicago’s new CFO abruptly quits",
+   "snippet": "A spokesperson for Mayor Brandon Johnson said Ashlee Gabrysch’s resignation was accepted Friday, effective immediately.",
+   "published_at": "2026-11-13T21:00:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/producer-prices-surge-annual-pace-fed-officials-signal-hike-federal-reserve/874687/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+   "snippet": "“We're going to need to, in all likelihood, raise rates,” Mary Daly, president of the Federal Reserve Bank of San Francisco, said during a webcast interview.",
+   "published_at": "2026-11-13T20:50:39+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.325",
+   "snippet": "## What's changed - Fixed a security issue in how zstd-compressed responses are decoded - Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once C",
+   "published_at": "2026-11-13T20:40:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.8",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.8 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-13T20:21:21+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "What the Microsoft 365 outage should change in a bank’s 2027 AI plan",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-13T19:56:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/qxo-grants-new-finance-chief-45m-signon-stock-bonus-logistics/874666/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "QXO grants new finance chief $4.5M sign-on stock bonus",
+   "snippet": "The company promoted Ihsan Essaid to an M&A-focused role and appointed Novelis CFO Dev Ahuja to its finance seat, both effective next January.",
+   "published_at": "2026-11-13T19:47:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/city-of-osaka-japan-email-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
+   "snippet": "Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.",
+   "published_at": "2026-11-13T19:43:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+   "snippet": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+   "published_at": "2026-11-13T18:57:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Token Pass now includes $150 in tokens for $30/month",
+   "snippet": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi ",
+   "published_at": "2026-11-13T18:42:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
+   "snippet": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
+   "published_at": "2026-11-13T18:35:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "OpenAI launches ChatGPT Wallet",
+   "snippet": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
+   "published_at": "2026-11-13T18:28:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+   "source": "Net Interest (Marc Rubinstein)",
+   "weight": 0.9,
+   "title": "A Banker’s Guide to Anthropic",
+   "snippet": "Why the IPO is a credit event",
+   "published_at": "2026-11-13T18:00:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "snippet": "",
+   "published_at": "2026-11-13T18:00:39+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+   "snippet": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
+   "published_at": "2026-11-13T17:26:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/",
    "source": "SaaStr (Jason Lemkin)",
@@ -46,6 +208,15 @@
    "title": "langchain-ai/langchain langchain-openai==1.8.0",
    "snippet": "**`langchain-openai` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. User",
    "published_at": "2026-11-13T16:48:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33465/beyond-the-cma-order-what-happens-when-uk-open-banking-shifts-from-mandate-to-market",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Beyond the CMA Order: What Happens When UK Open Banking Shifts From Mandate to Market?",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-13T16:46:42+00:00",
    "also_in": []
   },
   {
@@ -100,177 +271,6 @@
    "title": "German banks form financial crime fighting JV",
    "snippet": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
    "published_at": "2026-11-13T15:12:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "TSMC confirms employee data breach tied to cloud service provider",
-   "snippet": "An investigation into the breach found that no TSMC systems were compromised but the information was “verified to match data stored in the system services of a cloud service provider, but is unrelated",
-   "published_at": "2026-11-13T15:06:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-9-3-billion-run-rate-96-growth-165-nrr-and-u-s-commercial-passing-government-for-the-first-time/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time",
-   "snippet": "Palantir just reported Q3 2026, and it is growing faster at about $9.3 billion in run-rate than it was at $4 billion. Revenue grew 96% year-over-year and 20% quarter-over-quarter to $2.313 billion, an",
-   "published_at": "2026-11-13T15:00:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Introducing ChatGPT Wallet",
-   "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "published_at": "2026-11-13T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Lloyds appoints Manija Poulatova as group chief security officer",
-   "snippet": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
-   "published_at": "2026-11-13T14:43:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111669/clearscore-launches-free-uk-rent-reporting-to-all-three-credit-bureaus",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "ClearScore launches free UK rent reporting to all three credit bureaus",
-   "snippet": "ClearScore, a global, data-driven, financial services platform that allows people to understand credit and access financial products, has today launched completely free rent reporting for millions of ",
-   "published_at": "2026-11-13T14:38:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Ransomware attack on Belarusian cloud firm disrupts businesses for days",
-   "snippet": "ActiveCloud said hackers had breached its systems and encrypted parts of its cloud infrastructure, leaving customers unable to access key services for several days.",
-   "published_at": "2026-11-13T14:28:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
-   "source": "GitHub: huggingface/transformers",
-   "weight": 0.9,
-   "title": "huggingface/transformers Release v5.23.0",
-   "snippet": "# Release v5.23.0 ## New Model additions ### Inkling2 Inkling 2 Small is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs, and it is intended",
-   "published_at": "2026-11-13T14:10:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-   "snippet": "",
-   "published_at": "2026-11-13T14:05:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219",
-   "source": "Not Boring (Packy McCormick)",
-   "weight": 0.9,
-   "title": "Weekly Dose of Optimism #219",
-   "snippet": "AlphaGenome 2, Unnatural Products x Argenx, Path, SpaceX Solar, Voyager 1, LSD + Extra Doses",
-   "published_at": "2026-11-13T13:59:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33462/the-systems-banks-cannot-afford-to-keep-running",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "The systems banks cannot afford to keep running",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-13T13:18:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Hyundai Card launches new AI-powered credit card model",
-   "snippet": "Hyundai Card, a leading credit card company in South Korea, has officially unveiled PLCC 2.0 — a next-generation Private Label Credit Card (PLCC) model combining stronger rewards, exclusive cultural e",
-   "published_at": "2026-11-13T13:11:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111667/paypal-partners-with-workday-to-enhance-employee-financial-wellbeing",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "PayPal partners with Workday to enhance employee financial wellbeing",
-   "snippet": "PayPal today announced a partnership with Workday that lets employees of Workday customers set up PayPal Direct Deposit through Workday's Enhanced Direct Deposit (EDD) program, giving eligible U.S. em",
-   "published_at": "2026-11-13T13:01:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "Record number of cyber incidents reported to UK privacy regulator",
-   "snippet": "British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for",
-   "published_at": "2026-11-13T12:47:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
-   "snippet": "We continue to work with our customers to turn innovation into better warehouse operations and business outcomes.",
-   "published_at": "2026-11-13T12:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
-   "snippet": "Nvidia CEO Jensen Huang resigned on Thursday following reports of multiple extramarital affairs, plunging company stocks.",
-   "published_at": "2026-11-13T11:52:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48755/paraguays-digital-bank-collapse-triggers-political-crisis",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Paraguay's digital bank collapse triggers political crisis",
-   "snippet": "Paraguay’s digital bank ueno collapsed last Tuesday, freezing the savings of nearly 3 million customers and revealing political scandal.",
-   "published_at": "2026-11-13T11:28:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33461/designing-payments-for-failure-why-resilience-beats-perfection",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Designing Payments for Failure: Why Resilience Beats Perfection",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-13T11:23:36+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "Successful SAP Transformation Starts With Business Processes, Not Tech",
-   "snippet": "Connecting business processes, architecture, data, and human decision-making are key to successful transformation.",
-   "published_at": "2026-11-13T11:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/samsung-european-tech/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Inside Samsung’s year of European deal making",
-   "snippet": "",
-   "published_at": "2026-11-13T11:00:39+00:00",
    "also_in": []
   }
  ]
