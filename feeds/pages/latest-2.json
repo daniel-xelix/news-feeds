@@ -4,6 +4,60 @@
  "pages": 10,
  "items": [
   {
+   "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+   "snippet": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
+   "published_at": "2026-11-13T17:26:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr",
+   "snippet": "Also this week: why the AI trade only cracks on demand, an investment committee fight over Zipline, fal and Revolut, the API key crime wave, and why seat-based B2B can’t get a bid This was one of the ",
+   "published_at": "2026-11-13T17:25:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "XYBench: Helping with the problem behind the question",
+   "snippet": "",
+   "published_at": "2026-11-13T17:02:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+   "snippet": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...",
+   "published_at": "2026-11-13T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+   "snippet": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing...",
+   "published_at": "2026-11-13T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.8.0",
+   "snippet": "**`langchain-openai` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. User",
+   "published_at": "2026-11-13T16:48:27+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/blogposting/33465/beyond-the-cma-order-what-happens-when-uk-open-banking-shifts-from-mandate-to-market",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -217,60 +271,6 @@
    "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
    "snippet": "Klarna has appointed Chris Koegel as their new chief financial officer starting from January 2027.",
    "published_at": "2026-11-13T10:31:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
-   "source": "GitHub: ggml-org/llama.cpp",
-   "weight": 1.0,
-   "title": "ggml-org/llama.cpp v1.0.0",
-   "snippet": "Blog post: https://huggingface.co/blog/ggml-org/llama-cpp-v1 ## Overview llama.cpp v1.0.0 removes the deprecated public API and promotes the NextN/speculative API to `llama.h`, adds OCP FP8 KV caches,",
-   "published_at": "2026-11-13T10:20:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111666/deloitte-acquires-flipside-cryptos-ai-business-and-launches-edisyl",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Deloitte acquires Flipside Crypto's AI business and launches Edisyl",
-   "snippet": "Deloitte today introduced Edisyl Inc., an enterprise AI company formed in connection with Deloitte's acquisition of the AI business of Flipside Crypto Inc., which was completed in July.",
-   "published_at": "2026-11-13T10:04:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/dear-saastr-what-is-the-difference-between-a-good-salesman-and-a-great-one/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Dear SaaStr: What Is the Difference Between a Good Salesman and a Great One?",
-   "snippet": "A good rep hits quota. A great rep closes multiples of what the good one does, on the same leads, and the gap almost always comes down to the same handful of things. The gap is bigger than people thin",
-   "published_at": "2026-11-13T10:00:17+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
-   "snippet": "Wirex, the global stablecoin infrastructure platform, has today launched Navoka, the first AI agent that pays on behalf of users from a dedicated bank account and card.",
-   "published_at": "2026-11-13T09:59:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-   "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-   "published_at": "2026-11-13T09:04:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/business/customer-stories/shield",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "snippet": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "published_at": "2026-11-13T08:00:00+00:00",
    "also_in": []
   }
  ]
