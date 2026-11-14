@@ -1,8 +1,82 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.6",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.6 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-12T01:12:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.9",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.9",
+   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
+   "published_at": "2026-11-12T01:06:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Supporting research on AI and children’s safety",
+   "snippet": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "snippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease (9 minute read)",
+   "snippet": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts ",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": [
+    "Google DeepMind blog"
+   ]
+  },
+  {
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "snippet": "",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Theoretical Limits of Language Model Alignment",
+   "snippet": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learni",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Python 3.15 now available as a Vercel Managed Image",
+   "snippet": "Python 3.15 is now available as a Vercel Managed Image for Vercel Sandbox . To run a sandbox with Python 3.15, select vercel/sandbox/python:3.15 using the image option in either SDK or the --image fla",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
    "source": "Vercel blog",
@@ -199,78 +273,6 @@
    "title": "Databricks Genie Agents (13 minute read)",
    "snippet": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
    "published_at": "2026-11-12T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tomtunguz.com/the-impact-of-jensens-resignation/",
-   "source": "Tomasz Tunguz",
-   "weight": 1.0,
-   "title": "When the Central Bank of AI Changes Chairs",
-   "snippet": "Jensen Huang's resignation as CEO of Nvidia leaves CFO Colette Kress atop the Central Bank of AI : $42b in 2025-2026 M&A & tech buyouts, $61b of cash invested in equity across 229 private startups & 1",
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/global/global-vat-and-gst-on-digital-services-to-consumers/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Global VAT & GST on digital services B2C & B2B",
-   "snippet": "",
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.40",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.40",
-   "snippet": "## What's Changed ### Features - Remove chromadb from the embedding function layer. - Add exact historical state lookup by row id. - Wire jsonl into rag data type discovery. - Scaffold standalone agen",
-   "published_at": "2026-11-11T22:19:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Gemini Decisions API",
-   "snippet": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (y",
-   "published_at": "2026-11-11T22:03:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "aws-emulator",
-   "snippet": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a h",
-   "published_at": "2026-11-11T21:18:30+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/high-court-asked-intervene-accountants-fight-pcaob-scotus-sec/874440/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Supreme Court asked to intervene in accountant’s fight with PCAOB",
-   "snippet": "The D.C. Circuit disregarded statutory confidentiality protections owed to an accountant challenging PCAOB proceedings, an advocacy group says.",
-   "published_at": "2026-11-11T20:09:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Browse tools.simonwillison.net by tag",
-   "snippet": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekl",
-   "published_at": "2026-11-11T18:42:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/our-agents-never-picked-canva-10-learnings-on-agent-pricing-getting-picked-and-security-from-this-weeks-the-agents-with-ulrik-lehrskov-schmidt/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Our Agents Never Picked Canva. 10 Learnings on Agent Pricing, Getting Picked, and Security From This Week’s “The Agents” With Ulrik Lehrskov-Schmidt",
-   "snippet": "Amelia and I both canceled Canva this week. I’d been a customer for about 12 years. We weren’t angry at it, and nobody sat down and decided to replace it. Our agents just never had a use for it. That ",
-   "published_at": "2026-11-11T18:09:46+00:00",
    "also_in": []
   }
  ]

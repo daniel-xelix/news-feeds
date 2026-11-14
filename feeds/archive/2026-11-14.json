@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-14",
+ "items": [
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.22",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.22",
+   "snippet": "Changes since 1.2.21 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * fix(langgraph): stream a child graph on its own thread to a caller streaming subgraphs (#9698) * perf(langgraph): skip message conversion in add_messages for plain messages (#9631) * perf(langgraph): filter pending writes ",
+   "published_at": "2026-11-14T01:43:55+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.2.1",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint-postgres==3.2.1",
+   "snippet": "Changes since checkpointpostgres==3.2.0 * release(checkpoint-postgres): 3.2.1 (#9700) * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint-postgres): run a lone store read outside a pipeline (#9635) * perf(checkpoint-postgres): skip the async saver's lock for connection pools (#9638) * perf(checkpoint-postgres): load no pending writes without a thread hop (#9639) * release(checkpoint): 4.3.1 (#9",
+   "published_at": "2026-11-14T01:39:04+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-prebuilt==1.1.2",
+   "snippet": "Changes since prebuilt==1.1.1 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * perf(prebuilt): only format the call_model error message when raising (#9628) * release(langgraph): 1.2.21 (#9683) * chore(deps): bump the minor-and-patch group across 1 directory with 9 updates (#9530) * chore(de",
+   "published_at": "2026-11-14T01:33:52+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint==4.3.2",
+   "snippet": "Changes since checkpoint==4.3.1 * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint): stop InMemoryStore search at the requested page (#9633) * perf(checkpoint): dedupe batched store reads with a dict (#9636) * chore(deps): bump the minor-and-patch group in /libs/checkpoint with 6 updates (#9529) * chore(deps-dev): bump pycryptodome from 3.23.0 to 4.2.0 in /libs/checkpoint in the major group (#",
+   "published_at": "2026-11-14T01:31:16+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.10",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.10",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.10 ``` Same command for `litellm-database`, `litellm-non_root` and the `docker.io/litellm/*` images ## What's new in 1.106.10 2 PRs. 1 fixed. No action needed to upgrade ### Changes - **MCP:** Fixed Google MCP se",
+   "published_at": "2026-11-14T00:34:35+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  }
+ ]
+}

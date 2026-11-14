@@ -1,8 +1,80 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://antigravity.google/docs/swarm/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Swarm (/swarm) (10 minute read)",
+   "snippet": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that di",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
+   "snippet": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MAI-Transcribe-2 (125 minute read)",
+   "snippet": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. ",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder (3 minute read)",
+   "snippet": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic's IPO Roadshow (2 minute read)",
+   "snippet": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70–$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly is",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.claroc.io/ghostshares-grok-build-apps",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own (16 minute read)",
+   "snippet": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Gemini for healthcare (13 minute read)",
+   "snippet": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for prov",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser (6 minute read)",
+   "snippet": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.5",
    "source": "GitHub: BerriAI/litellm",
@@ -199,78 +271,6 @@
    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
    "snippet": "NVIDIA Snapshot, a new open-source component of the",
    "published_at": "2026-11-10T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
-   "snippet": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU",
-   "published_at": "2026-11-10T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/block-to-provide-data-to-ftc/874156/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Block to provide data to FTC",
-   "snippet": "The company said it will turn over documents the Federal Trade Commission sought in January in response to a probe of complaints about Square.",
-   "published_at": "2026-11-10T14:20:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "How Stripe Built Kai on Deep Agents in 1 Week",
-   "snippet": "Learn how Stripe built Kai, a company-wide AI agent on LangChain, LangGraph, and Deep Agents, reaching 5,000 users in roughly 4 weeks.",
-   "published_at": "2026-11-10T12:31:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act",
-   "snippet": "Companies with the deepest understanding of their own operations are the ones best positioned to put AI to work.",
-   "published_at": "2026-11-10T12:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid controversy",
-   "snippet": "",
-   "published_at": "2026-11-10T12:12:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Helping caregivers use AI in everyday life",
-   "snippet": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-   "published_at": "2026-11-10T12:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural",
-   "snippet": "",
-   "published_at": "2026-11-10T11:45:36+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-   "source": "Google DeepMind blog",
-   "weight": 1.4,
-   "title": "Opening the datasets behind our AI weather models",
-   "snippet": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-   "published_at": "2026-11-10T11:13:04+00:00",
    "also_in": []
   }
  ]

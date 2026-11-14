@@ -1,8 +1,80 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://www.cfodive.com/news/quote-the-week-jensen-huang-nvidia/874560/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Quote of the week: Jensen Huang",
+   "snippet": "The 200-plus word message from Nvidia’s now-former CEO Jensen Huang preceded his resignation and led to the appointment of CFO Colette Kress as interim CEO.",
+   "published_at": "2026-11-12T20:47:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Mexico's Clara raises $65m for spend management platform",
+   "snippet": "Latin American corporate spend management platform Clara has raised $65 million in a Series C equity round.",
+   "published_at": "2026-11-12T20:43:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/what-is-eval-driven-development",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+   "snippet": "Eval-driven development helps you build AI agents against a consistent set of metrics. Define good behavior, write the eval first, then compare experiments.",
+   "published_at": "2026-11-12T20:32:32+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.7",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.7 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-12T20:27:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/cfos-confront-cash-flow-risks-ai-costs-rise/874554/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "CFOs confront cash-flow risks as AI costs rise",
+   "snippet": "AI spending averaged 24% above expectations at organizations with overruns in the past year, a global Capgemini survey found.",
+   "published_at": "2026-11-12T20:20:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "snippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "published_at": "2026-11-12T20:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/hubspot-names-new-ceo-cfo-company-re-founding/874544/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "HubSpot names new CEO, CFO in company ‘re-founding’",
+   "snippet": "The SaaS company brought back its former CEO of 16 years and named an Adobe finance leader to its CFO chair as it navigates ongoing AI pressures.",
+   "published_at": "2026-11-12T19:28:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33454/beyond-sweeping-how-commercial-vrps-are-testing-the-economics-of-uk-open-banking",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Beyond Sweeping: How Commercial VRPs Are Testing the Economics of UK Open Banking",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-12T19:13:03+00:00",
+   "also_in": []
+  },
   {
    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
    "source": "Hugging Face blog",
@@ -199,78 +271,6 @@
    "title": "NYDFS issues virtual currency advertising guidance",
    "snippet": "New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today issued guidance outlining expectations DFS-regulated virtual currency entities to maintain and implement",
    "published_at": "2026-11-12T15:17:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/zambia/zambia-proposes-vat-increase-to-16-5-jan-2027/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Zambia proposes VAT increase to 16.5% Jan 2027",
-   "snippet": "",
-   "published_at": "2026-11-12T15:16:34+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111659/axway-launches-platform-to-put-banks-in-control-of-ai-costs-data-and-decision",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Axway launches platform to put banks in control of AI costs, data, and decision",
-   "snippet": "Enterprises are racing to put AI to work, but many still can't account for what it costs or how it uses company data to make decisions across disparate systems.",
-   "published_at": "2026-11-12T15:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/a-great-b2b-agent-doubles-your-acv-most-ai-features-dont-move-it-at-all/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.",
-   "snippet": "This week one of our portfolio companies launched its first real agent. It’s a vertical software company at about $30M ARR, growing well, with a loyal base and a sales-led motion. The agent doubles AC",
-   "published_at": "2026-11-12T15:00:54+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111658/uber-adds-revolut-pay-option",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Uber adds Revolut Pay option",
-   "snippet": "Revolut, the global bank with over 80 million customers and 850,000 business clients, today announced a milestone payments partnership expansion with Uber, the world’s leading ride-hailing and deliver",
-   "published_at": "2026-11-12T14:38:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.40.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.40.0",
-   "snippet": "## 1.40.0 (2026-11-12) ## What's Changed ### Features * feat: improve Codex subscription authentication guidance by @xunjizhe in https://github.com/OpenHands/OpenHands/pull/17194 ### Bug Fixes * fix(c",
-   "published_at": "2026-11-12T14:22:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874479/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Nvidia CEO resigns amid scandal; CFO named interim",
-   "snippet": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
-   "published_at": "2026-11-12T14:17:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
-   "source": "Ben's Bites",
-   "weight": 1.0,
-   "title": "To the man with AI, everything looks like a task",
-   "snippet": "Real* quote from Charlie Munger - lightly modernised :)",
-   "published_at": "2026-11-12T14:03:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands",
-   "snippet": "SAP is making the carbon footprint of cloud software visible product by product, customer by customer.",
-   "published_at": "2026-11-12T13:15:00+00:00",
    "also_in": []
   }
  ]

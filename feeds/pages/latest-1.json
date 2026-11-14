@@ -1,8 +1,71 @@
 {
  "set": "latest",
  "page": 1,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.22",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.22",
+   "snippet": "Changes since 1.2.21 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * fix(langgraph): stream",
+   "published_at": "2026-11-14T01:43:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.2.1",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint-postgres==3.2.1",
+   "snippet": "Changes since checkpointpostgres==3.2.0 * release(checkpoint-postgres): 3.2.1 (#9700) * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint-postgres): run a lone store read outside a pipeline (#9635)",
+   "published_at": "2026-11-14T01:39:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-prebuilt==1.1.2",
+   "snippet": "Changes since prebuilt==1.1.1 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * perf(prebuilt",
+   "published_at": "2026-11-14T01:33:52+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint==4.3.2",
+   "snippet": "Changes since checkpoint==4.3.1 * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint): stop InMemoryStore search at the requested page (#9633) * perf(checkpoint): dedupe batched store reads with a d",
+   "published_at": "2026-11-14T01:31:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.10",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.10",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.10 ``` Same ",
+   "published_at": "2026-11-14T00:34:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-cluster-map 0.19",
+   "snippet": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStree",
+   "published_at": "2026-11-13T23:02:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-leaflet 0.3",
+   "snippet": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-refe",
+   "published_at": "2026-11-13T22:30:54+00:00",
+   "also_in": []
+  },
   {
    "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
    "source": "Vercel blog",
@@ -208,69 +271,6 @@
    "title": "langchain-ai/langchain langchain-openai==1.8.0",
    "snippet": "**`langchain-openai` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. User",
    "published_at": "2026-11-13T16:48:27+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33465/beyond-the-cma-order-what-happens-when-uk-open-banking-shifts-from-mandate-to-market",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Beyond the CMA Order: What Happens When UK Open Banking Shifts From Mandate to Market?",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-13T16:46:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-   "snippet": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signe",
-   "published_at": "2026-11-13T16:32:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/series-c",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "LangChain Raises $300M Series C at $3B Valuation",
-   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
-   "published_at": "2026-11-13T16:06:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Stripe awaits payoff on Tempo chain",
-   "snippet": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
-   "published_at": "2026-11-13T15:57:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Why PayPal wants to have a bank",
-   "snippet": "The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.",
-   "published_at": "2026-11-13T15:25:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "German banks form financial crime fighting JV",
-   "snippet": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
-   "published_at": "2026-11-13T15:12:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-9-3-billion-run-rate-96-growth-165-nrr-and-u-s-commercial-passing-government-for-the-first-time/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time",
-   "snippet": "Palantir just reported Q3 2026, and it is growing faster at about $9.3 billion in run-rate than it was at $4 billion. Revenue grew 96% year-over-year and 20% quarter-over-quarter to $2.313 billion, an",
-   "published_at": "2026-11-13T15:00:42+00:00",
    "also_in": []
   }
  ]

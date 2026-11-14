@@ -1,0 +1,52 @@
+{
+ "set": "2026-11-14",
+ "page": 1,
+ "pages": 1,
+ "items": [
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.22",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.22",
+   "snippet": "Changes since 1.2.21 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * fix(langgraph): stream",
+   "published_at": "2026-11-14T01:43:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.2.1",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint-postgres==3.2.1",
+   "snippet": "Changes since checkpointpostgres==3.2.0 * release(checkpoint-postgres): 3.2.1 (#9700) * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint-postgres): run a lone store read outside a pipeline (#9635)",
+   "published_at": "2026-11-14T01:39:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-prebuilt==1.1.2",
+   "snippet": "Changes since prebuilt==1.1.1 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * perf(prebuilt",
+   "published_at": "2026-11-14T01:33:52+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.2",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-checkpoint==4.3.2",
+   "snippet": "Changes since checkpoint==4.3.1 * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint): stop InMemoryStore search at the requested page (#9633) * perf(checkpoint): dedupe batched store reads with a d",
+   "published_at": "2026-11-14T01:31:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.10",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.106.10",
+   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.10 ``` Same ",
+   "published_at": "2026-11-14T00:34:35+00:00",
+   "also_in": []
+  }
+ ]
+}

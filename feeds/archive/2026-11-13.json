@@ -2,6 +2,26 @@
  "date": "2026-11-13",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-cluster-map 0.19",
+   "snippet": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's <a href=\"https://datasette.io/global-power-plants/g",
+   "published_at": "2026-11-13T23:02:45+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-leaflet 0.3",
+   "snippet": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-le",
+   "published_at": "2026-11-13T22:30:54+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
    "source": "Vercel blog",
    "weight": 0.9,
@@ -559,6 +579,16 @@
    "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
    "published_at": "2026-11-13T09:04:13+00:00",
    "first_seen": "2026-11-13T09:27:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "snippet": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "published_at": "2026-11-13T08:00:00+00:00",
+   "first_seen": "2026-11-14T06:10:30+00:00",
    "also_in": []
   },
   {
