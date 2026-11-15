@@ -4,6 +4,69 @@
  "pages": 6,
  "items": [
   {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-mistralai==1.2.0",
+   "snippet": "Changes since langchain-mistralai==1.1.6 fix(mistralai): fix streaming behavior for reasoning models (#41887) fix(groq,mistralai,xai): bump deps (#41884) chore(model-profiles): refresh model profile d",
+   "published_at": "2026-11-15T22:38:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "A step toward defining the Standard Model on a lattice",
+   "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "published_at": "2026-11-15T22:00:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Our new blog for science",
+   "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "published_at": "2026-11-15T22:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-groq==1.2.0",
+   "snippet": "Changes since langchain-groq==1.1.3 fix(groq): specify reasoning_effort in integration tests (#41886) fix(groq,mistralai,xai): bump deps (#41884) release(groq): 1.2.0 (#41856) feat(groq): route `ChatG",
+   "published_at": "2026-11-15T21:49:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-xai%3D%3D1.4.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-xai==1.4.0",
+   "snippet": "Changes since langchain-xai==1.3.0 fix(groq,mistralai,xai): bump deps (#41884) release(xai): 1.4.0 (#41857) feat(xai): route `ChatXAI` through LangSmith gateway (#41838) feat(partners): Remove EOL'd P",
+   "published_at": "2026-11-15T21:35:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-deepseek%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-deepseek==1.2.0",
+   "snippet": "Changes since langchain-deepseek==1.1.1 release(deepseek): 1.2.0 (#41858) feat(deepseek): route `ChatDeepSeek` through LangSmith gateway (#41839) feat(partners): Remove EOL'd Python 3.10 from partner ",
+   "published_at": "2026-11-15T21:34:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+   "snippet": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programmin",
+   "published_at": "2026-11-15T17:02:29+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
    "source": "Sifted",
    "weight": 1.0,
@@ -208,69 +271,6 @@
    "title": "langchain-ai/langgraph langgraph-prebuilt==1.1.2",
    "snippet": "Changes since prebuilt==1.1.1 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * perf(prebuilt",
    "published_at": "2026-11-14T01:33:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.2",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph-checkpoint==4.3.2",
-   "snippet": "Changes since checkpoint==4.3.1 * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint): stop InMemoryStore search at the requested page (#9633) * perf(checkpoint): dedupe batched store reads with a d",
-   "published_at": "2026-11-14T01:31:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.10",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.106.10",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.10 ``` Same ",
-   "published_at": "2026-11-14T00:34:35+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-cluster-map 0.19",
-   "snippet": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStree",
-   "published_at": "2026-11-13T23:02:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-leaflet 0.3",
-   "snippet": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-refe",
-   "published_at": "2026-11-13T22:30:54+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Daemons can now send traces to Vercel Tracing",
-   "snippet": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides e",
-   "published_at": "2026-11-13T22:24:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
-   "snippet": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general...",
-   "published_at": "2026-11-13T22:13:51+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-   "source": "The Record",
-   "weight": 0.9,
-   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
-   "snippet": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" ",
-   "published_at": "2026-11-13T21:32:00+00:00",
    "also_in": []
   }
  ]
