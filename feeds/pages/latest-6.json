@@ -4,6 +4,42 @@
  "pages": 7,
  "items": [
   {
+   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Escaping SPACE: Part II (28 minute read)",
+   "snippet": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+   "snippet": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default to",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+   "snippet": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only ba",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://muni.works/research/tang",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Don't Write Kernels, Derive Them (63 minute read)",
+   "snippet": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through con",
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/openai/mcp-extensions",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -235,42 +271,6 @@
    "title": "Fiserv preps debit network sale",
    "snippet": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.",
    "published_at": "2026-11-11T16:30:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-typesafe==0.1.0",
-   "snippet": "**`langchain-typesafe` 0.1.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0 (`l",
-   "published_at": "2026-11-11T16:14:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Fractile confirms £540m raise first revealed by Sifted",
-   "snippet": "",
-   "published_at": "2026-11-11T16:09:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/tips-rooting-out-fraudulent-federal-funds-use-accounting/874390/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Tips for rooting out fraudulent federal funds use",
-   "snippet": "There are a number of red flags that auditors should look out for when working with non-profits or government entities that get federal grants, experts say.",
-   "published_at": "2026-11-11T16:06:12+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Western Union, Intermex clash",
-   "snippet": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
-   "published_at": "2026-11-11T15:56:00+00:00",
    "also_in": []
   }
  ]
