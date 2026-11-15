@@ -1,8 +1,44 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 8,
+ "pages": 7,
  "items": [
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.5.0",
+   "snippet": "**`langchain` 1.5.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. Users on Py",
+   "published_at": "2026-11-11T15:47:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.0",
+   "snippet": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core",
+   "published_at": "2026-11-11T15:22:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Anthropic's IPO roadshow video",
+   "snippet": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Ap",
+   "published_at": "2026-11-11T15:11:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+   "source": "Last Week in AI",
+   "weight": 1.0,
+   "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+   "snippet": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+   "published_at": "2026-11-11T14:21:42+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.notboring.co/p/of-miracles-and-moats",
    "source": "Not Boring (Packy McCormick)",
@@ -190,89 +226,6 @@
    "title": "BerriAI/litellm v1.106.8",
    "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.106.8 ``` Same c",
    "published_at": "2026-11-11T03:23:36+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.0",
-   "snippet": "## Verify this release ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\ ghcr.io/berriai/litellm:v1.109.0 ``` Same c",
-   "published_at": "2026-11-11T00:56:51+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.thealgorithmicbridge.com/p/claude-fable-52-too-good",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
-   "weight": 1.0,
-   "title": "Fable 5.2: Too Good",
-   "snippet": "Reality is the only benchmark",
-   "published_at": "2026-11-11T00:05:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/jiostar-vijay-seshadri",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-   "snippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Google DeepMind Uses AI to Verify Signal's Security (6 minute read)",
-   "snippet": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": [
-    "Google DeepMind blog"
-   ]
-  },
-  {
-   "url": "https://huggingface.co/blog/token-pooling",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-   "snippet": "",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Gemini Decision 1 now available on AI Gateway",
-   "snippet": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scor",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
-   "snippet": "This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed that GitLab’s own infrastructure secrets are protecte",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors (5 minute read)",
-   "snippet": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive c",
-   "published_at": "2026-11-11T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-businesses-chatgpt/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Businesses and Business Agents in ChatGPT (3 minute read)",
-   "snippet": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. El",
-   "published_at": "2026-11-11T00:00:00+00:00",
    "also_in": []
   }
  ]

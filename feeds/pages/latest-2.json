@@ -1,8 +1,44 @@
 {
  "set": "latest",
  "page": 2,
- "pages": 8,
+ "pages": 7,
  "items": [
+  {
+   "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+   "snippet": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+   "published_at": "2026-11-13T18:57:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Token Pass now includes $150 in tokens for $30/month",
+   "snippet": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi ",
+   "published_at": "2026-11-13T18:42:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
+   "snippet": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
+   "published_at": "2026-11-13T18:35:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+   "source": "Net Interest (Marc Rubinstein)",
+   "weight": 0.9,
+   "title": "A Banker’s Guide to Anthropic",
+   "snippet": "Why the IPO is a credit event",
+   "published_at": "2026-11-13T18:00:43+00:00",
+   "also_in": []
+  },
   {
    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
    "source": "Hugging Face blog",
@@ -235,42 +271,6 @@
    "title": "Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers",
    "snippet": "",
    "published_at": "2026-11-13T05:00:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/artcraft/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-   "snippet": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-   "published_at": "2026-11-13T04:17:25+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Security Review no longer requires a linked Vercel project",
-   "snippet": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked ",
-   "published_at": "2026-11-13T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Sandbox starts up to 4x faster",
-   "snippet": "Vercel Sandbox now initializes up to 4x faster outside the Washington, D.C. ( iad1 ) region when reused image data is served from a regional cache. Initialization now reads cached image data close to ",
-   "published_at": "2026-11-13T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Build cache size limit on Vercel increased to 5 GB",
-   "snippet": "The build cache size limit on all Vercel build machines has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which ca",
-   "published_at": "2026-11-13T00:00:00+00:00",
    "also_in": []
   }
  ]
