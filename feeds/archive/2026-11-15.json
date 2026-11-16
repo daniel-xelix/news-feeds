@@ -2,6 +2,36 @@
  "date": "2026-11-15",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-maplibre 0.1a0",
+   "snippet": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on",
+   "published_at": "2026-11-15T23:58:36+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 1.0a43",
+   "snippet": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderer",
+   "published_at": "2026-11-15T23:20:27+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 0.65.6",
+   "snippet": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: <a href",
+   "published_at": "2026-11-15T23:18:17+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
    "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
@@ -59,6 +89,16 @@
    "snippet": "Changes since langchain-deepseek==1.1.1 release(deepseek): 1.2.0 (#41858) feat(deepseek): route `ChatDeepSeek` through LangSmith gateway (#41839) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(infra): relax third-party dependency upper bounds (#41407) chore(deps): bump certifi from 2025.8.3 to 2026.10.19 in /libs/partners/deepseek (#41389) chore(model-profiles): refr",
    "published_at": "2026-11-15T21:34:41+00:00",
    "first_seen": "2026-11-15T22:45:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Qwen4-Max now available on AI Gateway",
+   "snippet": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blender and playable games in Unity, Unreal Engine, and Godot, running what it builds",
+   "published_at": "2026-11-15T20:00:00+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
    "also_in": []
   },
   {
@@ -139,6 +179,26 @@
    "snippet": "Plus: Cheap solar, who pays for Claude & DNA immunotherapy++",
    "published_at": "2026-11-15T04:47:29+00:00",
    "first_seen": "2026-11-15T09:15:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-apps 0.4a0",
+   "snippet": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Data",
+   "published_at": "2026-11-15T04:02:45+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-agent 0.6a0",
+   "snippet": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: <img alt=\"Datasette homepage. Below the search box is a Datasette Agent heading with a text input",
+   "published_at": "2026-11-15T03:49:47+00:00",
+   "first_seen": "2026-11-16T06:17:43+00:00",
    "also_in": []
   }
  ]
