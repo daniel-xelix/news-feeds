@@ -1,123 +1,276 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 6,
+ "pages": 7,
  "items": [
   {
-   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Token Pass now includes $150 in tokens for $30/month",
-   "snippet": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi ",
-   "published_at": "2026-11-13T18:42:00+00:00",
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Building strong safety evaluations (23 minute read)",
+   "snippet": "Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions.",
+   "published_at": "2026-11-16T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
-   "source": "Net Interest (Marc Rubinstein)",
-   "weight": 0.9,
-   "title": "A Banker’s Guide to Anthropic",
-   "snippet": "Why the IPO is a credit event",
-   "published_at": "2026-11-13T18:00:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "snippet": "",
-   "published_at": "2026-11-13T18:00:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/allenai/xybench",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "XYBench: Helping with the problem behind the question",
-   "snippet": "",
-   "published_at": "2026-11-13T17:02:35+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-   "source": "NVIDIA developer blog",
+   "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/",
+   "source": "Tomasz Tunguz",
    "weight": 1.0,
-   "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
-   "snippet": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...",
-   "published_at": "2026-11-13T17:00:00+00:00",
+   "title": "Strategic Decision or Structural Advantage?",
+   "snippet": "Sixteen weeks of Databricks Unity Gateway telemetry across 10,000+ enterprises show Anthropic & OpenAI splitting the market by tier. Anthropic captures 94% of frontier SOTA tokens & 70% of proprietary",
+   "published_at": "2026-11-16T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
-   "snippet": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing...",
-   "published_at": "2026-11-13T17:00:00+00:00",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-maplibre 0.1a0",
+   "snippet": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated",
+   "published_at": "2026-11-15T23:58:36+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.0",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 1.0a43",
+   "snippet": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support",
+   "published_at": "2026-11-15T23:20:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 0.65.6",
+   "snippet": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from i",
+   "published_at": "2026-11-15T23:18:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
    "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.0",
-   "snippet": "**`langchain-openai` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.0. User",
-   "published_at": "2026-11-13T16:48:27+00:00",
+   "title": "langchain-ai/langchain langchain-mistralai==1.2.0",
+   "snippet": "Changes since langchain-mistralai==1.1.6 fix(mistralai): fix streaming behavior for reasoning models (#41887) fix(groq,mistralai,xai): bump deps (#41884) chore(model-profiles): refresh model profile d",
+   "published_at": "2026-11-15T22:38:03+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Stripe awaits payoff on Tempo chain",
-   "snippet": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
-   "published_at": "2026-11-13T15:57:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Why PayPal wants to have a bank",
-   "snippet": "The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.",
-   "published_at": "2026-11-13T15:25:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
    "source": "OpenAI blog",
    "weight": 1.4,
-   "title": "Introducing ChatGPT Wallet",
-   "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "published_at": "2026-11-13T15:00:00+00:00",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "published_at": "2026-11-15T22:00:01+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
-   "source": "GitHub: huggingface/transformers",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Our new blog for science",
+   "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "published_at": "2026-11-15T22:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "huggingface/transformers Release v5.23.0",
-   "snippet": "# Release v5.23.0 ## New Model additions ### Inkling2 Inkling 2 Small is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs, and it is intended",
-   "published_at": "2026-11-13T14:10:57+00:00",
+   "title": "langchain-ai/langchain langchain-groq==1.2.0",
+   "snippet": "Changes since langchain-groq==1.1.3 fix(groq): specify reasoning_effort in integration tests (#41886) fix(groq,mistralai,xai): bump deps (#41884) release(groq): 1.2.0 (#41856) feat(groq): route `ChatG",
+   "published_at": "2026-11-15T21:49:09+00:00",
    "also_in": []
   },
   {
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-xai%3D%3D1.4.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-xai==1.4.0",
+   "snippet": "Changes since langchain-xai==1.3.0 fix(groq,mistralai,xai): bump deps (#41884) release(xai): 1.4.0 (#41857) feat(xai): route `ChatXAI` through LangSmith gateway (#41838) feat(partners): Remove EOL'd P",
+   "published_at": "2026-11-15T21:35:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-deepseek%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-deepseek==1.2.0",
+   "snippet": "Changes since langchain-deepseek==1.1.1 release(deepseek): 1.2.0 (#41858) feat(deepseek): route `ChatDeepSeek` through LangSmith gateway (#41839) feat(partners): Remove EOL'd Python 3.10 from partner ",
+   "published_at": "2026-11-15T21:34:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Qwen4-Max now available on AI Gateway",
+   "snippet": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. ",
+   "published_at": "2026-11-15T20:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+   "snippet": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programmin",
+   "published_at": "2026-11-15T17:02:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Starling founder Anne Boden plots new AI-powered bank",
    "snippet": "",
-   "published_at": "2026-11-13T14:05:22+00:00",
+   "published_at": "2026-11-15T16:33:09+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219",
-   "source": "Not Boring (Packy McCormick)",
+   "url": "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
+   "source": "SaaStr (Jason Lemkin)",
    "weight": 0.9,
-   "title": "Weekly Dose of Optimism #219",
-   "snippet": "AlphaGenome 2, Unnatural Products x Argenx, Path, SpaceX Solar, Voyager 1, LSD + Extra Doses",
-   "published_at": "2026-11-13T13:59:44+00:00",
+   "title": "HubSpot Is Refounding as the “Customer Harness Company.” Here’s What That Means for Us, Right Now, in November 2026",
+   "snippet": "HubSpot just named what we have been doing at SaaStr for the last year. Yesterday Brian Halligan announced he and Dharmesh Shah are refounding HubSpot as the “Customer Harness Company.” I'm back as CE",
+   "published_at": "2026-11-15T15:00:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.1",
+   "snippet": "Changes since langchain-core==1.8.0 release(core): 1.8.1 (#41855) chore(deps): bump soupsieve from 4.0 to 4.1 in /libs/core (#41850) feat(core): per-context LangSmith gateway override via `langsmith_g",
+   "published_at": "2026-11-15T14:57:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+   "snippet": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+   "published_at": "2026-11-15T13:31:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "source": "Sebastian Raschka",
+   "weight": 1.2,
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "snippet": "The Methods Behind How LLMs Represent Token Positions",
+   "published_at": "2026-11-15T12:10:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/big-brother-is-watching-your-digital-vat/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Big Brother is watching your digital VAT",
+   "snippet": "",
+   "published_at": "2026-11-15T07:19:52+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/ev-610",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "🔮 The $22 billion question about AI self-improvement #610",
+   "snippet": "Plus: Cheap solar, who pays for Claude & DNA immunotherapy++",
+   "published_at": "2026-11-15T04:47:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-apps 0.4a0",
+   "snippet": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0",
+   "published_at": "2026-11-15T04:02:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-agent 0.6a0",
+   "snippet": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directl",
+   "published_at": "2026-11-15T03:49:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-llm 0.1a11",
+   "snippet": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatibl",
+   "published_at": "2026-11-14T23:59:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.9",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.9 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-14T22:00:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+   "snippet": "Community Wisdom 305",
+   "published_at": "2026-11-14T21:15:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/come-meet-us-live-at-granola-hq-in-sf-granolas-vp-of-sales-and-i-will-be-there-to-talk-agents-for-gtm-whats-working-and-what-isnt/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Come Meet Us Live at Granola HQ in SF: Granola’s VP of Sales and I Will Be There to Talk Agents for GTM, What’s Working and What Isn’t",
+   "snippet": "We’re doing something a bit different. No stage, no 5,000 people, no badge line. Just a room at Granola’s HQ in San Francisco on December 8, a real conversation about agents for GTM, and time to hang ",
+   "published_at": "2026-11-14T18:00:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-vega 0.7",
+   "snippet": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I",
+   "published_at": "2026-11-14T17:09:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "source": "Interconnects (Nathan Lambert)",
+   "weight": 1.3,
+   "title": "Open-source AI without Jensen",
+   "snippet": "A decapitation. It’s time to rebuild.",
+   "published_at": "2026-11-14T12:23:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/brazil/brazil-nota-fiscal-eletronica-e-invoicing-update/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Brazil Nota Fiscal Eletrônica VAT 2027 update",
+   "snippet": "",
+   "published_at": "2026-11-14T10:00:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "[AINews] The No AI Slop Manifesto",
+   "snippet": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+   "published_at": "2026-11-14T08:31:02+00:00",
    "also_in": []
   }
  ]
