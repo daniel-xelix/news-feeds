@@ -4,6 +4,231 @@
  "pages": 6,
  "items": [
   {
+   "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
+   "snippet": "",
+   "published_at": "2026-11-16T05:00:44+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/agent-evals",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents are users, so your software needs evals",
+   "snippet": "Agents are now users of software, doing work on people's behalf. Whether you're building the agent or the software it uses (API, CLI, MCP server, SDK), evals give you a way to measure how well that wo",
+   "published_at": "2026-11-16T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "snippet": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "snippet": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/openrouter",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "snippet": "",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/road-to-together-compiler",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Last year we built megakernels. This year we deleted them: The road to Together Compiler",
+   "snippet": "Together Compiler uses AI agents to rewrite and fuse the GPU kernels in a model’s forward pass. It beats hand-written megakernels by 28% on B200 (2,118 vs 1,649 tokens/s on Llama 3.2 1B). This is how ",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Making open models work for long-horizon agentic workloads",
+   "snippet": "Every agent turn resends the full session. Together AI and Ollama break down how to protect the prefix cache, from the harness to the GPU.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "How we make Together AI easy for coding agents to use",
+   "snippet": "We built agent evals to test how effective coding agents are at using Together AI. Small fixes to our docs, skills, and API errors lifted task completion rate from 75% to 97%.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Seedance 2.5 Flash now available on AI Gateway",
+   "snippet": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, referen",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Set budgets for projects and products in Spend Management",
+   "snippet": "Spend Management now supports budgets for individual projects and products, alongside existing team budgets. Project budgets: Track spend for one project and optionally pause its production deployment",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/big-code-report-2026",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "AI writes the code. Engineers still have to understand it.",
+   "snippet": "Sourcegraph's 2026 Big Code report surveyed 1,028 people responsible for software development on how teams understand, review and change large codebases as AI writes more of the code.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://devin.ai/blog/devin-apps",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Devin Apps (3 minute read)",
+   "snippet": "Devin Apps are private web apps that Devin builds and hosts from a description, such as dashboards and approval queues. Apps can use a team's existing integrations and codebase, and viewers must sign ",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ChatGPT Wallet (5 minute read)",
+   "snippet": "OpenAI introduced ChatGPT Wallet, allowing AI agents to make purchases without accessing users' actual card details while requiring a security check for every transaction.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://empero.org/writing/quark",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Quark: our whole training stack, end to end, for $4,200 (7 minute read)",
+   "snippet": "Quark is a language model with about 165 million parameters trained for about $4,200 of compute (about 1,300 H-100-hours). It has the best benchmark average among open models of its size trained on si",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "On the Brutality of Amdahl's Law (12 minute read)",
+   "snippet": "The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "End-to-End 4-Bit AI Training (9 minute read)",
+   "snippet": "Thinking Machines explored the technical challenges of training language models using 4-bit precision, including quantization errors and their effects on model accuracy. The deep dive examines BF16, M",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://research.nvidia.com/labs/sil/projects/birddreams/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "BirdDreams: A Driving World Model (4 minute read)",
+   "snippet": "BirdDreams is an Nvidia driving world model that turns a single camera image into driving video and a bird's-eye view of the scene.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://danni763618.typeform.com/to/H1tYViME",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "snippet": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sevren.ai/blog/embla-1",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Embla 1 (5 minute read)",
+   "snippet": "Embla 1 is a reasoning model built for phones. It is designed to be fast and to use few tokens per answer. The model can run on a phone, privately, offline, for free. At 4 bits, Embla 1 averages 57.4 ",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://qwen.ai/blog?id=qwen4-max&amp%3Butm_source=tldrai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Qwen4-Max: Your New Teammate Has Arrived (16 minute read)",
+   "snippet": "Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discover",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://unbundling.github.io/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meta's Vision Encoders in Multimodal Models (7 minute read)",
+   "snippet": "Meta researchers explored which components of vision encoders are essential for multimodal models, finding that dedicated visual processing capacity matters more than pretraining.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sierra.ai/blog/releasing-poppy",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Releasing Personal Agent Protocol 1.0 (5 minute read)",
+   "snippet": "The Personal Agent Protocol enables personal agents to interact with companies through business agents, websites, and APIs. v.0 of the protocol is now available. The protocol defines how personal agen",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPT-6 Astra Tackles a Fundamental Physics Problem (15 minute read)",
+   "snippet": "Physicist Nathaniel Craig worked with GPT-6 Astra to develop a candidate lattice formulation of the Standard Model, addressing a longstanding challenge in defining the theory without relying on pertur",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/2121375309287301360.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "We've made some big updates to Projects in Claude Code! (3 minute read)",
+   "snippet": "The coordinator is now more proactive and can answer questions in the project chat while providing updates on the status of ongoing threads.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Petition Calls for Nvidia to Reinstate Jensen Huang (1 minute read)",
+   "snippet": "Elon Musk and other technology executives signed a petition calling for Nvidia to reinstate former CEO Jensen Huang following his resignation amid allegations involving a suspected Chinese spy.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://claude.com/resources/articles/building-always-on-agents",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -18,6 +243,15 @@
    "weight": 1.5,
    "title": "Building strong safety evaluations (23 minute read)",
    "snippet": "Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "Strategic Decision or Structural Advantage?",
+   "snippet": "Sixteen weeks of Databricks Unity Gateway telemetry across 10,000+ enterprises show Anthropic & OpenAI splitting the market by tier. Anthropic captures 94% of frontier SOTA tokens & 70% of proprietary",
    "published_at": "2026-11-16T00:00:00+00:00",
    "also_in": []
   },
@@ -37,240 +271,6 @@
    "title": "datasette 1.0a43",
    "snippet": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support",
    "published_at": "2026-11-15T23:20:27+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette 0.65.6",
-   "snippet": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from i",
-   "published_at": "2026-11-15T23:18:17+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-mistralai==1.2.0",
-   "snippet": "Changes since langchain-mistralai==1.1.6 fix(mistralai): fix streaming behavior for reasoning models (#41887) fix(groq,mistralai,xai): bump deps (#41884) chore(model-profiles): refresh model profile d",
-   "published_at": "2026-11-15T22:38:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "A step toward defining the Standard Model on a lattice",
-   "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "published_at": "2026-11-15T22:00:01+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Our new blog for science",
-   "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "published_at": "2026-11-15T22:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-groq==1.2.0",
-   "snippet": "Changes since langchain-groq==1.1.3 fix(groq): specify reasoning_effort in integration tests (#41886) fix(groq,mistralai,xai): bump deps (#41884) release(groq): 1.2.0 (#41856) feat(groq): route `ChatG",
-   "published_at": "2026-11-15T21:49:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-xai%3D%3D1.4.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-xai==1.4.0",
-   "snippet": "Changes since langchain-xai==1.3.0 fix(groq,mistralai,xai): bump deps (#41884) release(xai): 1.4.0 (#41857) feat(xai): route `ChatXAI` through LangSmith gateway (#41838) feat(partners): Remove EOL'd P",
-   "published_at": "2026-11-15T21:35:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-deepseek%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-deepseek==1.2.0",
-   "snippet": "Changes since langchain-deepseek==1.1.1 release(deepseek): 1.2.0 (#41858) feat(deepseek): route `ChatDeepSeek` through LangSmith gateway (#41839) feat(partners): Remove EOL'd Python 3.10 from partner ",
-   "published_at": "2026-11-15T21:34:41+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Qwen4-Max now available on AI Gateway",
-   "snippet": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional wor",
-   "published_at": "2026-11-15T20:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
-   "source": "JetBrains AI blog",
-   "weight": 1.0,
-   "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
-   "snippet": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programmin",
-   "published_at": "2026-11-15T17:02:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Starling founder Anne Boden plots new AI-powered bank",
-   "snippet": "",
-   "published_at": "2026-11-15T16:33:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "HubSpot Is Refounding as the “Customer Harness Company.” Here’s What That Means for Us, Right Now, in November 2026",
-   "snippet": "HubSpot just named what we have been doing at SaaStr for the last year. Yesterday Brian Halligan announced he and Dharmesh Shah are refounding HubSpot as the “Customer Harness Company.” I'm back as CE",
-   "published_at": "2026-11-15T15:00:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.1",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.8.1",
-   "snippet": "Changes since langchain-core==1.8.0 release(core): 1.8.1 (#41855) chore(deps): bump soupsieve from 4.0 to 4.1 in /libs/core (#41850) feat(core): per-context LangSmith gateway override via `langsmith_g",
-   "published_at": "2026-11-15T14:57:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
-   "snippet": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
-   "published_at": "2026-11-15T13:31:28+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-   "source": "Sebastian Raschka",
-   "weight": 1.2,
-   "title": "Understanding Positional Embeddings in Modern LLMs",
-   "snippet": "The Methods Behind How LLMs Represent Token Positions",
-   "published_at": "2026-11-15T12:10:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/global/big-brother-is-watching-your-digital-vat/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Big Brother is watching your digital VAT",
-   "snippet": "",
-   "published_at": "2026-11-15T07:19:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/ev-610",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "🔮 The $22 billion question about AI self-improvement #610",
-   "snippet": "Plus: Cheap solar, who pays for Claude & DNA immunotherapy++",
-   "published_at": "2026-11-15T04:47:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-apps 0.4a0",
-   "snippet": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0",
-   "published_at": "2026-11-15T04:02:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-agent 0.6a0",
-   "snippet": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directl",
-   "published_at": "2026-11-15T03:49:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-llm 0.1a11",
-   "snippet": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatibl",
-   "published_at": "2026-11-14T23:59:28+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.9",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.108.9",
-   "snippet": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). This release is signed with the key introduced in [commit `e82a3c6`](ht",
-   "published_at": "2026-11-14T22:00:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-   "snippet": "Community Wisdom 305",
-   "published_at": "2026-11-14T21:15:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/come-meet-us-live-at-granola-hq-in-sf-granolas-vp-of-sales-and-i-will-be-there-to-talk-agents-for-gtm-whats-working-and-what-isnt/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Come Meet Us Live at Granola HQ in SF: Granola’s VP of Sales and I Will Be There to Talk Agents for GTM, What’s Working and What Isn’t",
-   "snippet": "We’re doing something a bit different. No stage, no 5,000 people, no badge line. Just a room at Granola’s HQ in San Francisco on December 8, a real conversation about agents for GTM, and time to hang ",
-   "published_at": "2026-11-14T18:00:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-vega 0.7",
-   "snippet": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I",
-   "published_at": "2026-11-14T17:09:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/our-ai-vp-of-revenue-cant-close-a-deal-yet-it-co-closed-two-six-figure-deals-in-one-week/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "Our AI VP of Revenue Can’t Close a Deal Yet. But It Co-Closed Two Six-Figure Deals in One Week.",
-   "snippet": "In September I wrote that there still isn’t a good AI account executive. Agents had taken over most of our SDR work, much of first-line support and a lot of CSM work, but none of them could close. We ",
-   "published_at": "2026-11-14T15:00:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-   "source": "Interconnects (Nathan Lambert)",
-   "weight": 1.3,
-   "title": "Open-source AI without Jensen",
-   "snippet": "A decapitation. It’s time to rebuild.",
-   "published_at": "2026-11-14T12:23:15+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/saastr-ai-app-of-the-week-scifin-the-nutanix-and-cohesity-founder-raised-44-million-to-close-the-context-gap-in-your-pipeline/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "SaaStr AI App of the Week: SciFin. The Nutanix and Cohesity Founder Raised $44 Million to Build AI for Sales Teams.",
-   "snippet": "SciFin is a sales tool. Let us start there, because its own marketing sometimes buries it under a bigger idea. Every sales organization runs on a picture of the pipeline that nobody fully trusts. The ",
-   "published_at": "2026-11-14T12:00:15+00:00",
    "also_in": []
   }
  ]

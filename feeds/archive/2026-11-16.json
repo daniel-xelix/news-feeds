@@ -2,6 +2,196 @@
  "date": "2026-11-16",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37.3",
+   "snippet": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that <a href=\"https://github.com/sim",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.3",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37.3",
+   "snippet": "- `llm logs` no longer crashes with `AttributeError: 'str' object has no attribute 'get'` on SQLite 3.54.1 and later when a tool result logged by an LLM version before 0.32 has an attachment. Thanks, [Abel Yagubyan](https://github.com/Abelo9996). [#1879](https://github.com/simonw/llm/issues/1879), [#1880](https://github.com/simonw/llm/pull/1880) - An `async def` tool passed to a synchronous model ",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/from-tasks-to-goals",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "From tasks to goals",
+   "snippet": "LangChain CEO and Co-founder Harrison Chase shares how we're moving from task-specific agents to goal-focused agents. Learn more.",
+   "published_at": "2026-11-16T23:53:29+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/series-c",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangChain Raises $300M Series C at $3B Valuation",
+   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+   "published_at": "2026-11-16T23:53:29+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "New context engineering challenges in late 2026",
+   "snippet": "LangChain CEO Harrison Chase shares insights into the biggest harness engineering challenges with the emergence of proactive agents.",
+   "published_at": "2026-11-16T23:53:29+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.34.0",
+   "snippet": "# v0.34.0 **1,061 commits from 412 contributors (120 new).** Thank you! ## TL;DR - **10 new models** (Mistral Large 4, MiniMax-M3.1-Flash, Nemotron-3.5-Transcribe, and more!) - **Extensible KV cache is on by default:** vLLM sizes the KV cache from memory actually free after warmup, so most models get a bigger cache and more throughput. - **Model Runner V1 is gone.** Model Runner V2 is now the only",
+   "published_at": "2026-11-16T23:22:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+   "snippet": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the...",
+   "published_at": "2026-11-16T22:30:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.326",
+   "snippet": "## What's changed - Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode - Added a startup warning when an `--allowedTools`, `--disallowedTools` or `--tools` value has an entry that doesn't look like a complete rule - Added a message explaining why MCP servers stop loading when an administrator adds `manage",
+   "published_at": "2026-11-16T22:11:05+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.10",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.108.10",
+   "snippet": "## Verify Docker Image Signature ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.108.10 ``` ## What's Changed * fix(openai): backport #49176 to lts/1.108.x by @norkelbyte in https://github.com/BerriAI/litellm/p",
+   "published_at": "2026-11-16T21:57:41+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/california-sues-openai-hugging-face",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
+   "snippet": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a new lawsuit.",
+   "published_at": "2026-11-16T21:40:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/bfl/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+   "snippet": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+   "published_at": "2026-11-16T21:38:03+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/former-x-strategies-cfo-files-counterclaim-cofounder-engaged-com/874814/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Former X Strategies CFO hits back at company in counterclaim",
+   "snippet": "Derek Utley’s counterclaim comes after the social media consultancy company, which has ties to President Donald Trump, sued the former co-founder.",
+   "published_at": "2026-11-16T20:59:07+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/warsh-says-fed-examining-ai-boost-jolt-us-economy-cyberattack/874809/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Warsh says Fed examining whether AI will boost or jolt US economy",
+   "snippet": "“Will adversaries race to deploy SI, intending to do harm to our economy?” Federal Reserve Chairman Kevin Warsh asked, referring to “super intelligence,” a synonym for artificial intelligence.",
+   "published_at": "2026-11-16T20:46:27+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.41.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.41.0",
+   "snippet": "## 1.41.0 (2026-11-16) ## What's Changed ### Features * feat(verify-openhands): scenarios beyond the happy path, `map controls`, `browser timezone` by @enyst in https://github.com/OpenHands/OpenHands/pull/19670 * feat(acp): choose the reasoning effort from what the agent reports by @simonrosenberg in https://github.com/OpenHands/OpenHands/pull/19436 * feat(hooks): name the workspace and user hooks",
+   "published_at": "2026-11-16T20:46:02+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/jpmorgan-updates-ar-platform-help-unstick-working-capital/874810/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "JPMorgan updates AR platform to help free up working capital",
+   "snippet": "The bank, which has been in the receivables business for decades, has recently taken steps to modernize its platform, JPMorgan’s Michelle Conklin said.",
+   "published_at": "2026-11-16T20:46:01+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/ireland-tinder-privacy-fine",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Match fined $10 million for alleged Tinder privacy violations",
+   "snippet": "Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.",
+   "published_at": "2026-11-16T20:15:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/spons/cfos-need-a-portfolio-strategy-for-ai-models/874450/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "CFOs need a portfolio strategy for AI models",
+   "snippet": "AI model choice isn’t just technical. Matching the model to the task helps CFOs control cost.",
+   "published_at": "2026-11-16T18:52:18+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/how-nvidias-crisis-could-end-the",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "How NVIDIA’s Crisis Could End the AI Industry as We Know It",
+   "snippet": "Jensen Huang is gone. What happens next?",
+   "published_at": "2026-11-16T18:42:02+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Why we rebuilt LangSmith around the agent",
+   "snippet": "We reorganized LangSmith around a single agent record. Build, run, improve, and govern every agent from one place, on any framework or runtime.",
+   "published_at": "2026-11-16T18:37:11+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
    "source": "The Record",
    "weight": 0.9,
@@ -69,6 +259,16 @@
    "snippet": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.",
    "published_at": "2026-11-16T17:00:00+00:00",
    "first_seen": "2026-11-16T18:25:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/bessent-calls-nvidia-shake-up-longtime-cfo-takes-reins/874775/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Bessent calls for Nvidia shake-up as longtime CFO takes reins",
+   "snippet": "The Treasury secretary urged Nvidia to appoint an outside CEO, while questioning whether potentially illicit chip sales to China were used to “goose” earnings.",
+   "published_at": "2026-11-16T16:56:51+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
    "also_in": []
   },
   {
@@ -329,6 +529,16 @@
    "snippet": "",
    "published_at": "2026-11-16T07:50:52+00:00",
    "first_seen": "2026-11-16T18:25:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway now supports Private Inference",
+   "snippet": "Private Inference connects your own model endpoints to AI Gateway . Enterprises running fine-tuned, self-hosted, or prerelease models used to need separate keys, client code, and logs for them. Those models can now run through the same authentication, SDKs and APIs , and observability as <a hre",
+   "published_at": "2026-11-16T07:47:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
    "also_in": []
   },
   {
@@ -619,6 +829,76 @@
    "snippet": "Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions.",
    "published_at": "2026-11-16T00:00:00+00:00",
    "first_seen": "2026-11-16T18:25:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "snippet": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/road-to-together-compiler",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Last year we built megakernels. This year we deleted them: The road to Together Compiler",
+   "snippet": "Together Compiler uses AI agents to rewrite and fuse the GPU kernels in a model’s forward pass. It beats hand-written megakernels by 28% on B200 (2,118 vs 1,649 tokens/s on Llama 3.2 1B). This is how we got from one to the other.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Making open models work for long-horizon agentic workloads",
+   "snippet": "Every agent turn resends the full session. Together AI and Ollama break down how to protect the prefix cache, from the harness to the GPU.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Seedance 2.5 Flash now available on AI Gateway",
+   "snippet": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, v",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Set budgets for projects and products in Spend Management",
+   "snippet": "Spend Management now supports budgets for individual projects and products, alongside existing team budgets. Project budgets: Track spend for one project and optionally pause its production deployments when the budget is reached, without pausing other projects. Product budgets: Track spend on one product, such as Fast Data Transfer, across your team. Only team and project budgets",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/big-code-report-2026",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "AI writes the code. Engineers still have to understand it.",
+   "snippet": "Sourcegraph's 2026 Big Code report surveyed 1,028 people responsible for software development on how teams understand, review and change large codebases as AI writes more of the code.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "Strategic Decision or Structural Advantage?",
+   "snippet": "Sixteen weeks of Databricks Unity Gateway telemetry across 10,000+ enterprises show Anthropic & OpenAI splitting the market by tier. Anthropic captures 94% of frontier SOTA tokens & 70% of proprietary spend, while OpenAI captures 81% of low-end tokens & coincides with open-weight share stalling at 31% after cutting Luna prices by 90%.",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen": "2026-11-17T02:53:57+00:00",
    "also_in": []
   }
  ]
