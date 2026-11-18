@@ -1,0 +1,205 @@
+{
+ "set": "latest",
+ "page": 9,
+ "pages": 9,
+ "items": [
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-maplibre 0.1a0",
+   "snippet": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated",
+   "published_at": "2026-11-15T23:58:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 1.0a43",
+   "snippet": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support",
+   "published_at": "2026-11-15T23:20:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette 0.65.6",
+   "snippet": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from i",
+   "published_at": "2026-11-15T23:18:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-mistralai==1.2.0",
+   "snippet": "Changes since langchain-mistralai==1.1.6 fix(mistralai): fix streaming behavior for reasoning models (#41887) fix(groq,mistralai,xai): bump deps (#41884) chore(model-profiles): refresh model profile d",
+   "published_at": "2026-11-15T22:38:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "A step toward defining the Standard Model on a lattice",
+   "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "published_at": "2026-11-15T22:00:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Our new blog for science",
+   "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "published_at": "2026-11-15T22:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-groq==1.2.0",
+   "snippet": "Changes since langchain-groq==1.1.3 fix(groq): specify reasoning_effort in integration tests (#41886) fix(groq,mistralai,xai): bump deps (#41884) release(groq): 1.2.0 (#41856) feat(groq): route `ChatG",
+   "published_at": "2026-11-15T21:49:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-xai%3D%3D1.4.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-xai==1.4.0",
+   "snippet": "Changes since langchain-xai==1.3.0 fix(groq,mistralai,xai): bump deps (#41884) release(xai): 1.4.0 (#41857) feat(xai): route `ChatXAI` through LangSmith gateway (#41838) feat(partners): Remove EOL'd P",
+   "published_at": "2026-11-15T21:35:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-deepseek%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-deepseek==1.2.0",
+   "snippet": "Changes since langchain-deepseek==1.1.1 release(deepseek): 1.2.0 (#41858) feat(deepseek): route `ChatDeepSeek` through LangSmith gateway (#41839) feat(partners): Remove EOL'd Python 3.10 from partner ",
+   "published_at": "2026-11-15T21:34:41+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Qwen4-Max now available on AI Gateway",
+   "snippet": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. ",
+   "published_at": "2026-11-15T20:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+   "source": "JetBrains AI blog",
+   "weight": 1.0,
+   "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+   "snippet": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programmin",
+   "published_at": "2026-11-15T17:02:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Starling founder Anne Boden plots new AI-powered bank",
+   "snippet": "",
+   "published_at": "2026-11-15T16:33:09+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.1",
+   "snippet": "Changes since langchain-core==1.8.0 release(core): 1.8.1 (#41855) chore(deps): bump soupsieve from 4.0 to 4.1 in /libs/core (#41850) feat(core): per-context LangSmith gateway override via `langsmith_g",
+   "published_at": "2026-11-15T14:57:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+   "snippet": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+   "published_at": "2026-11-15T13:31:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "source": "Sebastian Raschka",
+   "weight": 1.2,
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "snippet": "The Methods Behind How LLMs Represent Token Positions",
+   "published_at": "2026-11-15T12:10:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/big-brother-is-watching-your-digital-vat/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Big Brother is watching your digital VAT",
+   "snippet": "",
+   "published_at": "2026-11-15T07:19:52+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/ev-610",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "🔮 The $22 billion question about AI self-improvement #610",
+   "snippet": "Plus: Cheap solar, who pays for Claude & DNA immunotherapy++",
+   "published_at": "2026-11-15T04:47:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-apps 0.4a0",
+   "snippet": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0",
+   "published_at": "2026-11-15T04:02:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-agent 0.6a0",
+   "snippet": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directl",
+   "published_at": "2026-11-15T03:49:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-llm 0.1a11",
+   "snippet": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatibl",
+   "published_at": "2026-11-14T23:59:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.9",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.9 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --key https://",
+   "published_at": "2026-11-14T22:00:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+   "snippet": "Community Wisdom 305",
+   "published_at": "2026-11-14T21:15:46+00:00",
+   "also_in": []
+  }
+ ]
+}

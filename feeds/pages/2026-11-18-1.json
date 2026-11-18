@@ -1,87 +1,276 @@
 {
  "set": "2026-11-18",
  "page": 1,
- "pages": 1,
+ "pages": 3,
  "items": [
   {
-   "url": "https://www.vatcalc.com/global/the-e-invoicing-simplification-illusion/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "The E-Invoicing simplification illusion",
-   "snippet": "",
-   "published_at": "2026-11-18T07:00:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/",
-   "source": "Sifted",
+   "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+   "source": "NVIDIA developer blog",
    "weight": 1.0,
-   "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:46+00:00",
+   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+   "snippet": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
+   "published_at": "2026-11-18T17:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "8 key findings from Atomico’s State of European Tech report",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "weight": 1.0,
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "snippet": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps",
-   "published_at": "2026-11-18T02:52:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.110.0",
-   "snippet": "## Verify Docker Image Signature ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer ht",
-   "published_at": "2026-11-18T01:36:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-   "source": "The Record",
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.2",
+   "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
-   "title": "Uber says nearly 150,000 impacted by third-party breach",
-   "snippet": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
-   "published_at": "2026-11-18T01:20:00+00:00",
+   "title": "langchain-ai/langchain langchain-openai==1.8.2",
+   "snippet": "Changes since langchain-openai==1.8.1 fix(openai): don't share the async HTTP client between models (#41944) feat(openai): support GPT-6.2 Astra and Sol (#41922) feat(openai): send `langsmith_gateway`",
+   "published_at": "2026-11-18T16:53:05+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.42",
+   "snippet": "## What's Changed ### Features - Make ChromaDB an optional extra - Default Knowledge to local Qdrant and decouple storage from ChromaDB - Pick tools for standalone agents and add them later ### Bug Fi",
+   "published_at": "2026-11-18T16:38:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.42.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.42.0",
+   "snippet": "## 1.42.0 (2026-11-18) ## What's Changed ### Features * feat(cloud): pick the exact connected git provider for repositories by @tofarr in https://github.com/OpenHands/OpenHands/pull/19762 * feat(verif",
+   "published_at": "2026-11-18T16:36:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
    "source": "LangChain blog",
    "weight": 1.0,
-   "title": "How to Choose the Right Sandbox for AI Agents",
-   "snippet": "Learn how to choose a secure sandbox for AI agents, with guidance on filesystem isolation, network access, resource limits, and microVMs.",
-   "published_at": "2026-11-18T00:46:14+00:00",
+   "title": "LangSmith for Coding Agents: Now track spend by outcome",
+   "snippet": "LangSmith now offers reporting built for coding agents, along with new capabilities that tie their spend to the pull requests they produce.",
+   "published_at": "2026-11-18T16:27:01+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.cfodive.com/news/nvidia-projects-75-growth-leadership-upheaval-earnings/875000/",
-   "source": "CFO Dive",
+   "url": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+   "snippet": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
+   "published_at": "2026-11-18T16:07:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/aci-worldwides-ceo-heads-out/875047/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "ACI Worldwide’s CEO heads out",
+   "snippet": "Thomas Warsop is leaving the payments software company, with insiders taking over leadership until he’s replaced.",
+   "published_at": "2026-11-18T16:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111721/betanxt-partners-with-taurus-to-bring-tokenised-securities-into-existing-workflows",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "BetaNXT partners with Taurus to bring tokenised securities into existing workflows",
+   "snippet": "BetaNXT, a leading provider of wealth management technology solutions with real-time data capabilities and advanced AI innovation, today announced a partnership with Taurus, a leader in digital asset ",
+   "published_at": "2026-11-18T15:59:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Quoting Daniel Stenberg",
+   "snippet": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during thes",
+   "published_at": "2026-11-18T15:58:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111720/arcesium-introduces-front-to-back-hedge-fund-platform-for-launching-and-emerging-funds",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Arcesium introduces front-to-back hedge fund platform for launching and emerging funds",
+   "snippet": "Arcesium, a leading global financial technology provider to the investment industry, today launches Arcesium Blue (Blue), a comprehensive, AI-ready front-to-back hedge fund platform that combines clou",
+   "published_at": "2026-11-18T15:57:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain==1.5.1",
+   "snippet": "Changes since langchain==1.5.0 release(langchain): 1.5.1 (#41943) fix(core): keep warning suppression context-local (#41881) fix(langchain): avoid warning-filter races in provider inference (#41880) f",
+   "published_at": "2026-11-18T15:45:13+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Klarna launches AI ‘concierge’",
+   "snippet": "The buy now, pay later provider has waded into agentic commerce with a new tool and aims to expand its longer-term loan portfolio.",
+   "published_at": "2026-11-18T15:45:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.3",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.3",
+   "snippet": "Changes since langchain-core==1.8.2 release(core): 1.8.3 (#41942) fix(core): keep warning suppression context-local (#41881) chore(infra): update vulnerable development dependencies (#41933)",
+   "published_at": "2026-11-18T15:38:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "New Zealand banks form fraud intelligence sharing network",
+   "snippet": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
+   "published_at": "2026-11-18T15:29:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111719/anz-migrates-data-platform-to-aws",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "ANZ migrates data platform to AWS",
+   "snippet": "ANZ has completed the migration of one of its largest data platforms to Amazon Web Services (AWS), establishing a modern, scalable foundation to support the bank's growing use of data, analytics and A",
+   "published_at": "2026-11-18T15:26:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.11",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.11",
+   "snippet": "Changes since langchain-anthropic==1.7.10 release(anthropic): 1.7.11 (#41929) feat(anthropic): send `langsmith_gateway` headers from the client (#41902) feat(anthropic): support Claude Fable and Mytho",
+   "published_at": "2026-11-18T15:20:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.substack.com/p/quickly-theres-no-time",
+   "source": "Don't Worry About the Vase (Zvi)",
+   "weight": 1.2,
+   "title": "Quickly, There’s No Time",
+   "snippet": "In response to the METR report, many people have been reevaluating their timelines.",
+   "published_at": "2026-11-18T15:18:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/payhawk-series-c/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "How Payhawk raised $280m amid fintech downturn",
+   "snippet": "",
+   "published_at": "2026-11-18T15:03:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "US bank outages caused by software bug at JPMorgan Chase",
+   "snippet": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Meanwhile, experts have claimed that the rash of such outages in recent days - ",
+   "published_at": "2026-11-18T15:02:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "source": "Hugging Face blog",
    "weight": 1.3,
-   "title": "Nvidia interim CEO seeks to reassure investors after Huang’s downfall",
-   "snippet": "In her first earnings call as interim CEO, Colette Kress sought to assure investors that Nvidia’s customers and partners are still “100% up behind us” amid turmoil.",
-   "published_at": "2026-11-18T00:07:42+00:00",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "snippet": "",
+   "published_at": "2026-11-18T15:00:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/anthropic-will-get-to-100b-in-revenue-with-7-of-the-headcount-google-and-meta-needed/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Anthropic Will Get to $100B in Revenue with ~7% of the Headcount Google and Meta Needed",
+   "snippet": "Jon Ma posted Brad Gerstner’s Anthropic thesis from TomorrowX this morning. Google needed about 100,000 people to get to $100B in revenue. Anthropic will get there with about 5,000. The money Google s",
+   "published_at": "2026-11-18T15:00:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+   "snippet": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...",
+   "published_at": "2026-11-18T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111718/jeeves-secures-300m-in-financing",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Jeeves secures $300m in financing",
+   "snippet": "Jeeves, the global financial operating system for enterprises that operate in multiple countries, today announced new funding from Neuberger Berman Specialty Finance, bringing financing capacity to $3",
+   "published_at": "2026-11-18T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/event-info/643/on-demand--beyond-fraud-detection-why-dispute-management-needs-an-overhaul",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "On-Demand – Beyond fraud detection: Why dispute management needs an overhaul",
+   "snippet": "Post-incident fraud management needs to adapt. But how?",
+   "published_at": "2026-11-18T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The PSF end-of-year fundraiser",
+   "snippet": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python co",
+   "published_at": "2026-11-18T14:44:48+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48777/visa-expands-agentic-ready-programme-to-acceptance-ecosystem",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Visa expands Agentic Ready programme to acceptance ecosystem",
+   "snippet": "Visa has expanded its Agentic Ready programme to the merchant acceptance ecosystem, signing up big names including Fiserv, PayPal and Stripe.",
+   "published_at": "2026-11-18T14:29:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111717/miden-and-visa-partner-on-commercial-card-issuing-for-african-businesses",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Miden and Visa partner on commercial card issuing for African businesses",
+   "snippet": "Miden, an enterprise payment infrastructure provider, has announced a collaboration with Visa, a global leader in digital payments, aimed at expanding digital commercial payment capabilities for mid t",
+   "published_at": "2026-11-18T13:55:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111716/nomupay-joins-amazon-web-services-marketplace",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Nomupay joins Amazon Web Services marketplace",
+   "snippet": "Nomupay, the global fintech that offers a unified end-to-end payments platform through a single integration, announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendo",
+   "published_at": "2026-11-18T13:54:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33503/the-intersection-of-autonomous-ai-agents-enterprise-liability-and-insurance-underwriting",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-18T13:48:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111714/lianlian-digitech-and-via-complete-live-agentic-b2b-transaction",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Lianlian DigiTech and Via complete live agentic B2B transaction",
+   "snippet": "Lianlian DigiTech (HKEX: 2598) and Visa (NYSE: V), a global leader in digital payments, today announced the next phase of their collaboration to advance trusted B2B agentic commerce.",
+   "published_at": "2026-11-18T13:48:00+00:00",
    "also_in": []
   }
  ]
