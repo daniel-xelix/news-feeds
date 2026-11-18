@@ -4,6 +4,51 @@
  "pages": 3,
  "items": [
   {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.327",
+   "snippet": "## What's changed - Added a confirmation before `/install-github-app` changes a repository - Added `claude mcp add-json -` to read the server's JSON from stdin, so tokens can stay off the command line",
+   "published_at": "2026-11-17T23:17:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "External sandboxes for coding agents",
+   "snippet": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or",
+   "published_at": "2026-11-17T22:52:29+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.2",
+   "snippet": "Changes since langchain-core==1.8.1 feat(core): add `headers` to `langsmith_gateway` and ignore proxies (#41900) docs(core): clarify when to override `aparse_result` (#41894) fix(core): avoid warning-",
+   "published_at": "2026-11-17T22:42:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "snippet": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're avai",
+   "published_at": "2026-11-17T22:38:52+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.11",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.11 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
+   "published_at": "2026-11-17T22:29:13+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
    "source": "The Record",
    "weight": 0.9,
@@ -13,12 +58,30 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/874979/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Intel shareholders sue CEO, CFO after stock rout",
+   "snippet": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim.",
+   "published_at": "2026-11-17T21:01:40+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.cfodive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/874976/",
    "source": "CFO Dive",
    "weight": 1.3,
    "title": "Economic optimism plunges to lowest level since Great Recession: Gallup",
    "snippet": "The public perception of the economy has “become increasingly detached from GDP since 2022, following the spike in inflation and the slowdown in wage growth,” Gallup said.",
    "published_at": "2026-11-17T20:54:39+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/home-depot-cfo-jumps-ceo-seat-as-housing-market-flatlines/874972/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Home Depot CFO jumps to CEO seat as housing market sags",
+   "snippet": "The home improvement retailer’s longtime finance chief Richard McPhail will take the company’s top post on Nov. 23.",
+   "published_at": "2026-11-17T20:45:18+00:00",
    "also_in": []
   },
   {
@@ -208,69 +271,6 @@
    "title": "The Family cofounder sentenced to 16 months in prison",
    "snippet": "",
    "published_at": "2026-11-17T15:40:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: Munich-based humanoid startup Vesoma seeks €50m",
-   "snippet": "",
-   "published_at": "2026-11-17T15:07:38+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/how-fast-do-you-really-have-to-be-growing-to-raise-venture-capital-today-1m-to-100m-arr-in-5-years/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "How Fast Do You Really Have to Be Growing to Raise Venture Capital Today? $1M to $100M ARR in 5 Years, Max. But VCs Are Hoping for 2-3 Years",
-   "snippet": "Of course, even faster is better 😉 A top topic with founders and VCs who have been around since the pre-AI era: is T2D3 dead? Is 100% growth … too low? Do I need to be an AI company? My simplification",
-   "published_at": "2026-11-17T15:00:49+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/cloudflare/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
-   "snippet": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
-   "published_at": "2026-11-17T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.understandingai.org/p/i-spoke-to-seven-physics-experts",
-   "source": "Understanding AI (Timothy B. Lee)",
-   "weight": 1.0,
-   "title": "I spoke to seven physics experts grappling with the AI revolution",
-   "snippet": "AI can now do the calculations. What’s left for theoretical physicists?",
-   "published_at": "2026-11-17T14:51:56+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/jpmorgan-chase-names-next-cfo-debest-barnum-finance-chief/874907/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "JPMorgan names next CFO",
-   "snippet": "Bregje de Best, 43, will take the CFO reins from Jeremy Barnum in April. Barnum, who’s been finance chief for six years, will remain at the company through early 2028 as a vice chairman.",
-   "published_at": "2026-11-17T14:42:56+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.bensbites.com/p/productiv-icky",
-   "source": "Ben's Bites",
-   "weight": 1.0,
-   "title": "Productiv-icky",
-   "snippet": "Digging holes on the beach",
-   "published_at": "2026-11-17T14:14:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
-   "snippet": "",
-   "published_at": "2026-11-17T14:00:45+00:00",
    "also_in": []
   }
  ]

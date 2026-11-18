@@ -2,6 +2,56 @@
  "date": "2026-11-17",
  "items": [
   {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.327",
+   "snippet": "## What's changed - Added a confirmation before `/install-github-app` changes a repository - Added `claude mcp add-json -` to read the server's JSON from stdin, so tokens can stay off the command line; not available inside a Claude Code session - Added a line when a resumed session's earlier messages can't be loaded - Added a list in `/status` of broken agent, skill, command and output style files",
+   "published_at": "2026-11-17T23:17:45+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "External sandboxes for coding agents",
+   "snippet": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab be",
+   "published_at": "2026-11-17T22:52:29+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.2",
+   "snippet": "Changes since langchain-core==1.8.1 feat(core): add `headers` to `langsmith_gateway` and ignore proxies (#41900) docs(core): clarify when to override `aparse_result` (#41894) fix(core): avoid warning-filter races during schema creation (#41882)",
+   "published_at": "2026-11-17T22:42:53+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "snippet": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38",
+   "published_at": "2026-11-17T22:38:52+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.11",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.11 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.",
+   "published_at": "2026-11-17T22:29:13+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
    "source": "The Record",
    "weight": 0.9,
@@ -12,6 +62,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/874979/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Intel shareholders sue CEO, CFO after stock rout",
+   "snippet": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim.",
+   "published_at": "2026-11-17T21:01:40+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.cfodive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/874976/",
    "source": "CFO Dive",
    "weight": 1.3,
@@ -19,6 +79,16 @@
    "snippet": "The public perception of the economy has “become increasingly detached from GDP since 2022, following the spike in inflation and the slowdown in wage growth,” Gallup said.",
    "published_at": "2026-11-17T20:54:39+00:00",
    "first_seen": "2026-11-17T22:15:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/home-depot-cfo-jumps-ceo-seat-as-housing-market-flatlines/874972/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Home Depot CFO jumps to CEO seat as housing market sags",
+   "snippet": "The home improvement retailer’s longtime finance chief Richard McPhail will take the company’s top post on Nov. 23.",
+   "published_at": "2026-11-17T20:45:18+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
    "also_in": []
   },
   {
@@ -452,6 +522,16 @@
    "also_in": []
   },
   {
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Introducing ChatGPT for Sales",
+   "snippet": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "published_at": "2026-11-17T08:00:00+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.vatcalc.com/malta/malta-ai-adoptions-brings-in-e738m-in-vat/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
@@ -773,6 +853,16 @@
    "snippet": "LanceDB raised a $57.5m Series B ($98.5m total) after growing revenue >10x YoY & open-source downloads 6x to 120m+. Across Exa, Runway, Microsoft AI, Adobe & NVIDIA, teams are replacing fragmented blob, Parquet & vector copies with a single multimodal lakehouse supporting 100b rows, 40b+ vectors & 8k+ GPUs training in parallel.",
    "published_at": "2026-11-17T00:00:00+00:00",
    "first_seen": "2026-11-17T22:15:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/monorepo-code-search-ai-coding-agents",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Why large monorepos need code search, especially with AI coding agents",
+   "snippet": "Monorepos put all your code in one place, but local tools, sparse checkouts, and AI coding agents only see a slice of it. Here is why large monorepos need code search and precise navigation.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen": "2026-11-18T07:16:35+00:00",
    "also_in": []
   }
  ]
