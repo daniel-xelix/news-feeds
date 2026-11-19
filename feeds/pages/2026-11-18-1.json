@@ -4,6 +4,15 @@
  "pages": 5,
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-gemini 0.38",
+   "snippet": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Ge",
+   "published_at": "2026-11-18T23:59:20+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.2",
    "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
@@ -109,6 +118,33 @@
    "title": "How CFOs can shape mentorship for AI-age talent",
    "snippet": "As AI takes over routine finance tasks, CFOs on the lookout for talent need to rethink their approach to mentorship, Randstad USA’s Jill Eubank said.",
    "published_at": "2026-11-18T19:39:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/langsmith-alerts",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Catch production failures early with LangSmith Alerts",
+   "snippet": "Set up real‑time notifications on error rates, run latency & feedback scores to spot failures before your customers do.",
+   "published_at": "2026-11-18T19:33:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/fix-your-coding-agent-bill",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Your coding agent bill doubled. Here’s how to fix it.",
+   "snippet": "Learn why coding agent bills spiral out of control — and how to trace, compare, and govern spend across Claude Code, Cursor, Copilot, and more in one place.",
+   "published_at": "2026-11-18T19:33:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/announcing-data-annotation-queue",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Announcing Data Annotation Queues",
+   "snippet": "Review logs, annotate data, and build datasets with LangSmith's Data Annotation Queues. Improve LLM app performance from prototype to production.",
+   "published_at": "2026-11-18T19:33:12+00:00",
    "also_in": []
   },
   {
@@ -235,42 +271,6 @@
    "title": "langchain-ai/langchain langchain-groq==1.2.1",
    "snippet": "Changes since langchain-groq==1.2.0 release(groq): 1.2.1 (#41930) feat(groq): send `langsmith_gateway` headers from the client (#41903)",
    "published_at": "2026-11-18T17:27:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33508/the-new-architecture-of-money-the-challenges-of-building-a-247-global-payment-system-part-3",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "The New Architecture of Money: The Challenges of Building a 24/7 Global Payment System (Part 3)",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-18T17:16:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
-   "snippet": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.2",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.2",
-   "snippet": "Changes since langchain-openai==1.8.1 fix(openai): don't share the async HTTP client between models (#41944) feat(openai): support GPT-6.2 Astra and Sol (#41922) feat(openai): send `langsmith_gateway`",
-   "published_at": "2026-11-18T16:53:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.42",
-   "snippet": "## What's Changed ### Features - Make ChromaDB an optional extra - Default Knowledge to local Qdrant and decouple storage from ChromaDB - Pick tools for standalone agents and add them later ### Bug Fi",
-   "published_at": "2026-11-18T16:38:31+00:00",
    "also_in": []
   }
  ]

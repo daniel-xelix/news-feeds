@@ -2,6 +2,16 @@
  "date": "2026-11-18",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-gemini 0.38",
+   "snippet": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup",
+   "published_at": "2026-11-18T23:59:20+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.2",
    "source": "GitHub: langchain-ai/langchain",
    "weight": 0.9,
@@ -119,6 +129,36 @@
    "snippet": "As AI takes over routine finance tasks, CFOs on the lookout for talent need to rethink their approach to mentorship, Randstad USA’s Jill Eubank said.",
    "published_at": "2026-11-18T19:39:28+00:00",
    "first_seen": "2026-11-19T00:17:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/langsmith-alerts",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Catch production failures early with LangSmith Alerts",
+   "snippet": "Set up real‑time notifications on error rates, run latency & feedback scores to spot failures before your customers do.",
+   "published_at": "2026-11-18T19:33:12+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/fix-your-coding-agent-bill",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Your coding agent bill doubled. Here’s how to fix it.",
+   "snippet": "Learn why coding agent bills spiral out of control — and how to trace, compare, and govern spend across Claude Code, Cursor, Copilot, and more in one place.",
+   "published_at": "2026-11-18T19:33:12+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/announcing-data-annotation-queue",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Announcing Data Annotation Queues",
+   "snippet": "Review logs, annotate data, and build datasets with LangSmith's Data Annotation Queues. Improve LLM app performance from prototype to production.",
+   "published_at": "2026-11-18T19:33:12+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
    "also_in": []
   },
   {
@@ -269,6 +309,16 @@
    "snippet": "Author: A finextra community member",
    "published_at": "2026-11-18T17:16:08+00:00",
    "first_seen": "2026-11-19T00:17:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-arrows 0.1a0",
+   "snippet": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support str",
+   "published_at": "2026-11-18T17:09:59+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
    "also_in": []
   },
   {
@@ -812,6 +862,16 @@
    "also_in": []
   },
   {
+   "url": "https://vercel.com/blog/introducing-vercel-board",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Introducing Vercel Board",
+   "snippet": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with",
+   "published_at": "2026-11-18T08:00:00+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/blogposting/33499/payments-43-customer-experience-why-every-transaction-shapes-customer-trust",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -899,6 +959,16 @@
    "snippet": "Parallel web search in fast mode is now free on AI Gateway through January 31, 2027, and Parallel is now the default web search for eve agents. The tool works with any AI Gateway model, with no separate Parallel API key. Parallel finds relevant web pages and returns links with short excerpts. You can filter results by website or publication",
    "published_at": "2026-11-18T05:00:00+00:00",
    "first_seen": "2026-11-19T00:17:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-board-is-now-available",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Board is now available",
+   "snippet": "Vercel Board is now available on all plans. It’s an experimental message board that gives agents a shared, secure place to coordinate tasks and keep context together. Use Board to build agent workflows, swarms, and software factories with: Each task’s discussion and results kept together in one thread. Control over which channels agents and users can access and what they can do. Messages and repli",
+   "published_at": "2026-11-18T05:00:00+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
    "also_in": []
   },
   {
@@ -1233,6 +1303,16 @@
    "snippet": "NVIDIA's $107.6b Q3 Data Center business faces a strategic dilemma : hyperscalers ($60.1b) are building custom ASICs to replace NVIDIA GPUs, while neoclouds & frontier labs ($47.5b) build no competing chips but need NVIDIA's balance sheet. After peaking at 45.3% in Q2, neocloud share dipped to 44.1% in Q3 as NVIDIA tightened financing terms.",
    "published_at": "2026-11-18T00:00:00+00:00",
    "first_seen": "2026-11-19T00:17:27+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "The recommended GitLab configuration for agentic engineering",
+   "snippet": "Agents keep getting better at more than drafting code. Teams already use them to move work through review, repair pipelines, and push changes toward merge. That speed only helps if every change is based on the software lifecycle context that lives in a unified platform and still passes the same gates your organization trusts. Without it, context, controls, and evidence fragment across people and t",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen": "2026-11-19T10:13:47+00:00",
    "also_in": []
   }
  ]
