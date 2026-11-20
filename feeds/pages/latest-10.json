@@ -1,8 +1,179 @@
 {
  "set": "latest",
  "page": 10,
- "pages": 12,
+ "pages": 11,
  "items": [
+  {
+   "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+   "snippet": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/monorepo-code-search-ai-coding-agents",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "Why large monorepos need code search, especially with AI coding agents",
+   "snippet": "Monorepos put all your code in one place, but local tools, sparse checkouts, and AI coding agents only see a slice of it. Here is why large monorepos need code search and precise navigation.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/cisa-2030-cyber-strategy/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "What CISA’s new cyber strategy means for how you ship software",
+   "snippet": "On October 26, 2026, the Cybersecurity and Infrastructure Security Agency released CISA 2030: Defend, Harden, Prevail , three pillars of a four-year strategy for securing the nation’s critical infrast",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA's Rubin HPC (2 minute read)",
+   "snippet": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be ",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Tencent Launches Hy4 flash (4 minute read)",
+   "snippet": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude was trained on protein sequences at scale (26 minute read)",
+   "snippet": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model ",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Measuring alignment eval tells (16 minute read)",
+   "snippet": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra ag",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://world-2030.pages.dev/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "World 2030 (8 minute read)",
+   "snippet": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.liquid.ai/blog/d1-2",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
+   "snippet": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and ",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch (7 minute read)",
+   "snippet": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numeric",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI's first phase of embedded assessments (11 minute read)",
+   "snippet": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The acc",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://research.perplexity.ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The frontier is still open (16 minute read)",
+   "snippet": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How the Claude Code team thinks about verification (14 minute read)",
+   "snippet": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini Notebook Turns Sources Into Interactive Sites (1 minute read)",
+   "snippet": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "California state AG sues OpenAI over rogue agent incidents (5 minute read)",
+   "snippet": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/the-lakehouse-for-ai/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "The Lakehouse for AI",
+   "snippet": "LanceDB raised a $57.5m Series B ($98.5m total) after growing revenue >10x YoY & open-source downloads 6x to 120m+. Across Exa, Runway, Microsoft AI, Adobe & NVIDIA, teams are replacing fragmented blo",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37.3",
+   "snippet": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix tha",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.3",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37.3",
+   "snippet": "- `llm logs` no longer crashes with `AttributeError: 'str' object has no attribute 'get'` on SQLite 3.54.1 and later when a tool result logged by an LLM version before 0.32 has an attachment. Thanks, ",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.34.0",
+   "snippet": "# v0.34.0 **1,061 commits from 412 contributors (120 new).** Thank you! ## TL;DR - **10 new models** (Mistral Large 4, MiniMax-M3.1-Flash, Nemotron-3.5-Transcribe, and more!) - **Extensible KV cache i",
+   "published_at": "2026-11-16T23:22:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
    "source": "NVIDIA developer blog",
@@ -100,177 +271,6 @@
    "title": "JPMorgan cards chief to depart",
    "snippet": "Allison Beer, CEO of card and connected commerce, will leave JPMorgan for an external opportunity, according to a company memo.",
    "published_at": "2026-11-16T16:51:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.exponentialview.co/p/what-anthropic-is-really-listing",
-   "source": "Exponential View (Azeem Azhar)",
-   "weight": 1.0,
-   "title": "🔮 What Anthropic is really listing",
-   "snippet": "Tithes, not tokens",
-   "published_at": "2026-11-16T16:36:16+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "OpenAI wallet taps card networks",
-   "snippet": "The artificial intelligence company has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express.",
-   "published_at": "2026-11-16T16:35:31+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-   "snippet": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-   "published_at": "2026-11-16T16:02:55+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Starling Bank CEO to step down at the end of the year",
-   "snippet": "",
-   "published_at": "2026-11-16T16:01:40+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
-   "snippet": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents...",
-   "published_at": "2026-11-16T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
-   "snippet": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation",
-   "published_at": "2026-11-16T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
-   "snippet": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf...",
-   "published_at": "2026-11-16T16:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "SAP Completes Acquisition of TechWolf",
-   "snippet": "WALLDORF — SAP has completed the acquisition of the AI work intelligence platform provider.",
-   "published_at": "2026-11-16T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
-   "source": "The Pragmatic Engineer (Gergely Orosz)",
-   "weight": 1.2,
-   "title": "Software engineering after code becomes cheap with Satya Nadella",
-   "snippet": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.",
-   "published_at": "2026-11-16T13:33:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
-   "source": "Lenny's Newsletter",
-   "weight": 1.0,
-   "title": "How I fight token fraud as a solo founder",
-   "snippet": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
-   "published_at": "2026-11-16T13:04:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "Order Management Built Straight into SAP",
-   "snippet": "The fewer systems you have to stitch together, the fewer things there are to break.",
-   "published_at": "2026-11-16T12:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/science-at-the-frontier",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Science at the Frontier: How scientists use ChatGPT",
-   "snippet": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-   "published_at": "2026-11-16T12:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/business/customer-stories/revolut",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "How Revolut raises ambition without lowering the bar",
-   "snippet": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-   "published_at": "2026-11-16T09:30:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/lvmh-media-division-partnership",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "snippet": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-   "published_at": "2026-11-16T09:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Our first phase of embedded assessments",
-   "snippet": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-   "published_at": "2026-11-16T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "AI Gateway now supports Private Inference",
-   "snippet": "Private Inference connects your own model endpoints to AI Gateway . Enterprises running fine-tuned, self-hosted, or prerelease models used to need separate keys, client code, and logs for them. Those ",
-   "published_at": "2026-11-16T07:47:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/plural-new-fund-e1bn/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Plural raises fresh €1bn fund to back ‘non-obvious companies’",
-   "snippet": "",
-   "published_at": "2026-11-16T06:51:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "snippet": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-   "published_at": "2026-11-16T06:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "India’s Rise: From Promise to Platform for Global Growth",
-   "snippet": "For much of the past three decades, India's global economic story was defined by potential. That narrative has changed dramatically.",
-   "published_at": "2026-11-16T05:15:00+00:00",
    "also_in": []
   }
  ]

@@ -2,6 +2,136 @@
  "date": "2026-11-19",
  "items": [
   {
+   "url": "https://latent.space/p/linear-scaling/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+   "snippet": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+   "published_at": "2026-11-19T23:58:21+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.5",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.8.5",
+   "snippet": "Changes since langchain-openai==1.8.4 release(openai): 1.8.5 (#41969) fix(openai): preserve streamed Responses tool call arguments (#41963) feat(core): standardize finish reason on message-finish events (#41926)",
+   "published_at": "2026-11-19T23:16:20+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.12",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-anthropic==1.7.12",
+   "snippet": "Changes since langchain-anthropic==1.7.11 release(anthropic): 1.7.12 (#41966) feat(core): standardize finish reason on message-finish events (#41926) chore(langchain): require `langgraph` 1.2.16 or newer (#41959) fix(anthropic): preserve `caller` on `tool_search_tool_result` blocks (#41958) fix(anthropic): don't share the async HTTP client between models (#41946)",
+   "published_at": "2026-11-19T23:00:20+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-core==1.8.4",
+   "snippet": "Changes since langchain-core==1.8.3 release(core): 1.8.4 (#41964) feat(core): standardize finish reason on message-finish events (#41926) feat(langchain): tag synthetic HITL tool messages with source metadata (#41928)",
+   "published_at": "2026-11-19T22:35:57+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.329",
+   "snippet": "## What's changed - Added a trust dialog warning that says where a folder's hooks are declared - Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in managed settings fail to load - Added this session's scheduled tasks, `/loop` wakeups, the goal and this conversation's forks to `/tasks`; x stops one after asking - Added a \"Server message\" row to a s",
+   "published_at": "2026-11-19T22:14:41+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.4",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.8.4",
+   "snippet": "Changes since langchain-openai==1.8.3 release(openai): 1.8.4 (#41962) chore(langchain): require `langgraph` 1.2.16 or newer (#41959) fix(openai): classify in-stream server errors as retryable (#41952)",
+   "published_at": "2026-11-19T21:36:51+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+   "snippet": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
+   "published_at": "2026-11-19T21:19:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875259/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Economic outlook dims on weak consumer expectations: Conference Board",
+   "snippet": "Economic growth so far this year has primarily hinged on the level of spending on artificial intelligence, according to Apollo Global Management Chief Economist Torsten Slok.",
+   "published_at": "2026-11-19T20:55:01+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/dealmaking-growth-slowdown-2027-ey/875257/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "US dealmaking growth to slow in 2027: EY",
+   "snippet": "After a three-year boom, deal activity is expected to moderate as buyers become more selective amid higher borrowing costs and policy uncertainty.",
+   "published_at": "2026-11-19T20:44:11+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "PostgreSQL 19 Released",
+   "snippet": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely w",
+   "published_at": "2026-11-19T20:43:57+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+   "snippet": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
+   "published_at": "2026-11-19T20:28:13+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
+   "snippet": "JPMorgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, were exposed in cyberattacks on third-party vendors.",
+   "published_at": "2026-11-19T20:17:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/sp-warns-chicago-budget-woes-cfo-exit-could-hurt-citys-bond-rating/875246/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "S&P warns Chicago budget woes, CFO exit could hurt city’s bond rating",
+   "snippet": "Fallout from the finance chief’s resignation could “absorb scarce time” that might otherwise be spent negotiating a better budget, S&P’s Scott Nees said.",
+   "published_at": "2026-11-19T20:15:48+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/newsarticle/48788/uk-pensions-dashboard-set-for-summer-2027-launch",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -32,6 +162,26 @@
    "also_in": []
   },
   {
+   "url": "https://www.finextra.com/pressarticle/111746/former-natwest-ceo-alison-rose-joins-otoma-board",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Former NatWest CEO Alison Rose joins Otoma board",
+   "snippet": "Dame Alison Rose, former Chief Executive Officer of NatWest Group, has joined the Board of Directors of Otoma, the Payments Tech Liberator, which provides banks with a new-generation, AI native no-code global payments hub.",
+   "published_at": "2026-11-19T18:20:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33521/the-90-day-market-entry-mistake-fintech-brands-keep-making",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The 90-day market-entry mistake fintech brands keep making",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-19T18:01:47+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.44",
    "source": "GitHub: crewAIInc/crewAI",
    "weight": 1.0,
@@ -39,6 +189,16 @@
    "snippet": "## What's Changed ### Features - Add capability to save files as versioned, shareable artifacts. ### Bug Fixes - Fix inline agent and crew action references relative to the flow file. - Stop duplicating kept separators when merging chunks. - Isolate nested defaults from a shared flow declaration. - Restrict Pillow to PNG, JPEG, GIF, and WEBP when opening images. - Reset cache eviction order on cle",
    "published_at": "2026-11-19T17:59:49+00:00",
    "first_seen": "2026-11-19T20:28:51+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33520/how-central-banks-and-major-lenders-are-integrating-blockchain-infrastructure-into-core-finance",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "How Central Banks and Major Lenders Are Integrating Blockchain Infrastructure Into Core Finance",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-19T17:27:49+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
    "also_in": []
   },
   {
@@ -109,6 +269,16 @@
    "snippet": "N26 today announced the launch of N26 Aura, its most exclusive banking experience and its latest addition to the N26 digital banking ecosystem.",
    "published_at": "2026-11-19T16:18:00+00:00",
    "first_seen": "2026-11-19T20:28:51+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33519/architect-of-illinoiss-36-rate-cap-heres-how-i-tell-responsible-credit-from-predatory-credit",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Architect of Illinois's 36% Rate Cap: “Here's How I Tell Responsible Credit From Predatory Credit.”",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-19T16:17:34+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
    "also_in": []
   },
   {
@@ -989,6 +1159,86 @@
    "snippet": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
    "published_at": "2026-11-19T00:00:00+00:00",
    "first_seen": "2026-11-19T20:28:51+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Deploying Daybreak Red",
+   "snippet": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "See PR scans in action",
+   "snippet": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Explore the Codex Security Plugin",
+   "snippet": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Get started with Daybreak Blue",
+   "snippet": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/tencent-hy4",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Tencent Hy4 is live on Together AI",
+   "snippet": "Tencent Hy4 is live on Together AI. We tested its image input by extracting and rebuilding a chart, then tried its coding with a browser game generated from one prompt.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+   "snippet": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-Live 1.1 now available on AI Gateway",
+   "snippet": "GPT-Live 1.1 from OpenAI is now available on AI Gateway. GPT-Live 1.1 is a full-duplex voice model, so it listens while it speaks and a caller can pause, interrupt, or add detail mid-reply. Compared with the previous GPT-Live model, it transcribes speech more accurately and keeps a more consistent accent and voice across languages. It uses the same Live endpoint and client delegation, so an existi",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "Give your agents controlled access to analyze your data and move funds",
+   "snippet": "Stripe Treasury now lets agents transfer funds, convert currencies, and pay vendors within limits you set. Give agents the access they need to help run your business, with customizable controls and human approvals.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "first_seen": "2026-11-20T03:05:34+00:00",
    "also_in": []
   }
  ]
