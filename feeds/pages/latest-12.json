@@ -1,0 +1,88 @@
+{
+ "set": "latest",
+ "page": 12,
+ "pages": 12,
+ "items": [
+  {
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "How the Claude Code team thinks about verification (14 minute read)",
+   "snippet": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Gemini Notebook Turns Sources Into Interactive Sites (1 minute read)",
+   "snippet": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "California state AG sues OpenAI over rogue agent incidents (5 minute read)",
+   "snippet": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm 0.37.3",
+   "snippet": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix tha",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/simonw/llm/releases/tag/0.37.3",
+   "source": "GitHub: simonw/llm",
+   "weight": 1.1,
+   "title": "simonw/llm 0.37.3",
+   "snippet": "- `llm logs` no longer crashes with `AttributeError: 'str' object has no attribute 'get'` on SQLite 3.54.1 and later when a tool result logged by an LLM version before 0.32 has an attachment. Thanks, ",
+   "published_at": "2026-11-16T23:57:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+   "source": "GitHub: vllm-project/vllm",
+   "weight": 1.0,
+   "title": "vllm-project/vllm v0.34.0",
+   "snippet": "# v0.34.0 **1,061 commits from 412 contributors (120 new).** Thank you! ## TL;DR - **10 new models** (Mistral Large 4, MiniMax-M3.1-Flash, Nemotron-3.5-Transcribe, and more!) - **Extensible KV cache i",
+   "published_at": "2026-11-16T23:22:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+   "snippet": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the...",
+   "published_at": "2026-11-16T22:30:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.326",
+   "snippet": "## What's changed - Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode - Added a startup warning when an `",
+   "published_at": "2026-11-16T22:11:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.10",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.10 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
+   "published_at": "2026-11-16T21:57:41+00:00",
+   "also_in": []
+  }
+ ]
+}

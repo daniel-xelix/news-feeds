@@ -812,6 +812,16 @@
    "also_in": []
   },
   {
+   "url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents can now find Vercel CLI commands by describing the task",
+   "snippet": "Coding agents can now use vercel help search to find Vercel CLI commands by describing a task in plain language. The search returns a list of matching commands. Add --with-help to include the help page for the first result in the same call. For example, vercel help search \"roll back production\" --with-help returns the options and examples for vercel rollback . Search also supports: API endpoints: ",
+   "published_at": "2026-11-19T05:00:00+00:00",
+   "first_seen": "2026-11-20T21:46:40+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.43",
    "source": "GitHub: crewAIInc/crewAI",
    "weight": 1.0,
@@ -839,6 +849,16 @@
    "snippet": "## What's changed - Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permission mode start in it - Added `\"onFailure\": \"block\"` for `mcp_tool` hooks, as for command and HTTP hooks: a hook whose call fails blocks the action - Added a warning when a message from a session that ",
    "published_at": "2026-11-19T01:14:04+00:00",
    "first_seen": "2026-11-19T10:13:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Priority Projects now in public beta",
+   "snippet": "Priority Projects are now in public beta for Pro and Enterprise teams. This optional upgrade for individual Vercel projects adds bot and traffic-source signals, Page Integrity for monitoring and controlling client-side scripts and connections, and additional Firewall controls and alerts. Bot signals Bot protection is free on",
+   "published_at": "2026-11-19T01:10:00+00:00",
+   "first_seen": "2026-11-20T21:46:40+00:00",
    "also_in": []
   },
   {
