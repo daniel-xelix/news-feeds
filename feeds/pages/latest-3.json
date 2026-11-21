@@ -1,8 +1,53 @@
 {
  "set": "latest",
  "page": 3,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://www.vatcalc.com/croatia/croatia-mandates-b2b-e-invoicing-2025-2/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Croatia B2B e-invoicing & e-reporting ends penalty freeze",
+   "snippet": "",
+   "published_at": "2026-11-20T12:00:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Why Enterprise Architecture Is Becoming Key to Successful AI",
+   "snippet": "Trusted data, business context, and human accountability are essential to turning AI ambition into business value.",
+   "published_at": "2026-11-20T11:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/dear-saastr-what-sucks-about-being-a-ceo/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Dear SaaStr: What Sucks About Being a CEO?",
+   "snippet": "Dear SaaStr: What Sucks About Being a CEO? A few learnings here: #1. The pressure ebbs and flows, but it never ends. Once you ship, you’re always under the gun. In the earlier days, it’s under the gun",
+   "published_at": "2026-11-20T10:00:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33524/know-your-agent-the-identity-question-banks-cant-avoid-in-2027",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Know Your Agent: the identity question banks can’t avoid in 2027",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-20T10:00:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Combatting adversarial distillation",
+   "snippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "published_at": "2026-11-20T10:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.vatcalc.com/denmark/denmark-to-cut-vat-on-books-to-0/",
    "source": "VATCalc (e-invoicing)",
@@ -130,6 +175,15 @@
    "also_in": []
   },
   {
+   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-gemini 0.38.1",
+   "snippet": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added tho",
+   "published_at": "2026-11-20T03:01:57+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
    "source": "Simon Willison",
    "weight": 1.5,
@@ -216,62 +270,6 @@
    "weight": 1.0,
    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
    "snippet": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.together.ai/blog/qwen3-tts",
-   "source": "Together AI blog",
-   "weight": 1.0,
-   "title": "Qwen3 TTS is now available on Together AI",
-   "snippet": "Qwen3 TTS is now available on Together AI. Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/introducing-vercel-board",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Vercel Board (5 minute read)",
-   "snippet": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": [
-    "Vercel blog"
-   ]
-  },
-  {
-   "url": "https://sourcegraph.com/blog/ruby2shell-cve-2026-132825-find-vulnerable-ruby",
-   "source": "Sourcegraph blog",
-   "weight": 0.9,
-   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos before the proof of concept lands",
-   "snippet": "Researchers report that default Rails and classic Sinatra apps reach Ruby2Shell (CVE-2026-132825) without authentication. Find affected Ruby runtimes in your code and upgrade to 3.3.14, 3.4.13, or 4.0",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/java4shell-critical-java-flaw-how-gitlab-helps/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Java4Shell: GitLab helps find and remediate a critical Java flaw",
-   "snippet": "GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a specific combination of conditions, which we conf",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
-   "snippet": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatica",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
-   "snippet": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live p",
    "published_at": "2026-11-20T00:00:00+00:00",
    "also_in": []
   }

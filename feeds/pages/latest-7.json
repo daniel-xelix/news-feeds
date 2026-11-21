@@ -1,8 +1,62 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 11,
+ "pages": 10,
  "items": [
+  {
+   "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+   "snippet": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://eugeneyan.com/writing/public-evals",
+   "source": "Eugene Yan",
+   "weight": 1.2,
+   "title": "How Public Evals Work and Fail, and What Should Change",
+   "snippet": "How to read eval scores and what to question, from a teardown of 12 benchmarks.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "GPT-Live 1.1 now available on AI Gateway",
+   "snippet": "GPT-Live 1.1 from OpenAI is now available on AI Gateway. GPT-Live 1.1 is a full-duplex voice model, so it listens while it speaks and a caller can pause, interrupt, or add detail mid-reply. Compared w",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/liquid-ais-d1-2-and-d1-2-ultra-are-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Liquid AI's d1.2 and d1.2-ultra are now available on AI Gateway",
+   "snippet": "Liquid AI’s d1.2 and d1.2-ultra are now available on AI Gateway with audio input and bounding box support. These decision models return structured answers instead of generating text. Ask Boolean quest",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sourcegraph.com/blog/credit-pricing-update",
+   "source": "Sourcegraph blog",
+   "weight": 0.9,
+   "title": "We’re lowering credit costs: The same credits get you 40% more Deep Search and 3.5X as many Code Finder calls",
+   "snippet": "Sourcegraph is lowering credit costs: Deep Search drops to 50 credits, Code Finder via MCP to 3 credits, and Smart Hovers become free, starting November 19.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/secret-detection-token-rotate-and-fix/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Rotate a leaked GitLab token and let GitLab Duo fix the code",
+   "snippet": "Secret detection alerts you when an active personal access token (PAT) is exposed in your default branch. Acting on that finding is harder: revoking the token breaks dependent pipelines, and replacing",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/",
    "source": "GitLab blog",
@@ -217,60 +271,6 @@
    "title": "llm-gemini 0.38",
    "snippet": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Ge",
    "published_at": "2026-11-18T23:59:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.2",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain==1.5.2",
-   "snippet": "Changes since langchain==1.5.1 release(langchain): 1.5.2 (#41948) feat(langchain): tag synthetic HITL tool messages with source metadata (#41928)",
-   "published_at": "2026-11-18T22:30:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "Google DeepMind blog",
-   "weight": 1.4,
-   "title": "Introducing Gemini 4 Neon",
-   "snippet": "",
-   "published_at": "2026-11-18T21:35:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.understandingai.org/p/19-charts-that-explain-the-state",
-   "source": "Understanding AI (Timothy B. Lee)",
-   "weight": 1.0,
-   "title": "19 charts that explain the state of AI",
-   "snippet": "The AI boom is getting a little crazy.",
-   "published_at": "2026-11-18T21:34:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/why-embattled-boards-hire-shrek-firms-fill-big-c-suite-seats/875114/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Why embattled boards hire SHREK firms to fill big C-suite seats",
-   "snippet": "After Nvidia CEO Jensen Huang resigned, the chipmaker followed a familiar head-hunting script when it hired Heidrick & Struggles to find its next chief executive.",
-   "published_at": "2026-11-18T20:41:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/middle-market-firms-grow-more-optimistic-despite-uncertainty/875113/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Mid-market firms’ optimism grows despite economic uncertainty",
-   "snippet": "Encouraged by stronger financial performance, companies are planning to ramp up investments — particularly in AI, a Capital One executive said.",
-   "published_at": "2026-11-18T20:36:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.thealgorithmicbridge.com/p/the-fall-of-award-winning-literature",
-   "source": "The Algorithmic Bridge (Alberto Romero)",
-   "weight": 1.0,
-   "title": "The Fall of Award-Winning Literature",
-   "snippet": "One more to AI’s collection",
-   "published_at": "2026-11-18T20:11:16+00:00",
    "also_in": []
   }
  ]
