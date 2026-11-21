@@ -4,6 +4,78 @@
  "pages": 11,
  "items": [
   {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.3",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph-prebuilt==1.1.3",
+   "snippet": "Changes since prebuilt==1.1.2 * release(prebuilt): 1.1.3 (#9741) * fix(langgraph,prebuilt): give Send-dispatched tool calls the same state as an edge (#9728) * fix(prebuilt): make wrap_tool_call state",
+   "published_at": "2026-11-19T05:26:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.1",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.110.1",
+   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
+   "published_at": "2026-11-19T05:05:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe",
+   "snippet": "",
+   "published_at": "2026-11-19T05:00:42+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "The next big bets in AI compute",
+   "snippet": "",
+   "published_at": "2026-11-19T05:00:20+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "AI is making teams smaller — and the fight for real talent harder",
+   "snippet": "",
+   "published_at": "2026-11-19T05:00:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/lato-seed-round/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer",
+   "snippet": "",
+   "published_at": "2026-11-19T05:00:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Ineffable’s David Silver on the race to superintelligence — and how to keep it safe",
+   "snippet": "",
+   "published_at": "2026-11-19T05:00:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents can now find Vercel CLI commands by describing the task",
+   "snippet": "Coding agents can now use vercel help search to find Vercel CLI commands by describing a task in plain language. The search returns a list of matching commands. Add --with-help to include the help pag",
+   "published_at": "2026-11-19T05:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
    "source": "Vercel blog",
    "weight": 0.9,
@@ -103,15 +175,6 @@
    "also_in": []
   },
   {
-   "url": "https://www.vatcalc.com/guatemala/guatemala-fel-vat-e-invoicing-rollout-completes/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Guatemala FEL VAT e-invoicing rollout update",
-   "snippet": "",
-   "published_at": "2026-11-19T00:00:30+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
    "source": "OpenAI blog",
    "weight": 1.4,
@@ -166,6 +229,15 @@
    "also_in": []
   },
   {
+   "url": "https://eugeneyan.com/writing/public-evals",
+   "source": "Eugene Yan",
+   "weight": 1.2,
+   "title": "How Public Evals Work and Fail, and What Should Change",
+   "snippet": "How to read eval scores and what to question, from a teardown of 12 benchmarks.",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
    "source": "Vercel blog",
    "weight": 0.9,
@@ -198,78 +270,6 @@
    "weight": 1.0,
    "title": "Rotate a leaked GitLab token and let GitLab Duo fix the code",
    "snippet": "Secret detection alerts you when an active personal access token (PAT) is exposed in your default branch. Acting on that finding is harder: revoking the token breaks dependent pipelines, and replacing",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Turn Slack conversations into trusted software, faster",
-   "snippet": "Most software starts as a conversation: a customer requests a new capability, a product manager weighs it against the roadmap, an engineer checks feasibility, and a security lead asks what it touches.",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/gitlab-scheduled-automations/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Keep recurring work moving with scheduled automations",
-   "snippet": "Every engineering team has work that needs regular attention, like triaging new issues or investigating incidents. Among DevSecOps professionals using AI tools, 43% say automating repetitive tasks has",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/gitlab-agentic-remediation/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Cut your vulnerability backlog with agentic remediation",
-   "snippet": "Vulnerability backlogs are growing faster than teams can clear them. AI writes more code and finds more flaws, while fixes still move at human speed. NIST’s National Vulnerability Database has already",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://docs.gitlab.com/releases/19/gitlab-19-6-released/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "GitLab 19.6 released",
-   "snippet": "",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/duo-agent-platform-does-more-per-gitlab-credit/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Duo Agent Platform now does up to 2x more per GitLab Credit",
-   "snippet": "GitLab Duo Agent Platform has become more efficient in how it uses the underlying models offered through GitLab. That includes all the latest models from Anthropic, OpenAI, Google, and GitLab-hosted o",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/coding-agents-with-gitlab/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "The best way to use your coding agents with GitLab",
-   "snippet": "Say you and your team already use Claude Code, Codex, Cursor, Devin, or OpenCode to write code. Maybe even more than one of them. What happens next depends on everyone’s personal setup. Some have thei",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Gemini 4 Neon (12 minute read)",
-   "snippet": "Google introduced Gemini 4 Neon, a fast, frontier-level model for complex coding, knowledge work, and science tasks. It scored 61 on the Artificial Analysis Intelligence Index and is priced at $3 per ",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Genie 4 (7 minute read)",
-   "snippet": "Google opened Genie 4, its model for generating interactive worlds, to eligible Google AI Ultra subscribers in Project Genie. Users can edit a world by typing prompts while exploring it.",
    "published_at": "2026-11-19T00:00:00+00:00",
    "also_in": []
   }

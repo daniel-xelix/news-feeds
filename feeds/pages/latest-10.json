@@ -4,6 +4,78 @@
  "pages": 11,
  "items": [
   {
+   "url": "https://about.gitlab.com/blog/agentic-engineering-walkthrough/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Agentic engineering with GitLab and your local agent: A walkthrough",
+   "snippet": "You can build an agentic engineering environment to drive greater automation throughout your workflow. How? Start in the harness you already use and connect to GitLab Duo Agent Platform once with a sk",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing GPT-6.2 Astra and Sol (14 minute read)",
+   "snippet": "OpenAI released GPT-6.2 Astra, a frontier model for the hardest projects, and GPT-6.2 Sol, an efficient everyday model. Both are available now in ChatGPT Work, Codex, and the API.",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Microsoft's Seven New Models (4 minute read)",
+   "snippet": "Microsoft AI released seven new models built for strong performance at low prices. Its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the p",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://replit.com/blog/introducing-replit-missions",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Replit Missions (8 minute read)",
+   "snippet": "Replit launched Missions, a tool for coordinating swarms of AI agents to tackle complex projects like winning enterprise clients or developing software, within specified budgets. Their mission-built D",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://horizon-labs.ai/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Horizon Labs (12 minute read)",
+   "snippet": "Horizon is an agent based on Opus 5.5. Researchers gave it full access to a blank Hugging Face account and compute with the main goal of enabling real adoption on Hugging Face. Horizon used over 600 G",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://notesbylex.com/weight-space-programming-1990s.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
+   "snippet": "Frontier models can read, write, and edit the weights of neural networks. This could present new ways to train networks. This researcher ran a weight-writing experiment with Claude Fable 5.2 on a fami",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "FrontierHarness Eval v1.1 (14 minute read)",
+   "snippet": "The best coding-agent harness, the software that runs a model on a task, depends on the model. Harness choice alone can change cost per task by up to five times.",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Cerebras launches disaggregated inference (6 minute read)",
+   "snippet": "Cerebras' disaggregated inference service lets GPUs handle prompt processing while the company's systems handle output generation. The solution delivers five times more tokens per megawatt at the same",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -199,78 +271,6 @@
    "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
    "snippet": "Quantum processors are being integrated into supercomputing centers worldwide. National programs in North America, Europe, and Asia are driving the installation...",
    "published_at": "2026-11-17T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "What We’ve Learned Building Proactive Agents",
-   "snippet": "Proactive agents work toward goals in the background and check in when they need you. What we've learned about memory and UX from building GTM Agent and Robin.",
-   "published_at": "2026-11-17T16:49:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-   "snippet": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, a",
-   "published_at": "2026-11-17T16:48:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
-   "source": "The Pragmatic Engineer (Gergely Orosz)",
-   "weight": 1.2,
-   "title": "Inference engineering for software engineers",
-   "snippet": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
-   "published_at": "2026-11-17T16:11:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Fed to boost payment service fees",
-   "snippet": "The Federal Reserve is also instituting a new access fee that it says will create a more “streamlined experience” for its bank clients.",
-   "published_at": "2026-11-17T15:54:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "The Family cofounder sentenced to 16 months in prison",
-   "snippet": "",
-   "published_at": "2026-11-17T15:40:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/cloudflare/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
-   "snippet": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
-   "published_at": "2026-11-17T15:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.understandingai.org/p/i-spoke-to-seven-physics-experts",
-   "source": "Understanding AI (Timothy B. Lee)",
-   "weight": 1.0,
-   "title": "I spoke to seven physics experts grappling with the AI revolution",
-   "snippet": "AI can now do the calculations. What’s left for theoretical physicists?",
-   "published_at": "2026-11-17T14:51:56+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.bensbites.com/p/productiv-icky",
-   "source": "Ben's Bites",
-   "weight": 1.0,
-   "title": "Productiv-icky",
-   "snippet": "Digging holes on the beach",
-   "published_at": "2026-11-17T14:14:18+00:00",
    "also_in": []
   }
  ]
