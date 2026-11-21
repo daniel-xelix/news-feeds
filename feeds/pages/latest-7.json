@@ -1,8 +1,71 @@
 {
  "set": "latest",
  "page": 7,
- "pages": 12,
+ "pages": 11,
  "items": [
+  {
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why is Gemini 4 Carbon taking so long? (4 minute read)",
+   "snippet": "In a private benchmark, Gemini 4 Carbon spent close to an hour on bug fixes that Claude Opus 5.5 and GPT-6 Astra finished in minutes. Carbon took about seven times as many steps as Astra, and half wer",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured (17 minute read)",
+   "snippet": "Google Antigravity wipes users' prompt caches if there is a 5-minute pause. Refreshing the cache just before expiry works, but only for 3 pings. Even a 5-word prompt starts with 13,800 to 16,800+ toke",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Switching LLMs mid-conversation is a ski-rental problem (30 minute read)",
+   "snippet": "Most work on routing between language models is centered on making sure the right model handles the right request. A classifier scores the request, then the request is routed to a cheap model if it is",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Advancing chip design with OpenAI models (8 minute read)",
+   "snippet": "Design changes proposed by OpenAI's models cut the circuit area of key parts of its Jalapeño AI chip by an estimated 10% to 13%. With AMD, the same approach delivered up to 14% improvements on AMD's f",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "An update on the state of research acceleration at OpenAI (20 minute read)",
+   "snippet": "OpenAI's agents now complete nearly half of two-to-four-hour research tasks on their own. However, humans are still central to AI development. Agent use is surging, and the heaviest users are pulling ",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Context API extracts full context from any web page (6 minute read)",
+   "snippet": "The Perplexity Context API can extract the full context from any webpage and return clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can specify the freshness of",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.primeintellect.ai/blog/introducing-model-factory",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Model Factory (8 minute read)",
+   "snippet": "Model Factory is a training loop that lets any company train, deploy, and continuously improve models in production. It brings reinforcement learning, supervised fine-tuning, pre-training, and inferen",
+   "published_at": "2026-11-19T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://thezvi.substack.com/p/quickly-theres-no-time",
    "source": "TLDR AI",
@@ -10,9 +73,7 @@
    "title": "Quickly, There's No Time (38 minute read)",
    "snippet": "Many things point to the substantial possibility of superintelligence arriving next year. Any plan to prepare for this has to be ready for the full automation of AI R&D, which will result in the rapid",
    "published_at": "2026-11-19T00:00:00+00:00",
-   "also_in": [
-    "Don't Worry About the Vase (Zvi)"
-   ]
+   "also_in": []
   },
   {
    "url": "https://www.hyperdimensional.co/p/the-silent-consensus",
@@ -210,69 +271,6 @@
    "title": "langchain-ai/langchain langchain-deepseek==1.2.1",
    "snippet": "Changes since langchain-deepseek==1.2.0 release(deepseek): 1.2.1 (#41932) feat(deepseek): send `langsmith_gateway` headers from the client (#41905)",
    "published_at": "2026-11-18T17:27:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.1",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-groq==1.2.1",
-   "snippet": "Changes since langchain-groq==1.2.0 release(groq): 1.2.1 (#41930) feat(groq): send `langsmith_gateway` headers from the client (#41903)",
-   "published_at": "2026-11-18T17:27:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-arrows 0.1a0",
-   "snippet": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines o",
-   "published_at": "2026-11-18T17:09:59+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
-   "snippet": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.2",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.2",
-   "snippet": "Changes since langchain-openai==1.8.1 fix(openai): don't share the async HTTP client between models (#41944) feat(openai): support GPT-6.2 Astra and Sol (#41922) feat(openai): send `langsmith_gateway`",
-   "published_at": "2026-11-18T16:53:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.42",
-   "snippet": "## What's Changed ### Features - Make ChromaDB an optional extra - Default Knowledge to local Qdrant and decouple storage from ChromaDB - Pick tools for standalone agents and add them later ### Bug Fi",
-   "published_at": "2026-11-18T16:38:31+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.42.0",
-   "source": "GitHub: All-Hands-AI/OpenHands",
-   "weight": 1.1,
-   "title": "All-Hands-AI/OpenHands v1.42.0",
-   "snippet": "## 1.42.0 (2026-11-18) ## What's Changed ### Features * feat(cloud): pick the exact connected git provider for repositories by @tofarr in https://github.com/OpenHands/OpenHands/pull/19762 * feat(verif",
-   "published_at": "2026-11-18T16:36:17+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "LangSmith for Coding Agents: Now track spend by outcome",
-   "snippet": "LangSmith now offers reporting built for coding agents, along with new capabilities that tie their spend to the pull requests they produce.",
-   "published_at": "2026-11-18T16:27:01+00:00",
    "also_in": []
   }
  ]

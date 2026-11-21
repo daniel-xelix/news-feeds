@@ -1,8 +1,71 @@
 {
  "set": "latest",
  "page": 8,
- "pages": 12,
+ "pages": 11,
  "items": [
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.1",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-groq==1.2.1",
+   "snippet": "Changes since langchain-groq==1.2.0 release(groq): 1.2.1 (#41930) feat(groq): send `langsmith_gateway` headers from the client (#41903)",
+   "published_at": "2026-11-18T17:27:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-arrows 0.1a0",
+   "snippet": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines o",
+   "published_at": "2026-11-18T17:09:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+   "snippet": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
+   "published_at": "2026-11-18T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.2",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openai==1.8.2",
+   "snippet": "Changes since langchain-openai==1.8.1 fix(openai): don't share the async HTTP client between models (#41944) feat(openai): support GPT-6.2 Astra and Sol (#41922) feat(openai): send `langsmith_gateway`",
+   "published_at": "2026-11-18T16:53:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.42",
+   "snippet": "## What's Changed ### Features - Make ChromaDB an optional extra - Default Knowledge to local Qdrant and decouple storage from ChromaDB - Pick tools for standalone agents and add them later ### Bug Fi",
+   "published_at": "2026-11-18T16:38:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.42.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.42.0",
+   "snippet": "## 1.42.0 (2026-11-18) ## What's Changed ### Features * feat(cloud): pick the exact connected git provider for repositories by @tofarr in https://github.com/OpenHands/OpenHands/pull/19762 * feat(verif",
+   "published_at": "2026-11-18T16:36:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangSmith for Coding Agents: Now track spend by outcome",
+   "snippet": "LangSmith now offers reporting built for coding agents, along with new capabilities that tie their spend to the pull requests they produce.",
+   "published_at": "2026-11-18T16:27:01+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.paymentsdive.com/news/aci-worldwides-ceo-heads-out/875047/",
    "source": "Payments Dive",
@@ -208,69 +271,6 @@
    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "snippet": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
    "published_at": "2026-11-18T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Research acceleration: The jagged frontier",
-   "snippet": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "published_at": "2026-11-18T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/inside-the-codex-sandbox",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Inside the Codex sandbox",
-   "snippet": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-   "published_at": "2026-11-18T08:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/managing-frontier-ai-risk",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Managing frontier AI risk: From training to deployment",
-   "snippet": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-   "published_at": "2026-11-18T06:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "8 key findings from Atomico’s State of European Tech report",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:42+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
-   "snippet": "",
-   "published_at": "2026-11-18T05:00:24+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-board-is-now-available",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Board is now available",
-   "snippet": "Vercel Board is now available on all plans. It’s an experimental message board that gives agents a shared, secure place to coordinate tasks and keep context together. Use Board to build agent workflow",
-   "published_at": "2026-11-18T05:00:00+00:00",
    "also_in": []
   }
  ]

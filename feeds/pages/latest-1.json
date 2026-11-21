@@ -1,8 +1,44 @@
 {
  "set": "latest",
  "page": 1,
- "pages": 12,
+ "pages": 11,
  "items": [
+  {
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "weight": 1.0,
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "snippet": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been cha",
+   "published_at": "2026-11-21T00:36:39+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.14",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.14 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
+   "published_at": "2026-11-20T23:43:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.330",
+   "snippet": "## What's changed - Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after `claude auth login`, Claude Code applies the organization's settings and uses its cloud provid",
+   "published_at": "2026-11-20T22:32:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/series-c",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangChain Raises $300M Series C at $3B Valuation",
+   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+   "published_at": "2026-11-20T22:04:13+00:00",
+   "also_in": []
+  },
   {
    "url": "https://therecord.media/west-virginia-legislature-cyberattack",
    "source": "The Record",
@@ -22,6 +58,15 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/anthropic-cfo-calls-ipo-one-stop-train-bloomberg-krishna-rao/875405/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Anthropic CFO calls IPO ‘one stop on the train’: Bloomberg",
+   "snippet": "With the launch of its its record-breaking IPO Thursday, CFO Krishna Rao emphasized Anthropic’s long-term plan.",
+   "published_at": "2026-11-20T21:08:19+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/blogposting/33531/bcbs-239-in-the-age-of-ai-agents",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -31,12 +76,30 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/sec-moves-loosen-rules-executive-perks-compensation/875394/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "SEC moves to loosen rules on executive perks",
+   "snippet": "The proposal would raise the disclosure threshold for perks and give companies more discretion to determine which executive benefits qualify.",
+   "published_at": "2026-11-20T20:30:09+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
    "source": "The Record",
    "weight": 0.9,
    "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
    "snippet": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
    "published_at": "2026-11-20T20:25:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875389/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "PayPal’s next CFO to receive over $30M in stock, bonuses",
+   "snippet": "PayPal will lean on another long-time HP alum to steer the financial ship, with Claire Bramley stepping in as its new CFO in February.",
+   "published_at": "2026-11-20T20:19:10+00:00",
    "also_in": []
   },
   {
@@ -202,75 +265,12 @@
    "also_in": []
   },
   {
-   "url": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
-   "source": "Don't Worry About the Vase (Zvi)",
-   "weight": 1.2,
-   "title": "On Dwarkesh Patel’s November 2026 Podcast With Paul Christiano",
-   "snippet": "Paul Christiano has a message for us: There is meaningful risk of AI taking over within even the next 6-12 months.",
-   "published_at": "2026-11-20T15:24:40+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://www.finextra.com/pressarticle/111752/bill-agrees-to-be-acquired-by-tpg-in-6bn-deal",
    "source": "Finextra headlines",
    "weight": 1.0,
    "title": "Bill agrees to be acquired by TPG in $6bn deal",
    "snippet": "BILL (NYSE: BILL), the intelligent finance platform trusted by nearly 500,000 businesses to manage, move, and maximize their money, today announced that it has entered into a definitive agreement to b",
    "published_at": "2026-11-20T15:04:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111751/adyen-merchants-can-offer-klarna-in-ai-agent-checkout",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Adyen merchants can offer Klarna in AI agent checkout",
-   "snippet": "Klarna (NYSE: KLAR), the everyday finance network, and Adyen (AMS: ADYEN) today announced that shoppers can now pay with Klarna when an AI agent checks out for them through Adyen Agentic.",
-   "published_at": "2026-11-20T15:02:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/the-top-10-things-that-have-changed-in-sales-gtm-in-the-age-of-ai-and-10-things-that-really-havent/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "The Top 10 Things That Have Changed in Sales & GTM in the Age of AI. And 10 Things … That Really Haven’t",
-   "snippet": "We’re on track to do about $20M at SaaStr this year with 3 humans and roughly 20 AI agents in production. Our sales team went from a full team to 1.5 people through attrition we never backfilled. Agen",
-   "published_at": "2026-11-20T15:00:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Worldline shares plummet on FT report on cash advances",
-   "snippet": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial ",
-   "published_at": "2026-11-20T14:39:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/",
-   "source": "SAP News Center",
-   "weight": 1.0,
-   "title": "How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise",
-   "snippet": "Together, SAP and Microsoft solve challenges and unlock exponential AI value.",
-   "published_at": "2026-11-20T14:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48790/uk-sme-lender-oaknorth-secures-us-banking-licence",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "UK SME lender OakNorth secures US banking licence",
-   "snippet": "OakNorth, the UK digital bank for SMEs, has secured a US national banking charter, paving the way for it to expand beyond lending in the country.",
-   "published_at": "2026-11-20T14:07:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
-   "source": "Not Boring (Packy McCormick)",
-   "weight": 0.9,
-   "title": "Weekly Dose of Optimism #220",
-   "snippet": "SpaceX reusability, Leukemia vaccine (+pancreatic pill), SLAB, Tesla Powercore, Earth AI Gold + TEN Extra Doses",
-   "published_at": "2026-11-20T13:52:45+00:00",
    "also_in": []
   }
  ]

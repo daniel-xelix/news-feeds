@@ -2,6 +2,36 @@
  "date": "2026-11-20",
  "items": [
   {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.14",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.14 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.",
+   "published_at": "2026-11-20T23:43:31+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.330",
+   "snippet": "## What's changed - Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after `claude auth login`, Claude Code applies the organization's settings and uses its cloud provider or gateway - Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts ",
+   "published_at": "2026-11-20T22:32:56+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/series-c",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangChain Raises $300M Series C at $3B Valuation",
+   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+   "published_at": "2026-11-20T22:04:13+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/west-virginia-legislature-cyberattack",
    "source": "The Record",
    "weight": 0.9,
@@ -22,6 +52,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/anthropic-cfo-calls-ipo-one-stop-train-bloomberg-krishna-rao/875405/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Anthropic CFO calls IPO ‘one stop on the train’: Bloomberg",
+   "snippet": "With the launch of its its record-breaking IPO Thursday, CFO Krishna Rao emphasized Anthropic’s long-term plan.",
+   "published_at": "2026-11-20T21:08:19+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.finextra.com/blogposting/33531/bcbs-239-in-the-age-of-ai-agents",
    "source": "Finextra headlines",
    "weight": 1.0,
@@ -32,6 +72,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.cfodive.com/news/sec-moves-loosen-rules-executive-perks-compensation/875394/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "SEC moves to loosen rules on executive perks",
+   "snippet": "The proposal would raise the disclosure threshold for perks and give companies more discretion to determine which executive benefits qualify.",
+   "published_at": "2026-11-20T20:30:09+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
    "source": "The Record",
    "weight": 0.9,
@@ -39,6 +89,16 @@
    "snippet": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
    "published_at": "2026-11-20T20:25:00+00:00",
    "first_seen": "2026-11-20T21:46:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875389/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "PayPal’s next CFO to receive over $30M in stock, bonuses",
+   "snippet": "PayPal will lean on another long-time HP alum to steer the financial ship, with Claire Bramley stepping in as its new CFO in February.",
+   "published_at": "2026-11-20T20:19:10+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
    "also_in": []
   },
   {
@@ -881,6 +941,16 @@
    "snippet": "Anthropic & SpaceX trade at an identical 9.5x 2027 est. revenue despite 288% & 466% projected growth. Above $1t of enterprise value, public markets stop paying for top-line growth & anchor to a tight 20x to 26x earnings band.",
    "published_at": "2026-11-20T00:00:00+00:00",
    "first_seen": "2026-11-20T21:46:40+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/java4shell-critical-java-flaw-how-gitlab-helps/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Java4Shell: GitLab helps find and remediate a critical Java flaw",
+   "snippet": "GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a specific combination of conditions, which we confirmed are not present in our production environment. A single component was found to contain the impacted bundle in its runtime environment, which we are proactively upgrading as a hardening measure. ",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "first_seen": "2026-11-21T03:10:24+00:00",
    "also_in": []
   }
  ]

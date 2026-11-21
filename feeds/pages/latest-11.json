@@ -1,8 +1,17 @@
 {
  "set": "latest",
  "page": 11,
- "pages": 12,
+ "pages": 11,
  "items": [
+  {
+   "url": "https://www.langchain.com/blog/from-tasks-to-goals",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "From tasks to goals",
+   "snippet": "LangChain CEO and Co-founder Harrison Chase shares how we're moving from task-specific agents to goal-focused agents. Learn more.",
+   "published_at": "2026-11-17T13:50:44+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
    "source": "LangChain blog",
@@ -91,190 +100,6 @@
    "title": "Quoting Go Proverbs",
    "snippet": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
    "published_at": "2026-11-17T06:16:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Pull-request-only preset now available for preview builds",
-   "snippet": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On G",
-   "published_at": "2026-11-17T02:37:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "snippet": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/astra-law-6-2",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Astra for Law leads in legal intelligence",
-   "snippet": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-openai-for-chile",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Introducing OpenAI for Chile",
-   "snippet": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Advancing computer-use agents for healthcare teams (8 minute read)",
-   "snippet": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": [
-    "OpenAI blog"
-   ]
-  },
-  {
-   "url": "https://huggingface.co/blog/openrouter",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Hugging Face and OpenRouter Join Forces (6 minute read)",
-   "snippet": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any o",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": [
-    "Hugging Face blog"
-   ]
-  },
-  {
-   "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Decision-1.1 now available on AI Gateway",
-   "snippet": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form te",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
-   "snippet": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for ge",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
-   "snippet": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sourcegraph.com/blog/monorepo-code-search-ai-coding-agents",
-   "source": "Sourcegraph blog",
-   "weight": 0.9,
-   "title": "Why large monorepos need code search, especially with AI coding agents",
-   "snippet": "Monorepos put all your code in one place, but local tools, sparse checkouts, and AI coding agents only see a slice of it. Here is why large monorepos need code search and precise navigation.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://about.gitlab.com/blog/cisa-2030-cyber-strategy/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "What CISA’s new cyber strategy means for how you ship software",
-   "snippet": "On October 26, 2026, the Cybersecurity and Infrastructure Security Agency released CISA 2030: Defend, Harden, Prevail , three pillars of a four-year strategy for securing the nation’s critical infrast",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "NVIDIA's Rubin HPC (2 minute read)",
-   "snippet": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be ",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Tencent Launches Hy4 flash (4 minute read)",
-   "snippet": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Claude was trained on protein sequences at scale (26 minute read)",
-   "snippet": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model ",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Measuring alignment eval tells (16 minute read)",
-   "snippet": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra ag",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://world-2030.pages.dev/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "World 2030 (8 minute read)",
-   "snippet": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.liquid.ai/blog/d1-2",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
-   "snippet": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and ",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch (7 minute read)",
-   "snippet": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numeric",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI's first phase of embedded assessments (11 minute read)",
-   "snippet": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The acc",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://research.perplexity.ai/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "The frontier is still open (16 minute read)",
-   "snippet": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications",
-   "published_at": "2026-11-17T00:00:00+00:00",
    "also_in": []
   }
  ]
