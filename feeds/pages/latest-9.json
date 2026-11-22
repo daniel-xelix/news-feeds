@@ -1,8 +1,35 @@
 {
  "set": "latest",
  "page": 9,
- "pages": 10,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://sifted.eu/articles/payhawk-series-c/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "How Payhawk raised $280m amid fintech downturn",
+   "snippet": "",
+   "published_at": "2026-11-18T15:03:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "snippet": "",
+   "published_at": "2026-11-18T15:00:23+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+   "snippet": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...",
+   "published_at": "2026-11-18T15:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
    "source": "Simon Willison",
@@ -190,89 +217,6 @@
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
    "snippet": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps",
    "published_at": "2026-11-18T02:52:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.110.0",
-   "snippet": "## Verify Docker Image Signature ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer ht",
-   "published_at": "2026-11-18T01:36:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Advancing chip design with OpenAI models",
-   "snippet": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "snippet": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/moe-expert-streaming",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-   "snippet": "",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/rumble-2-flash",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-   "snippet": "",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)",
-   "snippet": "NVIDIA's sparse attention technique reduces compute and memory costs for transformers, solving bottlenecks in long-context inference by focusing on selective attention. Indexers in sparse attention sc",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": [
-    "NVIDIA developer blog"
-   ]
-  },
-  {
-   "url": "https://vercel.com/blog/vercel-x",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Introducing Vercel X",
-   "snippet": "Today we’re launching Vercel X , a six-week accelerator for AI founders at the idea and pre-seed stages. Join a cohort of 40 teams at our San Francisco HQ and build alongside Vercel’s product leaders,",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Gemini 4 Neon now available on AI Gateway",
-   "snippet": "Gemini 4 Neon from Google is now available on AI Gateway. Gemini 4 Neon is a major upgrade over the earlier, lighter Gemini 4 model, delivering output quality close to Google’s larger Gemini 4 models ",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel Drives now reads files up to 6x faster",
-   "snippet": "Vercel Drives now reads files up to 6x faster. The update improves cold-read performance. A new read-ahead algorithm uses your application’s access patterns to load data from persistent storage before",
-   "published_at": "2026-11-18T00:00:00+00:00",
    "also_in": []
   }
  ]

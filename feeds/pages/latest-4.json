@@ -1,8 +1,26 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 10,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "snippet": "",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+   "source": "Apple ML research",
+   "weight": 1.0,
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "snippet": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.together.ai/blog/qwen3-tts",
    "source": "Together AI blog",
@@ -27,7 +45,7 @@
    "url": "https://sourcegraph.com/blog/ruby2shell-cve-2026-132825-find-vulnerable-ruby",
    "source": "Sourcegraph blog",
    "weight": 0.9,
-   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos before the proof of concept lands",
+   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos",
    "snippet": "Researchers report that default Rails and classic Sinatra apps reach Ruby2Shell (CVE-2026-132825) without authentication. Find affected Ruby runtimes in your code and upgrade to 3.3.14, 3.4.13, or 4.0",
    "published_at": "2026-11-20T00:00:00+00:00",
    "also_in": []
@@ -255,24 +273,6 @@
    "title": "PostgreSQL 19 Released",
    "snippet": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to ad",
    "published_at": "2026-11-19T20:43:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
-   "snippet": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
-   "published_at": "2026-11-19T20:28:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
-   "snippet": "JPMorgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, were exposed in cyberattacks on third-party vendors.",
-   "published_at": "2026-11-19T20:17:00+00:00",
    "also_in": []
   }
  ]

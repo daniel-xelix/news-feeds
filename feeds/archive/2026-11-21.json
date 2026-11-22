@@ -2,6 +2,26 @@
  "date": "2026-11-21",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Muru",
+   "snippet": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As <a href=\"https://simonwillison.net/2026/Sep/11/wraptur",
+   "published_at": "2026-11-21T23:56:28+00:00",
+   "first_seen": "2026-11-22T02:10:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.15",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.15 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.",
+   "published_at": "2026-11-21T21:35:07+00:00",
+   "first_seen": "2026-11-22T02:10:11+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.thealgorithmicbridge.com/p/ai-just-cracked-the-hardest-problem",
    "source": "The Algorithmic Bridge (Alberto Romero)",
    "weight": 1.0,
@@ -139,6 +159,26 @@
    "snippet": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
    "published_at": "2026-11-21T00:36:39+00:00",
    "first_seen": "2026-11-21T03:10:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Security event: Prompt leakage for requests in June and July of 2026",
+   "snippet": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
+   "published_at": "2026-11-21T00:00:00+00:00",
+   "first_seen": "2026-11-22T02:10:11+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/qwen4-max",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Qwen4 Max is live on Together AI",
+   "snippet": "Qwen4 Max, Alibaba's flagship Qwen model, is live on Together AI and 30% off through November 22, 2026. We sent it a bug report and an entire repository in one request. Its patch passed the project's tests, for 69 cents.",
+   "published_at": "2026-11-21T00:00:00+00:00",
+   "first_seen": "2026-11-22T02:10:11+00:00",
    "also_in": []
   }
  ]
