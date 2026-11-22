@@ -1,8 +1,35 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 9,
+ "pages": 8,
  "items": [
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.3",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.109.3",
+   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
+   "published_at": "2026-11-20T03:59:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "llm-gemini 0.38.1",
+   "snippet": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added tho",
+   "published_at": "2026-11-20T03:01:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "snippet": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has",
+   "published_at": "2026-11-20T02:49:57+00:00",
+   "also_in": []
+  },
   {
    "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.24",
    "source": "GitHub: langchain-ai/langgraph",
@@ -246,33 +273,6 @@
    "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result (2 minute read)",
    "snippet": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH).",
    "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://tomtunguz.com/the-10x-wall/",
-   "source": "Tomasz Tunguz",
-   "weight": 1.0,
-   "title": "The 10x Wall",
-   "snippet": "Anthropic & SpaceX trade at an identical 9.5x 2027 est. revenue despite 288% & 466% projected growth. Above $1t of enterprise value, public markets stop paying for top-line growth & anchor to a tight ",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://latent.space/p/linear-scaling/",
-   "source": "Latent Space",
-   "weight": 1.4,
-   "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
-   "snippet": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
-   "published_at": "2026-11-19T23:58:21+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.5",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.5",
-   "snippet": "Changes since langchain-openai==1.8.4 release(openai): 1.8.5 (#41969) fix(openai): preserve streamed Responses tool call arguments (#41963) feat(core): standardize finish reason on message-finish even",
-   "published_at": "2026-11-19T23:16:20+00:00",
    "also_in": []
   }
  ]
