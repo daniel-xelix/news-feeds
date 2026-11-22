@@ -4,6 +4,69 @@
  "pages": 9,
  "items": [
   {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.24",
+   "source": "GitHub: langchain-ai/langgraph",
+   "weight": 1.0,
+   "title": "langchain-ai/langgraph langgraph==1.2.24",
+   "snippet": "Changes since 1.2.23 * release(langgraph): 1.2.24 (#9752) * fix(langgraph): handle `REMOVE_ALL_MESSAGES` in `_messages_delta_reducer` and `None` checkpoints in `DeltaChannel` (#9735)",
+   "published_at": "2026-11-20T01:10:26+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/agent-governance-observability",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "Why agent governance starts with observability",
+   "snippet": "A strong AI agent governance strategy",
+   "published_at": "2026-11-20T00:57:43+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "FCA opens AI Spotlight Observatory",
+   "snippet": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and oppor",
+   "published_at": "2026-11-20T00:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/slovakia/slovakia-is-efa-e-invoice-proposal-2024-delay-to-b2g/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Slovakia B2B e-invoicing & e-reporting Jan 2027 update",
+   "snippet": "",
+   "published_at": "2026-11-20T00:00:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "snippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "snippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "snippet": "",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
    "source": "Hugging Face blog",
    "weight": 1.3,
@@ -210,69 +273,6 @@
    "title": "langchain-ai/langchain langchain-openai==1.8.5",
    "snippet": "Changes since langchain-openai==1.8.4 release(openai): 1.8.5 (#41969) fix(openai): preserve streamed Responses tool call arguments (#41963) feat(core): standardize finish reason on message-finish even",
    "published_at": "2026-11-19T23:16:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.12",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-anthropic==1.7.12",
-   "snippet": "Changes since langchain-anthropic==1.7.11 release(anthropic): 1.7.12 (#41966) feat(core): standardize finish reason on message-finish events (#41926) chore(langchain): require `langgraph` 1.2.16 or ne",
-   "published_at": "2026-11-19T23:00:20+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.4",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-core==1.8.4",
-   "snippet": "Changes since langchain-core==1.8.3 release(core): 1.8.4 (#41964) feat(core): standardize finish reason on message-finish events (#41926) feat(langchain): tag synthetic HITL tool messages with source ",
-   "published_at": "2026-11-19T22:35:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-   "source": "GitHub: anthropics/claude-code",
-   "weight": 1.5,
-   "title": "anthropics/claude-code v2.1.329",
-   "snippet": "## What's changed - Added a trust dialog warning that says where a folder's hooks are declared - Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in m",
-   "published_at": "2026-11-19T22:14:41+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.4",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.4",
-   "snippet": "Changes since langchain-openai==1.8.3 release(openai): 1.8.4 (#41962) chore(langchain): require `langgraph` 1.2.16 or newer (#41959) fix(openai): classify in-stream server errors as retryable (#41952)",
-   "published_at": "2026-11-19T21:36:51+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875259/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Economic outlook dims on weak consumer expectations: Conference Board",
-   "snippet": "Economic growth so far this year has primarily hinged on the level of spending on artificial intelligence, according to Apollo Global Management Chief Economist Torsten Slok.",
-   "published_at": "2026-11-19T20:55:01+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/dealmaking-growth-slowdown-2027-ey/875257/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "US dealmaking growth to slow in 2027: EY",
-   "snippet": "After a three-year boom, deal activity is expected to moderate as buyers become more selective amid higher borrowing costs and policy uncertainty.",
-   "published_at": "2026-11-19T20:44:11+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "PostgreSQL 19 Released",
-   "snippet": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to ad",
-   "published_at": "2026-11-19T20:43:57+00:00",
    "also_in": []
   }
  ]
