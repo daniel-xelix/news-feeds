@@ -1,8 +1,53 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 8,
+ "pages": 6,
  "items": [
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/wall-street-is-wrong-about-anthropic",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "Wall Street Is Wrong About Anthropic",
+   "snippet": "Anthropic’s IPO is today. They think the world might end tomorrow",
+   "published_at": "2026-11-19T15:16:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/quote-week-weve-got-this-nvidia-colette-kress/875179/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Quote of the week: ‘We’ve got this’",
+   "snippet": "Longtime Nvidia CFO Colette Kress’s public debut as interim chief came less than a week after AI chipmaker’s CEO Jensen Huang resigned.",
+   "published_at": "2026-11-19T15:14:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.3.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-openrouter==0.3.0",
+   "snippet": "**`langchain-openrouter` 0.3.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11, and the minimum `langchain-core` version is now 1.8.3. ",
+   "published_at": "2026-11-19T15:03:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/videoarticle/3645/what-controls-allow-for-strong-governable-ai-assisted-infrastructure-modernisation",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "What Controls Allow for Strong, Governable AI-Assisted Infrastructure Modernisation?",
+   "snippet": "In this Sibos interview, ACI Worldwide's Bridget Hall discusses the progress of instant payments and AI modernisation, following a session talk.",
+   "published_at": "2026-11-19T15:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+   "snippet": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
+   "published_at": "2026-11-19T14:48:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility",
    "source": "Finextra headlines",
@@ -100,15 +145,6 @@
    "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
    "snippet": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
    "published_at": "2026-11-19T07:07:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/global/even-anthropic-doesnt-trust-ai-to-calculate-your-vat/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Even Anthropic doesn’t trust AI to calculate your VAT",
-   "snippet": "",
-   "published_at": "2026-11-19T07:00:30+00:00",
    "also_in": []
   },
   {
@@ -226,51 +262,6 @@
    "title": "crewAIInc/crewAI 1.15.43",
    "snippet": "## What's Changed ### Bug Fixes - Fix detection of multimodal support for Claude 5. ### Documentation - Update snapshot and changelog for v1.15.42. ## Contributors @Vidit-Ostwal, @anubhavlal07, @joaom",
    "published_at": "2026-11-19T04:12:47+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.2",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.2",
-   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
-   "published_at": "2026-11-19T02:38:09+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
-   "source": "GitHub: anthropics/claude-code",
-   "weight": 1.5,
-   "title": "anthropics/claude-code v2.1.328",
-   "snippet": "## What's changed - Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permiss",
-   "published_at": "2026-11-19T01:14:04+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Priority Projects now in public beta",
-   "snippet": "Priority Projects are now in public beta for Pro and Enterprise teams. This optional upgrade for individual Vercel projects adds bot and traffic-source signals, Page Integrity for monitoring and contr",
-   "published_at": "2026-11-19T01:10:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.3",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-openai==1.8.3",
-   "snippet": "Changes since langchain-openai==1.8.2 release(openai): 1.8.3 (#41950) fix(openai): enable Codex prompt caching on GPT-6.2 (#41949)",
-   "published_at": "2026-11-19T00:38:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.vatcalc.com/poland/poland-vida-implementation-first-vat-changes-january-2027/",
-   "source": "VATCalc (e-invoicing)",
-   "weight": 1.3,
-   "title": "Poland ViDA implementation – first VAT changes January 2027",
-   "snippet": "",
-   "published_at": "2026-11-19T00:07:38+00:00",
    "also_in": []
   }
  ]
