@@ -2,6 +2,456 @@
  "date": "2026-11-23",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "snippet": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the",
+   "published_at": "2026-11-23T23:40:49+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.16",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.108.16",
+   "snippet": "## Verify Docker Image Signature ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.108.16 ``` ## What's Changed * fix(decisions): support the litellm_proxy provider (#51611, #53195) [lts/1.108.x] by @zoveki in ht",
+   "published_at": "2026-11-23T22:12:26+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Ladybird's first alpha release",
+   "snippet": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else",
+   "published_at": "2026-11-23T21:46:35+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.331",
+   "snippet": "## What's changed - Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS - Added `oidc.groups_jsonpath` to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset of JSONPath (RFC 9535) - Added an API connectivity section to `claude doctor` that reports whether ",
+   "published_at": "2026-11-23T21:34:41+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-shirudo",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "snippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "published_at": "2026-11-23T21:20:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-huggingface%3D%3D1.3.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-huggingface==1.3.0",
+   "snippet": "Changes since langchain-huggingface==1.2.3 fix(huggingface): correct forced tool choice and streaming token counts (#42043) test(huggingface): accumulate pipeline streaming output (#42039) test(huggingface): use Together’s GPT-OSS for standard chat coverage (#42035) test(huggingface): use live Novita routing for chat tests (#42033) release(huggingface): 1.3.0 (#41999) release(standard-tests): 1.2.",
+   "published_at": "2026-11-23T20:48:58+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/business-activity-cools-inflation-persists-trend-sp-economy-gda/875544/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Business activity cools due to inflation but persists above trend: S&P",
+   "snippet": "“Both consumer spending and business investment are likely to slow, with data center activity at risk after the midterms,” Yardeni Research President Ed Yardeni said.",
+   "published_at": "2026-11-23T20:46:50+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Adyen co-CEO van der Does retires",
+   "snippet": "The co-founder and co-CEO of Dutch payments processor Adyen, Pieter van der Does, is retiring, with his co-chief Ingo Uytdehaage taking sole control.",
+   "published_at": "2026-11-23T20:32:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+   "snippet": "Sparse linear systems are at the core of nearly every engineering and scientific simulation, from structural mechanics and computational fluid dynamics to...",
+   "published_at": "2026-11-23T19:59:40+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33552/after-a-scam-wave-bank-boards-should-ask-for-two-loss-lines",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "After a scam wave, bank boards should ask for two loss lines",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-23T19:31:31+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.understandingai.org/p/the-five-most-important-debates-in",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "The five most important debates in AI right now",
+   "snippet": "The best arguments for — and against — an AI bubble, a cyber-apocalypse, and recursive self-improvement.",
+   "published_at": "2026-11-23T19:31:14+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+   "snippet": "Google’s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that’s making it increasingly hostile to privacy,\" Signal said.",
+   "published_at": "2026-11-23T18:37:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/fbi-cyberattack-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+   "snippet": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.",
+   "published_at": "2026-11-23T18:30:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111765/ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "snippet": "The Governing Council of the European Central Bank (ECB) has approved the acceptance of marketable assets issued on DLT platforms licensed under the EU DLT Pilot Regime Regulation as eligible collateral for Eurosystem credit operations, subject to specific Eurosystem requirements.",
+   "published_at": "2026-11-23T18:05:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-nomic%3D%3D1.1.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-nomic==1.1.0",
+   "snippet": "Changes since langchain-nomic==1.0.1 fix(nomic): run integration tests serially to avoid credentials file race (#42034) release(nomic): 1.1.0 (#41993) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(deps): patch newer-python security lock resolutions (#41585) revert: patch vulnerable integration dependencies (#41481) build(deps)",
+   "published_at": "2026-11-23T17:21:22+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/allenai/robotrack",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "snippet": "",
+   "published_at": "2026-11-23T17:20:37+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/crowdstrike-zscaler",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+   "snippet": "“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.",
+   "published_at": "2026-11-23T17:14:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.8.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-fireworks==1.8.0",
+   "snippet": "Changes since langchain-fireworks==1.7.3 test(fireworks): replace retired serverless test model (#42032) release(fireworks): 1.8.0 (#42000) release(standard-tests): 1.2.0 (#41996) chore(langchain): require `langgraph` 1.2.16 or newer (#41959) chore(model-profiles): refresh model profile data (#41861) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268)",
+   "published_at": "2026-11-23T17:13:23+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-exa%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-exa==1.2.0",
+   "snippet": "Changes since langchain-exa==1.1.0 fix(exa): stop asserting removed `highlight_scores` in integration test (#42031) release(exa): 1.2.0 (#41990) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(infra): relax third-party dependency upper bounds (#41407) chore(deps): bump certifi from 2025.8.3 to 2026.10.19 in /libs/partners/exa (#",
+   "published_at": "2026-11-23T17:09:50+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+   "snippet": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, red",
+   "published_at": "2026-11-23T17:09:28+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-chroma%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-chroma==1.2.0",
+   "snippet": "Changes since langchain-chroma==1.1.0 release(chroma): 1.2.0 (#41991) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(deps): bump oauthlib from 4.0.0 to 4.0.1 in /libs/partners/chroma (#41721) chore(deps): bump opentelemetry-api from 1.45.1 to 1.45.2 in /libs/partners/chroma (#41588) build(infra): avoid vulnerable filelock relea",
+   "published_at": "2026-11-23T17:04:52+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-qdrant%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-qdrant==1.2.0",
+   "snippet": "Changes since langchain-qdrant==1.1.0 release(qdrant): 1.2.0 (#41992) release(standard-tests): 1.2.0 (#41996) chore(deps): bump filelock from 4.2.5 to 4.2.10 in /libs/partners/qdrant (#41835) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(deps): patch newer-python security lock resolutions (#41585) revert: patch vulnerable integration dependencies (#41481) build(deps",
+   "published_at": "2026-11-23T17:04:39+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "snippet": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "published_at": "2026-11-23T16:59:40+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-perplexity%3D%3D1.5.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-perplexity==1.5.0",
+   "snippet": "Changes since langchain-perplexity==1.4.2 release(perplexity): 1.5.0 (#42001) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) build(infra): patch test-only Pillow without dropping Python 3.10 (#41484) revert: patch vulnerable integration dependencies (#41481) build(deps): patch vulnerable integration dependencies (#41473) chore(deps):",
+   "published_at": "2026-11-23T16:51:03+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33550/why-the-first-week-decides-the-next-thousand-taps",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Why the first week decides the next thousand taps",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-23T16:49:07+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-classic%3D%3D1.1.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-classic==1.1.0",
+   "snippet": "Changes since langchain-classic==1.0.8 fix(infra): install repo-sourced test deps from PyPI in min-version release check (#42029) release(langchain-classic): 1.1.0 (#41994) release(standard-tests): 1.2.0 (#41996) release(text-splitters): 1.2.0 (#41998) chore(deps): bump mistune from 3.3.3 to 3.3.4 in /libs/langchain (#41967) fix(core): keep warning suppression context-local (#41881) chore(infra): ",
+   "published_at": "2026-11-23T16:45:51+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111764/state-street-joins-equilend-1source-dlt-platform",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "State Street joins Equilend 1Source DLT platform",
+   "snippet": "Equilend, the global financial technology, data and analytics company for the securities finance industry, today announced that State Street Corporation (\"State Street\") (NYSE: STT) has signed on to join Equilend 1Source, the distributed ledger technology (DLT) platform built to create a single, golden source of truth for securities finance transactions.",
+   "published_at": "2026-11-23T16:41:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Klarna expands Visa partnership",
+   "snippet": "Klarna, the everyday finance network, has expanded its partnership with Visa, a world leader in digital payments, giving the merchants using Visa Acceptance Platform access to Klarna’s latest features.",
+   "published_at": "2026-11-23T16:40:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111762/expensify-rolls-out-ai-powered-analytics-feature",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Expensify rolls out AI-powered analytics feature",
+   "snippet": "Expensify, Inc. (Nasdaq: EXFY), your AI platform for expenses, corporate cards, and business travel, today announced the launch of Insights, a new AI-powered analytics feature that turns expense data into actionable findings.",
+   "published_at": "2026-11-23T16:37:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-ollama%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-ollama==1.2.0",
+   "snippet": "Changes since langchain-ollama==1.1.0 release(ollama): 1.2.0 (#41997) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(infra): relax third-party dependency upper bounds (#41407) chore(deps): bump certifi from 2025.8.3 to 2026.10.19 in /libs/partners/ollama (#41381) fix: fix dependencies in some partner packages (#41266) fix(ollam",
+   "published_at": "2026-11-23T16:16:05+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-tests%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-tests==1.2.0",
+   "snippet": "Changes since langchain-tests==1.1.9 release(standard-tests): 1.2.0 (#41996) feat: Remove EOL'd Python 3.10 from text_splitters, model_profiles and standard-tests (#41343) chore(deps): bump the minor-and-patch group across 2 directories with 4 updates (#41615) chore(deps): bump vcrpy from 8.3.0 to 8.5.0 in /libs/standard-tests in the major group across 1 directory (#41617) chore(deps): bump the mi",
+   "published_at": "2026-11-23T16:14:24+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-text-splitters%3D%3D1.2.0",
+   "source": "GitHub: langchain-ai/langchain",
+   "weight": 0.9,
+   "title": "langchain-ai/langchain langchain-text-splitters==1.2.0",
+   "snippet": "Changes since langchain-text-splitters==1.1.3 release(text-splitters): 1.2.0 (#41998) chore(text-splitters): bump mistune from 3.3.3 to 3.3.4 in /libs/text-splitters (#42006) chore(infra): update vulnerable development dependencies (#41933) feat: Remove EOL'd Python 3.10 from text_splitters, model_profiles and standard-tests (#41343) build(text-splitters): constrain setuptools to patched releases ",
+   "published_at": "2026-11-23T16:11:44+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+   "snippet": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+   "published_at": "2026-11-23T16:01:48+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/norway-microsoft-cyberattack-equinor",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
+   "snippet": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.",
+   "published_at": "2026-11-23T15:45:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875474/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "PayPal’s new CFO lands big pay",
+   "snippet": "The digital payments player handed Claire Bramley, an HP alum, a $30 million pay package to take the chief financial officer post in February.",
+   "published_at": "2026-11-23T15:39:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+   "snippet": "Cross-border payments firm Payoneer has received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
+   "published_at": "2026-11-23T15:39:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.netinterest.co/p/supply-and-demand",
+   "source": "Net Interest (Marc Rubinstein)",
+   "weight": 0.9,
+   "title": "Supply and Demand",
+   "snippet": "Finding Equilibrium Inside the AI Economy",
+   "published_at": "2026-11-23T15:38:25+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.44.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.44.0",
+   "snippet": "## 1.44.0 (2026-11-23) ## What's Changed ### Features * feat(chat): conversation mentions, behind the conversation_mentions flag by @enyst in https://github.com/OpenHands/OpenHands/pull/19921 * feat(automations): choose who can see an automation (OHE-4206) by @hieptl in https://github.com/OpenHands/OpenHands/pull/19893 * feat(chat): show a readable error when a budget is reached by @hieptl in http",
+   "published_at": "2026-11-23T15:29:47+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Stablecoin FX platform Codex raises $30m",
+   "snippet": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
+   "published_at": "2026-11-23T15:21:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/nvidia-reinstates-huang-as-chief-kress-remains-cfo-AI/875465/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Nvidia reinstates Huang as chief, Kress remains CFO",
+   "snippet": "Shares of the AI chip maker jumped over 30% in morning trading on Jensen Huang’s return to the CEO seat despite reports of multiple affairs, including one with an alleged Chinese spy.",
+   "published_at": "2026-11-23T15:16:04+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn’t Want to Build Into Our Own Agents",
+   "snippet": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn’t Want to Build Into Our Own Agents We have a rule at SaaStr: if we add an agent, we remove one. We haven’t enforced it well, and Muse is the most recent agent that got past it. We already run 10K, our main GTM agent,... Continue Reading",
+   "published_at": "2026-11-23T15:00:01+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48796/cftc-loses-emergency-effort-to-block-new-york-action-against-kalshi",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "CFTC loses emergency effort to block New York action against Kalshi",
+   "snippet": "A US judge has rejected a request from the Commodity Futures Trading Commission to temporarily block the New York Attorney General from pursuing their legal case against prediction market Kalshi.",
+   "published_at": "2026-11-23T14:41:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33549/when-ai-goes-wrong",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "When AI Goes Wrong",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-23T14:40:37+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33548/what-startup-founders-need-to-know-about-cross-border-payments",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "What startup founders need to know about cross-border payments",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-23T14:35:52+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Fed President pitches FedNow",
+   "snippet": "Jeff Schmid, who leads the Kansas City Federal Reserve, nudged credit union executives last week to adopt faster payment options, like FedNow.",
+   "published_at": "2026-11-23T14:20:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
    "source": "Import AI (Jack Clark)",
    "weight": 1.3,
@@ -9,6 +459,16 @@
    "snippet": "Could the scientific method be emergent?",
    "published_at": "2026-11-23T14:11:17+00:00",
    "first_seen": "2026-11-23T14:29:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48795/canada-picks-fdx-for-open-banking-technical-standards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Canada picks FDX for open banking technical standards",
+   "snippet": "The Canadian government has chosen US organisation Financial Data Exchange (FDX) as the technical standards body for the country's open banking regime.",
+   "published_at": "2026-11-23T14:02:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
    "also_in": []
   },
   {
@@ -32,6 +492,36 @@
    "also_in": []
   },
   {
+   "url": "https://www.finextra.com/pressarticle/111761/silverflow-launches-modular-in-person-payments-tech",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Silverflow launches modular in-person payments tech",
+   "snippet": "Silverflow, the cloud-native payments processing platform, now offers a complete modular in-person payment solution designed for modern acquirers.",
+   "published_at": "2026-11-23T13:19:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111759/iforex-receives-in-principle-approval-for-uae-licence",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "IForex receives in-principle approval for UAE licence",
+   "snippet": "IForex (LSE:IFRX), a leading fintech business with a proprietary online and mobile trading platform for multi-asset contracts for difference (“CFD”), is pleased to announce that it has received in-principle approval from the UAE Capital Market Authority (“CMA”) for a Category 5 licence, covering financial consultation, introduction and promotion activities.",
+   "published_at": "2026-11-23T13:11:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
+   "snippet": "StraitsX, the stablecoin-native settlement layer powering global finance, today announced a pilot for cross-border business-to-business (B2B) payments that connects stablecoin settlement with participating OCBC clients’ existing bank accounts.",
+   "published_at": "2026-11-23T13:09:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://sifted.eu/articles/sign-up-for-the-first-london-tech-chess-night-brnd/",
    "source": "Sifted",
    "weight": 1.0,
@@ -39,6 +529,16 @@
    "snippet": "",
    "published_at": "2026-11-23T13:07:34+00:00",
    "first_seen": "2026-11-23T14:29:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111757/trust-payments-partners-okto-payments-in-latam",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Trust Payments partners OKTO Payments in LatAm",
+   "snippet": "Trust Payments, a leading fintech innovator across the UK and EU, has partnered with OKTO PAYMENTS, the next-generation payment service provider, to give its merchants access to domestic payment methods and local card processing across six Latin American markets.",
+   "published_at": "2026-11-23T13:05:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
    "also_in": []
   },
   {
@@ -52,6 +552,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.paymentsdive.com/news/trump-signs-common-cents-bill/875442/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Trump signs Common Cents bill",
+   "snippet": "The new law gives merchants a legal basis for rounding retail cash transactions as pennies disappear.",
+   "published_at": "2026-11-23T12:51:01+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex/",
    "source": "SAP News Center",
    "weight": 1.0,
@@ -59,6 +569,36 @@
    "snippet": "For partners weighing whether SAP Store certification effort is worth it, Vertex's experience makes the case.",
    "published_at": "2026-11-23T12:15:00+00:00",
    "first_seen": "2026-11-23T14:29:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33547/wells-fargo-to-customers-your-ai-agent-your-problem",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Wells Fargo to Customers: Your AI Agent, Your Problem",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-23T12:05:44+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/knowledge-factory",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "How to build a knowledge factory for AI agents",
+   "snippet": "The knowledge factory is how LangChain keeps its agents' company knowledge current: agents flag what's missing, and a curator agent fixes it in the background.",
+   "published_at": "2026-11-23T11:15:09+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.langchain.com/blog/series-c",
+   "source": "LangChain blog",
+   "weight": 1.0,
+   "title": "LangChain Raises $300M Series C at $3B Valuation",
+   "snippet": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+   "published_at": "2026-11-23T11:15:09+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
    "also_in": []
   },
   {
@@ -109,6 +649,36 @@
    "snippet": "",
    "published_at": "2026-11-23T09:00:24+00:00",
    "first_seen": "2026-11-23T14:29:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48794/ex-monzo-scam-fighting-team-raises-18m-for-startup-acorda",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Ex-Monzo scam fighting team raises £1.8m for startup Acorda",
+   "snippet": "The former leaders of Monzo's scam detection team have raised £1.8 million in pre-seed funding for Acorda, a fintech that helps payment providers stop fraud.",
+   "published_at": "2026-11-23T09:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Connected intelligence for in-house legal",
+   "snippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+   "published_at": "2026-11-23T08:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "snippet": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "published_at": "2026-11-23T08:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
    "also_in": []
   },
   {
@@ -192,6 +762,56 @@
    "also_in": []
   },
   {
+   "url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+   "snippet": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's cus",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel日本法人の代表に花尾和成が就任いたしました",
+   "snippet": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリ",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AI Gateway now supports extraction models",
+   "snippet": "Extraction models are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use. ScaleDown Extract-1 is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process i",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Vercel Drives adds CLI commands and standalone SDKs",
+   "snippet": "You can now create, list, fork, and delete Vercel Drives with the new vercel drives commands or standalone SDKs for TypeScript ( @vercel/drives ) and Python ( vercel-drives ). Drives also have a REST API at /v1/drives and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions. With the latest V",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-charts 0.1a0",
+   "snippet": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can <a href=\"https://lite.datasette.io/?install=datasette-charts#/content/stats#chart=%7B%22v%22%3A1%2C%22type%22%3A%22line%22%2C%22encoding%22%",
+   "published_at": "2026-11-23T00:37:20+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.vatcalc.com/estonia/estonia-prepares-for-customer-e-invoicing-option/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
@@ -229,6 +849,170 @@
    "snippet": "Provider headquarters sends your AI Gateway requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located. You can configure provider headquarters to be an allowlist of the countries to use, or a denylist of the countries to block. AI Gateway skips providers",
    "published_at": "2026-11-23T00:00:00+00:00",
    "first_seen": "2026-11-23T14:29:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Combatting adversarial distillation (13 minute read)",
+   "snippet": "OpenAI is stepping up defenses against adversarial distillation, where outsiders train models on its outputs to copy its capabilities.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": [
+    "OpenAI blog"
+   ]
+  },
+  {
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
+   "snippet": "Hugging Face has introduced harness adapters, allowing models like Qwen3.8-27B to optimize performance in specific harness-task combinations. By incorporating RL-trained LoRA adapters, the models achieve higher accuracy and efficiency, reducing token usage significantly.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": [
+    "Hugging Face blog"
+   ]
+  },
+  {
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Perplexity and Intelligence (9 minute read)",
+   "snippet": "Perplexity measures how well a model predicts the next token on average. Lower perplexity means better predictions. Perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing. It will likely play an important role in standardizing how AI progress is discussed as it continues to deliver consistent gains in general intelligence.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Inkling 2 Mini (9 minute read)",
+   "snippet": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that does extra internal computation to reason more before it answers. It leads every open-weight model under 100B parameters on the DeepSWE coding benchmark.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly (29 minute read)",
+   "snippet": "Frontier AI models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. METR says public evidence can't rule out a drastic speedup in AI research within the next couple of years.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Most Important Charts in AI are Wrong (35 minute read)",
+   "snippet": "AI capabilities are starting to become impressive. However, they are still dramatically inferior to what influential AI forecasts and benchmarks have predicted. These forecasts and benchmarks say that we are imminently close to reaching super-intelligence, but the gap between the real world and forecasts keeps growing larger. Now that real-world data exists, it's time to shift from being AI theori",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Why Post-Training Could Teach Models to Evade Monitoring (3 minute read)",
+   "snippet": "Penalizing detected reward hacking during post-training could select for behavior that evades monitors. The industry needs stronger training sandboxes, better-audited tasks and graders, and empirical research into whether interventions improve alignment or merely conceal undesirable behavior.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/tencent/Hy4",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
+   "snippet": "Tencent's open-weight Hy4 supports text, image, and video understanding with a 770-billion-parameter backbone activating 49 billion parameters per token. It combines million-token context, sparse attention, and a speculative-decoding drafter, targeting coding, computer use, finance, research, and long-running assistant workflows.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://research.nvidia.com/labs/genair/sigma/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
+   "snippet": "Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step generation and self-speculative decoding, reaching a 3.46x average throughput speedup over autoregressive decoding on a GB200.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://danni763618.typeform.com/to/H1tYViME",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "snippet": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird (15 minute read)",
+   "snippet": "Anthropic embraces being atypical because it believes the artificial intelligence future will be anything but normal. Dario Amodei, 43, the company's chief executive, is Anthropic's ideological leader. He has one direct report, his chief of staff and sister, Daniela Amodei, 29. The company has made some unusual choices, and it screens out new hires with culture interviews. This article looks at th",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Lean verification of the Riemann Hypothesis (3 minute read)",
+   "snippet": "Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code on November 20. The Lean and Mathlib communities have full confidence that Alpöge's proof of the Riemann Hypothesis is correct. Alpöge's library compiles correctly, and the code proves the correct statement. It is expected that the mathematical community will help explain the ideas in the",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/geminiapp/status/2123813017855103449",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Say hello to GIFs in Gemini (1 minute read)",
+   "snippet": "Gemini Omni 1.2 Flash can create GIFs with smooth motion and consistent quality across every frame.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Amazon Nearing $7.5 Billion Purchase of Decart (2 minute read)",
+   "snippet": "Amazon is reportedly nearing a $7.5 billion deal to buy Decart, a three-year-old AI startup.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meet bison-1 and groundhog-1, frontier American decision models (5 minute read)",
+   "snippet": "bison-1 and groundhog-1 are built on Google's Gemma 4 and are designed for teams that want an American base model.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+   "snippet": "SaaS platforms have long built for specific verticals. Now AI makes it practical to build for one merchant. At Stripe’s SaaS Platform Summit, founders and operators shared how custom software and embedded finance can open new revenue streams.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen": "2026-11-24T02:52:46+00:00",
    "also_in": []
   }
  ]

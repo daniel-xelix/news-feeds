@@ -1,260 +1,51 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 5,
+ "pages": 6,
  "items": [
   {
-   "url": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "13 pre-seed fintechs to watch, according to VCs",
-   "snippet": "",
-   "published_at": "2026-11-20T05:00:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Inside Slush 2026: Robots, riches and the race to superintelligence",
-   "snippet": "",
-   "published_at": "2026-11-20T05:00:44+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/slush-20u20-2026/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20",
-   "snippet": "",
-   "published_at": "2026-11-20T05:00:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Espoo closes in on Helsinki as Finland’s startup funding race tightens",
-   "snippet": "",
-   "published_at": "2026-11-20T05:00:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Vercel completes ISO/IEC 42001:2023 certification",
-   "snippet": "Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems. This certification gives our customers confidence to ship fast with agents on V",
-   "published_at": "2026-11-20T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.2",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.110.2",
-   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
-   "published_at": "2026-11-20T04:06:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.13",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.13 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
-   "published_at": "2026-11-20T04:00:54+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.3",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.3",
-   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
-   "published_at": "2026-11-20T03:59:14+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "llm-gemini 0.38.1",
-   "snippet": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added tho",
-   "published_at": "2026-11-20T03:01:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Token fraud is here and it’s BAD (YouTube)",
-   "snippet": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has",
-   "published_at": "2026-11-20T02:49:57+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.24",
-   "source": "GitHub: langchain-ai/langgraph",
-   "weight": 1.0,
-   "title": "langchain-ai/langgraph langgraph==1.2.24",
-   "snippet": "Changes since 1.2.23 * release(langgraph): 1.2.24 (#9752) * fix(langgraph): handle `REMOVE_ALL_MESSAGES` in `_messages_delta_reducer` and `None` checkpoints in `DeltaChannel` (#9735)",
-   "published_at": "2026-11-20T01:10:26+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.langchain.com/blog/agent-governance-observability",
-   "source": "LangChain blog",
-   "weight": 1.0,
-   "title": "Why agent governance starts with observability",
-   "snippet": "A strong AI agent governance strategy",
-   "published_at": "2026-11-20T00:57:43+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "snippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/introducing-medchembench",
-   "source": "OpenAI blog",
-   "weight": 1.4,
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "snippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/inkling2mini",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-   "snippet": "",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "snippet": "",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
-   "source": "Apple ML research",
-   "weight": 1.0,
-   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
-   "snippet": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.together.ai/blog/qwen3-tts",
-   "source": "Together AI blog",
-   "weight": 1.0,
-   "title": "Qwen3 TTS is now available on Together AI",
-   "snippet": "Qwen3 TTS is now available on Together AI. Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/blog/introducing-vercel-board",
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "Vercel Board (5 minute read)",
-   "snippet": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": [
-    "Vercel blog"
-   ]
-  },
-  {
-   "url": "https://sourcegraph.com/blog/ruby2shell-cve-2026-132825-find-vulnerable-ruby",
-   "source": "Sourcegraph blog",
-   "weight": 0.9,
-   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos",
-   "snippet": "Researchers report that default Rails and classic Sinatra apps reach Ruby2Shell (CVE-2026-132825) without authentication. Find affected Ruby runtimes in your code and upgrade to 3.3.14, 3.4.13, or 4.0",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly (29 minute read)",
+   "snippet": "Frontier AI models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. METR says public evidence can",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://about.gitlab.com/blog/java4shell-critical-java-flaw-how-gitlab-helps/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Java4Shell: GitLab helps find and remediate a critical Java flaw",
-   "snippet": "GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a specific combination of conditions, which we conf",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
-   "snippet": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatica",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "The Most Important Charts in AI are Wrong (35 minute read)",
+   "snippet": "AI capabilities are starting to become impressive. However, they are still dramatically inferior to what influential AI forecasts and benchmarks have predicted. These forecasts and benchmarks say that",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+   "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
-   "snippet": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live p",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "Why Post-Training Could Teach Models to Evade Monitoring (3 minute read)",
+   "snippet": "Penalizing detected reward hacking during post-training could select for behavior that evades monitors. The industry needs stronger training sandboxes, better-audited tasks and graders, and empirical ",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+   "url": "https://huggingface.co/tencent/Hy4",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
-   "snippet": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9× NumPy workload speedup versus 3.7× for one agent within two hours, using more compute. Gains depended on separable tasks and shar",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
+   "snippet": "Tencent's open-weight Hy4 supports text, image, and video understanding with a 770-billion-parameter backbone activating 49 billion parameters per token. It combines million-token context, sparse atte",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "url": "https://research.nvidia.com/labs/genair/sigma/",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
-   "snippet": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which rea",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "AI is already massively speeding up AI research (9 minute read)",
-   "snippet": "AI companies are not ready to handle the risks of recursive self-improvement safely and responsibly, despite having talked about them for years, and this is incredibly dangerous. Policymakers need to ",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://blog.google/security/mirror-dimension-for-agents/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
-   "snippet": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks a",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://apple-aiml-research.github.io/ml-fastframes/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "FastFrames: Video Generation at Interactive Latency (9 minute read)",
-   "snippet": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model.",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
+   "snippet": "Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step g",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
@@ -263,16 +54,223 @@
    "weight": 1.5,
    "title": "Become a founding member of TLDR's AI community (2 minute form)",
    "snippet": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "published_at": "2026-11-23T00:00:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
    "source": "TLDR AI",
    "weight": 1.5,
-   "title": "Perplexity's Self-Improving Skills (10 minute read)",
-   "snippet": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.",
-   "published_at": "2026-11-20T00:00:00+00:00",
+   "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird (15 minute read)",
+   "snippet": "Anthropic embraces being atypical because it believes the artificial intelligence future will be anything but normal. Dario Amodei, 43, the company's chief executive, is Anthropic's ideological leader",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Lean verification of the Riemann Hypothesis (3 minute read)",
+   "snippet": "Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code on November 20. The Lean and Mathlib communities have full confidence that Alpöge's proof",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://x.com/geminiapp/status/2123813017855103449",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Say hello to GIFs in Gemini (1 minute read)",
+   "snippet": "Gemini Omni 1.2 Flash can create GIFs with smooth motion and consistent quality across every frame.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Amazon Nearing $7.5 Billion Purchase of Decart (2 minute read)",
+   "snippet": "Amazon is reportedly nearing a $7.5 billion deal to buy Decart, a three-year-old AI startup.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Meet bison-1 and groundhog-1, frontier American decision models (5 minute read)",
+   "snippet": "bison-1 and groundhog-1 are built on Google's Gemma 4 and are designed for teams that want an American base model.",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+   "source": "Stripe blog",
+   "weight": 1.0,
+   "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+   "snippet": "SaaS platforms have long built for specific verticals. Now AI makes it practical to build for one merchant. At Stripe’s SaaS Platform Summit, founders and operators shared how custom software and embe",
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Select Styling Specimens",
+   "snippet": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: <img alt=\"The same select box in ",
+   "published_at": "2026-11-22T19:45:06+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-6000-employees-a-2027-without-nvidia-as-a-buyer-and-why-muse-is-replacing-marketing-automation/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Jason’s Takes on This Week’s 20VC: Anthropic’s 6,000 Employees, a 2027 Without Nvidia as a Buyer, and Why Muse Is Replacing Marketing Automation",
+   "snippet": "The takes I started on the pod and didn’t get to finish. We had more news this week than almost any week since Harry, Rory and I started doing this. That meant a lot of threads got cut off, by Harry m",
+   "published_at": "2026-11-22T18:00:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Sam Blond Met 200+ AI Sales Startups at Founders Fund, Then Built Monaco: Why Most Get It Wrong, Where AI Beats Your Reps, and the $15,000 Plane",
+   "snippet": "Sam Blond scaled sales at Brex, then joined Founders Fund as a partner. Because his background is sales, a large share of the AI GTM startups pitching Founders Fund ended up in his meetings. He met wi",
+   "published_at": "2026-11-22T15:00:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+   "snippet": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+   "published_at": "2026-11-22T13:31:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/5-interesting-learnings-from-cartas-q3-2026-data-100b-raised-in-six-months-21-fewer-deals-and-1-in-3-series-a-rounds-is-a-bridge/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "5 Interesting Learnings from Carta’s Q3 2026 Data: $100B Raised in Six Months, 21% Fewer Deals, and 1 in 3 Series A Rounds Is a Bridge",
+   "snippet": "Carta released its State of Private Markets report for Q3 2026. Startups on Carta raised $49.3 billion in Q3 and more than $100 billion over the last two quarters, the most in any six-month stretch si",
+   "published_at": "2026-11-22T13:00:34+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/dear-saastr-what-are-your-biggest-regrets-when-starting-a-company-culture-scaling-hiring-marketing-etc/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "Dear SaaStr: What Are Your Biggest Regrets When Starting a Company? Culture, Scaling, Hiring, Marketing, Etc.",
+   "snippet": "I don’t have any true regrets in either of the companies I co-founded. But let me list the Top 10 mistakes I made in the first 12-18 months starting a B2B company that still ended up being a pretty so",
+   "published_at": "2026-11-22T10:00:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/bulgaria/bulgaria-proposes-first-vida-laws-for-2027-2029/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Bulgaria proposes first ViDA laws for 2027–2029",
+   "snippet": "",
+   "published_at": "2026-11-22T07:00:01+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/italy/italy-sdi-e-invoicing-july-2022-major-changes/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Italy SdI e-invoicing new specifications Jan 2027",
+   "snippet": "",
+   "published_at": "2026-11-22T06:03:58+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/global/live-vat-gst-transaction-e-invoicing-global-tracker/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "e-invoicing global tracker",
+   "snippet": "",
+   "published_at": "2026-11-22T05:02:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.exponentialview.co/p/ev-611",
+   "source": "Exponential View (Azeem Azhar)",
+   "weight": 1.0,
+   "title": "🔮 Certified human, twin primes, Anthropic++ #611",
+   "snippet": "Your Sunday briefing on AI and exponential technologies",
+   "published_at": "2026-11-22T04:59:51+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Perplexity and Intelligence",
+   "snippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "published_at": "2026-11-22T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://eugeneyan.com/writing/public-evals",
+   "source": "Eugene Yan",
+   "weight": 1.2,
+   "title": "How Evals are Built, Where they Break, and What to Measure Instead.",
+   "snippet": "Lessons from 12 benchmarks: grader bugs, not measuring what matters, etc.",
+   "published_at": "2026-11-22T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/what-kind-of-factory-will-you-build/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "What Kind of Factory Will You Build?",
+   "snippet": "A software factory has four components: a shared context, skills & specs, an execution trace, & a curator loop that rewrites the system from the trace. Notion's A New Shape for Work & LangChain's know",
+   "published_at": "2026-11-22T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Muru",
+   "snippet": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that ",
+   "published_at": "2026-11-21T23:56:28+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.15",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.15 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
+   "published_at": "2026-11-21T21:35:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.thealgorithmicbridge.com/p/ai-just-cracked-the-hardest-problem",
+   "source": "The Algorithmic Bridge (Alberto Romero)",
+   "weight": 1.0,
+   "title": "AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything",
+   "snippet": "The Riemann Hypothesis has fallen",
+   "published_at": "2026-11-21T18:59:24+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+   "source": "Lenny's Newsletter",
+   "weight": 1.0,
+   "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+   "snippet": "Community Wisdom 306",
+   "published_at": "2026-11-21T16:49:56+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/with-agents-were-all-going-to-have-to-work-weekends-theyll-want-to-you-may-need-to/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "With Agents, We’re All Going to Have to Work Weekends. They’ll Want To. You May Need To.",
+   "snippet": "Folks outside engineering are going to have to get used to something AI-pilled developers already live with: with agents, you’re going to end up working weekends. That doesn’t mean 996, and it doesn’t",
+   "published_at": "2026-11-21T15:00:03+00:00",
    "also_in": []
   }
  ]
