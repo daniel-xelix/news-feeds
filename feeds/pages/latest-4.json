@@ -1,8 +1,136 @@
 {
  "set": "latest",
  "page": 4,
- "pages": 7,
+ "pages": 8,
  "items": [
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.3",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.110.3",
+   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
+   "published_at": "2026-11-24T04:11:03+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.45",
+   "source": "GitHub: crewAIInc/crewAI",
+   "weight": 1.0,
+   "title": "crewAIInc/crewAI 1.15.45",
+   "snippet": "## What's Changed ### Features - Add ability to save HTML or markdown output as a PDF artifact. ### Bug Fixes - Fix dependency issue by bumping e2b for Python >=3.11 to pull patched wcmatch. - Wrap fi",
+   "published_at": "2026-11-24T03:54:54+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-agent 0.7a1",
+   "snippet": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigat",
+   "published_at": "2026-11-24T03:45:57+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Lloyds publishes guide on scaling AI responsibly",
+   "snippet": "Lloyds Banking Group has provided some insight into its approach to rolling out AI in a responsible way, publishing a guide sharing practical lessons from its experience of scaling the technology.",
+   "published_at": "2026-11-24T00:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Intentful uses dots to make more time for growth",
+   "snippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "snippet": "",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "snippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Faster Quantum Algorithms with Agents and Formal Verification (4 minute read)",
+   "snippet": "Google DeepMind used teams of Gemini 4 agents to find cheaper versions of known quantum algorithms, with each result proven correct in the Lean theorem prover. One circuit for fusion energy research c",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": [
+    "Google DeepMind blog"
+   ]
+  },
+  {
+   "url": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing preemptible compute: the same compute, half the price",
+   "snippet": "Together GPU Clusters now supports preemptible compute: the same GPU capacity at a flat 50% of the on-demand rate, with a five-minute drain window.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Inkling 2 Mini now available on AI Gateway",
+   "snippet": "Inkling 2 Mini from Thinking Machines is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and tex",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "GitLab Dedicated: A go-live guide",
+   "snippet": "GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by GitLab. GitLab Dedicated and compliance covers why r",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.natural.com/blog/voice",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Natural Voice (8 minute read)",
+   "snippet": "Natural Voice enables voice agents to securely process payments during calls, eliminating the need for out-of-band transfers and reducing customer drop-off. By handling PCI compliance, it allows busin",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://code.claude.com/docs/en/claude-ship",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Ship (3 minute read)",
+   "snippet": "Claude Ship is a set of Anthropic agents that help get GitHub pull requests ready to merge. Code Review flags issues, PR Steward pushes fixes, and Claude Approvals checks changes against a team's appr",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://z.ai/blog/glm-5.4",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GLM-5.4 (5 minute read)",
+   "snippet": "Z.ai has released GLM-5.4, its first flagship model built on a Loop Transformer. The design reuses a shared block of layers to reason more deeply without adding parameters. Z.ai says it reaches intell",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
    "source": "TLDR AI",
@@ -145,132 +273,6 @@
    "title": "OpenAI and Cisco introduce Shirudo",
    "snippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
    "published_at": "2026-11-23T21:20:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-huggingface%3D%3D1.3.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-huggingface==1.3.0",
-   "snippet": "Changes since langchain-huggingface==1.2.3 fix(huggingface): correct forced tool choice and streaming token counts (#42043) test(huggingface): accumulate pipeline streaming output (#42039) test(huggin",
-   "published_at": "2026-11-23T20:48:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/business-activity-cools-inflation-persists-trend-sp-economy-gda/875544/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Business activity cools due to inflation but persists above trend: S&P",
-   "snippet": "“Both consumer spending and business investment are likely to slow, with data center activity at risk after the midterms,” Yardeni Research President Ed Yardeni said.",
-   "published_at": "2026-11-23T20:46:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Adyen co-CEO van der Does retires",
-   "snippet": "The co-founder and co-CEO of Dutch payments processor Adyen, Pieter van der Does, is retiring, with his co-chief Ingo Uytdehaage taking sole control.",
-   "published_at": "2026-11-23T20:32:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/cfos-prioritize-cost-control-efficiency-for-2027-ai-gartner/875536/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "CFOs prioritize cost control, efficiency for 2027: Gartner",
-   "snippet": "Rising AI investments are complicating cost optimization, along with persistent inflation, geopolitical uncertainty and higher borrowing costs, analysts said.",
-   "published_at": "2026-11-23T20:17:35+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
-   "snippet": "Sparse linear systems are at the core of nearly every engineering and scientific simulation, from structural mechanics and computational fluid dynamics to...",
-   "published_at": "2026-11-23T19:59:40+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/ai-productivity-gains-slow-headcount-sap-cfo-predicts/875530/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "AI productivity gains to slow headcount, SAP CFO predicts",
-   "snippet": "SAP’s Dominik Asam also announced SAP will introduce a new KPI in the new year aimed at more clearly tracking AI’s financial impact.",
-   "published_at": "2026-11-23T19:54:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.understandingai.org/p/the-five-most-important-debates-in",
-   "source": "Understanding AI (Timothy B. Lee)",
-   "weight": 1.0,
-   "title": "The five most important debates in AI right now",
-   "snippet": "The best arguments for — and against — an AI bubble, a cyber-apocalypse, and recursive self-improvement.",
-   "published_at": "2026-11-23T19:31:14+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-nomic%3D%3D1.1.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-nomic==1.1.0",
-   "snippet": "Changes since langchain-nomic==1.0.1 fix(nomic): run integration tests serially to avoid credentials file race (#42034) release(nomic): 1.1.0 (#41993) release(standard-tests): 1.2.0 (#41996) feat(part",
-   "published_at": "2026-11-23T17:21:22+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "snippet": "",
-   "published_at": "2026-11-23T17:20:37+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.8.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-fireworks==1.8.0",
-   "snippet": "Changes since langchain-fireworks==1.7.3 test(fireworks): replace retired serverless test model (#42032) release(fireworks): 1.8.0 (#42000) release(standard-tests): 1.2.0 (#41996) chore(langchain): re",
-   "published_at": "2026-11-23T17:13:23+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-exa%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-exa==1.2.0",
-   "snippet": "Changes since langchain-exa==1.1.0 fix(exa): stop asserting removed `highlight_scores` in integration test (#42031) release(exa): 1.2.0 (#41990) release(standard-tests): 1.2.0 (#41996) feat(partners):",
-   "published_at": "2026-11-23T17:09:50+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
-   "snippet": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, red",
-   "published_at": "2026-11-23T17:09:28+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-chroma%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-chroma==1.2.0",
-   "snippet": "Changes since langchain-chroma==1.1.0 release(chroma): 1.2.0 (#41991) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(deps): bump ",
-   "published_at": "2026-11-23T17:04:52+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-qdrant%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-qdrant==1.2.0",
-   "snippet": "Changes since langchain-qdrant==1.1.0 release(qdrant): 1.2.0 (#41992) release(standard-tests): 1.2.0 (#41996) chore(deps): bump filelock from 4.2.5 to 4.2.10 in /libs/partners/qdrant (#41835) feat(par",
-   "published_at": "2026-11-23T17:04:39+00:00",
    "also_in": []
   }
  ]
