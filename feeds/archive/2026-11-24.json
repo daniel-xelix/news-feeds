@@ -2,6 +2,366 @@
  "date": "2026-11-24",
  "items": [
   {
+   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "Three LLM inflection points in twelve months",
+   "snippet": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. <h4 id=\"coding-age",
+   "published_at": "2026-11-24T23:02:07+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.17",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.108.17",
+   "snippet": "## Verify Docker Image Signature ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://token.actions.githubusercontent.com \\ ghcr.io/berriai/litellm:v1.108.17 ``` ## What's Changed * test(decisions): expect null usage on the Databricks systemone answer on lts/1.108.x (#48665) by @",
+   "published_at": "2026-11-24T22:56:05+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/cap-one-pursues-payments-modernization/875673/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Cap One pursues payments modernization",
+   "snippet": "The bank’s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said.",
+   "published_at": "2026-11-24T22:34:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
+   "source": "Understanding AI (Timothy B. Lee)",
+   "weight": 1.0,
+   "title": "An Anthropic mathematician just solved math’s most famous problem",
+   "snippet": "Is solving the Riemann Hypothesis a “coal mine canary for dangerously advanced AI?”",
+   "published_at": "2026-11-24T21:43:33+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/mycolorado-app-down-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+   "snippet": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
+   "published_at": "2026-11-24T20:52:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/consumer-sentiment-surges-midterm-elections-conference-board-inflation-trump-economy-fed/875690/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Consumer sentiment surges following midterm elections: Conference Board",
+   "snippet": "“There’s optimism in the air heading into the holiday season,” Navy Federal Credit Union Chief Economist Heather Long said.",
+   "published_at": "2026-11-24T20:49:27+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111777/farsight-launches-ai-powered-integration-in-capital-iq-pro",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Farsight launches AI-powered integration in Capital IQ Pro",
+   "snippet": "Farsight, the platform bringing firm-native AI to global financial services firms, today announced that its integration with S&P Capital IQ Pro, the flagship platform from S&P Global Market Intelligence, is now live.",
+   "published_at": "2026-11-24T20:13:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+   "snippet": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
+   "published_at": "2026-11-24T19:48:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111776/rain-launches-instant-issue-physical-cards",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Rain launches instant-issue physical cards",
+   "snippet": "For a business launching or scaling a card program, physical cards are one of the most valuable tools to drive spend. On Rain, physical card transactions average nearly 2.5 times the value of virtual card transactions, while total spending per physical cardholder is 3.6 times higher.",
+   "published_at": "2026-11-24T19:34:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/california-privacy-agency-kemp",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "California privacy agency director Kemp to leave after two-year tenure",
+   "snippet": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
+   "published_at": "2026-11-24T19:30:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+   "source": "The Pragmatic Engineer (Gergely Orosz)",
+   "weight": 1.2,
+   "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+   "snippet": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+   "published_at": "2026-11-24T19:16:38+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/cocacola-grants-new-cfo-10m-stock-cash-awards-beverage-capex/875666/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Coca-Cola hires pharma vet for CFO",
+   "snippet": "The beverage giant is breaking from its typical practice of appointing insiders by naming pharma finance alum David Elkins as its incoming CFO, analysts noted.",
+   "published_at": "2026-11-24T19:07:18+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875648/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Adyen co-founder to step down",
+   "snippet": "“I feel my cycle is complete,” Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. “This is the right moment for me to step down.”",
+   "published_at": "2026-11-24T18:51:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+   "snippet": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+   "published_at": "2026-11-24T18:44:05+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33561/russian-payments-ecosystem-before-the-war-cbr-fps-urgent-and-non-urgent-payments-and-of-course",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Russian payments ecosystem: before the war. CBR, FPS, Urgent and Non-Urgent payments and of course,",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-24T18:26:14+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/quote-week-men-fail-upward-nvidia/875657/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Quote of the week: ‘Men fail upward’",
+   "snippet": "In a stunning reversal drawing cheers and jeers, Nvidia’s board Monday rehired CEO Jensen Huang despite his affair with an alleged Chinese spy.",
+   "published_at": "2026-11-24T18:15:17+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "All Sandbox runtimes now use Vercel Managed Images",
+   "snippet": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR. The universal image is released nightly, and",
+   "published_at": "2026-11-24T18:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+   "snippet": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
+   "published_at": "2026-11-24T17:49:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+   "snippet": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microseco",
+   "published_at": "2026-11-24T17:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+   "snippet": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
+   "published_at": "2026-11-24T17:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
+   "snippet": "Digital Asset Clearing Center \"DACC.HK\", an open FMI (Financial Market Infrastructure) built on permissionless ledger with CIPS and e-CNY settlement capabilities, is announcing the establishment of the Digital Asset Distribution Alliance (DADA).",
+   "published_at": "2026-11-24T16:54:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "snippet": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It",
+   "published_at": "2026-11-24T16:53:59+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Visa opens Cameroon office",
+   "snippet": "Visa (NYSE: V), a world leader in digital payments, announced the opening of its representative office in Douala during the official launch event for Visa in Cameroon.",
+   "published_at": "2026-11-24T16:53:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "snippet": "",
+   "published_at": "2026-11-24T16:34:13+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.24.1",
+   "snippet": "# Patch release v5.24.1 A patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list ### vLLM related - Fix backward compatibility of the cache rename for remote code (#51085) by @hmellor - Restore modeling_attn_mask_utils for remote code (one-off to unblock vLLM) (#51124) by @hmellor - Expose past_key_values in MBartDecoderLayer.forwar",
+   "published_at": "2026-11-24T16:13:08+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/carnegie-endowment-data-breach",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
+   "snippet": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
+   "published_at": "2026-11-24T16:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Payoneer gets conditional approval for trust bank",
+   "snippet": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms that sought a charter from the OCC this year.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Intermex sues Western Union",
+   "snippet": "The long-time remittance provider walked away from a $500 million merger deal due to “buyer’s remorse,” Intermex alleged in a Tuesday lawsuit.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48806/nab-ceo-hits-out-at-instagram-accounts-salacious-claims",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "NAB CEO hits out at Instagram account's salacious claims",
+   "snippet": "The CEO of NAB says the Australian bank will act to protect staff from \"unfair and damaging posts\" on Instagram by a self-described \"customer advocate\" who has made a string of claims concerning drug use, affairs, bullying and corruption at the lender.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33527/deep-dive-visas-ai-shopping-benchmark-shows-agents-still-buy-when-they-get-it-wrong",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Deep Dive: Visa’s AI shopping benchmark shows agents still buy when they get it wrong",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-24T15:42:28+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
+   "snippet": "HSBC, JP Morgan and StoneX have carried out the first live trades of fractions of physical gold bars, using it as collateral in legally binding wholesale market transaction.",
+   "published_at": "2026-11-24T15:29:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/the-bar-to-get-funded-is-far-higher-than-most-founders-realize-900-median-growth-under-10m-115-at-100m-and-655k-in-revenue-per-employee/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "The Bar to Get Funded Is Far Higher Than Most Founders Realize: 900% Median Growth Under $10M, 115% at $100M+, and $655K in Revenue Per Employee",
+   "snippet": "I meet founders every week who walk into a pitch with a great story by any standard from five years ago. They’re at $4M ARR, they tripled last year, gross retention is solid, and the burn is reasonable. They’re surprised when the top-tier funds pass. Many of them shouldn’t be. The bar to get funded... <a class=\"more-link fade\" href=\"https://www.saastr.com/the-bar-to-get-funded-is-far-higher-than-m",
+   "published_at": "2026-11-24T15:00:12+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://therecord.media/cisa-nable-cybersecurity-bug",
+   "source": "The Record",
+   "weight": 0.9,
+   "title": "CISA warns of exploited N-able bug as company restores email platform",
+   "snippet": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.",
+   "published_at": "2026-11-24T15:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33560/the-ai-advantage-starts-with-knowing-what-not-to-automate",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The AI advantage starts with knowing what not to automate",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-24T14:58:42+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "CommerzVentures launches €50m fund for AI fintechs",
+   "snippet": "German fintech investor CommerzVentures has launched a €50 million fund that will back early-stage firms working on the intersection of AI and financial services.",
+   "published_at": "2026-11-24T14:57:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48803/worldremit-founder-launches-fintech-targeting-migrants-in-the-us",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "WorldRemit founder launches fintech targeting migrants in the US",
+   "snippet": "WorldRemit founder Ismail Ahmed is pumping $5 million into Odola, his new venture for immigrants working in the US who support family abroad.",
+   "published_at": "2026-11-24T14:36:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
    "source": "Sifted",
    "weight": 1.0,
@@ -49,6 +409,26 @@
    "snippet": "",
    "published_at": "2026-11-24T13:57:46+00:00",
    "first_seen": "2026-11-24T14:47:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33559/the-card-is-losing-its-grip",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "The Card Is Losing Its Grip",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-24T13:55:12+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/blogposting/33558/credit-bureau-renewals-in-2027-six-areas-where-lenders-risk-overpaying",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "Credit bureau renewals in 2027: six areas where lenders risk overpaying",
+   "snippet": "Author: A finextra community member",
+   "published_at": "2026-11-24T13:51:20+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
    "also_in": []
   },
   {
@@ -142,6 +522,16 @@
    "also_in": []
   },
   {
+   "url": "https://www.saastr.com/5-reasons-not-to-raise-prices-on-existing-customers-and-2-better-ways-to-do-it-anyway/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "6 Reasons Not To Raise Prices on Existing Customers. And 3 Better Ways to Do It Anyway.",
+   "snippet": "I remember the first time I tried to do the Old Price-Raise-Without-Notice tactic. We’d closed Qualcomm in Year 1 for the grand total of $10,000. Not all of Qualcomm, but a nice division. It was a great logo in Year 1, and our champion and buyer did 3 webinars for us, an external case study,... Continue Reading",
+   "published_at": "2026-11-24T13:00:21+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
    "source": "The Record",
    "weight": 0.9,
@@ -152,6 +542,16 @@
    "also_in": []
   },
   {
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "snippet": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "published_at": "2026-11-24T13:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/",
    "source": "SAP News Center",
    "weight": 1.0,
@@ -159,6 +559,16 @@
    "snippet": "Becoming a skills-enabled organization starts with the way you think about talent.",
    "published_at": "2026-11-24T12:15:00+00:00",
    "first_seen": "2026-11-24T14:47:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/5-challenges-facing-anthropic-CFO-ipo/875574/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "4 challenges facing Anthropic’s finance chief after IPO",
+   "snippet": "CFO Krishna Rao must balance Anthropic's aggressive AI expansion with the financial discipline and transparency expected of a public company.",
+   "published_at": "2026-11-24T12:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
    "also_in": []
   },
   {
@@ -179,6 +589,26 @@
    "snippet": "",
    "published_at": "2026-11-24T11:00:37+00:00",
    "first_seen": "2026-11-24T14:47:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Searching for distant planets with Astra",
+   "snippet": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "published_at": "2026-11-24T11:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+   "snippet": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functi",
+   "published_at": "2026-11-24T09:54:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
    "also_in": []
   },
   {
@@ -249,6 +679,36 @@
    "snippet": "",
    "published_at": "2026-11-24T05:00:22+00:00",
    "first_seen": "2026-11-24T14:47:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
+   "snippet": "With flags@4.5.0 , projects on Vercel can use Flags Explorer and precompute without FLAGS_SECRET . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync across microfrontends. Vercel signs Flags Explorer discovery requests and overrides, and the SDK encrypts flag",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents can now manage AI Gateway through Vercel MCP",
+   "snippet": "Your agent can now manage AI Gateway through Vercel MCP . Ask it in plain language to: Manage virtual models : Create reusable model IDs with saved settings, then list, inspect, update, or restore them. <a href=\"https://vercel.com/docs/ai-gateway/models-and-provid",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Delete a run's data on demand in Workflow SDK",
+   "snippet": "The Workflow SDK now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run payloads. Deleting a run's data deletes any inputs, outputs, hook payloads, and error traces for the run and its related entities. This does not delete the run's metada",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
    "also_in": []
   },
   {
@@ -511,6 +971,66 @@
    "snippet": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
    "published_at": "2026-11-24T00:00:00+00:00",
    "first_seen": "2026-11-24T14:47:15+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How Intentful uses dots to make more time for growth",
+   "snippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "snippet": "",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "snippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing preemptible compute: the same compute, half the price",
+   "snippet": "Together GPU Clusters now supports preemptible compute: the same GPU capacity at a flat 50% of the on-demand rate, with a five-minute drain window.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Inkling 2 Mini now available on AI Gateway",
+   "snippet": "Inkling 2 Mini from Thinking Machines is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and text output. Inkling 2 Mini has 26.4 billion total parameters and 3.4 billion active per token. The model runs its middle layers more than once for every token, which lets it reason further before writin",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://tomtunguz.com/engineering-at-machine-speed-office-hours/",
+   "source": "Tomasz Tunguz",
+   "weight": 1.0,
+   "title": "Engineering at Machine Speed",
+   "snippet": "Dan Shiebler, Co-Founder & CTO at Artemis Security, joins Office Hours to discuss engineering at machine speed. How Artemis merged more than 31,000 pull requests in one quarter & ships most feature requests in under a day, why every engineer runs 4 to 8 coding agents in parallel, & how evaluation pipelines hold quality steady at that pace.",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "first_seen": "2026-11-25T00:36:18+00:00",
    "also_in": []
   }
  ]
