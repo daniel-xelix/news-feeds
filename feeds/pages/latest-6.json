@@ -4,6 +4,42 @@
  "pages": 9,
  "items": [
   {
+   "url": "https://z.ai/blog/glm-5.4",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GLM-5.4 (5 minute read)",
+   "snippet": "Z.ai has released GLM-5.4, its first flagship model built on a Loop Transformer. The design reuses a shared block of layers to reason more deeply without adding parameters. Z.ai says it reaches intell",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Supercharging transformer residual connections (4 minute read)",
+   "snippet": "Google's DeepCrossAttention (DCA) enhances transformer residual connections by allowing each layer to dynamically select and route features from preceding layers, reducing information dilution and par",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.nijho.lt/post/orchestrating-orchestrators/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "I used to orchestrate agents. Now I orchestrate orchestrators (24 minute read)",
+   "snippet": "MindRoom significantly enhances AI-driven coding by integrating multiple models in one room, efficiently managing up to forty concurrent sessions with seamless context switching. This approach, which ",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/introducing-shirudo/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI and Cisco introduce Shirudo (5 minute read)",
+   "snippet": "Shirudo is an open-source runtime from OpenAI and Cisco that protects running Linux systems while teams roll out patches. It lets teams deploy temporary shields that block exploits without restarting ",
+   "published_at": "2026-11-24T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://arxiv.org/abs/2611.29513",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -235,42 +271,6 @@
    "title": "langchain-ai/langchain langchain-qdrant==1.2.0",
    "snippet": "Changes since langchain-qdrant==1.1.0 release(qdrant): 1.2.0 (#41992) release(standard-tests): 1.2.0 (#41996) chore(deps): bump filelock from 4.2.5 to 4.2.10 in /libs/partners/qdrant (#41835) feat(par",
    "published_at": "2026-11-23T17:04:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-perplexity%3D%3D1.5.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-perplexity==1.5.0",
-   "snippet": "Changes since langchain-perplexity==1.4.2 release(perplexity): 1.5.0 (#42001) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) build(infr",
-   "published_at": "2026-11-23T16:51:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-classic%3D%3D1.1.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-classic==1.1.0",
-   "snippet": "Changes since langchain-classic==1.0.8 fix(infra): install repo-sourced test deps from PyPI in min-version release check (#42029) release(langchain-classic): 1.1.0 (#41994) release(standard-tests): 1.",
-   "published_at": "2026-11-23T16:45:51+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-ollama%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-ollama==1.2.0",
-   "snippet": "Changes since langchain-ollama==1.1.0 release(ollama): 1.2.0 (#41997) release(standard-tests): 1.2.0 (#41996) feat(partners): Remove EOL'd Python 3.10 from partner packages (#41268) chore(infra): rela",
-   "published_at": "2026-11-23T16:16:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-tests%3D%3D1.2.0",
-   "source": "GitHub: langchain-ai/langchain",
-   "weight": 0.9,
-   "title": "langchain-ai/langchain langchain-tests==1.2.0",
-   "snippet": "Changes since langchain-tests==1.1.9 release(standard-tests): 1.2.0 (#41996) feat: Remove EOL'd Python 3.10 from text_splitters, model_profiles and standard-tests (#41343) chore(deps): bump the minor-",
-   "published_at": "2026-11-23T16:14:24+00:00",
    "also_in": []
   }
  ]
