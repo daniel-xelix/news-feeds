@@ -4,6 +4,204 @@
  "pages": 9,
  "items": [
   {
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+   "source": "GitHub: anthropics/claude-code",
+   "weight": 1.5,
+   "title": "anthropics/claude-code v2.1.332",
+   "snippet": "## What's changed - Added skills from MCP servers (beta). They show as `server:skill` in the `/` menu; other skills keep their names - Added a `PreSkillShellCommand` hook event that can refuse a skill",
+   "published_at": "2026-11-25T01:32:14+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.5",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.109.5",
+   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
+   "published_at": "2026-11-25T00:59:30+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.4",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm v1.110.4",
+   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
+   "published_at": "2026-11-25T00:31:02+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/thailand/thailand-to-raise-vat-rate-to-10-sept-2023/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Thailand may bring forward 2030’s VAT rise to 10% on fiscal pressure",
+   "snippet": "",
+   "published_at": "2026-11-25T00:05:04+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise",
+   "source": "Finextra headlines",
+   "weight": 1.0,
+   "title": "UK APP fraud losses continue to rise",
+   "snippet": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
+   "published_at": "2026-11-25T00:01:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/chad/chad-vat-on-digital-services-extended-to-platforms/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Chad 2027 VAT reforms for digital services & platforms",
+   "snippet": "",
+   "published_at": "2026-11-25T00:00:16+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "snippet": "",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+   "source": "Together AI blog",
+   "weight": 1.0,
+   "title": "Introducing Hurdle: Run agent evals on your API, skills, and docs",
+   "snippet": "Hurdle is an open-source npm library for agent evals. Run Claude Code and Codex against real tasks on your API, score each run with code checks, guards and an LLM judge, and see which models and condi",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/workflows-speculative-execution",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Workflow is 10x faster, again",
+   "snippet": "Workflow SDK 5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function tim",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://about.gitlab.com/blog/gemini-4-neon-on-gitlab/",
+   "source": "GitLab blog",
+   "weight": 1.0,
+   "title": "Take on complex coding changes with Gemini 4 Neon on GitLab",
+   "snippet": "Google's Gemini 4 Neon is now available on GitLab Duo Agent Platform , offering engineers a versatile model for agentic work, with particular strength in coding. Gemini 4 Neon is the latest addition t",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://cognition.com/blog/swe-2-1",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Cognition's SWE-2.1 (3 minute read)",
+   "snippet": "Cognition released SWE-2.1, an upgraded coding and agent model trained with reinforcement learning on top of Kimi K3. It roughly doubles SWE-2's score on the Terminal-Bench 4.1 coding benchmark to 50.",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work (4 minute read)",
+   "snippet": "Ternary Bonsai 2.5 27B has substantially stronger agentic coding, multi-turn tool use, and multi-step task execution abilities than its predecessor. It retains the previous release's 5.9 GB footprint ",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://claude.com/resources/articles/install-as-app",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Claude Artifacts Become Mac and Windows Apps (3 minute read)",
+   "snippet": "Claude artifacts can now be installed as Mac and Windows apps, in beta on all plans. Each app gets its own icon and window, updates when the artifact changes, and can be shared.",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump (45 minute read)",
+   "snippet": "Jensen Huang's reinstatement as Nvidia's CEO is a sign of the state of US democracy, the country's free market economy and rule of law, and the integrity of its government. It will factor into every d",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paradigm3.org/research/swarms",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Swarms do not yet raise the roof (46 minute read)",
+   "snippet": "Swarm-based LLM configurations, coordinated groups of agents, deliver faster but less efficient results compared to single agents at equal token budgets. Adding more agents to a swarm introduces a per",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.friedgil.com/vpvnp",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "What VP ≠ VNP Means (3 minute read)",
+   "snippet": "The Anthropic proof that VP≠VNP means that there is no way to find the permanent of a matrix of 0s and 1s if we are limited to arithmetic circuits of size polynomial in the input-size. This means that",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation (14 minute read)",
+   "snippet": "vLLM-GR is an open-source framework enhancing vLLM to improve inference for generative recommendation models with efficient beam searches. It enables rapid candidate generation on NVIDIA GPUs and Asce",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://danni763618.typeform.com/to/H1tYViME",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+   "snippet": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "The matrix multiplication exponent is nine fourths (6 hour read)",
+   "snippet": "The exponent of square matrix multiplication is 9/4 over every field. A smaller exponent would compress tensor networks enough to violate a lower bound for testing whether the entries in each of sever",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities (13 minute read)",
+   "snippet": "OpenAI said its GPT-6 models can design new proteins using reasoning and code alone, without calling specialized biology models. Lab tests with a research partner confirmed that some designs worked, t",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input (5 minute read)",
+   "snippet": "Amazon said AI agents running on Cairn, an open source penetration-testing framework, found and exploited a zero-day in a medical imaging AI app on a university server with no human oversight beyond a",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "ML compiler eng, your job is NP-hard (4 minute read)",
+   "snippet": "Layout search is computationally hard. However, in reality, there are generally just a few places to put a conversion in a specific kernel. The tricky part is picking an option, as this requires relyi",
+   "published_at": "2026-11-25T00:00:00+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/",
    "source": "TLDR AI",
    "weight": 1.5,
@@ -73,204 +271,6 @@
    "title": "An Anthropic mathematician just solved math’s most famous problem",
    "snippet": "Is solving the Riemann Hypothesis a “coal mine canary for dangerously advanced AI?”",
    "published_at": "2026-11-24T21:43:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/consumer-sentiment-surges-midterm-elections-conference-board-inflation-trump-economy-fed/875690/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Consumer sentiment surges following midterm elections: Conference Board",
-   "snippet": "“There’s optimism in the air heading into the holiday season,” Navy Federal Credit Union Chief Economist Heather Long said.",
-   "published_at": "2026-11-24T20:49:27+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
-   "snippet": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face reg",
-   "published_at": "2026-11-24T19:48:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
-   "source": "The Pragmatic Engineer (Gergely Orosz)",
-   "weight": 1.2,
-   "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
-   "snippet": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
-   "published_at": "2026-11-24T19:16:38+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/cocacola-grants-new-cfo-10m-stock-cash-awards-beverage-capex/875666/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Coca-Cola hires pharma vet for CFO",
-   "snippet": "The beverage giant is breaking from its typical practice of appointing insiders by naming pharma finance alum David Elkins as its incoming CFO, analysts noted.",
-   "published_at": "2026-11-24T19:07:18+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875648/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Adyen co-founder to step down",
-   "snippet": "“I feel my cycle is complete,” Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. “This is the right moment for me to step down.”",
-   "published_at": "2026-11-24T18:51:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
-   "snippet": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
-   "published_at": "2026-11-24T18:44:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/quote-week-men-fail-upward-nvidia/875657/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Quote of the week: ‘Men fail upward’",
-   "snippet": "In a stunning reversal drawing cheers and jeers, Nvidia’s board Monday rehired CEO Jensen Huang despite his affair with an alleged Chinese spy.",
-   "published_at": "2026-11-24T18:15:17+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "All Sandbox runtimes now use Vercel Managed Images",
-   "snippet": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Contain",
-   "published_at": "2026-11-24T18:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
-   "snippet": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microseco",
-   "published_at": "2026-11-24T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "What’s New for Game Developers: AI Animation and RTX Tools",
-   "snippet": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
-   "published_at": "2026-11-24T17:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "snippet": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 A",
-   "published_at": "2026-11-24T16:53:59+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-   "snippet": "",
-   "published_at": "2026-11-24T16:34:13+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
-   "source": "GitHub: huggingface/transformers",
-   "weight": 0.9,
-   "title": "huggingface/transformers Patch release v5.24.1",
-   "snippet": "# Patch release v5.24.1 A patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list ### vLLM related - Fix backward compatibility of the ",
-   "published_at": "2026-11-24T16:13:08+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Payoneer gets conditional approval for trust bank",
-   "snippet": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms that sought a charter from the OCC this year.",
-   "published_at": "2026-11-24T15:48:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Intermex sues Western Union",
-   "snippet": "The long-time remittance provider walked away from a $500 million merger deal due to “buyer’s remorse,” Intermex alleged in a Tuesday lawsuit.",
-   "published_at": "2026-11-24T15:48:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/the-bar-to-get-funded-is-far-higher-than-most-founders-realize-900-median-growth-under-10m-115-at-100m-and-655k-in-revenue-per-employee/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "The Bar to Get Funded Is Far Higher Than Most Founders Realize: 900% Median Growth Under $10M, 115% at $100M+, and $655K in Revenue Per Employee",
-   "snippet": "I meet founders every week who walk into a pitch with a great story by any standard from five years ago. They’re at $4M ARR, they tripled last year, gross retention is solid, and the burn is reasonabl",
-   "published_at": "2026-11-24T15:00:12+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
-   "snippet": "",
-   "published_at": "2026-11-24T14:29:19+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
-   "source": "Ben's Bites",
-   "weight": 1.0,
-   "title": "Commitment issues (app edition)",
-   "snippet": "It’s not me, it’s you",
-   "published_at": "2026-11-24T14:04:45+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
-   "source": "NVIDIA developer blog",
-   "weight": 1.0,
-   "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
-   "snippet": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...",
-   "published_at": "2026-11-24T14:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
-   "source": "Sifted",
-   "weight": 1.0,
-   "title": "Exclusive: Starling veteran to take over as CEO",
-   "snippet": "",
-   "published_at": "2026-11-24T13:57:46+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-   "source": "Google DeepMind blog",
-   "weight": 1.4,
-   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-   "snippet": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-   "published_at": "2026-11-24T13:07:53+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.saastr.com/5-reasons-not-to-raise-prices-on-existing-customers-and-2-better-ways-to-do-it-anyway/",
-   "source": "SaaStr (Jason Lemkin)",
-   "weight": 0.9,
-   "title": "6 Reasons Not To Raise Prices on Existing Customers. And 3 Better Ways to Do It Anyway.",
-   "snippet": "I remember the first time I tried to do the Old Price-Raise-Without-Notice tactic. We’d closed Qualcomm in Year 1 for the grand total of $10,000. Not all of Qualcomm, but a nice division. It was a gre",
-   "published_at": "2026-11-24T13:00:21+00:00",
    "also_in": []
   }
  ]
