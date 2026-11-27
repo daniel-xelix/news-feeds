@@ -1,8 +1,44 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 10,
+ "pages": 9,
  "items": [
+  {
+   "url": "https://www.paymentsdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875648/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Adyen co-founder to step down",
+   "snippet": "“I feel my cycle is complete,” Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. “This is the right moment for me to step down.”",
+   "published_at": "2026-11-24T18:51:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+   "snippet": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+   "published_at": "2026-11-24T18:44:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/quote-week-men-fail-upward-nvidia/875657/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Quote of the week: ‘Men fail upward’",
+   "snippet": "In a stunning reversal drawing cheers and jeers, Nvidia’s board Monday rehired CEO Jensen Huang despite his affair with an alleged Chinese spy.",
+   "published_at": "2026-11-24T18:15:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "All Sandbox runtimes now use Vercel Managed Images",
+   "snippet": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Contain",
+   "published_at": "2026-11-24T18:00:00+00:00",
+   "also_in": []
+  },
   {
    "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
    "source": "NVIDIA developer blog",
@@ -235,42 +271,6 @@
    "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
    "snippet": "With flags@4.5.0 , projects on Vercel can use Flags Explorer and precompute without FLAGS_SECRET . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync acro",
    "published_at": "2026-11-24T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Agents can now manage AI Gateway through Vercel MCP",
-   "snippet": "Your agent can now manage AI Gateway through Vercel MCP . Ask it in plain language to: Manage virtual models : Create reusable model IDs with saved settings, then list, inspect, update, or restore the",
-   "published_at": "2026-11-24T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
-   "source": "Vercel blog",
-   "weight": 0.9,
-   "title": "Delete a run's data on demand in Workflow SDK",
-   "snippet": "The Workflow SDK now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be pur",
-   "published_at": "2026-11-24T05:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-charts 0.2a0",
-   "snippet": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will cre",
-   "published_at": "2026-11-24T04:24:29+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
-   "source": "GitHub: ollama/ollama",
-   "weight": 1.0,
-   "title": "ollama/ollama v0.40.18",
-   "snippet": "## What's Changed * mlx: fuse Inkling residual mixing on Metal by @dhiltgen in https://github.com/ollama/ollama/pull/19808 * mlxrunner: share tensor helpers and model setup across architectures by @ja",
-   "published_at": "2026-11-24T04:18:13+00:00",
    "also_in": []
   }
  ]
