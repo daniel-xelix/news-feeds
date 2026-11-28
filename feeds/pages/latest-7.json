@@ -4,66 +4,138 @@
  "pages": 7,
  "items": [
   {
-   "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+   "snippet": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+   "published_at": "2026-11-24T18:44:05+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/quote-week-men-fail-upward-nvidia/875657/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "Quote of the week: ‘Men fail upward’",
+   "snippet": "In a stunning reversal drawing cheers and jeers, Nvidia’s board Monday rehired CEO Jensen Huang despite his affair with an alleged Chinese spy.",
+   "published_at": "2026-11-24T18:15:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "All Sandbox runtimes now use Vercel Managed Images",
+   "snippet": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Contain",
+   "published_at": "2026-11-24T18:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+   "snippet": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microseco",
+   "published_at": "2026-11-24T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+   "snippet": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
+   "published_at": "2026-11-24T17:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
    "source": "Simon Willison",
    "weight": 1.5,
-   "title": "datasette-charts 0.2a0",
-   "snippet": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will cre",
-   "published_at": "2026-11-24T04:24:29+00:00",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "snippet": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 A",
+   "published_at": "2026-11-24T16:53:59+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
-   "source": "GitHub: ollama/ollama",
-   "weight": 1.0,
-   "title": "ollama/ollama v0.40.18",
-   "snippet": "## What's Changed * mlx: fuse Inkling residual mixing on Metal by @dhiltgen in https://github.com/ollama/ollama/pull/19808 * mlxrunner: share tensor helpers and model setup across architectures by @ja",
-   "published_at": "2026-11-24T04:18:13+00:00",
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.24.1",
+   "snippet": "# Patch release v5.24.1 A patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list ### vLLM related - Fix backward compatibility of the ",
+   "published_at": "2026-11-24T16:13:08+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.4",
-   "source": "GitHub: BerriAI/litellm",
+   "url": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/",
+   "source": "Payments Dive",
    "weight": 1.1,
-   "title": "BerriAI/litellm v1.109.4",
-   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
-   "published_at": "2026-11-24T04:15:26+00:00",
+   "title": "Payoneer gets conditional approval for trust bank",
+   "snippet": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms that sought a charter from the OCC this year.",
+   "published_at": "2026-11-24T15:48:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
-   "source": "Latent Space",
+   "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Intermex sues Western Union",
+   "snippet": "The long-time remittance provider walked away from a $500 million merger deal due to “buyer’s remorse,” Intermex alleged in a Tuesday lawsuit.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
+   "snippet": "",
+   "published_at": "2026-11-24T14:29:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "Commitment issues (app edition)",
+   "snippet": "It’s not me, it’s you",
+   "published_at": "2026-11-24T14:04:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+   "snippet": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...",
+   "published_at": "2026-11-24T14:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Starling veteran to take over as CEO",
+   "snippet": "",
+   "published_at": "2026-11-24T13:57:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "source": "Google DeepMind blog",
    "weight": 1.4,
-   "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
-   "snippet": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
-   "published_at": "2026-11-24T04:14:16+00:00",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "snippet": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "published_at": "2026-11-24T13:07:53+00:00",
    "also_in": []
   },
   {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.3",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm v1.110.3",
-   "snippet": "## Verify this release ```bash cosign verify \\ --certificate-identity https://github.com/BerriAI/project-releaser/.github/workflows/release.yml@refs/heads/main \\ --certificate-oidc-issuer https://toke",
-   "published_at": "2026-11-24T04:11:03+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.45",
-   "source": "GitHub: crewAIInc/crewAI",
-   "weight": 1.0,
-   "title": "crewAIInc/crewAI 1.15.45",
-   "snippet": "## What's Changed ### Features - Add ability to save HTML or markdown output as a PDF artifact. ### Bug Fixes - Fix dependency issue by bumping e2b for Python >=3.11 to pull patched wcmatch. - Wrap fi",
-   "published_at": "2026-11-24T03:54:54+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "datasette-agent 0.7a1",
-   "snippet": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigat",
-   "published_at": "2026-11-24T03:45:57+00:00",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "snippet": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "published_at": "2026-11-24T13:00:00+00:00",
    "also_in": []
   }
  ]
