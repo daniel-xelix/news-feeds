@@ -1,206 +1,8 @@
 {
  "set": "latest",
  "page": 6,
- "pages": 9,
+ "pages": 7,
  "items": [
-  {
-   "url": "https://about.gitlab.com/blog/gemini-4-neon-on-gitlab/",
-   "source": "GitLab blog",
-   "weight": 1.0,
-   "title": "Take on complex coding changes with Gemini 4 Neon on GitLab",
-   "snippet": "Google's Gemini 4 Neon is now available on GitLab Duo Agent Platform , offering engineers a versatile model for agentic work, with particular strength in coding. Gemini 4 Neon is the latest addition t",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://cognition.com/blog/swe-2-1",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Cognition's SWE-2.1 (3 minute read)",
-   "snippet": "Cognition released SWE-2.1, an upgraded coding and agent model trained with reinforcement learning on top of Kimi K3. It roughly doubles SWE-2's score on the Terminal-Bench 4.1 coding benchmark to 50.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://prismml.com/news/bonsai-2-5-27b",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work (4 minute read)",
-   "snippet": "Ternary Bonsai 2.5 27B has substantially stronger agentic coding, multi-turn tool use, and multi-step task execution abilities than its predecessor. It retains the previous release's 5.9 GB footprint ",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://claude.com/resources/articles/install-as-app",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Claude Artifacts Become Mac and Windows Apps (3 minute read)",
-   "snippet": "Claude artifacts can now be installed as Mac and Windows apps, in beta on all plans. Each app gets its own icon and window, updates when the artifact changes, and can be shared.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump (45 minute read)",
-   "snippet": "Jensen Huang's reinstatement as Nvidia's CEO is a sign of the state of US democracy, the country's free market economy and rule of law, and the integrity of its government. It will factor into every d",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paradigm3.org/research/swarms",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Swarms do not yet raise the roof (46 minute read)",
-   "snippet": "Swarm-based LLM configurations, coordinated groups of agents, deliver faster but less efficient results compared to single agents at equal token budgets. Adding more agents to a swarm introduces a per",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.friedgil.com/vpvnp",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "What VP ≠ VNP Means (3 minute read)",
-   "snippet": "The Anthropic proof that VP≠VNP means that there is no way to find the permanent of a matrix of 0s and 1s if we are limited to arithmetic circuits of size polynomial in the input-size. This means that",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation (14 minute read)",
-   "snippet": "vLLM-GR is an open-source framework enhancing vLLM to improve inference for generative recommendation models with efficient beam searches. It enables rapid candidate generation on NVIDIA GPUs and Asce",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "The matrix multiplication exponent is nine fourths (6 hour read)",
-   "snippet": "The exponent of square matrix multiplication is 9/4 over every field. A smaller exponent would compress tensor networks enough to violate a lower bound for testing whether the entries in each of sever",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities (13 minute read)",
-   "snippet": "OpenAI said its GPT-6 models can design new proteins using reasoning and code alone, without calling specialized biology models. Lab tests with a research partner confirmed that some designs worked, t",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input (5 minute read)",
-   "snippet": "Amazon said AI agents running on Cairn, an open source penetration-testing framework, found and exploited a zero-day in a medical imaging AI app on a university server with no human oversight beyond a",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "ML compiler eng, your job is NP-hard (4 minute read)",
-   "snippet": "Layout search is computationally hard. However, in reality, there are generally just a few places to put a conversion in a specific kernel. The tricky part is picking an option, as this requires relyi",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI prepares dedicated email inboxes for ChatGPT Dots (2 minute read)",
-   "snippet": "OpenAI is developing dedicated email addresses for Dots in ChatGPT, allowing them to send and receive emails independently.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs (3 minute read)",
-   "snippet": "Meta now integrates its Muse AI assistant directly into Instagram DMs, allowing users to chat with Muse for context on posts, places, or products.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Pushing the US Open-Weight Frontier (21 minute read)",
-   "snippet": "Post-training leads to substantial gains in both agentic legal reasoning and task completion.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Google Adds Task Checklists to Antigravity (2 minute read)",
-   "snippet": "Google's Antigravity coding app now shows live checklists for long tasks and lets users pick separate planner and executor models.",
-   "published_at": "2026-11-25T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-   "source": "Simon Willison",
-   "weight": 1.5,
-   "title": "Three LLM inflection points in twelve months",
-   "snippet": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents i",
-   "published_at": "2026-11-24T23:02:07+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.17",
-   "source": "GitHub: BerriAI/litellm",
-   "weight": 1.1,
-   "title": "BerriAI/litellm 1.108.17 (LTS)",
-   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
-   "published_at": "2026-11-24T22:56:05+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.paymentsdive.com/news/cap-one-pursues-payments-modernization/875673/",
-   "source": "Payments Dive",
-   "weight": 1.1,
-   "title": "Cap One pursues payments modernization",
-   "snippet": "The bank’s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said.",
-   "published_at": "2026-11-24T22:34:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
-   "source": "Understanding AI (Timothy B. Lee)",
-   "weight": 1.0,
-   "title": "An Anthropic mathematician just solved math’s most famous problem",
-   "snippet": "Is solving the Riemann Hypothesis a “coal mine canary for dangerously advanced AI?”",
-   "published_at": "2026-11-24T21:43:33+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cfodive.com/news/consumer-sentiment-surges-midterm-elections-conference-board-inflation-trump-economy-fed/875690/",
-   "source": "CFO Dive",
-   "weight": 1.3,
-   "title": "Consumer sentiment surges following midterm elections: Conference Board",
-   "snippet": "“There’s optimism in the air heading into the holiday season,” Navy Federal Credit Union Chief Economist Heather Long said.",
-   "published_at": "2026-11-24T20:49:27+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
-   "source": "The Pragmatic Engineer (Gergely Orosz)",
-   "weight": 1.2,
-   "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
-   "snippet": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
-   "published_at": "2026-11-24T19:16:38+00:00",
-   "also_in": []
-  },
   {
    "url": "https://www.cfodive.com/news/cocacola-grants-new-cfo-10m-stock-cash-awards-beverage-capex/875666/",
    "source": "CFO Dive",
@@ -271,6 +73,204 @@
    "title": "GPT 6.2 Astra Solves a Historical Mystery",
    "snippet": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 A",
    "published_at": "2026-11-24T16:53:59+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+   "source": "GitHub: huggingface/transformers",
+   "weight": 0.9,
+   "title": "huggingface/transformers Patch release v5.24.1",
+   "snippet": "# Patch release v5.24.1 A patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list ### vLLM related - Fix backward compatibility of the ",
+   "published_at": "2026-11-24T16:13:08+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Payoneer gets conditional approval for trust bank",
+   "snippet": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms that sought a charter from the OCC this year.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+   "source": "Payments Dive",
+   "weight": 1.1,
+   "title": "Intermex sues Western Union",
+   "snippet": "The long-time remittance provider walked away from a $500 million merger deal due to “buyer’s remorse,” Intermex alleged in a Tuesday lawsuit.",
+   "published_at": "2026-11-24T15:48:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.saastr.com/the-bar-to-get-funded-is-far-higher-than-most-founders-realize-900-median-growth-under-10m-115-at-100m-and-655k-in-revenue-per-employee/",
+   "source": "SaaStr (Jason Lemkin)",
+   "weight": 0.9,
+   "title": "The Bar to Get Funded Is Far Higher Than Most Founders Realize: 900% Median Growth Under $10M, 115% at $100M+, and $655K in Revenue Per Employee",
+   "snippet": "I meet founders every week who walk into a pitch with a great story by any standard from five years ago. They’re at $4M ARR, they tripled last year, gross retention is solid, and the burn is reasonabl",
+   "published_at": "2026-11-24T15:00:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
+   "snippet": "",
+   "published_at": "2026-11-24T14:29:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
+   "source": "Ben's Bites",
+   "weight": 1.0,
+   "title": "Commitment issues (app edition)",
+   "snippet": "It’s not me, it’s you",
+   "published_at": "2026-11-24T14:04:45+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+   "source": "NVIDIA developer blog",
+   "weight": 1.0,
+   "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+   "snippet": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...",
+   "published_at": "2026-11-24T14:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Starling veteran to take over as CEO",
+   "snippet": "",
+   "published_at": "2026-11-24T13:57:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "source": "Google DeepMind blog",
+   "weight": 1.4,
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "snippet": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "published_at": "2026-11-24T13:07:53+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "snippet": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "published_at": "2026-11-24T13:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "How the Atlas Copco Group Makes Skills Visible Throughout the Organization",
+   "snippet": "Becoming a skills-enabled organization starts with the way you think about talent.",
+   "published_at": "2026-11-24T12:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cfodive.com/news/5-challenges-facing-anthropic-CFO-ipo/875574/",
+   "source": "CFO Dive",
+   "weight": 1.3,
+   "title": "4 challenges facing Anthropic’s finance chief after IPO",
+   "snippet": "CFO Krishna Rao must balance Anthropic's aggressive AI expansion with the financial discipline and transparency expected of a public company.",
+   "published_at": "2026-11-24T12:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/",
+   "source": "SAP News Center",
+   "weight": 1.0,
+   "title": "Less Code, More Context: How AI Is Reshaping the Developer Role",
+   "snippet": "As developers delegate more work to AI, where does their expertise matter most?",
+   "published_at": "2026-11-24T11:15:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/starlings-next-ceo/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Who could be Starling’s next CEO?",
+   "snippet": "",
+   "published_at": "2026-11-24T11:00:37+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI blog",
+   "weight": 1.4,
+   "title": "Searching for distant planets with Astra",
+   "snippet": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "published_at": "2026-11-24T11:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+   "snippet": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the ",
+   "published_at": "2026-11-24T09:54:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.45.0",
+   "source": "GitHub: All-Hands-AI/OpenHands",
+   "weight": 1.1,
+   "title": "All-Hands-AI/OpenHands v1.45.0",
+   "snippet": "## 1.45.0 (2026-11-24) ## What's Changed ### Features * feat(factories): show a factory's worklogs, newest first by @jpshackelford in https://github.com/OpenHands/OpenHands/pull/19811 * feat(factories",
+   "published_at": "2026-11-24T09:13:54+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-charts 0.2a1",
+   "snippet": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for tha",
+   "published_at": "2026-11-24T06:07:19+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+   "snippet": "",
+   "published_at": "2026-11-24T05:00:22+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
+   "snippet": "With flags@4.5.0 , projects on Vercel can use Flags Explorer and precompute without FLAGS_SECRET . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync acro",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Agents can now manage AI Gateway through Vercel MCP",
+   "snippet": "Your agent can now manage AI Gateway through Vercel MCP . Ask it in plain language to: Manage virtual models : Create reusable model IDs with saved settings, then list, inspect, update, or restore the",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+   "source": "Vercel blog",
+   "weight": 0.9,
+   "title": "Delete a run's data on demand in Workflow SDK",
+   "snippet": "The Workflow SDK now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be pur",
+   "published_at": "2026-11-24T05:00:00+00:00",
    "also_in": []
   }
  ]

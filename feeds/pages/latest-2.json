@@ -1,109 +1,8 @@
 {
  "set": "latest",
  "page": 2,
- "pages": 9,
+ "pages": 7,
  "items": [
-  {
-   "url": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
-   "snippet": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
-   "published_at": "2026-11-27T00:01:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/video-trainium3",
-   "source": "Hugging Face blog",
-   "weight": 1.3,
-   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-   "snippet": "",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (3 minute read)",
-   "snippet": "The llama.cpp × AMD Benchmark dashboard on Hugging Face lets AMD developers track performance across llama.cpp builds, models, and quantizations on Ryzen and Radeon hardware.",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": [
-    "Hugging Face blog"
-   ]
-  },
-  {
-   "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Anthropic prepares Google Drive file browser for Claude (2 minute read)",
-   "snippet": "Anthropic is developing a Google Drive integration that will let users browse and manage their files directly in Claude. The interface will display Google Docs, Sheets, and Slides and allow users to s",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "OpenAI may be in cost control mode (2 minute read)",
-   "snippet": "OpenAI's Astra 6.2 and Sol 6.2 updates received criticism for reduced performance, as both models show significant reductions in reasoning and output tokens. This suggests a shift towards cost savings",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://andrewtrask.substack.com/p/measuring-rsi",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Measuring RSI (12 minute read)",
-   "snippet": "Neither compute allocation nor human intervention measures whether an AI training algorithm improved. Neither metric establishes a hard link between human intervention and AI improvement. Also, they a",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Your Model Is a Dependency (16 minute read)",
-   "snippet": "The large language model (LLM) you choose to use is a dependency. Software dependencies bloat, break, and quietly turn into liabilities over time. LLMs are the strangest dependencies adopted in softwa",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers/",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "From Model Compression to Looped Transformers (22 minute read)",
-   "snippet": "Model layers are not all equally sensitive to compression. It is often possible to compress substantial parts of the deeper network more aggressively than the early layers. The compressability with li",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://danni763618.typeform.com/to/H1tYViME",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Become a founding member of TLDR's community (2 minute form)",
-   "snippet": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs (10 minute read)",
-   "snippet": "Nebius' LayerStream training engine keeps optimizer state and saved activations in host memory and streams each layer's working state through the GPU only when that layer runs. On 16 H200 GPUs, it fin",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key",
-   "source": "TLDR AI",
-   "weight": 1.5,
-   "title": "Plato's Key (8 minute read)",
-   "snippet": "The Platonic Representation Hypothesis posits that neural networks converge toward a shared representation of reality. Separately trained models can learn geometrically similar representations, but si",
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "also_in": []
-  },
   {
    "url": "https://www.philschmid.de/mcp-2027",
    "source": "TLDR AI",
@@ -186,6 +85,15 @@
    "also_in": []
   },
   {
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+   "source": "GitHub: ollama/ollama",
+   "weight": 1.0,
+   "title": "ollama/ollama v0.40.19",
+   "snippet": "## What's Changed * inkling2: faster short histories, draft proposals and conv snapshots by @dhiltgen in https://github.com/ollama/ollama/pull/19881 * mlxrunner: compact Engram history buffers by @pde",
+   "published_at": "2026-11-26T17:52:02+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://www.saastr.com/20vc-x-saastr-anthropics-1-5-trillion-ipo-jensen-huangs-return-and-mailchimp-sells-for-under-a-third-of-what-intuit-paid/",
    "source": "SaaStr (Jason Lemkin)",
    "weight": 0.9,
@@ -204,21 +112,21 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/blogposting/33584/the-risk-behind-the-supplier---concentration-risk",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "The Risk Behind the Supplier - Concentration Risk",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-26T15:36:52+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
    "source": "Simon Willison",
    "weight": 1.5,
    "title": "Quoting Jack Despain Zhou",
    "snippet": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email i",
    "published_at": "2026-11-26T15:09:31+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://thezvi.substack.com/p/ai-196-the-return",
+   "source": "Don't Worry About the Vase (Zvi)",
+   "weight": 1.2,
+   "title": "AI #196: The Return",
+   "snippet": "It is traditional on Thanksgiving for my weekly update to give thanks.",
+   "published_at": "2026-11-26T15:01:21+00:00",
    "also_in": []
   },
   {
@@ -231,48 +139,138 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat",
-   "source": "Finextra headlines",
+   "url": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
+   "source": "SAP News Center",
    "weight": 1.0,
-   "title": "BofE says firms need to invest to keep pace with AI threat",
-   "snippet": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontie",
-   "published_at": "2026-11-26T14:31:00+00:00",
+   "title": "SAP and planqc Bring Quantum Computing into Business Processes",
+   "snippet": "MUNICH — With planqc, SAP can develop directly on real quantum hardware and shorten the path to real-world business applications.",
+   "published_at": "2026-11-26T12:30:00+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers",
-   "source": "Finextra headlines",
+   "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+   "source": "Sifted",
    "weight": 1.0,
-   "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
-   "snippet": "The founders of cryptocurrency trading company NovaTechFx have been ordered by a US court to pay $1.37 billion for defrauding hundreds of thousands of investors worldwide through a crypto Ponzi scheme",
-   "published_at": "2026-11-26T13:59:00+00:00",
+   "title": "Introducing the Skinner-Shah Award for Journalism",
+   "snippet": "",
+   "published_at": "2026-11-26T12:00:10+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/pressarticle/111799/boerse-stuttgart-digital-opens-second-hq-in-frankfurt-am-main",
-   "source": "Finextra headlines",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "source": "Sifted",
    "weight": 1.0,
-   "title": "Boerse Stuttgart Digital opens second HQ in Frankfurt am Main",
-   "snippet": "Boerse Stuttgart Digital has opened its second headquarters in Frankfurt am Main.",
-   "published_at": "2026-11-26T13:26:00+00:00",
+   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "snippet": "",
+   "published_at": "2026-11-26T10:48:32+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain",
-   "source": "Finextra headlines",
+   "url": "https://www.langchain.com/blog/the-agent-lake",
+   "source": "LangChain blog",
    "weight": 1.0,
-   "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
-   "snippet": "Turrón by Plazo, the card-based buy now, pay later (BNPL) solution developed by Barcelona-founded fintech ID Finance as part of its financial app Plazo , has signed a strategic partnership with Wonder",
-   "published_at": "2026-11-26T13:20:00+00:00",
+   "title": "The Agent Lake",
+   "snippet": "An agent lake holds every trace your agents produce. See how LangSmith finds high-signal traces at scale and turns them into fixes and fine-tuned models.",
+   "published_at": "2026-11-26T10:21:47+00:00",
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/pressarticle/111797/inverite-insights-launches-portfolio-intelligence-tool",
-   "source": "Finextra headlines",
+   "url": "https://github.com/cline/cline/releases/tag/v4.1.28",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline v4.1.28",
+   "snippet": "### Changed - Refreshed the model catalog. The OpenAI provider no longer lists ids the upstream catalog marks deprecated, including `gpt-4o`, `gpt-4.1`, `gpt-5`, `gpt-5-mini`, `gpt-5.1`, `gpt-5.3-code",
+   "published_at": "2026-11-26T09:57:49+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.51",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline Desktop v0.0.51",
+   "snippet": "- Refreshed the model catalog. The OpenAI provider no longer lists ids the upstream catalog marks deprecated, including `gpt-4o`, `gpt-4.1`, `gpt-5`, `gpt-5-mini`, `gpt-5.1`, `gpt-5.3-codex`, `o3` and",
+   "published_at": "2026-11-26T09:54:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/estonia/estonia-adopts-first-vida-vat-reforms-for-2027-and-2028/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "Estonia adopts first ViDA VAT reforms for 2027 and 2028",
+   "snippet": "",
+   "published_at": "2026-11-26T09:16:55+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.1.0",
+   "source": "GitHub: ggml-org/llama.cpp",
    "weight": 1.0,
-   "title": "Inverite Insights launches portfolio intelligence tool",
-   "snippet": "Inverite Insights Inc. (\"Inverite\" or the \"Company\") (CSE: INVR) (OTC: INVRF) (FSE: 2V0), a Canadian risk infrastructure company that transforms permissioned financial data into trusted financial inte",
-   "published_at": "2026-11-26T13:17:00+00:00",
+   "title": "ggml-org/llama.cpp v1.1.0",
+   "snippet": "## Overview llama.cpp v1.1.0 adds the Inkling 2 family (base, Mini and DSpark), Domyn Edge 4B, Zaya1 8B, RAON-1-mini and Hy4 flash, splits DFlash speculative decoding into separate draft methods, and ",
+   "published_at": "2026-11-26T09:16:47+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.76",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline CLI v3.0.76",
+   "snippet": "- The npm package now ships one `THIRD_PARTY_NOTICES.txt` at its root that covers every platform binary - Refreshed the bundled model catalog. The OpenAI picker no longer lists ids the upstream catalo",
+   "published_at": "2026-11-26T08:56:12+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.2.2",
+   "source": "GitHub: cline/cline",
+   "weight": 1.2,
+   "title": "cline/cline SDK v0.2.2",
+   "snippet": "- Internal telemetry cleanup. Some telemetry helper exports were removed from `@cline/llms`, `@cline/shared` and `@cline/core`, and `@cline/llms` has fewer dependencies - `writeGlobalSettings`, `setTe",
+   "published_at": "2026-11-26T08:40:10+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.vatcalc.com/eu/eu-vida-2027-marketplaces-face-expanded-deemed-supplier-vat-rules/",
+   "source": "VATCalc (e-invoicing)",
+   "weight": 1.3,
+   "title": "EU ViDA 2027: Marketplaces face expanded deemed supplier VAT rules",
+   "snippet": "",
+   "published_at": "2026-11-26T07:02:07+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+   "snippet": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite",
+   "published_at": "2026-11-26T06:08:25+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "snippet": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Mo",
+   "published_at": "2026-11-26T05:08:46+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "snippet": "",
+   "published_at": "2026-11-26T05:05:36+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+   "source": "Sifted",
+   "weight": 1.0,
+   "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+   "snippet": "",
+   "published_at": "2026-11-26T05:00:51+00:00",
    "also_in": []
   }
  ]

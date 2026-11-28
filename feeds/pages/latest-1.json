@@ -1,15 +1,33 @@
 {
  "set": "latest",
  "page": 1,
- "pages": 9,
+ "pages": 7,
  "items": [
   {
-   "url": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Intermex sues Western Union over merger agreement termination",
-   "snippet": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
-   "published_at": "2026-11-27T18:10:00+00:00",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-charts 0.4a0",
+   "snippet": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude O",
+   "published_at": "2026-11-27T23:57:17+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+   "source": "Latent Space",
+   "weight": 1.4,
+   "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+   "snippet": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make th",
+   "published_at": "2026-11-27T22:19:18+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.20",
+   "source": "GitHub: BerriAI/litellm",
+   "weight": 1.1,
+   "title": "BerriAI/litellm 1.108.20 (LTS)",
+   "snippet": "> [!TIP] > The `lts` image tag always points to the latest LTS release. Pull `ghcr.io/berriai/litellm:lts` to stay on the newest LTS patch ## Verify this release ```bash cosign verify \\ --certificate-",
+   "published_at": "2026-11-27T21:37:18+00:00",
    "also_in": []
   },
   {
@@ -31,39 +49,12 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/blogposting/33592/the-instructions-nobody-gave",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "The Instructions Nobody Gave",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-27T14:48:58+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Sweden to join Eurosystem's T2 RTGS system",
-   "snippet": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
-   "published_at": "2026-11-27T14:29:00+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://therecord.media/japan-education-ministry-cyberattack",
    "source": "The Record",
    "weight": 0.9,
    "title": "Japan’s education ministry discloses breach of government procurement system",
    "snippet": "Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.",
    "published_at": "2026-11-27T14:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Lloyds app goes down",
-   "snippet": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
-   "published_at": "2026-11-27T13:43:00+00:00",
    "also_in": []
   },
   {
@@ -76,6 +67,15 @@
    "also_in": []
   },
   {
+   "url": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
+   "source": "Don't Worry About the Vase (Zvi)",
+   "weight": 1.2,
+   "title": "Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb",
+   "snippet": "Astra 6.2 has very high intelligence.",
+   "published_at": "2026-11-27T13:36:29+00:00",
+   "also_in": []
+  },
+  {
    "url": "https://therecord.media/sap-germany-cyberattack-github",
    "source": "The Record",
    "weight": 0.9,
@@ -85,48 +85,12 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/pressarticle/111802/deutsche-brse-cleared-to-complete-allfunds-acquistion",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Deutsche Börse cleared to complete Allfunds acquistion",
-   "snippet": "Deutsche Börse Group today received unconditional merger control clearance for its planned acquisition of Allfunds Group from the European Commission following its Phase I review.",
-   "published_at": "2026-11-27T13:11:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "SAP may cut 10,000 jobs to make room for AI",
-   "snippet": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
-   "published_at": "2026-11-27T12:37:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
-   "snippet": "Binance recovered its withdrawal systems on Thursday after losing $6.3 billion in a crypto heist last month.",
-   "published_at": "2026-11-27T12:08:00+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://www.vatcalc.com/bulgaria/bulgaria-to-increase-vat-registration-threshold-2023-eu-approval/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
    "title": "Bulgaria 2027 VAT registration threshold €60,000",
    "snippet": "",
    "published_at": "2026-11-27T12:01:48+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111801/bbva-modernises-its-banking-platform-with-finastra-universal-banking",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "BBVA modernises its banking platform with Finastra Universal Banking",
-   "snippet": "The project will cover 13 international offices of BBVA Corporate & Investment Banking (CIB) and is part of the area's investment in technology to support the growth of its businesses, particularly in",
-   "published_at": "2026-11-27T11:21:00+00:00",
    "also_in": []
   },
   {
@@ -157,30 +121,12 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
-   "snippet": "Truelayer, with Lloyds Bank, yesterday completed an agentic Pay by Bank transaction at Papa John’s in the UK.",
-   "published_at": "2026-11-27T10:28:00+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai/",
    "source": "SAP News Center",
    "weight": 1.0,
    "title": "Building Your First Agentic Use Case: New Whitepaper Offers a Road Map for Enterprise AI",
    "snippet": "Enterprise AI success depends on trusted data, business context, human accountability, and a disciplined approach to autonomy.",
    "published_at": "2026-11-27T10:15:00+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/pressarticle/111800/paysafe-partners-with-the5ers-to-expand-presence-in-prop-trading-space",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Paysafe partners with The5ers to expand presence in prop trading space",
-   "snippet": "Paysafe, a global payments platform built for the experience economy, today announced its partnership with The5ers, a leading funded trading company serving traders worldwide. The5ers has connected to",
-   "published_at": "2026-11-27T10:08:00+00:00",
    "also_in": []
   },
   {
@@ -193,39 +139,12 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/blogposting/33588/are-ai-assistants-a-threat-or-an-opportunity-for-banks",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Are AI assistants a threat or an opportunity for banks?",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-27T10:02:39+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33587/the-economics-of-digitalising-indias-credit-cooperatives",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "The Economics of Digitalising India's Credit Cooperatives",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-27T07:24:24+00:00",
-   "also_in": []
-  },
-  {
    "url": "https://www.vatcalc.com/spain/spain-annual-vat-returns-for-small-businesses-january-2027/",
    "source": "VATCalc (e-invoicing)",
    "weight": 1.3,
    "title": "Spain annual VAT returns for small businesses January 2027",
    "snippet": "",
    "published_at": "2026-11-27T07:00:02+00:00",
-   "also_in": []
-  },
-  {
-   "url": "https://www.finextra.com/blogposting/33586/three-shifts-that-will-define-ai-success-in-2027-lessons-from-techuk-and-brainstation",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "Three shifts that will define AI success in 2027: lessons from techUK and Brainstation",
-   "snippet": "Author: A finextra community member",
-   "published_at": "2026-11-27T05:41:16+00:00",
    "also_in": []
   },
   {
@@ -247,12 +166,12 @@
    "also_in": []
   },
   {
-   "url": "https://swyx.io/a-design-audit-of-an-ai-built-github-clone",
-   "source": "swyx.io",
-   "weight": 1.0,
-   "title": "A design audit of an AI-built GitHub clone",
-   "snippet": "slug: design-audit-ai-built-github-clone",
-   "published_at": "2026-11-27T02:32:28+00:00",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "source": "Simon Willison",
+   "weight": 1.5,
+   "title": "datasette-mcp 0.4",
+   "snippet": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+   "published_at": "2026-11-27T00:26:17+00:00",
    "also_in": []
   },
   {
@@ -265,12 +184,95 @@
    "also_in": []
   },
   {
-   "url": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters",
-   "source": "Finextra headlines",
-   "weight": 1.0,
-   "title": "MoonPay and Highnote file for national bank charters",
-   "snippet": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
-   "published_at": "2026-11-27T00:01:00+00:00",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "source": "Hugging Face blog",
+   "weight": 1.3,
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "snippet": "",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (3 minute read)",
+   "snippet": "The llama.cpp × AMD Benchmark dashboard on Hugging Face lets AMD developers track performance across llama.cpp builds, models, and quantizations on Ryzen and Radeon hardware.",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": [
+    "Hugging Face blog"
+   ]
+  },
+  {
+   "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Anthropic prepares Google Drive file browser for Claude (2 minute read)",
+   "snippet": "Anthropic is developing a Google Drive integration that will let users browse and manage their files directly in Claude. The interface will display Google Docs, Sheets, and Slides and allow users to s",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "OpenAI may be in cost control mode (2 minute read)",
+   "snippet": "OpenAI's Astra 6.2 and Sol 6.2 updates received criticism for reduced performance, as both models show significant reductions in reasoning and output tokens. This suggests a shift towards cost savings",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://andrewtrask.substack.com/p/measuring-rsi",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Measuring RSI (12 minute read)",
+   "snippet": "Neither compute allocation nor human intervention measures whether an AI training algorithm improved. Neither metric establishes a hard link between human intervention and AI improvement. Also, they a",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Your Model Is a Dependency (16 minute read)",
+   "snippet": "The large language model (LLM) you choose to use is a dependency. Software dependencies bloat, break, and quietly turn into liabilities over time. LLMs are the strangest dependencies adopted in softwa",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers/",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "From Model Compression to Looped Transformers (22 minute read)",
+   "snippet": "Model layers are not all equally sensitive to compression. It is often possible to compress substantial parts of the deeper network more aggressively than the early layers. The compressability with li",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://danni763618.typeform.com/to/H1tYViME",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Become a founding member of TLDR's community (2 minute form)",
+   "snippet": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs (10 minute read)",
+   "snippet": "Nebius' LayerStream training engine keeps optimizer state and saved activations in host memory and streams each layer's working state through the GPU only when that layer runs. On 16 H200 GPUs, it fin",
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "also_in": []
+  },
+  {
+   "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key",
+   "source": "TLDR AI",
+   "weight": 1.5,
+   "title": "Plato's Key (8 minute read)",
+   "snippet": "The Platonic Representation Hypothesis posits that neural networks converge toward a shared representation of reality. Separately trained models can learn geometrically similar representations, but si",
+   "published_at": "2026-11-27T00:00:00+00:00",
    "also_in": []
   }
  ]
